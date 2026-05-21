@@ -14,7 +14,7 @@ The pipeline is broken into four phases:
 - Phase 2 — Apache Kafka receives and queues all transactions
 - Phase 3 — PySpark and Great Expectations validates and routes records
 - Phase 4 — Medallion Lakehouse stores Bronze, Silver and Gold layers
-
+![Architecture Diagram](images/architecture.png)
 ---
 
 ## Tech Stack
@@ -105,3 +105,4 @@ airflow webserver --port 8080
 ## Author
 
 Zainab Olubuade — Data Engineering Portfolio Project
+![Dashboard](images/dashboard.png)
