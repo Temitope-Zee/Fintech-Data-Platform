@@ -35,8 +35,7 @@ The pipeline is broken into four phases:
 | Bronze | Raw validated transactions | 720 |
 | Silver | Deduplicated records | 720 |
 | Gold | Aggregated merchant metrics | 5 rows |
-![Dashboard](images/dashboard.png)
----
+![Architecture Diagram](images/architecture.png)---
 
 ## Project Structure
 
