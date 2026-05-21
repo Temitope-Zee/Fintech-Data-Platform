@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d79896b3-d479-481d-8758-f2b0c5c59629",
+    "user_id": "dcb68cdb-5460-489c-868d-33f8eeb79fd9",
+    "amount": 5654.39,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Alexanderside",
+    "timestamp": "2026-05-21T09:16:18.174245"
+  },
+  {
+    "transaction_id": "cc41456a-8767-48dd-9ed0-f352f591b4d0",
+    "user_id": "f2ee86b0-0cb8-4ceb-b623-4a389e094150",
+    "amount": 423.93,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Bradley",
+    "timestamp": "2026-05-21T09:16:18.677243"
+  },
+  {
+    "transaction_id": "bf9b960f-6404-41ea-8590-532cfdcd3244",
+    "user_id": "410fca30-7265-42b7-b08d-e3fc9cd1f322",
+    "amount": 2228.98,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Nicholas",
+    "timestamp": "2026-05-21T09:16:19.680645"
+  },
+  {
+    "transaction_id": "ff693829-5b00-4955-b380-d71fa1f16b48",
+    "user_id": "2384a3ac-3bf5-4d95-ad28-281175d08495",
+    "amount": 8926.76,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Kimberlyfort",
+    "timestamp": "2026-05-21T09:16:20.182096"
+  },
+  {
+    "transaction_id": "abf1d96e-287b-4ba0-8bee-5f8cd8383590",
+    "user_id": "490e7c64-b034-494b-8f13-3b0f0a6f829c",
+    "amount": 6060.04,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lowebury",
+    "timestamp": "2026-05-21T09:16:20.685459"
+  },
+  {
+    "transaction_id": "87385de8-c5a7-4a4b-beb8-280b5c8066aa",
+    "user_id": "498bdc1f-2c40-4a61-9207-a997d17a6fa1",
+    "amount": 2121.41,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Shannon",
+    "timestamp": "2026-05-21T09:16:21.186966"
+  },
+  {
+    "transaction_id": "f58b3ec9-2f19-4524-adf5-d98c19855323",
+    "user_id": "b12e87cc-a954-4071-9a15-87dd1b2d767e",
+    "amount": 9372.14,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Rachelview",
+    "timestamp": "2026-05-21T09:16:21.689107"
+  },
+  {
+    "transaction_id": "7e9e118e-1157-4469-8aa5-6d6626f78a87",
+    "user_id": "3a57fc58-20a2-4d1f-bfd1-d710e04c0ddd",
+    "amount": 9170.88,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nicholasfurt",
+    "timestamp": "2026-05-21T09:16:22.190660"
+  },
+  {
+    "transaction_id": "48d71258-30ab-45fc-a059-2c5eb9ed9f7b",
+    "user_id": "e4ad7dc2-54bf-43ae-bbab-473bf8f81cd7",
+    "amount": 2633.76,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Georgehaven",
+    "timestamp": "2026-05-21T09:16:23.195420"
+  },
+  {
+    "transaction_id": "431c53e0-e03e-4e41-9970-1c64247b48fa",
+    "user_id": "7e26ec75-61fe-4967-bd55-81e6e3ed63c7",
+    "amount": 2640.16,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Rachel",
+    "timestamp": "2026-05-21T09:16:23.697286"
+  }
+]

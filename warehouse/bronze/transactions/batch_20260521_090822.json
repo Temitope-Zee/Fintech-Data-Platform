@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "015df008-9a19-41bd-91b3-3ce1441389e6",
+    "user_id": "ce9d4286-1603-4a5b-a4ee-63d191690e6b",
+    "amount": 1934.66,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Catherine",
+    "timestamp": "2026-05-21T09:08:16.860877"
+  },
+  {
+    "transaction_id": "6148d2e5-0632-4e1e-805a-ec98cb12e45d",
+    "user_id": "07e104e7-e56e-41c0-9f5c-d6136e1be96a",
+    "amount": 704.36,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Fisherside",
+    "timestamp": "2026-05-21T09:08:17.362485"
+  },
+  {
+    "transaction_id": "0da56473-1c98-4c6c-98df-bef559553e9c",
+    "user_id": "3f160855-fd70-4775-ba2f-c48a78f3672d",
+    "amount": 1633.23,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Bowmanchester",
+    "timestamp": "2026-05-21T09:08:17.863428"
+  },
+  {
+    "transaction_id": "c0a032b9-10a6-4582-8133-35ecd8b17d92",
+    "user_id": "e10b3f22-670e-4fe9-a8cc-dc38c02ce037",
+    "amount": 4760.33,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Morgantown",
+    "timestamp": "2026-05-21T09:08:18.865803"
+  },
+  {
+    "transaction_id": "239cf926-2502-4153-9b04-63daf0feb7f3",
+    "user_id": "398578a8-09b3-43e2-96b7-903359fe9abb",
+    "amount": 5910.41,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Ryan",
+    "timestamp": "2026-05-21T09:08:19.867855"
+  },
+  {
+    "transaction_id": "b75546c1-2e8a-41a2-bc4d-79dca819d621",
+    "user_id": "00b6b0ab-ba16-43ca-b082-1d6879a8fd7d",
+    "amount": 767.8,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Collinsmouth",
+    "timestamp": "2026-05-21T09:08:20.369601"
+  },
+  {
+    "transaction_id": "52be68fe-073e-4348-b73c-f786794b8362",
+    "user_id": "1d50f473-a1ac-47d5-86e4-3eb081a38df8",
+    "amount": 5778.94,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Omarshire",
+    "timestamp": "2026-05-21T09:08:21.373068"
+  },
+  {
+    "transaction_id": "e0fa6eed-fc50-4a1d-a085-ae6e704a4fea",
+    "user_id": "ca258f51-dcee-4715-a960-a781eced6a2f",
+    "amount": 9154.76,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Jeromechester",
+    "timestamp": "2026-05-21T09:08:21.875771"
+  },
+  {
+    "transaction_id": "deb79048-fbaf-4dd0-8a43-4163d6dc88b5",
+    "user_id": "b8151499-0130-42ea-b385-fcfea7b6add9",
+    "amount": 2470.48,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Saramouth",
+    "timestamp": "2026-05-21T09:08:22.378283"
+  },
+  {
+    "transaction_id": "61f43b3b-cc8c-4b53-9d3b-e4f94e9eb6c9",
+    "user_id": "7b5cf509-b93b-4936-91d0-6d27b45a92b3",
+    "amount": 6267.73,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Josephport",
+    "timestamp": "2026-05-21T09:08:22.879824"
+  }
+]

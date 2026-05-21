@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cc6a62b9-aff5-4d92-a1e7-ae982b5f8042",
+    "user_id": "c0ae7487-e569-4156-9020-1a2ea15ed7dd",
+    "amount": 2730.0,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Potterchester",
+    "timestamp": "2026-05-21T09:15:27.974783"
+  },
+  {
+    "transaction_id": "d719b0cf-7d83-4546-917c-1a004726180d",
+    "user_id": "7370a6e2-0aaf-4f36-b688-4af34f4c9f97",
+    "amount": 7633.73,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Amyport",
+    "timestamp": "2026-05-21T09:15:28.477443"
+  },
+  {
+    "transaction_id": "ce533450-32ef-4b63-b1fa-a9ec95eff190",
+    "user_id": "e7867e56-2862-4eba-9e83-1bdd071aa89d",
+    "amount": 1081.98,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Martinezfort",
+    "timestamp": "2026-05-21T09:15:28.979852"
+  },
+  {
+    "transaction_id": "3e654025-3796-4658-8844-23dfa757c35e",
+    "user_id": "7d36d215-ee10-47f6-9473-b84cec2441e7",
+    "amount": 6958.53,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Rodney",
+    "timestamp": "2026-05-21T09:15:29.482440"
+  },
+  {
+    "transaction_id": "1815a50b-487f-4728-a3d1-3af45b9ba28f",
+    "user_id": "d276bda8-463e-4fb4-8844-ef78b3460508",
+    "amount": 7409.4,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Kennethchester",
+    "timestamp": "2026-05-21T09:15:29.983589"
+  },
+  {
+    "transaction_id": "ab0cd26f-b50c-4317-8e23-a1f0b67bd97c",
+    "user_id": "fd6fb021-bb2a-4c22-a07c-f1e11db4be55",
+    "amount": 9997.23,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Christiemouth",
+    "timestamp": "2026-05-21T09:15:30.485066"
+  },
+  {
+    "transaction_id": "b65bbe37-bc99-46ed-81a1-1b996d9f6f77",
+    "user_id": "6fc9a1e6-e774-4971-9054-14812d2dba8d",
+    "amount": 6353.77,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Sarahview",
+    "timestamp": "2026-05-21T09:15:31.489953"
+  },
+  {
+    "transaction_id": "726bb554-bc70-48e5-9b58-b375b8e23f31",
+    "user_id": "4ad6df81-df75-44cc-8b79-a3f6380c3eb7",
+    "amount": 6015.37,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Rachelton",
+    "timestamp": "2026-05-21T09:15:31.992654"
+  },
+  {
+    "transaction_id": "288fec1a-0809-4881-b594-5e37cd53feb2",
+    "user_id": "ebe222db-e681-4bdc-9d63-9de555fcda13",
+    "amount": 9003.47,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lisamouth",
+    "timestamp": "2026-05-21T09:15:32.495933"
+  },
+  {
+    "transaction_id": "83186fc8-832b-4289-9ab0-131dbd2524f2",
+    "user_id": "7b8e599e-d215-4aea-a463-b0ffaef40cab",
+    "amount": 4809.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Taylorbury",
+    "timestamp": "2026-05-21T09:15:32.997321"
+  }
+]

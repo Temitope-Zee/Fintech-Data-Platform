@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "27b7decf-1590-4dee-8758-e101a0a46975",
+    "user_id": "257f89c6-28f0-4dac-9063-1e276d1d90e5",
+    "amount": 5975.24,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Loveview",
+    "timestamp": "2026-05-21T09:08:28.903409"
+  },
+  {
+    "transaction_id": "7a79fa94-838c-4be1-8af7-be91c7fb4515",
+    "user_id": "ef6a82f5-c2db-4b28-9ea9-5ce61a3e56da",
+    "amount": 4591.21,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Sandraton",
+    "timestamp": "2026-05-21T09:08:29.405005"
+  },
+  {
+    "transaction_id": "a96bf67c-31eb-4b83-bd5a-385e4de6194d",
+    "user_id": "409b6145-1bb0-43be-9705-15d77dee31eb",
+    "amount": 5933.94,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Scottton",
+    "timestamp": "2026-05-21T09:08:29.906719"
+  },
+  {
+    "transaction_id": "a17f088a-4e44-4416-a044-561651827895",
+    "user_id": "fd38d763-cb7a-446f-814c-60fa972ee467",
+    "amount": 8628.15,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Mannview",
+    "timestamp": "2026-05-21T09:08:30.408971"
+  },
+  {
+    "transaction_id": "04ac2c15-6a09-44c0-84da-5d03fb3d3401",
+    "user_id": "31fffe36-664e-4678-aa4b-1b648f42a0b0",
+    "amount": 2483.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Michael",
+    "timestamp": "2026-05-21T09:08:30.910779"
+  },
+  {
+    "transaction_id": "403ed2c9-a4a7-47ec-83aa-baae61eacda6",
+    "user_id": "b2146985-2258-4fba-bd83-206847f0614f",
+    "amount": 4895.9,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Davidfort",
+    "timestamp": "2026-05-21T09:08:31.412628"
+  },
+  {
+    "transaction_id": "a14c9b1c-c379-4dbd-b988-2fa618621b36",
+    "user_id": "c43d6688-9764-49b6-b1e4-3c3fc8af7dec",
+    "amount": 2768.4,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Lisaborough",
+    "timestamp": "2026-05-21T09:08:31.914934"
+  },
+  {
+    "transaction_id": "6fb18ef9-a53f-456d-a97d-b1d481c609c6",
+    "user_id": "17b81e7a-04e0-4672-a929-14160adde8c4",
+    "amount": 7155.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South John",
+    "timestamp": "2026-05-21T09:08:32.416229"
+  },
+  {
+    "transaction_id": "de89cc49-ce4f-49c7-959b-ec4986fff5c5",
+    "user_id": "282643a4-3eb4-48bd-9459-3c5d7e83293b",
+    "amount": 3727.61,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Jessicamouth",
+    "timestamp": "2026-05-21T09:08:32.917922"
+  },
+  {
+    "transaction_id": "dfa526ca-0e0a-44be-b40d-319aa15f31c6",
+    "user_id": "8626fa39-9402-492c-904d-0c5ad1cd1d64",
+    "amount": 2866.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Stacie",
+    "timestamp": "2026-05-21T09:08:33.420017"
+  }
+]

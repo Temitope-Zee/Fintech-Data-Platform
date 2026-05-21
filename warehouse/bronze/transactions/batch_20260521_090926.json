@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8168ede4-36aa-4311-a4fd-770413169a72",
+    "user_id": "9849e203-0da2-49fd-8cfe-3e271a3ecafe",
+    "amount": 8775.16,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Danielle",
+    "timestamp": "2026-05-21T09:09:22.131029"
+  },
+  {
+    "transaction_id": "bfb2eda6-d18d-447d-a444-6e842371b9bb",
+    "user_id": "a1ad3226-b666-4fff-b60e-735145aecfed",
+    "amount": 6078.28,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Barbarabury",
+    "timestamp": "2026-05-21T09:09:22.632848"
+  },
+  {
+    "transaction_id": "a6b4deec-90a3-4c68-97ef-ec16b2704dda",
+    "user_id": "8c4b8ab7-bdf2-4703-ab6a-40a99c2cc938",
+    "amount": 1174.23,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Donald",
+    "timestamp": "2026-05-21T09:09:23.135779"
+  },
+  {
+    "transaction_id": "846a69a6-85f7-4a16-900f-7cbc786681a9",
+    "user_id": "8d7a6535-6243-449c-90bf-deb3498946c4",
+    "amount": 7163.26,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Dawn",
+    "timestamp": "2026-05-21T09:09:23.640864"
+  },
+  {
+    "transaction_id": "7a7ef91e-f76f-43a1-82ff-60593c846cf0",
+    "user_id": "a71fe63d-b4d1-47b2-b4ff-3de4eadd8176",
+    "amount": 5129.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Gregory",
+    "timestamp": "2026-05-21T09:09:24.139021"
+  },
+  {
+    "transaction_id": "07fd667a-52d9-4be0-bad7-01ca055b69ba",
+    "user_id": "62d625a3-82a3-4efc-bf00-df006e193402",
+    "amount": 2692.4,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Gwendolynmouth",
+    "timestamp": "2026-05-21T09:09:24.641243"
+  },
+  {
+    "transaction_id": "148bb463-9f64-4282-8b14-87c1a221dd6c",
+    "user_id": "04d6aa1b-455b-4431-93d1-d039de051dea",
+    "amount": 127.86,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Herbert",
+    "timestamp": "2026-05-21T09:09:25.143693"
+  },
+  {
+    "transaction_id": "052aa6ae-5bd1-46a9-afcc-49e06a4cd677",
+    "user_id": "48381db5-e57b-486d-869e-78107dc3d958",
+    "amount": 7363.78,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Moorebury",
+    "timestamp": "2026-05-21T09:09:25.646633"
+  },
+  {
+    "transaction_id": "bdd5998c-6afa-46be-a597-0174373ccf4d",
+    "user_id": "dc0cbe3b-198e-4e63-a453-40552e4d5d1d",
+    "amount": 464.49,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Melanie",
+    "timestamp": "2026-05-21T09:09:26.148322"
+  },
+  {
+    "transaction_id": "40fe6da3-5421-4da7-aae9-ea61b625954f",
+    "user_id": "e2be6203-8cbd-4b16-832e-9d262ce61ff9",
+    "amount": 6229.31,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Amandafort",
+    "timestamp": "2026-05-21T09:09:26.651500"
+  }
+]

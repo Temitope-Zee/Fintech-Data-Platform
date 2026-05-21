@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b0622685-0a54-4409-b628-9cbb244de766",
+    "user_id": "1b9156d3-c5ac-476d-849b-39b6c5ebf92c",
+    "amount": 361.6,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Sharonhaven",
+    "timestamp": "2026-05-21T09:08:51.995772"
+  },
+  {
+    "transaction_id": "7d0744a5-3a81-4f30-a840-67789f1f96c2",
+    "user_id": "00afd502-3755-4533-bda6-d40a3d71b95b",
+    "amount": 1038.78,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Aprilberg",
+    "timestamp": "2026-05-21T09:08:52.498266"
+  },
+  {
+    "transaction_id": "9c0d22f1-0080-4911-aea0-bd1990fe2246",
+    "user_id": "9abb5ed2-c071-43f3-aa64-5f5500b89569",
+    "amount": 2431.48,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mackenziechester",
+    "timestamp": "2026-05-21T09:08:52.999846"
+  },
+  {
+    "transaction_id": "338a826c-386c-4998-8734-21973c4adeb4",
+    "user_id": "6ecb2e36-779f-44d1-9c6a-cfb81d4d06e4",
+    "amount": 3925.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Feliciachester",
+    "timestamp": "2026-05-21T09:08:53.501189"
+  },
+  {
+    "transaction_id": "c34e435a-1ba4-4556-a6fb-a7a9587961ee",
+    "user_id": "391e76a8-4ca4-4abf-a605-eef64e61b7d1",
+    "amount": 5939.48,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Brian",
+    "timestamp": "2026-05-21T09:08:54.002796"
+  },
+  {
+    "transaction_id": "bb462ce4-b8e2-4215-9585-0b32ee1c7f82",
+    "user_id": "63f8a742-9fe1-4769-b12d-0e707bdbc964",
+    "amount": 3264.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Thomasfort",
+    "timestamp": "2026-05-21T09:08:54.500187"
+  },
+  {
+    "transaction_id": "1318696e-65bf-4720-b072-6712db544974",
+    "user_id": "8d01c4bf-465c-4f97-b1ca-d5609a0f0438",
+    "amount": 4442.7,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Fredmouth",
+    "timestamp": "2026-05-21T09:08:55.001839"
+  },
+  {
+    "transaction_id": "cd1f86b1-5866-4544-b29a-1b56726d7a8a",
+    "user_id": "1ed2da0f-ae20-40b8-85f9-43d81ab6e83f",
+    "amount": 1805.27,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Berrymouth",
+    "timestamp": "2026-05-21T09:08:55.504970"
+  },
+  {
+    "transaction_id": "f0d5fd5a-93fd-4a17-a461-e6d9180fb4a2",
+    "user_id": "61a7c1f2-4225-43bc-83a2-916fd2ad829b",
+    "amount": 5763.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lindseyhaven",
+    "timestamp": "2026-05-21T09:08:56.007963"
+  },
+  {
+    "transaction_id": "d85e98ba-c23f-4257-bc5e-2924b2b3df14",
+    "user_id": "d4353997-2791-4c76-90ea-f7d72fb67bc1",
+    "amount": 7984.35,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Katrina",
+    "timestamp": "2026-05-21T09:08:57.015511"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0180e26f-6b12-4242-af95-6871b67ebff6",
+    "user_id": "3ab11fb5-d3f5-4521-aeef-31125a7fd9f1",
+    "amount": 7516.23,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Jason",
+    "timestamp": "2026-05-21T09:09:16.105197"
+  },
+  {
+    "transaction_id": "64b98c80-4948-4a68-b414-22adc0433e83",
+    "user_id": "119e6c0d-fc8e-4006-920f-aca74970a5cb",
+    "amount": 7230.36,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Haleyhaven",
+    "timestamp": "2026-05-21T09:09:16.608560"
+  },
+  {
+    "transaction_id": "877a3148-0165-46f6-b07c-65801b05ac23",
+    "user_id": "53120367-f082-443d-9927-8e3cc1dd3f16",
+    "amount": 5299.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jonesfurt",
+    "timestamp": "2026-05-21T09:09:17.111543"
+  },
+  {
+    "transaction_id": "49f71de9-b426-411a-8c67-7866e9083f4f",
+    "user_id": "27967789-c7ee-4401-8da7-d02e3d6fcf43",
+    "amount": 1638.59,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Murphyfort",
+    "timestamp": "2026-05-21T09:09:17.613135"
+  },
+  {
+    "transaction_id": "90f7ab96-b1af-4c47-961e-28bec77a4d05",
+    "user_id": "943936e5-3792-494f-8512-e84e7f5b2692",
+    "amount": 8356.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jacobstad",
+    "timestamp": "2026-05-21T09:09:18.114685"
+  },
+  {
+    "transaction_id": "b44b3924-5ac3-4f60-9603-9aefacb38723",
+    "user_id": "22cc2e7b-43b4-4093-8157-fcf49d45099e",
+    "amount": 7824.07,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Kellyberg",
+    "timestamp": "2026-05-21T09:09:18.617241"
+  },
+  {
+    "transaction_id": "c1ede769-8a95-4c48-86e2-10e7336f01e2",
+    "user_id": "4eca7454-93e7-4a01-87c2-4ae32d4e41b5",
+    "amount": 8324.02,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Allenview",
+    "timestamp": "2026-05-21T09:09:19.118625"
+  },
+  {
+    "transaction_id": "b1e402b4-1b94-495c-9471-90aee45b46eb",
+    "user_id": "696d6eab-2f93-4ee0-92bf-fe142b0d1407",
+    "amount": 7950.3,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Robertfort",
+    "timestamp": "2026-05-21T09:09:19.620977"
+  },
+  {
+    "transaction_id": "bebdbc5e-dc70-4d08-a3fc-3bfb96cd6afb",
+    "user_id": "850ef723-56ed-478d-b3b3-d63855f25865",
+    "amount": 8058.74,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Pamelachester",
+    "timestamp": "2026-05-21T09:09:20.122774"
+  },
+  {
+    "transaction_id": "af5c6860-d60b-4f9a-8c71-485313ba344d",
+    "user_id": "ea241c2c-94f8-4bf8-9f95-c7837d993bc3",
+    "amount": 99.86,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Douglasbury",
+    "timestamp": "2026-05-21T09:09:20.624424"
+  }
+]

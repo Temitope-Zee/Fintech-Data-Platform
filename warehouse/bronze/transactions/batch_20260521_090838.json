@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "337cc808-9dac-4bb4-be03-8bc2762f271c",
+    "user_id": "c8060d9d-69f2-4904-a3ae-b027966c7e74",
+    "amount": 3268.44,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Robertside",
+    "timestamp": "2026-05-21T09:08:33.922004"
+  },
+  {
+    "transaction_id": "a1dd94dd-4d93-4984-a913-a470febd68be",
+    "user_id": "c12b22cd-ddb7-4393-a770-c7f746fa0b67",
+    "amount": 7699.54,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Jessicaview",
+    "timestamp": "2026-05-21T09:08:34.423628"
+  },
+  {
+    "transaction_id": "833ff5e4-cb48-4d15-866e-aaba3b2eab33",
+    "user_id": "7cef4e84-c46b-4afc-8b6a-24100dad12d5",
+    "amount": 7596.39,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Woodtown",
+    "timestamp": "2026-05-21T09:08:34.926619"
+  },
+  {
+    "transaction_id": "038bff0c-dc9d-473c-9e10-55ef51ce4b3e",
+    "user_id": "5011cd29-9de1-444b-86de-a9bf5ea6c4ee",
+    "amount": 2874.47,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Nathantown",
+    "timestamp": "2026-05-21T09:08:35.429173"
+  },
+  {
+    "transaction_id": "ceacaf04-6329-438c-aeb7-0da89a94a121",
+    "user_id": "64193482-998a-4097-92e3-46713ea1b467",
+    "amount": 4282.12,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Rhondaberg",
+    "timestamp": "2026-05-21T09:08:35.930656"
+  },
+  {
+    "transaction_id": "66470cef-a91c-4347-82d8-a6a48e06b2e4",
+    "user_id": "91737af9-b3d2-4000-b28c-83292d6b34f7",
+    "amount": 7963.52,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Russellside",
+    "timestamp": "2026-05-21T09:08:36.433695"
+  },
+  {
+    "transaction_id": "c92a0ad8-3480-4f2c-a4d8-f87d5a60488a",
+    "user_id": "6adcf395-acce-436c-883e-19ed61a88e89",
+    "amount": 5390.83,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Angelafort",
+    "timestamp": "2026-05-21T09:08:36.935216"
+  },
+  {
+    "transaction_id": "2a42e687-2dd8-4d81-a6da-145ab46060c7",
+    "user_id": "56c6f1a8-2975-49f7-9af8-64a8af863d93",
+    "amount": 699.7,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Stevensbury",
+    "timestamp": "2026-05-21T09:08:37.436892"
+  },
+  {
+    "transaction_id": "4ebb0b80-d725-48f3-894d-021a0bb52ea1",
+    "user_id": "1681bfcf-b45d-4f55-a01e-e15c1f9e38d7",
+    "amount": 5265.17,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Deborahberg",
+    "timestamp": "2026-05-21T09:08:37.938585"
+  },
+  {
+    "transaction_id": "0a7d9360-8329-4414-80dc-edc20543c600",
+    "user_id": "8deaa7c7-1827-48b1-9db3-4ff0cdd63ebd",
+    "amount": 2426.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Juan",
+    "timestamp": "2026-05-21T09:08:38.439987"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3cd1a9cb-c618-4290-b160-8493ab9004fe",
+    "user_id": "4ebc7d79-ada1-4778-b38f-8cce6d577b43",
+    "amount": 3345.07,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Victoria",
+    "timestamp": "2026-05-21T09:16:41.268620"
+  },
+  {
+    "transaction_id": "2e516c51-05d0-4154-af3d-3669e87c20ae",
+    "user_id": "49df3a4d-b0d2-49b3-850d-3c15b33987ed",
+    "amount": 2692.35,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Melanie",
+    "timestamp": "2026-05-21T09:16:41.771472"
+  },
+  {
+    "transaction_id": "2311c887-0f6a-4a26-9464-925bd1ffa8c3",
+    "user_id": "2617080c-a823-4342-98b3-7ff2b1aea360",
+    "amount": 4100.5,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Thomasburgh",
+    "timestamp": "2026-05-21T09:16:42.774424"
+  },
+  {
+    "transaction_id": "af6b7e8f-a588-4f26-9028-23e83966231c",
+    "user_id": "f8b62855-2ece-4e5f-a5bc-034060784878",
+    "amount": 5504.43,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Beckerstad",
+    "timestamp": "2026-05-21T09:16:43.275714"
+  },
+  {
+    "transaction_id": "0650a29a-e9fa-48d7-b12b-ec6e4b393765",
+    "user_id": "9131027e-3c55-4a24-a3fe-676a7401a10a",
+    "amount": 8329.49,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Jamesland",
+    "timestamp": "2026-05-21T09:16:43.778373"
+  },
+  {
+    "transaction_id": "e2f4f01a-0b8c-4c54-94bf-f30257a10f82",
+    "user_id": "7d3de0ba-1b8d-4d11-8f59-8b3f72c4a89b",
+    "amount": 2119.22,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Estradabury",
+    "timestamp": "2026-05-21T09:16:44.279785"
+  },
+  {
+    "transaction_id": "04f434d9-3aa6-4079-b3a5-1e70382070e7",
+    "user_id": "f0aad39b-0482-4e35-818b-e67624b51458",
+    "amount": 98.27,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Tiffany",
+    "timestamp": "2026-05-21T09:16:44.781145"
+  },
+  {
+    "transaction_id": "ec899d16-46df-4709-a7e4-fc11c9679f79",
+    "user_id": "3bb3117c-c740-4932-b071-66f9298df8ec",
+    "amount": 8997.5,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Nicholasfurt",
+    "timestamp": "2026-05-21T09:16:45.283520"
+  },
+  {
+    "transaction_id": "0db7c37e-afdc-434d-bedc-d41f6668b0cf",
+    "user_id": "f5157bc2-1a64-4769-a290-ae8ccb5888db",
+    "amount": 1934.81,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Dariuschester",
+    "timestamp": "2026-05-21T09:16:46.287601"
+  },
+  {
+    "transaction_id": "b50d0f9f-5f57-4ca8-8127-e4d77212499e",
+    "user_id": "f37d9496-e715-42e5-abfd-1c39a39a403a",
+    "amount": 4395.89,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Jasonborough",
+    "timestamp": "2026-05-21T09:16:46.789715"
+  }
+]

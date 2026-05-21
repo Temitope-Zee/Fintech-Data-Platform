@@ -1,0 +1,39 @@
+{
+  "pipeline": "Fintech Data Platform",
+  "runs": [
+    {
+      "run_id": "run_20260521_101221",
+      "timestamp": "2026-05-21T10:12:21.156292",
+      "layer": "Silver",
+      "lineage": {
+        "source": "Bronze Layer (local warehouse/bronze/transactions)",
+        "destination": "Silver Layer (local warehouse/silver/transactions_clean.json)"
+      },
+      "transformation": "Deduplication by transaction_id",
+      "metrics": {
+        "records_in": 720,
+        "records_out": 720,
+        "records_dropped": 0,
+        "pass_rate": "100.0%"
+      },
+      "status": "SUCCESS"
+    },
+    {
+      "run_id": "run_20260521_101221",
+      "timestamp": "2026-05-21T10:12:21.157320",
+      "layer": "Gold",
+      "lineage": {
+        "source": "Silver Layer (local warehouse/silver/transactions_clean.json)",
+        "destination": "Gold Layer (local warehouse/gold/merchant_metrics.json)"
+      },
+      "transformation": "Aggregation by merchant_category (total_volume, transaction_count)",
+      "metrics": {
+        "records_in": 720,
+        "records_out": 5,
+        "records_dropped": 715,
+        "pass_rate": "0.7%"
+      },
+      "status": "SUCCESS"
+    }
+  ]
+}

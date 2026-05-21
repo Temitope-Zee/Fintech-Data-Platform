@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a8b5b7ec-597a-4cfe-abdc-2d1d3a5d8b0e",
+    "user_id": "d7e99aab-9189-494f-9e34-1f13f775ae0b",
+    "amount": 5410.52,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Angelashire",
+    "timestamp": "2026-05-21T09:08:01.798918"
+  },
+  {
+    "transaction_id": "df441e53-2697-47cd-8d3f-ad41a21a0a19",
+    "user_id": "1a40678f-6c15-4a23-8e95-a93a01e797ff",
+    "amount": 3768.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Cole",
+    "timestamp": "2026-05-21T09:08:02.301903"
+  },
+  {
+    "transaction_id": "e52c0995-3ed3-4495-aedb-fb9eeff456fa",
+    "user_id": "127a3391-89ed-4912-b9dd-f03011411b0f",
+    "amount": 5175.59,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Larrymouth",
+    "timestamp": "2026-05-21T09:08:03.307730"
+  },
+  {
+    "transaction_id": "3be8dbf9-4763-470f-be88-d530ad6f4813",
+    "user_id": "6906bde0-e7d2-4bab-b26d-9ed080f72041",
+    "amount": 9423.16,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Melissatown",
+    "timestamp": "2026-05-21T09:08:03.810821"
+  },
+  {
+    "transaction_id": "509bb4fd-43ff-46a3-aaed-bfbe877e93cd",
+    "user_id": "a17622d2-31f2-452a-a39b-fa3085be48a6",
+    "amount": 2750.15,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Cheryl",
+    "timestamp": "2026-05-21T09:08:05.319781"
+  },
+  {
+    "transaction_id": "85d6f28e-6114-42eb-b550-2ab559a1d538",
+    "user_id": "bcdc8042-abf4-4c83-9b74-cc4ce27d9bef",
+    "amount": 2140.76,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Johnsmouth",
+    "timestamp": "2026-05-21T09:08:05.821402"
+  },
+  {
+    "transaction_id": "dc0c158f-7601-4a15-bf08-fc96b10d7ce4",
+    "user_id": "51bfc5e8-2b96-4e46-85ca-b252a312b8e8",
+    "amount": 9442.35,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Michael",
+    "timestamp": "2026-05-21T09:08:06.322636"
+  },
+  {
+    "transaction_id": "dfd9dfee-ee2f-454d-83d5-c55b98d6e432",
+    "user_id": "46ac6083-8feb-412f-a695-0903c01380dd",
+    "amount": 6921.9,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Bradyborough",
+    "timestamp": "2026-05-21T09:08:07.326260"
+  },
+  {
+    "transaction_id": "3172130a-8ca0-4ea6-b99d-b9fcde270699",
+    "user_id": "316dd860-1783-4dc6-af62-78c7d80ee856",
+    "amount": 6657.51,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Morrischester",
+    "timestamp": "2026-05-21T09:08:07.828980"
+  },
+  {
+    "transaction_id": "eb81d3ca-6e45-483f-ba6f-db8394b0a29f",
+    "user_id": "86820b23-f7da-4b6d-b466-e3afe0bc8a71",
+    "amount": 125.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Emily",
+    "timestamp": "2026-05-21T09:08:09.334344"
+  }
+]

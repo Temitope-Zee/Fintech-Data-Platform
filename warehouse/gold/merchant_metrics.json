@@ -1,0 +1,27 @@
+[
+  {
+    "merchant_category": "groceries",
+    "total_volume": 717858.84,
+    "transaction_count": 146
+  },
+  {
+    "merchant_category": "travel",
+    "total_volume": 671189.03,
+    "transaction_count": 137
+  },
+  {
+    "merchant_category": "electronics",
+    "total_volume": 782184.06,
+    "transaction_count": 156
+  },
+  {
+    "merchant_category": "dining",
+    "total_volume": 695106.29,
+    "transaction_count": 140
+  },
+  {
+    "merchant_category": "utilities",
+    "total_volume": 685260.68,
+    "transaction_count": 141
+  }
+]

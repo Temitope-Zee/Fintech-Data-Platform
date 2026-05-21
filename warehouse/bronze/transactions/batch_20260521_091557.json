@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "047afe8e-549e-49d8-a250-5ec49fa197d2",
+    "user_id": "ef125a86-3d00-49d3-a9f8-89070852365d",
+    "amount": 8455.2,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Karen",
+    "timestamp": "2026-05-21T09:15:52.575220"
+  },
+  {
+    "transaction_id": "7bb6f312-5c1e-4e86-a508-f95d02491a23",
+    "user_id": "3b46ef5e-07af-43c7-96f7-b6742cac70ed",
+    "amount": 3338.31,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Tommyfort",
+    "timestamp": "2026-05-21T09:15:53.076490"
+  },
+  {
+    "transaction_id": "112c1de7-52fc-4cb9-aa0c-5b0900028832",
+    "user_id": "9aad12be-90c5-4be2-9bc6-c5ae3dfc9c1f",
+    "amount": 8203.24,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Travisville",
+    "timestamp": "2026-05-21T09:15:53.579371"
+  },
+  {
+    "transaction_id": "78a60187-d8eb-45a5-91d1-0222e4e29f76",
+    "user_id": "7408c62f-873f-4228-833c-8c498735f096",
+    "amount": 8593.94,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Keithshire",
+    "timestamp": "2026-05-21T09:15:54.081820"
+  },
+  {
+    "transaction_id": "b4c87c69-5838-4c45-9b9f-22225e87ec32",
+    "user_id": "d51093b5-ccee-439c-8bea-a7bd09a66bcd",
+    "amount": 6512.13,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Taylorhaven",
+    "timestamp": "2026-05-21T09:15:54.583459"
+  },
+  {
+    "transaction_id": "74ed76fe-c7b7-426a-a495-e82d3c1cac5a",
+    "user_id": "86a815f3-d257-4fe6-ad77-fc9c331f60a9",
+    "amount": 6444.81,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Amy",
+    "timestamp": "2026-05-21T09:15:55.084927"
+  },
+  {
+    "transaction_id": "b9740a48-2210-4c1d-a2d6-393cd79a30c2",
+    "user_id": "5a3302b0-eb61-4812-b4d6-0c7044f8d8a6",
+    "amount": 2106.29,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Jennifertown",
+    "timestamp": "2026-05-21T09:15:55.588050"
+  },
+  {
+    "transaction_id": "bc32c70e-fe0b-4cc0-a21b-977838414c7d",
+    "user_id": "6f2b71f3-68fb-46f5-9591-0434986808c9",
+    "amount": 8631.07,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Fosterport",
+    "timestamp": "2026-05-21T09:15:56.089655"
+  },
+  {
+    "transaction_id": "df2a6d3e-28aa-4ffc-9a0f-7376003b602a",
+    "user_id": "55c54aaf-ff0c-4c5b-bbb0-6eb2e77401f9",
+    "amount": 990.05,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Kellymouth",
+    "timestamp": "2026-05-21T09:15:57.089250"
+  },
+  {
+    "transaction_id": "7a5b032a-a4c1-487d-80b4-2db840a9127a",
+    "user_id": "6eb2b29b-7959-4176-b57f-3e2548e28c5a",
+    "amount": 9499.13,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Sharon",
+    "timestamp": "2026-05-21T09:15:57.592302"
+  }
+]

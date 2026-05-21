@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "296ca656-40e8-4caa-83f4-76010be836e9",
+    "user_id": "16603df2-2dcc-4b63-be7b-970c256d7115",
+    "amount": 1374.84,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Smithland",
+    "timestamp": "2026-05-21T09:08:09.835784"
+  },
+  {
+    "transaction_id": "e2dada18-eb53-41f1-ad25-57a55e626ac5",
+    "user_id": "0c6bff7a-4ab9-4877-b411-5dca7a1ebae7",
+    "amount": 8514.09,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Rebeccafurt",
+    "timestamp": "2026-05-21T09:08:10.337641"
+  },
+  {
+    "transaction_id": "fffc9c61-322c-46ce-99c1-84ebe43c04e9",
+    "user_id": "cb7a84c9-9116-490a-8e5b-2256cfab29df",
+    "amount": 8875.25,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Jennifer",
+    "timestamp": "2026-05-21T09:08:10.839538"
+  },
+  {
+    "transaction_id": "ab29f305-0021-4b71-a974-403a1b633c48",
+    "user_id": "410d2b34-3639-4741-a323-7409b856cc84",
+    "amount": 4424.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Novakland",
+    "timestamp": "2026-05-21T09:08:11.842736"
+  },
+  {
+    "transaction_id": "973826c6-bc23-4a71-a504-0e5fd74883c8",
+    "user_id": "6829fe55-5e21-4699-9148-c0de3efb22f2",
+    "amount": 8987.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North John",
+    "timestamp": "2026-05-21T09:08:12.344288"
+  },
+  {
+    "transaction_id": "efdbfdb8-58a7-4743-9a54-17d326e8850c",
+    "user_id": "8a16306d-efb5-4896-a952-64b4161a966f",
+    "amount": 8066.39,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Theresashire",
+    "timestamp": "2026-05-21T09:08:12.845872"
+  },
+  {
+    "transaction_id": "25e8833c-cb9b-462a-8ec3-b8f669b036d3",
+    "user_id": "667ec806-906e-46f7-b811-cd83aea15368",
+    "amount": 3691.91,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Hillville",
+    "timestamp": "2026-05-21T09:08:13.850363"
+  },
+  {
+    "transaction_id": "00552803-d1cf-49cc-912c-ed5ff8997409",
+    "user_id": "a9adcd7f-d9aa-4667-b73d-2dbbc2e43f4b",
+    "amount": 93.24,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Paultown",
+    "timestamp": "2026-05-21T09:08:14.854408"
+  },
+  {
+    "transaction_id": "cd31fad5-a0ed-4e83-82f8-c6b5dd8fd0da",
+    "user_id": "74cbbb63-7a62-4264-a85b-0db73ce380cd",
+    "amount": 3849.56,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Angelaborough",
+    "timestamp": "2026-05-21T09:08:15.355865"
+  },
+  {
+    "transaction_id": "4e8058b6-1d59-4131-8e7a-d0867d4282a8",
+    "user_id": "3b4ca94f-3141-4fa1-a320-ea2e97ef9abd",
+    "amount": 183.14,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michaelport",
+    "timestamp": "2026-05-21T09:08:16.359574"
+  }
+]

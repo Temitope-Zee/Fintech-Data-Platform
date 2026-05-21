@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6f661d0d-2673-438e-bf10-689b73378ce9",
+    "user_id": "3066698a-3e8d-49e7-81df-d48dbc7b5928",
+    "amount": 707.72,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Rachelbury",
+    "timestamp": "2026-05-21T09:09:27.153236"
+  },
+  {
+    "transaction_id": "ce090a27-0c1c-4309-adba-5388cd3a9460",
+    "user_id": "52062ca9-d376-4f11-b393-d040d10b1884",
+    "amount": 2325.82,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Buckshire",
+    "timestamp": "2026-05-21T09:09:27.654739"
+  },
+  {
+    "transaction_id": "3de5daf4-bfd4-4a6b-a2a6-b0536fb73d96",
+    "user_id": "1f52dcef-0c5b-4331-9446-08a474ef1c4d",
+    "amount": 9394.34,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Garciaside",
+    "timestamp": "2026-05-21T09:09:28.157162"
+  },
+  {
+    "transaction_id": "ddc9714d-97b4-4be1-ad68-94229fa94643",
+    "user_id": "09246a3c-ee60-471f-9ecb-8ed347710fd6",
+    "amount": 5067.1,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Catherineshire",
+    "timestamp": "2026-05-21T09:09:28.658578"
+  },
+  {
+    "transaction_id": "7a86bec3-4933-4620-9937-c22509f3df9e",
+    "user_id": "7467da84-d3c1-430e-9650-ab13511914c6",
+    "amount": 5570.26,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Davidbury",
+    "timestamp": "2026-05-21T09:09:29.161487"
+  },
+  {
+    "transaction_id": "4ae225f2-78aa-44fc-bc60-7253f2805d05",
+    "user_id": "a4536228-3382-4141-9ddf-1ca365b92e85",
+    "amount": 5753.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Christineberg",
+    "timestamp": "2026-05-21T09:09:29.664060"
+  },
+  {
+    "transaction_id": "cbe5df0d-1f44-4a14-9962-3efd3168ad03",
+    "user_id": "f0b6a2a1-f361-4d21-9530-a40e7866946b",
+    "amount": 5878.7,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Connorhaven",
+    "timestamp": "2026-05-21T09:09:30.165794"
+  },
+  {
+    "transaction_id": "4edc4fc3-782e-4901-94be-44ce0717aa30",
+    "user_id": "69283db2-4ec0-40f8-b433-4bd3544d9e2d",
+    "amount": 2279.84,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Obrienport",
+    "timestamp": "2026-05-21T09:09:30.667568"
+  },
+  {
+    "transaction_id": "a50a88a1-77a9-4448-84ad-bb67d3bed016",
+    "user_id": "903c28e8-dab5-431e-ba65-c51c183e092f",
+    "amount": 3748.44,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Mallorytown",
+    "timestamp": "2026-05-21T09:09:31.169512"
+  },
+  {
+    "transaction_id": "93d5c3ad-8475-45c0-9a67-7f5cd1cc70ec",
+    "user_id": "d9c48418-9480-4bc2-9b93-3336d4a08979",
+    "amount": 3727.36,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Tricia",
+    "timestamp": "2026-05-21T09:09:31.672124"
+  }
+]

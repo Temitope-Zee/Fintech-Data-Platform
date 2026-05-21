@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7194aeae-763b-4923-a430-faea79fe0e9a",
+    "user_id": "28831f14-b5d5-48cf-b298-3544a1496a18",
+    "amount": 2695.46,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kleinland",
+    "timestamp": "2026-05-21T09:16:29.716615"
+  },
+  {
+    "transaction_id": "ba63445c-4852-4bc9-beb9-5ee06255fd76",
+    "user_id": "7fe8381d-e1b3-4761-bbfc-7047f02cbfad",
+    "amount": 9736.29,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New William",
+    "timestamp": "2026-05-21T09:16:30.218100"
+  },
+  {
+    "transaction_id": "9e1d5fb3-8ef2-4145-981d-016c11f4f261",
+    "user_id": "3b9aaf15-51be-4cd6-8eca-40e2f25056fc",
+    "amount": 6028.17,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Evan",
+    "timestamp": "2026-05-21T09:16:30.721124"
+  },
+  {
+    "transaction_id": "6136c8d7-0fd6-496a-be23-ab9c41bcd3cb",
+    "user_id": "7abdfd89-8797-4d1b-b532-cb1923e09f34",
+    "amount": 6880.84,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North James",
+    "timestamp": "2026-05-21T09:16:31.223571"
+  },
+  {
+    "transaction_id": "ed42e475-5901-4a77-ac81-c4073b7d8b2f",
+    "user_id": "a610b9ea-b256-4119-9065-c9f400de825f",
+    "amount": 1016.96,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Benjaminborough",
+    "timestamp": "2026-05-21T09:16:31.726733"
+  },
+  {
+    "transaction_id": "d1764905-af79-40d8-820f-fdb76dd94f18",
+    "user_id": "7cad6890-5f65-4349-8a52-df3400a758cc",
+    "amount": 8601.65,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Tammyport",
+    "timestamp": "2026-05-21T09:16:32.228433"
+  },
+  {
+    "transaction_id": "b0d09be8-6a58-495d-a83c-24acf4417527",
+    "user_id": "7183a44b-14b2-4bce-9ca8-87c8451e4409",
+    "amount": 8567.93,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Edwardsport",
+    "timestamp": "2026-05-21T09:16:32.730182"
+  },
+  {
+    "transaction_id": "0fff8c4d-3fbb-44c0-b49c-f19ae102b20a",
+    "user_id": "52f2d016-a6e1-4bbf-9c7f-6ec8245a5f38",
+    "amount": 2389.01,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Nicholas",
+    "timestamp": "2026-05-21T09:16:33.735443"
+  },
+  {
+    "transaction_id": "e80e27c3-8bf6-4828-8933-85896cf8c8d2",
+    "user_id": "aa608b11-3bff-46bd-987f-fc8a3ba87df8",
+    "amount": 9316.41,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Melvinburgh",
+    "timestamp": "2026-05-21T09:16:34.238340"
+  },
+  {
+    "transaction_id": "fb5ca9c3-0a99-43ab-801e-ce0a8fd20ac3",
+    "user_id": "6fb0ac7a-fec4-4596-b37b-a393f7c0fc55",
+    "amount": 3763.14,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Carterville",
+    "timestamp": "2026-05-21T09:16:34.740860"
+  }
+]

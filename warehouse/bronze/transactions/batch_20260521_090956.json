@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0a5a5f12-b613-4bae-b784-4862baf60ff8",
+    "user_id": "cbf62a95-c3ff-4f3e-983f-619ece3e3b3b",
+    "amount": 368.73,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North James",
+    "timestamp": "2026-05-21T09:09:50.262182"
+  },
+  {
+    "transaction_id": "48aad7ff-9a0a-4f7c-a04c-104e4598124f",
+    "user_id": "e47f1819-804e-462a-a9c2-4f34cfae16b1",
+    "amount": 8850.59,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Amanda",
+    "timestamp": "2026-05-21T09:09:51.268096"
+  },
+  {
+    "transaction_id": "9cf7f1bc-9ae3-49fd-8031-d26a2273f742",
+    "user_id": "c7446322-2a3b-4201-a06f-21ad41f486d3",
+    "amount": 4559.99,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Webbmouth",
+    "timestamp": "2026-05-21T09:09:51.769994"
+  },
+  {
+    "transaction_id": "6b71c171-432c-46c5-b82c-53cceebe8583",
+    "user_id": "3fcc4013-2fa4-4c68-841d-178ac3fa6411",
+    "amount": 721.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Caitlinland",
+    "timestamp": "2026-05-21T09:09:52.271943"
+  },
+  {
+    "transaction_id": "3e65de76-f582-4fe3-a8fb-b80d9cd44262",
+    "user_id": "a4e1c32e-046c-4015-9460-947add4db0d4",
+    "amount": 813.73,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Nortonborough",
+    "timestamp": "2026-05-21T09:09:52.774621"
+  },
+  {
+    "transaction_id": "b820c6c5-3351-4486-81b3-b7b094a1b142",
+    "user_id": "821e11c3-ca93-4b0d-9e9a-83ec1013b961",
+    "amount": 3881.88,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Rebeccaview",
+    "timestamp": "2026-05-21T09:09:53.276369"
+  },
+  {
+    "transaction_id": "387086a3-75a4-4cb5-a01e-bf6e24d6b160",
+    "user_id": "35418882-85ba-405e-89aa-885ac67fbc17",
+    "amount": 9695.27,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Rebecca",
+    "timestamp": "2026-05-21T09:09:54.278118"
+  },
+  {
+    "transaction_id": "74c28eb6-1315-4ec8-8054-46f98d7c05eb",
+    "user_id": "e4e322f5-b8f8-4856-acbd-b448ff8e7bdc",
+    "amount": 3074.97,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Carterport",
+    "timestamp": "2026-05-21T09:09:54.779932"
+  },
+  {
+    "transaction_id": "8594a413-59a6-4b50-a41c-c6984fcdfb77",
+    "user_id": "833b6072-70cd-4907-a14b-7ac000180e7f",
+    "amount": 965.26,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ramosland",
+    "timestamp": "2026-05-21T09:09:55.785499"
+  },
+  {
+    "transaction_id": "50317b3b-69c5-4dad-95ec-f71720ba6319",
+    "user_id": "025f7d36-be38-47ef-afbe-7e7663aa7519",
+    "amount": 3114.12,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Amberport",
+    "timestamp": "2026-05-21T09:09:56.288543"
+  }
+]

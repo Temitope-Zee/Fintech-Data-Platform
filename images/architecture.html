@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fintech Data Platform Architecture</title>
+  <style>
+    body {
+      background: #0f1117;
+      font-family: monospace;
+      padding: 40px;
+      margin: 0;
+      color: #ffffff;
+    }
+    .arrow {
+      text-align: center;
+      color: #4a5568;
+      font-size: 20px;
+      margin: 4px 0;
+    }
+    .phase {
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 4px;
+    }
+    .inner-box {
+      border-radius: 8px;
+      padding: 14px 24px;
+      text-align: center;
+    }
+    .box-title {
+      font-weight: bold;
+      margin: 0 0 4px;
+      font-size: 13px;
+    }
+    .box-sub {
+      color: #a0aec0;
+      font-size: 11px;
+      margin: 0;
+    }
+    .phase-label {
+      font-size: 11px;
+      font-weight: bold;
+      margin: 0 0 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 style="text-align: center; font-size: 24px; color: #ffffff; margin-bottom: 4px;">
+    Fintech Data Platform
+  </h1>
+  <p style="text-align: center; color: #a0aec0; font-size: 13px; margin-bottom: 40px;">
+    End-to-End Real-Time Data Engineering Pipeline
+  </p>
+
+  <!-- Phase 1 -->
+  <div class="phase" style="background: #1a3a2a; border: 1px solid #1D9E75;">
+    <p class="phase-label" style="color: #1D9E75;">Phase 1 — Real-time Generation</p>
+    <div style="display: flex; justify-content: center;">
+      <div class="inner-box" style="background: #0f2a1a; border: 1px solid #1D9E75;">
+        <p class="box-title" style="color: #9FE1CB;">Mock Data Generator</p>
+        <p class="box-sub">Faker + Python · 2 transactions/second</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div class="arrow">↓ JSON events</div>
+
+  <!-- Phase 2 -->
+  <div class="phase" style="background: #1a1a3a; border: 1px solid #534AB7;">
+    <p class="phase-label" style="color: #534AB7;">Phase 2 — Message Broker</p>
+    <div style="display: flex; justify-content: center; gap: 16px;">
+      <div class="inner-box" style="background: #0f0f2a; border: 1px solid #534AB7;">
+        <p class="box-title" style="color: #AFA9EC;">Kafka Broker</p>
+        <p class="box-sub">raw_transactions topic</p>
+      </div>
+      <div class="inner-box" style="background: #0f0f2a; border: 1px solid #534AB7;">
+        <p class="box-title" style="color: #AFA9EC;">Zookeeper</p>
+        <p class="box-sub">Cluster coordinator</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div class="arrow">↓ Stream</div>
+
+  <!-- Phase 3 -->
+  <div class="phase" style="background: #0a1a2a; border: 1px solid #185FA5;">
+    <p class="phase-label" style="color: #185FA5;">Phase 3 — Stream Processing & Data Quality</p>
+    <div style="display: flex; justify-content: center; gap: 16px;">
+      <div class="inner-box" style="background: #051020; border: 1px solid #185FA5;">
+        <p class="box-title" style="color: #85B7EB;">PySpark Streaming</p>
+        <p class="box-sub">foreachBatch processing</p>
+      </div>
+      <div class="inner-box" style="background: #051020; border: 1px solid #185FA5;">
+        <p class="box-title" style="color: #85B7EB;">Great Expectations</p>
+        <p class="box-sub">Row-level validation</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Valid / Invalid routing -->
+  <div style="display: flex; justify-content: center; gap: 60px; margin: 4px 0;">
+    <div class="arrow" style="color: #1D9E75;">↙ valid</div>
+    <div class="arrow" style="color: #E24B4A;">invalid ↘</div>
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 16px; margin-bottom: 4px;">
+    <div class="inner-box" style="background: #0f2a1a; border: 1px solid #1D9E75;">
+      <p class="box-title" style="color: #9FE1CB;">clean_transactions</p>
+      <p class="box-sub">Kafka topic</p>
+    </div>
+    <div class="inner-box" style="background: #2a0f0f; border: 1px solid #E24B4A;">
+      <p class="box-title" style="color: #F09595;">dead_letter_queue</p>
+      <p class="box-sub">Kafka topic</p>
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div class="arrow">↓ Clean data</div>
+
+  <!-- Phase 4 -->
+  <div class="phase" style="background: #2a1a0a; border: 1px solid #BA7517;">
+    <p class="phase-label" style="color: #BA7517;">Phase 4 — Medallion Lakehouse</p>
+    <div style="display: flex; justify-content: center; gap: 16px;">
+      <div class="inner-box" style="background: #1a0f05; border: 1px solid #BA7517;">
+        <p class="box-title" style="color: #FAC775;">Bronze Layer</p>
+        <p class="box-sub">Raw validated data</p>
+        <p class="box-sub">720 records</p>
+      </div>
+      <div style="display: flex; align-items: center; color: #BA7517; font-size: 20px;">→</div>
+      <div class="inner-box" style="background: #1a1a1a; border: 1px solid #888780;">
+        <p class="box-title" style="color: #D3D1C7;">Silver Layer</p>
+        <p class="box-sub">Deduplicated</p>
+        <p class="box-sub">720 records</p>
+      </div>
+      <div style="display: flex; align-items: center; color: #BA7517; font-size: 20px;">→</div>
+      <div class="inner-box" style="background: #1a1500; border: 1px solid #EF9F27;">
+        <p class="box-title" style="color: #FAC775;">Gold Layer</p>
+        <p class="box-sub">Aggregated metrics</p>
+        <p class="box-sub">5 categories</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Orchestration and Lineage -->
+  <div style="display: flex; gap: 16px; margin-top: 4px;">
+    <div class="phase" style="background: #2a0a0a; border: 1px solid #D85A30; flex: 1;">
+      <p class="phase-label" style="color: #D85A30;">Orchestration</p>
+      <div class="inner-box" style="background: #1a0505; border: 1px solid #D85A30;">
+        <p class="box-title" style="color: #F5C4B3;">Apache Airflow</p>
+        <p class="box-sub">Schedules ETL @hourly</p>
+        <p class="box-sub">Auto-retry on failure</p>
+      </div>
+    </div>
+    <div class="phase" style="background: #1a1a1a; border: 1px solid #888780; flex: 1;">
+      <p class="phase-label" style="color: #888780;">Lineage Tracking</p>
+      <div class="inner-box" style="background: #111111; border: 1px solid #888780;">
+        <p class="box-title" style="color: #D3D1C7;">Metadata Logger</p>
+        <p class="box-sub">Records in/out per layer</p>
+        <p class="box-sub">Full audit trail</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <p style="text-align: center; color: #4a5568; font-size: 11px; margin-top: 30px;">
+    Built with: Python · Apache Kafka · PySpark · Great Expectations · Apache Airflow · Medallion Architecture
+  </p>
+
+</body>
+</html>

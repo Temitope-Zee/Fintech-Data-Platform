@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "07d86958-c2b3-4d4d-b97c-c74053ecdadc",
+    "user_id": "489a6e62-e903-4710-9c4d-a89c718212d1",
+    "amount": 2037.04,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Heather",
+    "timestamp": "2026-05-21T09:16:04.616369"
+  },
+  {
+    "transaction_id": "5a30dd78-ef99-4c0e-9373-2ac044376ece",
+    "user_id": "e9370b9b-9f91-4f00-a5b7-46e376d4314d",
+    "amount": 8989.28,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Harringtonberg",
+    "timestamp": "2026-05-21T09:16:05.118093"
+  },
+  {
+    "transaction_id": "ab7d0f2e-d80d-4585-be29-a39eb33b9066",
+    "user_id": "0f34c021-9ae8-40de-92e3-e6328036a3a0",
+    "amount": 2767.41,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Thomasshire",
+    "timestamp": "2026-05-21T09:16:05.619755"
+  },
+  {
+    "transaction_id": "8fb0ff67-106c-4418-917c-652b54c4be81",
+    "user_id": "3ff38dab-e486-4b93-8b18-5ac01f65d0d4",
+    "amount": 20.66,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Mary",
+    "timestamp": "2026-05-21T09:16:06.122508"
+  },
+  {
+    "transaction_id": "c581a9bf-3289-47f3-b780-1beaae09dad0",
+    "user_id": "b501efa3-58d0-41ed-b8f3-3bc60b820038",
+    "amount": 9602.97,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Smallberg",
+    "timestamp": "2026-05-21T09:16:06.625151"
+  },
+  {
+    "transaction_id": "71e25c5f-0a50-4b6a-abfd-649975af7b44",
+    "user_id": "3730ba66-8c99-4ecf-9d1e-e16fb0f238a6",
+    "amount": 1646.66,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Bryanport",
+    "timestamp": "2026-05-21T09:16:07.628960"
+  },
+  {
+    "transaction_id": "a4272a8d-773b-4090-902b-e87f2f1a84c3",
+    "user_id": "f146ce43-1d1f-48a8-800b-7616b61e28c4",
+    "amount": 858.93,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Courtneyshire",
+    "timestamp": "2026-05-21T09:16:08.633279"
+  },
+  {
+    "transaction_id": "d4ae6672-8141-49e9-9919-39a27f96b15b",
+    "user_id": "c08a593b-12ec-4b95-95b6-bdcc5afde67e",
+    "amount": 4998.79,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Campbellburgh",
+    "timestamp": "2026-05-21T09:16:09.639232"
+  },
+  {
+    "transaction_id": "1ffd9542-a50b-4bf2-8f6c-72e2e1518084",
+    "user_id": "1905d207-eb1d-431e-bbb3-b2d8991a31f7",
+    "amount": 7904.44,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lindaville",
+    "timestamp": "2026-05-21T09:16:10.142088"
+  },
+  {
+    "transaction_id": "14fe33ce-383e-46c3-9474-ad47eb9743bb",
+    "user_id": "ad37b87c-56ed-45f8-a0a6-8406ebdd12a3",
+    "amount": 8990.93,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Toddburgh",
+    "timestamp": "2026-05-21T09:16:10.643627"
+  }
+]

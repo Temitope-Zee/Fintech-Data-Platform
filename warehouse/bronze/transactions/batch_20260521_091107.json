@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "19968021-84f4-478c-8487-0f3655d6af89",
+    "user_id": "815ce8e9-036b-496f-9471-802e4eaed523",
+    "amount": 7837.5,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Shanemouth",
+    "timestamp": "2026-05-21T09:11:01.091550"
+  },
+  {
+    "transaction_id": "adada908-657a-40cd-9156-e4b4e4b2fc80",
+    "user_id": "d1180e00-5af1-4923-a83a-398fd7628b07",
+    "amount": 6367.13,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Michelleshire",
+    "timestamp": "2026-05-21T09:11:02.096039"
+  },
+  {
+    "transaction_id": "e19c905f-f0f1-4e44-9d99-334b64c465a5",
+    "user_id": "f6238b0e-9e50-42f2-b6f0-55b3442b7aae",
+    "amount": 2073.26,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Kaitlinview",
+    "timestamp": "2026-05-21T09:11:02.597457"
+  },
+  {
+    "transaction_id": "6b3e27fa-5490-43a9-9b0c-4ac8f80ee80b",
+    "user_id": "93f19b1b-d701-47c8-a3aa-0d5a78d35c50",
+    "amount": 1082.28,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Nobleton",
+    "timestamp": "2026-05-21T09:11:03.100096"
+  },
+  {
+    "transaction_id": "381db9c2-00d8-4dfb-9f28-5880428c27fc",
+    "user_id": "1cd2d6fc-fe64-4bb5-a702-8126f8700506",
+    "amount": 2811.57,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Barbaraburgh",
+    "timestamp": "2026-05-21T09:11:04.103647"
+  },
+  {
+    "transaction_id": "1dffb0f3-d522-4ac2-ac19-c3ac6b29faee",
+    "user_id": "933400fb-c560-40d2-be8c-3ec7a7cb9ecf",
+    "amount": 8968.41,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Pamelaville",
+    "timestamp": "2026-05-21T09:11:05.109091"
+  },
+  {
+    "transaction_id": "828e0ed0-1419-4ccf-841b-15d1f265bb5d",
+    "user_id": "0356f0e2-c004-457b-a7f5-be20169df318",
+    "amount": 8332.28,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Coreychester",
+    "timestamp": "2026-05-21T09:11:06.114284"
+  },
+  {
+    "transaction_id": "8a3f768c-7211-4379-a08d-79eb77ed14d2",
+    "user_id": "d0b86150-935a-4188-a757-8f1d5dda550a",
+    "amount": 2669.7,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Collinsburgh",
+    "timestamp": "2026-05-21T09:11:06.616045"
+  },
+  {
+    "transaction_id": "bdb775a7-3025-4b86-8cee-a5ed5e1d8cee",
+    "user_id": "738f924c-928b-4f6a-9688-8a58c7a2c86b",
+    "amount": 2203.54,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Patriciaville",
+    "timestamp": "2026-05-21T09:11:07.119230"
+  },
+  {
+    "transaction_id": "e655533a-8cc7-4701-aa65-68381f9ec164",
+    "user_id": "5b1354bb-a0d9-4465-bbf0-da64b1c482fb",
+    "amount": 2311.2,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Kurthaven",
+    "timestamp": "2026-05-21T09:11:07.622109"
+  }
+]

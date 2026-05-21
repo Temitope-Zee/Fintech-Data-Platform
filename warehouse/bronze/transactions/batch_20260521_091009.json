@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7cd95295-4453-4add-9231-1e74f046dee8",
+    "user_id": "713e830b-837d-4718-a012-a25f8413d6e4",
+    "amount": 3067.42,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Lauren",
+    "timestamp": "2026-05-21T09:10:02.816736"
+  },
+  {
+    "transaction_id": "66268761-17c7-497c-9675-a704d10f8de3",
+    "user_id": "95e85991-5c65-46b8-891b-3a5dde572565",
+    "amount": 5162.04,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Morrisonland",
+    "timestamp": "2026-05-21T09:10:03.319946"
+  },
+  {
+    "transaction_id": "d46cfb51-ec71-46eb-afd8-d849c965c27d",
+    "user_id": "8e6f1030-ab9e-494b-b2c4-4dcfab15d72c",
+    "amount": 6875.95,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Erikville",
+    "timestamp": "2026-05-21T09:10:03.821547"
+  },
+  {
+    "transaction_id": "a5a3d082-8e12-45fa-85b6-606ebeca118c",
+    "user_id": "d3aac3b9-50f4-46d9-9fb3-ef5f2acdfc7b",
+    "amount": 6832.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Kevinland",
+    "timestamp": "2026-05-21T09:10:04.323931"
+  },
+  {
+    "transaction_id": "6e8d2c06-5b54-40bb-852b-4a8666b4c048",
+    "user_id": "9d2fce5b-12fd-4a60-8eeb-0146298f5b91",
+    "amount": 2889.05,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Diazstad",
+    "timestamp": "2026-05-21T09:10:05.329034"
+  },
+  {
+    "transaction_id": "626dea33-9f0c-4cdd-b05f-472229361559",
+    "user_id": "152a7450-0733-457f-b83e-d4d78844ca48",
+    "amount": 3731.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Boydport",
+    "timestamp": "2026-05-21T09:10:05.831197"
+  },
+  {
+    "transaction_id": "74f2fc17-ab60-4808-ada7-39553b98d355",
+    "user_id": "6b457b41-f7e4-4d6f-983c-97a36d9d6f32",
+    "amount": 6025.37,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Christina",
+    "timestamp": "2026-05-21T09:10:06.334960"
+  },
+  {
+    "transaction_id": "08e5a914-7b15-4b5d-8d74-53d39bb9692b",
+    "user_id": "c34ea436-f475-4b9b-9eb8-1f9cc996fcbf",
+    "amount": 7555.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Johnshire",
+    "timestamp": "2026-05-21T09:10:07.339736"
+  },
+  {
+    "transaction_id": "ee0c6861-4ec6-4ab2-8bae-c99028e6b37b",
+    "user_id": "137490da-addc-4c88-b064-49392bc5dca6",
+    "amount": 4995.85,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Christianfurt",
+    "timestamp": "2026-05-21T09:10:08.342599"
+  },
+  {
+    "transaction_id": "4d612a59-f77d-4a8c-800c-0a7c4cc4cdce",
+    "user_id": "8d299b9b-445e-4c8c-b3a3-3be1aaca36a5",
+    "amount": 9136.89,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Stephaniechester",
+    "timestamp": "2026-05-21T09:10:09.345598"
+  }
+]

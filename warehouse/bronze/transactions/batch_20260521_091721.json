@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "501b3d3c-79aa-471c-bb28-faa5a9f1c2ef",
+    "user_id": "ea83555e-1da1-40a2-a9a9-9df393b07bd2",
+    "amount": 6261.36,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Hernandezfort",
+    "timestamp": "2026-05-21T09:17:15.923496"
+  },
+  {
+    "transaction_id": "b922981f-ca06-4eba-b14f-18ecc94c258e",
+    "user_id": "aefb7088-c040-4724-9ad8-4bea878d4292",
+    "amount": 3992.19,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Williamshire",
+    "timestamp": "2026-05-21T09:17:16.425222"
+  },
+  {
+    "transaction_id": "118ffac3-d9e3-4b59-a541-f89a6c0c9d42",
+    "user_id": "a3af28df-aa9b-4280-92f2-e6bde3be0c15",
+    "amount": 4352.82,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Kristina",
+    "timestamp": "2026-05-21T09:17:16.926939"
+  },
+  {
+    "transaction_id": "3a77e32b-a9c8-4de8-a2b8-42e44440420e",
+    "user_id": "2bd2b282-5f6a-4270-9c9c-6ca2859f9382",
+    "amount": 5460.16,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Kevinstad",
+    "timestamp": "2026-05-21T09:17:18.432722"
+  },
+  {
+    "transaction_id": "ee9eef2f-b451-40f2-b895-9868e58b3f6e",
+    "user_id": "7aa2cdc4-36ac-4162-9091-e5d430375647",
+    "amount": 6680.11,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Davidmouth",
+    "timestamp": "2026-05-21T09:17:18.934347"
+  },
+  {
+    "transaction_id": "d14d69a8-a53b-434b-ad91-06890e6a1114",
+    "user_id": "543136ab-1cbe-427d-8b22-37c9722f0f51",
+    "amount": 5648.53,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Darryl",
+    "timestamp": "2026-05-21T09:17:19.435985"
+  },
+  {
+    "transaction_id": "0d14bb0c-fc81-46f0-98c4-a009d346f0d0",
+    "user_id": "fb08213f-9091-42ed-8a0a-4c9104d1b765",
+    "amount": 161.77,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Michael",
+    "timestamp": "2026-05-21T09:17:19.937245"
+  },
+  {
+    "transaction_id": "03ad730f-0cc8-4574-9bd0-ffe9cd785ae6",
+    "user_id": "5339f879-5d6c-4ee6-a65c-dde4f70bc3f1",
+    "amount": 1096.95,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Cassandrachester",
+    "timestamp": "2026-05-21T09:17:20.438681"
+  },
+  {
+    "transaction_id": "d7a86d9c-02c9-4d5f-adc6-5115483daa1b",
+    "user_id": "f4c9a493-19bd-4ebf-8a5b-8e823bec6657",
+    "amount": 1041.53,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Michaelville",
+    "timestamp": "2026-05-21T09:17:20.940385"
+  },
+  {
+    "transaction_id": "1c526b74-14b6-4f7d-9b94-477b5b142781",
+    "user_id": "08953cd7-fb02-4db0-a25a-ad78b35cc5bb",
+    "amount": 2679.59,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Traciville",
+    "timestamp": "2026-05-21T09:17:21.442382"
+  }
+]

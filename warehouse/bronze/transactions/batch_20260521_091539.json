@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "60e3d0f5-662f-4cd2-bc13-ff2921368fa2",
+    "user_id": "65be9ea2-61df-4d18-9993-612cf20f526c",
+    "amount": 2626.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Morgan",
+    "timestamp": "2026-05-21T09:15:33.502136"
+  },
+  {
+    "transaction_id": "18e26c43-97d4-4bbe-8daa-d374ed58fd1a",
+    "user_id": "f118f8b3-57e9-47d8-b9d0-8cd8856a4d0b",
+    "amount": 7183.81,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Andersonshire",
+    "timestamp": "2026-05-21T09:15:34.003921"
+  },
+  {
+    "transaction_id": "f9f622ad-e53f-417f-81a5-45ca575ac608",
+    "user_id": "a6f33895-5c9b-4d13-9446-c43f4174828a",
+    "amount": 2520.15,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Kellyberg",
+    "timestamp": "2026-05-21T09:15:34.505375"
+  },
+  {
+    "transaction_id": "f4bc2c94-3318-4dc4-b957-e827aa93f02b",
+    "user_id": "fe65aede-4ed6-4320-bb02-d165a83fc5d8",
+    "amount": 7213.17,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Hannahside",
+    "timestamp": "2026-05-21T09:15:35.008561"
+  },
+  {
+    "transaction_id": "e3abeb7e-08f0-48e5-8014-27d6c49693ca",
+    "user_id": "ff92b6f1-5f17-4f4c-9f3d-734d06fb3fd8",
+    "amount": 9560.4,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Johnsonton",
+    "timestamp": "2026-05-21T09:15:35.509780"
+  },
+  {
+    "transaction_id": "68817324-16b7-48bb-b658-536fa39cb146",
+    "user_id": "65344ffd-f71f-4614-b646-794060a238c0",
+    "amount": 1461.79,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Pruittport",
+    "timestamp": "2026-05-21T09:15:36.514848"
+  },
+  {
+    "transaction_id": "11f4c2a8-d743-43e8-a9b0-83bbe31295a9",
+    "user_id": "3b61d45a-684e-4043-a072-3442dabdf144",
+    "amount": 4568.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Jenniferborough",
+    "timestamp": "2026-05-21T09:15:37.017101"
+  },
+  {
+    "transaction_id": "5080d585-1a7a-477e-b8df-9caa436358c7",
+    "user_id": "506e303e-d195-410d-b7e9-0f9f6c6a11fd",
+    "amount": 2354.83,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Wigginsside",
+    "timestamp": "2026-05-21T09:15:37.518300"
+  },
+  {
+    "transaction_id": "c672ea2e-18cb-4463-93fa-8ff7a32fbd3c",
+    "user_id": "d8f24120-08aa-46f2-ba8c-af7b9c4bc026",
+    "amount": 4950.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Danielside",
+    "timestamp": "2026-05-21T09:15:38.522145"
+  },
+  {
+    "transaction_id": "e351b0d7-86f3-47e8-96f6-32ff1239c8e4",
+    "user_id": "fffff0e5-afb6-486d-b165-608c7a0363b0",
+    "amount": 8527.36,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Emilymouth",
+    "timestamp": "2026-05-21T09:15:39.024577"
+  }
+]

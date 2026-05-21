@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a2f39953-fa49-4bf4-a868-569eb1ef79d6",
+    "user_id": "bfa43868-f25d-499e-ae2d-c2bb74104673",
+    "amount": 4091.11,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Kingmouth",
+    "timestamp": "2026-05-21T09:17:10.898590"
+  },
+  {
+    "transaction_id": "ce1ee6f1-de85-4f68-8ea3-da2e76bcc2c5",
+    "user_id": "00e9f160-7d32-420b-b9da-cf29234ae31f",
+    "amount": 4299.17,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Raymondberg",
+    "timestamp": "2026-05-21T09:17:11.400559"
+  },
+  {
+    "transaction_id": "49d2ea1c-ffc5-4320-905d-0935e9e89130",
+    "user_id": "ae4da851-b938-48ca-bc02-1d0c962d854e",
+    "amount": 990.0,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Johnny",
+    "timestamp": "2026-05-21T09:17:11.902200"
+  },
+  {
+    "transaction_id": "d4d1a75c-0785-4d7e-8cbd-1884f00ee5e4",
+    "user_id": "4581a463-5b14-44cc-ba51-5c98d2a4ca73",
+    "amount": 4275.22,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Christopherburgh",
+    "timestamp": "2026-05-21T09:17:12.403960"
+  },
+  {
+    "transaction_id": "03c167c8-04d6-47c4-a29f-9d0c25a44dad",
+    "user_id": "bd9082fb-9754-4d36-a9a4-88ce35d71ec8",
+    "amount": 4953.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Justinburgh",
+    "timestamp": "2026-05-21T09:17:12.906417"
+  },
+  {
+    "transaction_id": "722a08cf-191c-43b2-9deb-547f5436ff54",
+    "user_id": "1b159ec6-6c93-4f92-8f27-2daaab02c3c3",
+    "amount": 1968.07,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Alexandraport",
+    "timestamp": "2026-05-21T09:17:13.409285"
+  },
+  {
+    "transaction_id": "4c8397d6-53f8-401e-a884-c6f324a96d9e",
+    "user_id": "916c4dc4-1f5f-48dd-abea-fb74d270026e",
+    "amount": 6045.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Carlview",
+    "timestamp": "2026-05-21T09:17:13.910849"
+  },
+  {
+    "transaction_id": "94198e9e-fdfc-4819-bbb1-f12d888972a2",
+    "user_id": "7a480f54-fc02-46b5-9de0-cebc943d4c98",
+    "amount": 8115.43,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Cathyhaven",
+    "timestamp": "2026-05-21T09:17:14.412456"
+  },
+  {
+    "transaction_id": "51cf3f91-cdf1-4938-bb0d-74366a9a3110",
+    "user_id": "8bc664d1-6f56-45be-8788-8d88aac8fbb1",
+    "amount": 1768.29,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Michaelland",
+    "timestamp": "2026-05-21T09:17:14.913920"
+  },
+  {
+    "transaction_id": "2c2d5294-cd11-4903-a494-93752730e5a0",
+    "user_id": "e6e3243d-f103-4260-8058-c4d91ba7ec3b",
+    "amount": 4477.4,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Porterborough",
+    "timestamp": "2026-05-21T09:17:15.417380"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1f955c99-6f53-4ee2-93e3-7279aad038b9",
+    "user_id": "3e2e12b7-af01-4679-b747-946aefe8c179",
+    "amount": 7119.95,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Johnstad",
+    "timestamp": "2026-05-21T09:17:53.073580"
+  },
+  {
+    "transaction_id": "153ffcbe-3931-46d2-a664-1e4554f8f21a",
+    "user_id": "f2f03934-416e-43e6-bc6a-cbf777fbd962",
+    "amount": 3885.27,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Maryberg",
+    "timestamp": "2026-05-21T09:17:53.576392"
+  },
+  {
+    "transaction_id": "366178ba-0aaf-4f92-abf2-18e3e156d1df",
+    "user_id": "58302dcb-8b94-4506-97a4-7a648f95ba07",
+    "amount": 4511.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lisamouth",
+    "timestamp": "2026-05-21T09:17:54.078804"
+  },
+  {
+    "transaction_id": "36fbf133-eca7-42d8-b7c8-e1051eeb01d0",
+    "user_id": "941fbd00-b81b-43e1-b492-a0090ebe2094",
+    "amount": 134.06,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Angelaside",
+    "timestamp": "2026-05-21T09:17:54.584092"
+  },
+  {
+    "transaction_id": "b4224bb2-4cac-4006-b493-e3890a950b55",
+    "user_id": "83f196f2-045a-4b53-966f-732312926a93",
+    "amount": 8016.33,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Kayla",
+    "timestamp": "2026-05-21T09:17:55.086202"
+  },
+  {
+    "transaction_id": "10b550a9-edc1-4e44-bd12-0e155e513463",
+    "user_id": "abaf33af-98cc-4ee5-bf5b-7dfc8bf0535e",
+    "amount": 6959.97,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Sara",
+    "timestamp": "2026-05-21T09:17:55.588365"
+  },
+  {
+    "transaction_id": "c92f97bd-0362-49ef-b9d1-900423570bb9",
+    "user_id": "9c088dc1-1deb-4662-95e5-962cc5985bae",
+    "amount": 6654.02,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Elizabethhaven",
+    "timestamp": "2026-05-21T09:17:56.587415"
+  },
+  {
+    "transaction_id": "057dc80f-8e39-48b3-a2cf-cce34b631326",
+    "user_id": "216c31e0-a2e2-491a-9190-53ecb6347adc",
+    "amount": 9419.16,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Laura",
+    "timestamp": "2026-05-21T09:17:57.590620"
+  },
+  {
+    "transaction_id": "43d88b01-72d5-4a57-9f8d-f0c0b5dae8d6",
+    "user_id": "f76a444b-a606-4e97-998f-3d01dbcb884e",
+    "amount": 2341.45,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Frank",
+    "timestamp": "2026-05-21T09:17:58.092209"
+  },
+  {
+    "transaction_id": "4ef699c6-cef5-4659-8783-9bb073b1a0fe",
+    "user_id": "77cef8ee-86f5-4454-85f7-d53ca585679d",
+    "amount": 6789.28,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Dennis",
+    "timestamp": "2026-05-21T09:17:59.096421"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "219d501a-5d11-4d6a-8607-8b1195960f2b",
+    "user_id": "8f1cb631-35ed-45bf-b36b-6fd5d731ef9e",
+    "amount": 8547.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Santoshaven",
+    "timestamp": "2026-05-21T09:18:05.621967"
+  },
+  {
+    "transaction_id": "b1c5baaf-18e3-4564-a682-bc669d3be5ef",
+    "user_id": "56e91fce-5f13-4a48-ad67-cbf334d44d40",
+    "amount": 8302.07,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Christophermouth",
+    "timestamp": "2026-05-21T09:18:06.624824"
+  },
+  {
+    "transaction_id": "b8895abd-6fe8-4e23-8fc3-d45a377cd31f",
+    "user_id": "3d778dfd-11c0-427d-823f-3c932348a702",
+    "amount": 7498.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Peggyfort",
+    "timestamp": "2026-05-21T09:18:07.125980"
+  },
+  {
+    "transaction_id": "ea0204b1-100e-4146-8c29-dc2bfc1a9d0f",
+    "user_id": "a733a95c-9489-478c-95c6-18adc853804b",
+    "amount": 631.62,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Albertview",
+    "timestamp": "2026-05-21T09:18:07.627347"
+  },
+  {
+    "transaction_id": "4c5067d1-8501-48ff-9877-0d75cf79b6eb",
+    "user_id": "e2c7a722-2c94-4080-96a2-145d63c2f813",
+    "amount": 7159.98,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Gregorybury",
+    "timestamp": "2026-05-21T09:18:08.128810"
+  },
+  {
+    "transaction_id": "3ae480a0-2ab3-46d4-8d61-ec848d7d48ab",
+    "user_id": "3c8dcce2-06af-443c-99a7-4829419fb235",
+    "amount": 4199.21,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Austinview",
+    "timestamp": "2026-05-21T09:18:08.631416"
+  },
+  {
+    "transaction_id": "eea0fe11-b623-4bc4-9647-76b5c5910c32",
+    "user_id": "c2000819-116a-4208-b189-1116eeb788c7",
+    "amount": 4212.95,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Hunterside",
+    "timestamp": "2026-05-21T09:18:09.134724"
+  },
+  {
+    "transaction_id": "5ad4c0a0-257b-45bb-9c14-8bf1484fa7b3",
+    "user_id": "ffe6431e-4a11-4d12-842b-fd61c0f3fe61",
+    "amount": 8253.24,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Ryanburgh",
+    "timestamp": "2026-05-21T09:18:09.636426"
+  },
+  {
+    "transaction_id": "ebba1686-db7b-4f65-8418-6381ae89f59c",
+    "user_id": "dfac86b0-5c9b-4154-b181-98f0e446490b",
+    "amount": 4341.81,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Daleborough",
+    "timestamp": "2026-05-21T09:18:10.138842"
+  },
+  {
+    "transaction_id": "b3e03222-fa40-4969-b7be-996696a2cd94",
+    "user_id": "b92b671a-7d00-4d11-a713-e98cfe88cc02",
+    "amount": 2921.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Jane",
+    "timestamp": "2026-05-21T09:18:10.640018"
+  }
+]

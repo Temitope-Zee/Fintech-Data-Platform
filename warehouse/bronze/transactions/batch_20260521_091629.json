@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ba12003b-42b5-4aec-9a00-386cf51239e6",
+    "user_id": "a0f6e3d2-a354-40d9-a710-bcfdf3d987aa",
+    "amount": 4946.02,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Laurenton",
+    "timestamp": "2026-05-21T09:16:24.200444"
+  },
+  {
+    "transaction_id": "7a76027d-9846-43fa-8c8a-2d23a72365b7",
+    "user_id": "0d0645d8-1d3a-4b86-8222-86da1e430779",
+    "amount": 5381.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lorettaville",
+    "timestamp": "2026-05-21T09:16:24.704144"
+  },
+  {
+    "transaction_id": "4702242e-4641-4563-a9c1-023c6c66a399",
+    "user_id": "0784050a-0eac-4d28-a5cf-903e0d10d3db",
+    "amount": 277.43,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Carolynstad",
+    "timestamp": "2026-05-21T09:16:25.205746"
+  },
+  {
+    "transaction_id": "587585f3-0959-4a1b-a5f5-ce5a8194f2a7",
+    "user_id": "9f46eda5-76d5-4cd3-b825-f016f86abe09",
+    "amount": 5027.42,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Tyler",
+    "timestamp": "2026-05-21T09:16:25.709014"
+  },
+  {
+    "transaction_id": "b8dfd0a2-f2d2-4c49-8545-28fda0ab5906",
+    "user_id": "b046af83-b6a6-409f-8005-f6e2d200017f",
+    "amount": 5254.63,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Kevinland",
+    "timestamp": "2026-05-21T09:16:26.202534"
+  },
+  {
+    "transaction_id": "1e8be81e-2ac5-4fc5-95d5-4029bcc229e9",
+    "user_id": "ee02fc62-9c76-45ed-b49f-1a867c1f0fcc",
+    "amount": 7994.44,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Elaineside",
+    "timestamp": "2026-05-21T09:16:26.704058"
+  },
+  {
+    "transaction_id": "7abdf821-5f93-402e-aae3-56715783fdea",
+    "user_id": "f5094ccd-1e8a-4359-8dd9-42685c52f836",
+    "amount": 123.87,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lucasville",
+    "timestamp": "2026-05-21T09:16:27.206696"
+  },
+  {
+    "transaction_id": "4cdb9d55-79a5-43be-822d-ba4ee91b081b",
+    "user_id": "a1114c73-8c2b-4d0a-905d-9d5d9bc52d0b",
+    "amount": 5442.86,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Christopherburgh",
+    "timestamp": "2026-05-21T09:16:28.211123"
+  },
+  {
+    "transaction_id": "881e6b3e-bb1b-4946-a782-556fd142777f",
+    "user_id": "b371d4cb-cd03-4ed7-bf05-56497662bb5a",
+    "amount": 7896.4,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Stevenchester",
+    "timestamp": "2026-05-21T09:16:28.712668"
+  },
+  {
+    "transaction_id": "84591b52-205f-49bc-8c41-b1f0b9822fbd",
+    "user_id": "0c1649f5-1f30-40f2-b1ee-aafd419a6e57",
+    "amount": 8801.13,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Seanfort",
+    "timestamp": "2026-05-21T09:16:29.214894"
+  }
+]

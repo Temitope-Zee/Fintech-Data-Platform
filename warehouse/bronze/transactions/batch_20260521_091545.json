@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ed2ad703-6169-4517-aeb2-333064d3781e",
+    "user_id": "91cfc4e7-390d-4d7b-81d3-426a004cee7b",
+    "amount": 660.28,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Jacob",
+    "timestamp": "2026-05-21T09:15:40.527707"
+  },
+  {
+    "transaction_id": "905efefe-5721-4f99-8e4e-4c5c3577cdb8",
+    "user_id": "d71336d0-68ec-44d0-a649-a5a41f105dd5",
+    "amount": 1831.5,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Stephanie",
+    "timestamp": "2026-05-21T09:15:41.028836"
+  },
+  {
+    "transaction_id": "5a262650-491a-465c-a4bd-c53ebec22dea",
+    "user_id": "bc03bc37-b4d3-4b27-b001-6324b0821937",
+    "amount": 2674.3,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Christine",
+    "timestamp": "2026-05-21T09:15:41.530048"
+  },
+  {
+    "transaction_id": "338178ac-13e6-4b74-aa93-c99c39d5a8e4",
+    "user_id": "74b9cde5-11a0-432d-9fbc-1ad32333efb6",
+    "amount": 6318.06,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Austintown",
+    "timestamp": "2026-05-21T09:15:42.031120"
+  },
+  {
+    "transaction_id": "0f169316-b05a-489a-bfed-27e2fdc3be7a",
+    "user_id": "58eb0ffa-20e8-478d-8d82-f63041feea53",
+    "amount": 437.92,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Diana",
+    "timestamp": "2026-05-21T09:15:42.532967"
+  },
+  {
+    "transaction_id": "f384ae77-7ebd-4ee4-a585-0f9961bcfbba",
+    "user_id": "ac0d9de1-abbe-4e8a-9097-247b70d393ae",
+    "amount": 5908.84,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kingberg",
+    "timestamp": "2026-05-21T09:15:43.034134"
+  },
+  {
+    "transaction_id": "3255612e-88cc-4f20-8fd1-825092458518",
+    "user_id": "59362ab5-690e-4797-b5c9-6a14d78badd8",
+    "amount": 8202.49,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Joshua",
+    "timestamp": "2026-05-21T09:15:43.535543"
+  },
+  {
+    "transaction_id": "124e7de6-5a30-4d46-bf98-41333be3fdbc",
+    "user_id": "003dca12-2f26-4011-bea2-dc4a48721df5",
+    "amount": 2659.13,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Bellview",
+    "timestamp": "2026-05-21T09:15:44.037353"
+  },
+  {
+    "transaction_id": "2f312b68-a56a-4d57-9061-9b2c3b484d78",
+    "user_id": "4aba2a71-dd89-4107-b2c6-d7469a35ae20",
+    "amount": 4557.09,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Kellyfurt",
+    "timestamp": "2026-05-21T09:15:45.042122"
+  },
+  {
+    "transaction_id": "9c86b151-932a-4c2d-b4e2-fa653b9c47d5",
+    "user_id": "d8d7233b-ae8f-40dd-9fcc-438308a81a0a",
+    "amount": 524.36,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Rachelshire",
+    "timestamp": "2026-05-21T09:15:45.543402"
+  }
+]

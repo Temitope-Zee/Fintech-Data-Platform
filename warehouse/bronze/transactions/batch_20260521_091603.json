@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "34f5f869-6c21-4357-9465-723c2016fdac",
+    "user_id": "c8e38e61-2592-4f7e-9c31-4d7e6fede580",
+    "amount": 818.15,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Robin",
+    "timestamp": "2026-05-21T09:15:58.093959"
+  },
+  {
+    "transaction_id": "ddbd91d8-6e51-489c-98f4-fe671ea69c63",
+    "user_id": "e888d76c-c102-489e-9377-d6dee9943809",
+    "amount": 9826.24,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Michaelhaven",
+    "timestamp": "2026-05-21T09:15:58.596612"
+  },
+  {
+    "transaction_id": "a3c8b036-19a5-4d96-bc8f-4a7aed9d8247",
+    "user_id": "d6ce464c-a0bb-4c9d-9ade-b610aaca3e83",
+    "amount": 4722.78,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Billymouth",
+    "timestamp": "2026-05-21T09:15:59.598541"
+  },
+  {
+    "transaction_id": "f21fe5aa-3a1d-45cb-94f3-a7eef6aafbb9",
+    "user_id": "607bea2c-e1e8-4c4f-b1a4-eb6a1308d6b2",
+    "amount": 5871.78,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Sawyerfurt",
+    "timestamp": "2026-05-21T09:16:00.099936"
+  },
+  {
+    "transaction_id": "3606dd2b-6ed7-4c28-bdad-32b164408fde",
+    "user_id": "25a49746-b4d0-4e0a-9f75-7e75af516211",
+    "amount": 5145.83,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Michael",
+    "timestamp": "2026-05-21T09:16:01.102187"
+  },
+  {
+    "transaction_id": "4f2361b7-f894-4233-b2dd-885589da4ac9",
+    "user_id": "72b2d6f8-afbe-4ffb-a288-70d804397bcb",
+    "amount": 5824.53,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Susanhaven",
+    "timestamp": "2026-05-21T09:16:01.603728"
+  },
+  {
+    "transaction_id": "5d3e87a5-17c0-4dff-89b0-401d00a63856",
+    "user_id": "5aa118f2-7398-4d95-8ec2-ea931d82adb7",
+    "amount": 2465.75,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Beckstad",
+    "timestamp": "2026-05-21T09:16:02.106070"
+  },
+  {
+    "transaction_id": "1e48882c-fc1b-412d-b14c-5fb7ee52abb4",
+    "user_id": "ab6a8483-611d-49d0-be56-0228f130a694",
+    "amount": 3352.44,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Robert",
+    "timestamp": "2026-05-21T09:16:02.607341"
+  },
+  {
+    "transaction_id": "3a4e2cac-87f6-4690-a7d4-ebb960f1dde0",
+    "user_id": "dc7821e2-ec0c-4f45-8dfd-16e45741c784",
+    "amount": 219.37,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Rachel",
+    "timestamp": "2026-05-21T09:16:03.108495"
+  },
+  {
+    "transaction_id": "da9eafa8-675c-4979-a5bc-dd607c7a131a",
+    "user_id": "31217393-761c-4baf-a4e2-7e23dce64bba",
+    "amount": 8227.04,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Nicholaschester",
+    "timestamp": "2026-05-21T09:16:03.609960"
+  }
+]

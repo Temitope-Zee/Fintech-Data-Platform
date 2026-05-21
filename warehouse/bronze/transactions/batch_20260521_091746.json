@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "635d4ada-4ff4-42c0-b5cc-5d6e6eb485d4",
+    "user_id": "bf17ed62-7152-4a6f-84f1-3e2e8d547165",
+    "amount": 9330.96,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Reginaville",
+    "timestamp": "2026-05-21T09:17:39.514849"
+  },
+  {
+    "transaction_id": "19d75d88-5a2a-4f34-955c-3e0c583cfbcb",
+    "user_id": "9476c4ea-f866-43d3-8d6a-818fedc35e23",
+    "amount": 5811.7,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Larry",
+    "timestamp": "2026-05-21T09:17:40.017622"
+  },
+  {
+    "transaction_id": "10bae287-63d2-4a64-9b09-48f55f9254f3",
+    "user_id": "b6a4fd3e-303d-44ee-9092-5ce46df8df14",
+    "amount": 7191.62,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Sarah",
+    "timestamp": "2026-05-21T09:17:40.519151"
+  },
+  {
+    "transaction_id": "804a1ecb-a03d-4be0-8fb4-8eb46d40dff0",
+    "user_id": "a45170cd-0c74-468b-b360-082240a02999",
+    "amount": 8149.09,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Millerbury",
+    "timestamp": "2026-05-21T09:17:41.022072"
+  },
+  {
+    "transaction_id": "ff827a87-19e5-42b0-b965-307b2a09fd58",
+    "user_id": "386b4bd0-6d5e-4414-871f-7f2f49445946",
+    "amount": 6808.32,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bradleyland",
+    "timestamp": "2026-05-21T09:17:42.025334"
+  },
+  {
+    "transaction_id": "f23a1e75-13c5-4cb6-8a6d-1110f991d0bf",
+    "user_id": "6e535c47-023c-453d-9c69-07b3b6784b5c",
+    "amount": 866.9,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Alexandraport",
+    "timestamp": "2026-05-21T09:17:42.528102"
+  },
+  {
+    "transaction_id": "dafe3895-8c65-4482-ad75-0209ac9e79e3",
+    "user_id": "90f7c8ab-165c-45ab-b643-b86dd4bd7f1c",
+    "amount": 6304.09,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Brandon",
+    "timestamp": "2026-05-21T09:17:43.533466"
+  },
+  {
+    "transaction_id": "6dba6cd0-8b38-4cbb-b1e9-e45806513565",
+    "user_id": "b963fd7e-6047-4e4a-ac90-d85169f2c790",
+    "amount": 8556.22,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Cindyburgh",
+    "timestamp": "2026-05-21T09:17:44.035291"
+  },
+  {
+    "transaction_id": "eead6ae4-9b0d-4120-aad8-222bc7157196",
+    "user_id": "17408b76-38f9-483d-a1bf-2f86ffecd5e2",
+    "amount": 2250.54,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Reneemouth",
+    "timestamp": "2026-05-21T09:17:45.041096"
+  },
+  {
+    "transaction_id": "5bdc7f04-0101-4a9f-add9-cfff9eeda29f",
+    "user_id": "16fcee6f-1183-4521-8756-58c5dd61dece",
+    "amount": 5873.57,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Seanhaven",
+    "timestamp": "2026-05-21T09:17:46.547301"
+  }
+]

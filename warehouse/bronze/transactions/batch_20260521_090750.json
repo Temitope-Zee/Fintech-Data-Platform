@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0130f452-533a-4753-a3f5-b956e6426d8e",
+    "user_id": "edd5d1cf-8c5b-4daa-886d-43890ff6533b",
+    "amount": 8131.2,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Schneiderport",
+    "timestamp": "2026-05-21T09:07:45.719621"
+  },
+  {
+    "transaction_id": "e98631c3-e407-4d39-8fa6-13c0329e0c6e",
+    "user_id": "61e31fb9-d653-4143-8f47-cee80e00beac",
+    "amount": 7502.81,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Scottport",
+    "timestamp": "2026-05-21T09:07:46.227003"
+  },
+  {
+    "transaction_id": "13fd8aab-6999-4566-ba2a-fdd9efe3735a",
+    "user_id": "510c24bb-1d63-4016-b225-879239a6502d",
+    "amount": 9142.27,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Stevenchester",
+    "timestamp": "2026-05-21T09:07:46.729433"
+  },
+  {
+    "transaction_id": "2e6daed2-5080-43fe-879b-e4a42b80a0ce",
+    "user_id": "2d53af2f-7d01-4679-b6d4-b440d2a255c1",
+    "amount": 3013.98,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Carterville",
+    "timestamp": "2026-05-21T09:07:47.233190"
+  },
+  {
+    "transaction_id": "a34e5728-e6d2-44b1-8921-ca215dd9d5f4",
+    "user_id": "a2d7fff1-09c6-4edb-bbfe-210335eeab69",
+    "amount": 3077.78,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Shannonmouth",
+    "timestamp": "2026-05-21T09:07:47.734497"
+  },
+  {
+    "transaction_id": "60f5a7c6-81b5-4158-ae8e-1b5dd6b471b6",
+    "user_id": "d874ac15-b48e-4e4c-b5fd-252f3c7ef0c9",
+    "amount": 2692.18,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Robertfort",
+    "timestamp": "2026-05-21T09:07:48.235866"
+  },
+  {
+    "transaction_id": "2c2cb33d-76f8-457d-976b-3b90c4fe9878",
+    "user_id": "f42f1149-5701-4d5b-afcc-d3b09a5bf355",
+    "amount": 6495.63,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Matthewstad",
+    "timestamp": "2026-05-21T09:07:48.737000"
+  },
+  {
+    "transaction_id": "5b5b283e-2ffd-4392-a7ae-e8f1c98f8df3",
+    "user_id": "1519df76-aef5-4b6d-b2f2-fadbd4d8f1ae",
+    "amount": 4128.79,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kyleburgh",
+    "timestamp": "2026-05-21T09:07:49.238690"
+  },
+  {
+    "transaction_id": "07e792f1-e993-4a58-a1ef-a4abfdc2bcc2",
+    "user_id": "a0f8db56-7912-474f-8289-0991e65158c1",
+    "amount": 5175.2,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jermaineberg",
+    "timestamp": "2026-05-21T09:07:49.739930"
+  },
+  {
+    "transaction_id": "cf0d1edd-cbfa-43c2-a087-b0a25168b06a",
+    "user_id": "d7a306fb-cda2-430c-9dbb-1de3c70c1b1d",
+    "amount": 3130.5,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Nicholefort",
+    "timestamp": "2026-05-21T09:07:50.241746"
+  }
+]

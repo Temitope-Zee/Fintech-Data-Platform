@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e5d15803-bcf2-40a1-b8f0-bb1efc4c6a78",
+    "user_id": "5998d41e-1209-4453-8d39-4ab9ae72900d",
+    "amount": 4693.41,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Danielmouth",
+    "timestamp": "2026-05-21T09:18:11.141184"
+  },
+  {
+    "transaction_id": "7cb77662-788a-442c-afa7-591c950ba753",
+    "user_id": "49b22f8e-2233-4e87-b932-8322ad0948b0",
+    "amount": 9782.95,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Ryanborough",
+    "timestamp": "2026-05-21T09:18:12.144291"
+  },
+  {
+    "transaction_id": "bdf1e9b4-541a-437b-a630-af42e2fcd76a",
+    "user_id": "d96bc636-e6e9-4a60-be96-4604047de3d7",
+    "amount": 4156.42,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Ryanside",
+    "timestamp": "2026-05-21T09:18:12.647419"
+  },
+  {
+    "transaction_id": "921a4be9-1046-4673-b9a1-d2159780a604",
+    "user_id": "d2e071d1-b170-40a1-b318-626f2e3df554",
+    "amount": 6264.65,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Harrisville",
+    "timestamp": "2026-05-21T09:18:13.148776"
+  },
+  {
+    "transaction_id": "d98a47ca-37a8-488d-8655-a8622e0d0f01",
+    "user_id": "4189be69-4e70-4a63-9e34-1d4d5cb99acb",
+    "amount": 4416.47,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Jeffreystad",
+    "timestamp": "2026-05-21T09:18:13.650557"
+  },
+  {
+    "transaction_id": "65f86c5d-aa7e-4c27-b93c-b49aa8754a27",
+    "user_id": "033194da-fda8-4347-8fce-d61f786597e3",
+    "amount": 841.72,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Greerview",
+    "timestamp": "2026-05-21T09:18:14.152091"
+  },
+  {
+    "transaction_id": "d9e2cd07-67a6-42ea-9abb-1ea72c55c9b6",
+    "user_id": "b375259f-c548-423a-a569-7938578080c6",
+    "amount": 4027.96,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Darren",
+    "timestamp": "2026-05-21T09:18:14.654790"
+  },
+  {
+    "transaction_id": "5a8b357a-a3cb-4f05-9b00-a1c038904925",
+    "user_id": "78dac5b5-330c-45f9-9c71-c14ff9306ce9",
+    "amount": 2845.27,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Kenneth",
+    "timestamp": "2026-05-21T09:18:15.157734"
+  },
+  {
+    "transaction_id": "458193ea-4b52-446d-9d65-e86db81a08e6",
+    "user_id": "dd1c2a6f-ebf4-4fec-b635-d24a7488be6b",
+    "amount": 6587.34,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Christopherhaven",
+    "timestamp": "2026-05-21T09:18:15.659217"
+  },
+  {
+    "transaction_id": "7bbb9c12-1edd-4189-86fa-cbb824f28725",
+    "user_id": "d1cd1bec-5c69-4696-8e46-dc6548caec14",
+    "amount": 5212.98,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Duane",
+    "timestamp": "2026-05-21T09:18:16.161083"
+  }
+]

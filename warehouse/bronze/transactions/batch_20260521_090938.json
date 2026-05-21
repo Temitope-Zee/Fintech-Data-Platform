@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "15082c93-3c0c-49a5-8c17-995756f12e69",
+    "user_id": "c3c3c202-17ad-490e-99e9-582c6a748436",
+    "amount": 7804.62,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Nicholas",
+    "timestamp": "2026-05-21T09:09:32.175146"
+  },
+  {
+    "transaction_id": "d927069e-9f71-4645-bc73-7e858d4bb91a",
+    "user_id": "38cd95e2-601c-470a-a896-c5d875adcc10",
+    "amount": 665.59,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Kristenland",
+    "timestamp": "2026-05-21T09:09:32.676782"
+  },
+  {
+    "transaction_id": "c500b7e0-0af6-4bd5-a52d-5be6189b8a03",
+    "user_id": "9d934251-5a52-47a1-81dc-fdbeaccdb3f6",
+    "amount": 2841.12,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Tannerfurt",
+    "timestamp": "2026-05-21T09:09:33.179695"
+  },
+  {
+    "transaction_id": "4ef17753-e4e2-4192-a169-953e5f59e4a8",
+    "user_id": "42167d7a-2dad-40ba-bd57-a9420f9838ab",
+    "amount": 8225.44,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Mcintyreport",
+    "timestamp": "2026-05-21T09:09:33.681670"
+  },
+  {
+    "transaction_id": "b39e6db7-3716-4f21-b3f4-f26087bcc04b",
+    "user_id": "e49e64fe-017b-4055-a3b4-af4bc0b07c8f",
+    "amount": 9057.46,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Stephaniemouth",
+    "timestamp": "2026-05-21T09:09:35.188127"
+  },
+  {
+    "transaction_id": "f6eba10f-8fd8-409b-9a39-361744132fdc",
+    "user_id": "4684e425-88cd-4ad8-bc53-88a5a7ba1fa6",
+    "amount": 9488.62,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Amychester",
+    "timestamp": "2026-05-21T09:09:35.690037"
+  },
+  {
+    "transaction_id": "9d53c121-db67-4568-a2f9-78cdfcb1cebd",
+    "user_id": "f3bb7c75-f335-41e0-9861-cedf6445b2d8",
+    "amount": 5235.67,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Davismouth",
+    "timestamp": "2026-05-21T09:09:36.192405"
+  },
+  {
+    "transaction_id": "e1a6b194-db15-4914-8ee5-4dcb28e7794c",
+    "user_id": "e4ee11c1-eff6-415f-add2-14917dad075f",
+    "amount": 9271.57,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Loweryborough",
+    "timestamp": "2026-05-21T09:09:37.197850"
+  },
+  {
+    "transaction_id": "1bbff0c3-a48a-4388-961b-680c3fa19800",
+    "user_id": "d92f13f8-e588-455f-86fb-42776c674e09",
+    "amount": 5013.9,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Michael",
+    "timestamp": "2026-05-21T09:09:37.700679"
+  },
+  {
+    "transaction_id": "0259bd0b-abdf-47d7-be3e-5366fb161e1b",
+    "user_id": "b2991764-105e-491c-b7f4-64d735fbb66d",
+    "amount": 8447.83,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Chandlerborough",
+    "timestamp": "2026-05-21T09:09:38.704159"
+  }
+]

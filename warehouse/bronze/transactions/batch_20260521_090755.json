@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d0f2e662-34fc-46aa-9d88-1dec4063a134",
+    "user_id": "22db4126-700e-4cc7-8949-a389c553ee40",
+    "amount": 8402.91,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Andersonport",
+    "timestamp": "2026-05-21T09:07:50.743284"
+  },
+  {
+    "transaction_id": "7ed281d3-ad55-4b01-b457-c9b70f176568",
+    "user_id": "b0b4253c-9db1-41d6-bae2-72d27eceab32",
+    "amount": 17.79,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Johnnyshire",
+    "timestamp": "2026-05-21T09:07:51.244868"
+  },
+  {
+    "transaction_id": "eac18c66-15e3-43e7-bfed-a3d4eac8df12",
+    "user_id": "8917c7a5-3ecc-41fe-ba84-4496ce696469",
+    "amount": 3849.77,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Phillipborough",
+    "timestamp": "2026-05-21T09:07:51.747846"
+  },
+  {
+    "transaction_id": "8999643b-c975-4fe9-b332-af9078ff6816",
+    "user_id": "6190769f-8aa3-4894-9b5e-974647db0d5e",
+    "amount": 1838.61,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Taylorfort",
+    "timestamp": "2026-05-21T09:07:52.250737"
+  },
+  {
+    "transaction_id": "e1568554-94e4-492b-a8f3-bbce40586094",
+    "user_id": "da445f8d-3de4-45d8-bab5-f1ad520c844e",
+    "amount": 1047.08,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Michaelberg",
+    "timestamp": "2026-05-21T09:07:52.754110"
+  },
+  {
+    "transaction_id": "9b65283d-4c5d-46cc-8f08-c0f86880420c",
+    "user_id": "5660e602-db7f-4902-af30-970ab1a01c2b",
+    "amount": 137.82,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Eugenefurt",
+    "timestamp": "2026-05-21T09:07:53.256651"
+  },
+  {
+    "transaction_id": "f6f1ccea-943b-4302-b3af-ac9d74391a58",
+    "user_id": "355547cb-0480-43c1-ac64-fc04666133de",
+    "amount": 4681.4,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Lisa",
+    "timestamp": "2026-05-21T09:07:53.758198"
+  },
+  {
+    "transaction_id": "d921b02a-2eda-43a1-a6cb-a9eaf6e8a6b1",
+    "user_id": "03af13aa-53de-428b-916d-7413a4be3bb6",
+    "amount": 1035.16,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Laurie",
+    "timestamp": "2026-05-21T09:07:54.256863"
+  },
+  {
+    "transaction_id": "131505ef-a751-49ef-b7b8-cf45b85eeb71",
+    "user_id": "b3f10889-b7fb-4bca-89a3-07a0af2ee6ae",
+    "amount": 970.85,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Gomezbury",
+    "timestamp": "2026-05-21T09:07:54.758289"
+  },
+  {
+    "transaction_id": "7ddcf8e5-3b8c-41d5-bf33-296a7de956b0",
+    "user_id": "627a2de2-530a-4912-b2dd-617d96229e74",
+    "amount": 2038.77,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Stevenport",
+    "timestamp": "2026-05-21T09:07:55.260099"
+  }
+]

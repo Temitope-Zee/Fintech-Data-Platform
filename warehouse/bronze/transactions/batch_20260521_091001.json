@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "30f8b557-42cd-4ef8-97f6-52972f932cba",
+    "user_id": "4a7a9c3c-62eb-413f-9f2b-c142bb769dad",
+    "amount": 4077.71,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Melanie",
+    "timestamp": "2026-05-21T09:09:56.790207"
+  },
+  {
+    "transaction_id": "d9b9c88a-4ca2-4e42-996a-30e8ecae34ed",
+    "user_id": "5e43d6c6-74b4-4d13-93ab-f69dce307c50",
+    "amount": 4540.47,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Marymouth",
+    "timestamp": "2026-05-21T09:09:57.293384"
+  },
+  {
+    "transaction_id": "2c300903-5e00-4072-afc4-38dfb4469528",
+    "user_id": "c40dfc36-11d3-499e-8f2a-a5edb91bc746",
+    "amount": 2733.2,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Danielchester",
+    "timestamp": "2026-05-21T09:09:57.795120"
+  },
+  {
+    "transaction_id": "a4aefdb9-6ce4-4d27-a938-da8e1175b628",
+    "user_id": "28e721cc-b6e0-49b1-b405-43e862dc7084",
+    "amount": 7875.81,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Brettstad",
+    "timestamp": "2026-05-21T09:09:58.297496"
+  },
+  {
+    "transaction_id": "95ea9834-bbd6-45b9-9886-d666355de840",
+    "user_id": "431496fe-20e6-4406-8a98-0b56f5309024",
+    "amount": 4517.13,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Jermaine",
+    "timestamp": "2026-05-21T09:09:58.800144"
+  },
+  {
+    "transaction_id": "1d2f93a3-77df-47bf-b8e9-dbd6fb25e4bb",
+    "user_id": "694fc2d0-643e-4e22-ad69-96f12e35537a",
+    "amount": 1870.03,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Melissa",
+    "timestamp": "2026-05-21T09:09:59.302890"
+  },
+  {
+    "transaction_id": "ae063265-4c3d-456f-b606-6f29df0be3d7",
+    "user_id": "79b7c6b2-8210-47f1-a071-2c289fdda53b",
+    "amount": 2236.87,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Natalieborough",
+    "timestamp": "2026-05-21T09:10:00.307770"
+  },
+  {
+    "transaction_id": "8b69573b-627b-48fd-976e-231bea8d0b21",
+    "user_id": "4adfa6a4-82c9-41fc-893d-b7be3b47671f",
+    "amount": 676.83,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Stricklandside",
+    "timestamp": "2026-05-21T09:10:00.809548"
+  },
+  {
+    "transaction_id": "e1cfa1a2-021d-41fb-ace4-f83d4f794bd4",
+    "user_id": "d7b8960a-7bd4-4a4e-b98d-7141900512c9",
+    "amount": 6632.81,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Jessicaview",
+    "timestamp": "2026-05-21T09:10:01.311232"
+  },
+  {
+    "transaction_id": "0312ccd7-96e9-4d2c-adb4-456f52b6eb55",
+    "user_id": "eed4446b-d906-472f-9fbe-571e200c7e75",
+    "amount": 8481.98,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Hollyborough",
+    "timestamp": "2026-05-21T09:10:01.813271"
+  }
+]
