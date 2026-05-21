@@ -14,7 +14,6 @@ The pipeline is broken into four phases:
 - Phase 2 — Apache Kafka receives and queues all transactions
 - Phase 3 — PySpark and Great Expectations validates and routes records
 - Phase 4 — Medallion Lakehouse stores Bronze, Silver and Gold layers
-![Architecture Diagram](images/architecture.png)
 ---
 
 ## Tech Stack
@@ -36,7 +35,7 @@ The pipeline is broken into four phases:
 | Bronze | Raw validated transactions | 720 |
 | Silver | Deduplicated records | 720 |
 | Gold | Aggregated merchant metrics | 5 rows |
-
+![Dashboard](images/dashboard.png)
 ---
 
 ## Project Structure
