@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cb5dadcc-ca73-447e-8109-d520e027fc79",
+    "user_id": "eaf1be2d-02c3-4f0f-8035-254b59ee96b5",
+    "amount": 6525.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Brianton",
+    "timestamp": "2026-05-22T21:38:00.155893"
+  },
+  {
+    "transaction_id": "c218cdf4-52d3-4d4a-93a6-3423653c9d74",
+    "user_id": "ccc45842-753f-48cc-a02f-ae2ad10dcc2c",
+    "amount": 3633.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Craigtown",
+    "timestamp": "2026-05-22T21:38:00.657699"
+  },
+  {
+    "transaction_id": "65274e88-dada-461d-8f03-e357c522d75e",
+    "user_id": "7e8e717d-046b-4db9-a60a-2fdf51fc86ff",
+    "amount": 5192.01,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Michelefurt",
+    "timestamp": "2026-05-22T21:38:01.159108"
+  },
+  {
+    "transaction_id": "8198654b-5159-4b3b-8e5d-be71899375a0",
+    "user_id": "b5ff26eb-8239-4ad1-b23e-a04689c11183",
+    "amount": 3988.55,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Karafort",
+    "timestamp": "2026-05-22T21:38:01.660662"
+  },
+  {
+    "transaction_id": "8cc7b35c-91e1-45d9-8587-761268035891",
+    "user_id": "c3f9da05-f70b-4939-a31a-8698dcbb7240",
+    "amount": 8679.99,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Maurice",
+    "timestamp": "2026-05-22T21:38:02.161959"
+  },
+  {
+    "transaction_id": "4637079a-4e1a-4420-b39b-eee2938a4bc8",
+    "user_id": "f4196604-e46e-49dc-acbf-a6a48670635f",
+    "amount": 1415.82,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Christopher",
+    "timestamp": "2026-05-22T21:38:02.664531"
+  },
+  {
+    "transaction_id": "763ab6fd-dab9-4626-9f98-442c46deadaf",
+    "user_id": "522b906f-2fcc-4a12-911e-2850e8db4cea",
+    "amount": 9821.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Taylortown",
+    "timestamp": "2026-05-22T21:38:03.166064"
+  },
+  {
+    "transaction_id": "d2629714-4046-47c4-b7c3-8a152f28ae8c",
+    "user_id": "948adfb4-e5e5-4f29-aba1-db18e4180953",
+    "amount": 3528.3,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Marilyn",
+    "timestamp": "2026-05-22T21:38:03.667886"
+  },
+  {
+    "transaction_id": "d845f99c-4a42-41ab-a960-cb98d56686df",
+    "user_id": "f6e424b9-b07e-428f-a5b6-c203552ffad3",
+    "amount": 3707.77,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Warnerfurt",
+    "timestamp": "2026-05-22T21:38:04.170424"
+  },
+  {
+    "transaction_id": "c906a24c-1118-4c95-a4d4-9c60594409fd",
+    "user_id": "017d3be3-028c-4a2b-ae0e-0d6ead25c8df",
+    "amount": 7581.95,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Christopherside",
+    "timestamp": "2026-05-22T21:38:05.173814"
+  }
+]

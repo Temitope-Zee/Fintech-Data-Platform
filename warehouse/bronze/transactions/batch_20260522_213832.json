@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "118a9af8-4bd0-4949-8714-2a1af4d6932e",
+    "user_id": "ff04c00e-6eab-45bd-8ae2-40c61823bebd",
+    "amount": 8173.31,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Terrellport",
+    "timestamp": "2026-05-22T21:38:27.254667"
+  },
+  {
+    "transaction_id": "06099290-7fc3-4d69-872b-060b2cef8b85",
+    "user_id": "09d7d02c-b86f-4bcc-9758-12bee5aa0649",
+    "amount": 277.2,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Carlashire",
+    "timestamp": "2026-05-22T21:38:27.756305"
+  },
+  {
+    "transaction_id": "ad53ff35-50f2-44ec-a69e-c51b6890ae10",
+    "user_id": "68ff8678-5390-4389-ac6c-a5d28fe34d12",
+    "amount": 703.08,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Matthewchester",
+    "timestamp": "2026-05-22T21:38:28.257705"
+  },
+  {
+    "transaction_id": "10229e3b-82df-41b4-9432-7391f422c79d",
+    "user_id": "69c182fc-90a6-4551-b298-947eb9191341",
+    "amount": 3961.84,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Bonnieburgh",
+    "timestamp": "2026-05-22T21:38:28.760783"
+  },
+  {
+    "transaction_id": "3635210c-16a3-4cc7-989e-7aec3bdabf8e",
+    "user_id": "bf66d33e-4cdd-487b-882c-b359597e8dd1",
+    "amount": 9209.49,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Hernandezfort",
+    "timestamp": "2026-05-22T21:38:29.262374"
+  },
+  {
+    "transaction_id": "6ca906fe-4b75-4ef1-93d0-5522a0a647a1",
+    "user_id": "d9057904-cc4a-471a-872b-926dcca2ae16",
+    "amount": 1594.05,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Coxburgh",
+    "timestamp": "2026-05-22T21:38:29.764639"
+  },
+  {
+    "transaction_id": "8cf7530a-5ba3-4f7c-8660-9090d40f4ef0",
+    "user_id": "9e741b4f-58e9-473f-a28f-263d81b53617",
+    "amount": 5647.02,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Robertport",
+    "timestamp": "2026-05-22T21:38:30.767683"
+  },
+  {
+    "transaction_id": "17896af5-9317-441d-a0ca-5d2bac4877c2",
+    "user_id": "596d311d-b887-42da-84fa-7a12e20f0c57",
+    "amount": 3369.62,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Emilyborough",
+    "timestamp": "2026-05-22T21:38:31.269047"
+  },
+  {
+    "transaction_id": "9abaed9d-2042-4d72-93c3-fbb4857f1f38",
+    "user_id": "cd0465aa-8098-4e03-bb4c-6fa9743cc52c",
+    "amount": 8677.86,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Navarrohaven",
+    "timestamp": "2026-05-22T21:38:31.770826"
+  },
+  {
+    "transaction_id": "895f9d2f-673c-4dc7-b58b-9f800d44fdbe",
+    "user_id": "96d12b62-f245-46a4-9e63-74091d45e4b6",
+    "amount": 6133.0,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Tuckerton",
+    "timestamp": "2026-05-22T21:38:32.775696"
+  }
+]

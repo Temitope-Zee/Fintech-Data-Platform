@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "89ef4318-333d-4294-b33f-f810ef1ac31e",
+    "user_id": "3844d5f8-45aa-49fb-82ec-91439bc484ad",
+    "amount": 9932.13,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Julie",
+    "timestamp": "2026-05-22T21:38:21.234213"
+  },
+  {
+    "transaction_id": "687ee6c9-4f4f-4c06-aac0-475d88d54cbf",
+    "user_id": "ea14247a-adc3-4db6-a21c-0161225191ac",
+    "amount": 1328.95,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Lisahaven",
+    "timestamp": "2026-05-22T21:38:21.737203"
+  },
+  {
+    "transaction_id": "2a4821ba-2b2e-4515-abae-720e894e971a",
+    "user_id": "7549a13d-7a4e-4636-b465-632f7e3489a4",
+    "amount": 2475.22,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Laneville",
+    "timestamp": "2026-05-22T21:38:22.239432"
+  },
+  {
+    "transaction_id": "128d67f9-d192-4ccf-850f-a400d426ce08",
+    "user_id": "a8841020-5837-42a6-a8bc-869e565b3378",
+    "amount": 7953.64,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Shellyside",
+    "timestamp": "2026-05-22T21:38:22.738607"
+  },
+  {
+    "transaction_id": "5b2d6083-f35a-4b86-a23f-aeacf1635d9b",
+    "user_id": "2acc2c20-c456-41a4-b2c8-145d2f3f2130",
+    "amount": 9785.13,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Leonardburgh",
+    "timestamp": "2026-05-22T21:38:23.240060"
+  },
+  {
+    "transaction_id": "7309f54e-0ca0-432a-881e-f933faf8499f",
+    "user_id": "31b1b926-8f4a-462b-b39b-6d6a4940632f",
+    "amount": 403.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Rhondaborough",
+    "timestamp": "2026-05-22T21:38:23.742300"
+  },
+  {
+    "transaction_id": "2a93da3d-ca1d-4028-a7e9-34b06d85e399",
+    "user_id": "aa24001f-7f2e-4e99-b109-55c7efff1ae9",
+    "amount": 9202.42,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Matthew",
+    "timestamp": "2026-05-22T21:38:24.245020"
+  },
+  {
+    "transaction_id": "436ff443-48fa-4b86-b7c8-52aea73ee19e",
+    "user_id": "cbd57e56-cea1-49b0-81f9-ae55451dd6b1",
+    "amount": 4720.92,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Bradley",
+    "timestamp": "2026-05-22T21:38:24.746372"
+  },
+  {
+    "transaction_id": "e4ffb216-c367-427d-bfe9-8315e6fef6c0",
+    "user_id": "820727af-bdd3-432c-9307-b0f67811be7e",
+    "amount": 324.42,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Denniston",
+    "timestamp": "2026-05-22T21:38:26.251962"
+  },
+  {
+    "transaction_id": "5d734453-560c-4712-805a-df602db07f40",
+    "user_id": "28b10a84-3a94-49a4-ba25-bd888506722a",
+    "amount": 8418.61,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Williamport",
+    "timestamp": "2026-05-22T21:38:26.753313"
+  }
+]

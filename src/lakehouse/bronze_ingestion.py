@@ -1,31 +1,46 @@
 import json
 import os
+import time
 from datetime import datetime
 from kafka import KafkaConsumer
+from kafka.errors import NoBrokersAvailable
 
-# Local warehouse directory — where our Iceberg-style data will live
-WAREHOUSE_PATH = os.path.expanduser('~/fintech-data-platform/warehouse')
+KAFKA_BOOTSTRAP_SERVERS = os.environ.get('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
+WAREHOUSE_PATH = os.environ.get('WAREHOUSE_PATH', '/app/warehouse')
 BRONZE_PATH = f'{WAREHOUSE_PATH}/bronze/transactions'
 
-# Create the directories if they don't exist
 os.makedirs(BRONZE_PATH, exist_ok=True)
 
-# Connect to Kafka and read from clean_transactions
-consumer = KafkaConsumer(
-    'clean_transactions',
-    bootstrap_servers='localhost:9092',
-    value_deserializer=lambda v: json.loads(v.decode('utf-8')),
-    auto_offset_reset='latest',
-    group_id='bronze-group'
-)
+print(f"Bronze ingestion starting. Connecting to Kafka at {KAFKA_BOOTSTRAP_SERVERS}...")
 
-print("Bronze ingestion started. Listening to clean_transactions...")
+# Retry connecting to Kafka up to 10 times
+consumer = None
+retries = 10
+
+for attempt in range(retries):
+    try:
+        consumer = KafkaConsumer(
+            'clean_transactions',
+            bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS,
+            value_deserializer=lambda v: json.loads(v.decode('utf-8')),
+            auto_offset_reset='latest',
+            group_id='bronze-group'
+        )
+        print("Connected to Kafka successfully!")
+        break
+    except NoBrokersAvailable:
+        print(f"Kafka not ready. Attempt {attempt + 1}/{retries}. Retrying in 10 seconds...")
+        time.sleep(10)
+
+if consumer is None:
+    print("Could not connect to Kafka after multiple attempts. Exiting.")
+    exit(1)
+
 print(f"Saving data to: {BRONZE_PATH}")
-print("Press CTRL+C to stop.\n")
+print("Listening to clean_transactions...\n")
 
-# We'll collect records and write them in batches
 batch = []
-BATCH_SIZE = 10  # Write to disk every 10 records
+BATCH_SIZE = 10
 
 for message in consumer:
     record = message.value
@@ -34,13 +49,10 @@ for message in consumer:
     print(f"Received -> ID: {record['transaction_id'][:8]}... | "
           f"Amount: {record['amount']} | Currency: {record['currency']}")
 
-    # When we have enough records, write the batch to disk
     if len(batch) >= BATCH_SIZE:
         timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
         filename = f'{BRONZE_PATH}/batch_{timestamp}.json'
-
         with open(filename, 'w') as f:
             json.dump(batch, f, indent=2)
-
-        print(f"\n✅ Written {len(batch)} records to Bronze layer: batch_{timestamp}.json\n")
-        batch = []  # Reset batch
+        print(f"\nWritten {len(batch)} records to Bronze: batch_{timestamp}.json\n")
+        batch = []

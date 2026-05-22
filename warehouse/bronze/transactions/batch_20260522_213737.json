@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5c3342d8-ca43-45c6-83ca-44eb9bc3d548",
+    "user_id": "93f20f52-ad75-4105-bd85-aa35b84f923f",
+    "amount": 2441.99,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jonesshire",
+    "timestamp": "2026-05-22T21:37:31.554228"
+  },
+  {
+    "transaction_id": "f3ed9429-309e-4706-8111-81e922e9a9fb",
+    "user_id": "dc41d2bb-3963-4b47-a02f-9364826f8643",
+    "amount": 9571.94,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jensenstad",
+    "timestamp": "2026-05-22T21:37:32.057036"
+  },
+  {
+    "transaction_id": "49167e10-5285-48f0-aa52-ea8a19d9db4f",
+    "user_id": "14173698-e680-459f-9230-f69eaf9d9799",
+    "amount": 9172.79,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Matthewborough",
+    "timestamp": "2026-05-22T21:37:32.559662"
+  },
+  {
+    "transaction_id": "b3aa3349-0cc4-4967-80a4-f5eee60250c3",
+    "user_id": "e33002fe-3219-4d22-a8f4-0f1bdaab0ef8",
+    "amount": 606.55,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Mark",
+    "timestamp": "2026-05-22T21:37:33.061002"
+  },
+  {
+    "transaction_id": "e312c4b3-98f6-425a-8b8c-4af6982dd365",
+    "user_id": "96114566-62b3-4510-8086-91fecc0df0f4",
+    "amount": 7990.4,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Kathrynhaven",
+    "timestamp": "2026-05-22T21:37:33.562500"
+  },
+  {
+    "transaction_id": "58d18215-6a3a-4f33-aa8e-49b965cdf60d",
+    "user_id": "58aba385-5f05-43e3-ba2d-42835222c348",
+    "amount": 8460.78,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Jimmyton",
+    "timestamp": "2026-05-22T21:37:34.064651"
+  },
+  {
+    "transaction_id": "37121599-d9cc-4742-b68f-c771f38b820b",
+    "user_id": "cdb8a406-4597-4d00-8719-2399784e6c1e",
+    "amount": 6644.46,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Kristen",
+    "timestamp": "2026-05-22T21:37:35.067528"
+  },
+  {
+    "transaction_id": "db15d44c-31d5-4e8e-bdfc-7d5c4cae8730",
+    "user_id": "b9119ae1-dfd7-4df7-905f-db087f36107f",
+    "amount": 8358.92,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Bridget",
+    "timestamp": "2026-05-22T21:37:36.071523"
+  },
+  {
+    "transaction_id": "f4ebd913-f0eb-453d-98ac-a70d6d802ef8",
+    "user_id": "c29575a5-aa1c-4b26-8d4a-d8fd31778c6e",
+    "amount": 3802.25,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Cookmouth",
+    "timestamp": "2026-05-22T21:37:36.574227"
+  },
+  {
+    "transaction_id": "7d5262b0-11fd-496d-bee3-04d9c199070c",
+    "user_id": "2141fa5b-3fd3-4b75-be2d-e5c103ce46e5",
+    "amount": 8518.31,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South William",
+    "timestamp": "2026-05-22T21:37:37.578291"
+  }
+]

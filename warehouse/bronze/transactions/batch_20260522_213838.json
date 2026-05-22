@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "01b3abef-b446-436a-80ea-f676e6f07ded",
+    "user_id": "53c2119f-2ce2-4fe5-b6b9-b7ddffc43dfd",
+    "amount": 6850.77,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Brownview",
+    "timestamp": "2026-05-22T21:38:33.277507"
+  },
+  {
+    "transaction_id": "a60324c8-826f-4958-9e62-c292b838f50c",
+    "user_id": "843cf3da-70df-4051-aed7-c1684a75df5a",
+    "amount": 7285.69,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Aaron",
+    "timestamp": "2026-05-22T21:38:33.779221"
+  },
+  {
+    "transaction_id": "214f8fae-96ff-447a-9f72-8a9d9e665100",
+    "user_id": "5642b831-ffe3-4857-ac11-b21e0c547c48",
+    "amount": 3061.7,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Scott",
+    "timestamp": "2026-05-22T21:38:34.280555"
+  },
+  {
+    "transaction_id": "eb542c27-da6a-40ed-8d75-80284d84b6cc",
+    "user_id": "09253798-735f-4f30-a1e2-757c8eb090a2",
+    "amount": 9352.0,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Travisbury",
+    "timestamp": "2026-05-22T21:38:34.782409"
+  },
+  {
+    "transaction_id": "e430cc2f-3673-4093-89c1-be4af1a08f8a",
+    "user_id": "42b22ffe-eef0-4036-a546-eb72b840bfbb",
+    "amount": 6645.31,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Phillipstown",
+    "timestamp": "2026-05-22T21:38:35.284038"
+  },
+  {
+    "transaction_id": "4e923540-3a82-438a-9364-37d8e0ed93f9",
+    "user_id": "78f12197-0df0-4e60-8e90-a64877a042a9",
+    "amount": 2758.7,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Sabrinaview",
+    "timestamp": "2026-05-22T21:38:35.785507"
+  },
+  {
+    "transaction_id": "0fe92ca1-8039-41d9-951c-939e9d56f82f",
+    "user_id": "826e1d26-a285-4b9b-987d-95ab2f1ac97b",
+    "amount": 9154.66,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Michaelville",
+    "timestamp": "2026-05-22T21:38:36.287191"
+  },
+  {
+    "transaction_id": "3818c6b0-f0b2-4d6e-9d0d-13d3ded2f957",
+    "user_id": "a1c450d8-d47d-4beb-9bb0-69551bb40cc5",
+    "amount": 1921.52,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Jennifer",
+    "timestamp": "2026-05-22T21:38:36.790547"
+  },
+  {
+    "transaction_id": "65bc0305-03a0-4955-851d-4032451de420",
+    "user_id": "f062fc7e-3db4-47fc-8c84-6db7372da39d",
+    "amount": 8585.85,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Cindystad",
+    "timestamp": "2026-05-22T21:38:37.293039"
+  },
+  {
+    "transaction_id": "25b7a85a-8b7b-46bd-9b3f-3c076732e7f6",
+    "user_id": "66e05afd-803c-410f-9cc2-d0918b0de382",
+    "amount": 8385.96,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Saramouth",
+    "timestamp": "2026-05-22T21:38:38.799571"
+  }
+]

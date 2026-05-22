@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2693b1b6-6bae-459c-af3c-9af25fa8c4f1",
+    "user_id": "8be86bf1-adc4-41ab-8b90-b5720fae0f9a",
+    "amount": 7333.33,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Brian",
+    "timestamp": "2026-05-22T21:38:10.692505"
+  },
+  {
+    "transaction_id": "aaa48deb-018f-4e31-ab70-f29106c63917",
+    "user_id": "b39e6684-c7ca-4ef9-98d4-e0017ad70a03",
+    "amount": 6374.82,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Davisberg",
+    "timestamp": "2026-05-22T21:38:11.193909"
+  },
+  {
+    "transaction_id": "b87ac5a1-edb1-4989-a80a-fcdb80a17a3c",
+    "user_id": "9eadf30e-e6c7-414c-bc8d-1d8181581f8a",
+    "amount": 2932.22,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Smithtown",
+    "timestamp": "2026-05-22T21:38:11.695342"
+  },
+  {
+    "transaction_id": "d2c549ec-a430-4e81-aa07-4c530386cd05",
+    "user_id": "8d08a55f-f092-487f-99f6-1bb7728d4a49",
+    "amount": 1036.21,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Moorefort",
+    "timestamp": "2026-05-22T21:38:12.698241"
+  },
+  {
+    "transaction_id": "6c0cd65c-862f-4900-be80-f8f05f1bb268",
+    "user_id": "90e43427-e867-4d21-8d98-cf53394ca652",
+    "amount": 6349.59,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Snyderfort",
+    "timestamp": "2026-05-22T21:38:13.200041"
+  },
+  {
+    "transaction_id": "347ee69e-25e6-4dec-b71c-4f7999512ef4",
+    "user_id": "3deabe77-eef9-4f81-b58e-19d8437d5707",
+    "amount": 4826.68,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Carrieburgh",
+    "timestamp": "2026-05-22T21:38:13.701492"
+  },
+  {
+    "transaction_id": "2890b3f3-1ceb-4e9e-97b7-6ea9d55799d5",
+    "user_id": "bf1c3c8c-cf9a-4d03-84be-ae24aa9fd866",
+    "amount": 7952.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Jeffreyhaven",
+    "timestamp": "2026-05-22T21:38:14.203148"
+  },
+  {
+    "transaction_id": "3eb5cf05-9be9-4486-b882-6d37f3f0faab",
+    "user_id": "f4583b3e-6ca8-470f-bb2c-937e8f21c6c4",
+    "amount": 2617.29,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Corey",
+    "timestamp": "2026-05-22T21:38:14.704775"
+  },
+  {
+    "transaction_id": "e5cc631d-c428-4a84-bed9-67d8f695d971",
+    "user_id": "4f39e8d0-99c3-4ebe-b68a-95d2c4bd8e37",
+    "amount": 2317.92,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Johnsonside",
+    "timestamp": "2026-05-22T21:38:15.206434"
+  },
+  {
+    "transaction_id": "427889f5-d201-44ec-bfd3-64e5fb65bad2",
+    "user_id": "fdeec563-2576-4b43-85f4-f01fab65e715",
+    "amount": 6227.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Haleyview",
+    "timestamp": "2026-05-22T21:38:15.708050"
+  }
+]

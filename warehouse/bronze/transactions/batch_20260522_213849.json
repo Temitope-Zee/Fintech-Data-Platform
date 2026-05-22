@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e5dd841d-7fd9-454d-aeb9-9b6d1863a23b",
+    "user_id": "f283d8f5-3b79-4d33-82f6-55c1eda905ab",
+    "amount": 8746.83,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Morganland",
+    "timestamp": "2026-05-22T21:38:44.323392"
+  },
+  {
+    "transaction_id": "3387cbb2-e6bc-4a8d-b322-923886c70662",
+    "user_id": "2d1a3532-dc60-439f-970b-e9e789ff9daa",
+    "amount": 6089.25,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jenniferton",
+    "timestamp": "2026-05-22T21:38:44.825320"
+  },
+  {
+    "transaction_id": "2c1a9821-ea45-46e9-8501-b255a282a7de",
+    "user_id": "a0ac8439-354c-49f7-9542-380cef2d2c3c",
+    "amount": 8950.73,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Turnerfurt",
+    "timestamp": "2026-05-22T21:38:45.326621"
+  },
+  {
+    "transaction_id": "e08ec914-a8aa-42a4-845d-1d2f81c7b4ca",
+    "user_id": "f3a389e9-71a6-4b4f-ac51-5e4a4091d20f",
+    "amount": 5731.41,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Dianaview",
+    "timestamp": "2026-05-22T21:38:45.827721"
+  },
+  {
+    "transaction_id": "4c94c997-00ac-4743-b9e9-8d07e1d7cad4",
+    "user_id": "2ddf2a35-2ee4-4477-b948-d43be864081d",
+    "amount": 3583.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ericport",
+    "timestamp": "2026-05-22T21:38:46.329375"
+  },
+  {
+    "transaction_id": "178f94e4-659a-41fe-9192-c2db686bd4aa",
+    "user_id": "72e0e87f-5992-4747-ad94-882c677a2737",
+    "amount": 3463.5,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Kayla",
+    "timestamp": "2026-05-22T21:38:47.333495"
+  },
+  {
+    "transaction_id": "cb1e1daa-c2f0-4036-b381-7ff541dc07bc",
+    "user_id": "5b5ea799-3d50-4ccc-9d4e-0cd401b67c0c",
+    "amount": 3721.79,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Ariel",
+    "timestamp": "2026-05-22T21:38:47.835706"
+  },
+  {
+    "transaction_id": "e3875333-e771-4919-9196-36e97d8f9ea0",
+    "user_id": "499b6bd3-4d69-4f49-9fd8-93e2249768ea",
+    "amount": 8102.08,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Leroy",
+    "timestamp": "2026-05-22T21:38:48.337098"
+  },
+  {
+    "transaction_id": "58cbcb8a-a842-4d79-9663-27ec1975e7d1",
+    "user_id": "a7af11d6-f720-4e5f-b80f-90196fffa7c1",
+    "amount": 3447.67,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Alexanderland",
+    "timestamp": "2026-05-22T21:38:48.839576"
+  },
+  {
+    "transaction_id": "2f61ef68-b06e-47d0-9862-649d4e0bec9d",
+    "user_id": "e4924eaf-24d8-48f9-a74c-406e587b673a",
+    "amount": 3009.1,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Myersland",
+    "timestamp": "2026-05-22T21:38:49.341848"
+  }
+]
