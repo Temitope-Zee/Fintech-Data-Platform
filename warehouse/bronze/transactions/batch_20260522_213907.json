@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "44376234-5c4f-437e-872d-dbe3ab462dc4",
+    "user_id": "6a9adb37-ab8e-4a42-a7b2-90dfedc35bb3",
+    "amount": 8764.3,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Campbellville",
+    "timestamp": "2026-05-22T21:39:01.891242"
+  },
+  {
+    "transaction_id": "3ade19f0-5034-4372-8762-f3d9b3e9f51a",
+    "user_id": "d318006f-d1f3-43eb-ab94-2e22be4a34de",
+    "amount": 6069.42,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Scottshire",
+    "timestamp": "2026-05-22T21:39:02.397026"
+  },
+  {
+    "transaction_id": "ad33f9b0-f788-4ddf-a937-92a8b39837bf",
+    "user_id": "35d8616c-0d19-4939-853b-c1360bcce1e9",
+    "amount": 8656.28,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Sandra",
+    "timestamp": "2026-05-22T21:39:03.402022"
+  },
+  {
+    "transaction_id": "ce6aea84-a23a-431d-8654-59e4a74202ad",
+    "user_id": "e1f60c16-26db-4fa9-827e-75956bdf48ad",
+    "amount": 8064.54,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Richard",
+    "timestamp": "2026-05-22T21:39:03.905306"
+  },
+  {
+    "transaction_id": "441abd44-c2b7-4a00-a7e4-11cdbb436bd9",
+    "user_id": "47cce089-a2eb-424b-98e3-cb16c72b2cc2",
+    "amount": 7259.43,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Mark",
+    "timestamp": "2026-05-22T21:39:04.406922"
+  },
+  {
+    "transaction_id": "094501d5-ff30-40db-bd02-52c8ca7ab638",
+    "user_id": "a6680524-6c16-4185-bb2d-7aaf8b5a379b",
+    "amount": 3820.12,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brownbury",
+    "timestamp": "2026-05-22T21:39:04.910241"
+  },
+  {
+    "transaction_id": "d70e3b52-a54e-49d8-addf-4539a23f4e75",
+    "user_id": "34a65442-f910-4565-8cac-7154ef651c62",
+    "amount": 3854.42,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Ericland",
+    "timestamp": "2026-05-22T21:39:05.412096"
+  },
+  {
+    "transaction_id": "a4bd99d1-d1fd-428c-9638-af03fc16db67",
+    "user_id": "fa32de79-dd03-430d-8bda-80c185ffef79",
+    "amount": 5045.9,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Brianton",
+    "timestamp": "2026-05-22T21:39:06.415594"
+  },
+  {
+    "transaction_id": "fa8c2088-b028-4b23-8361-1eb74e65d0e3",
+    "user_id": "d1d4911e-2955-4534-801f-8a1b908c5a58",
+    "amount": 5003.4,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Aaronburgh",
+    "timestamp": "2026-05-22T21:39:07.421041"
+  },
+  {
+    "transaction_id": "26e806f7-d6ca-4c0c-bddb-72296bc06ac9",
+    "user_id": "31ae15b8-bc7a-4888-bd32-19ce5e05d5b3",
+    "amount": 119.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Schneidermouth",
+    "timestamp": "2026-05-22T21:39:07.924321"
+  }
+]

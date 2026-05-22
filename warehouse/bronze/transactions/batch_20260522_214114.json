@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "824ece5c-7fe6-4f5e-85cf-a3107b6c4cf7",
+    "user_id": "9820d853-fc87-4882-9227-e728b8faa6c9",
+    "amount": 9665.25,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Davidfort",
+    "timestamp": "2026-05-22T21:41:09.920021"
+  },
+  {
+    "transaction_id": "ed918a47-e6cb-44e9-8c7e-e39ab4369bef",
+    "user_id": "0753772b-422a-4bce-a1fe-0010542f3431",
+    "amount": 3319.65,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Tiffanyview",
+    "timestamp": "2026-05-22T21:41:10.421049"
+  },
+  {
+    "transaction_id": "2e2bbf45-66c6-4cde-8d25-3d49f8e5d6ba",
+    "user_id": "d51a8d4c-30ac-4850-8e84-9aa1c1c6dc2e",
+    "amount": 3819.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Wilsonfort",
+    "timestamp": "2026-05-22T21:41:10.922664"
+  },
+  {
+    "transaction_id": "1b700b3d-6368-4106-98e5-f4728a1fbe15",
+    "user_id": "c892f0c0-a0f6-4410-b1ec-ab2c6b56448d",
+    "amount": 5730.21,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Annstad",
+    "timestamp": "2026-05-22T21:41:11.424523"
+  },
+  {
+    "transaction_id": "2fee06d3-ea3a-4977-a07e-0f4a2fb80ef3",
+    "user_id": "77fa3c37-f133-4762-b567-984ffff027df",
+    "amount": 9617.25,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Amanda",
+    "timestamp": "2026-05-22T21:41:11.927437"
+  },
+  {
+    "transaction_id": "1f40498b-5b0a-412a-98ca-cc110953e332",
+    "user_id": "cbf23534-f12c-40a8-8b6b-a79ee0c0bf5f",
+    "amount": 9621.27,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Powellstad",
+    "timestamp": "2026-05-22T21:41:12.428727"
+  },
+  {
+    "transaction_id": "6daee767-d51d-4fb1-9d25-ac76c8e56c0b",
+    "user_id": "abd2df81-1541-48e3-9627-1a1424b0ae4a",
+    "amount": 5965.16,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Stephenbury",
+    "timestamp": "2026-05-22T21:41:12.930985"
+  },
+  {
+    "transaction_id": "4d935d6c-9342-4ca3-be26-21455435273a",
+    "user_id": "c5a9f3e4-51f4-42f3-ba8f-514c4af377c5",
+    "amount": 4651.79,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Salasville",
+    "timestamp": "2026-05-22T21:41:13.432937"
+  },
+  {
+    "transaction_id": "d71eefe1-7ebd-4eba-973d-4161e34c6dd0",
+    "user_id": "5fae7b90-ebcf-4c78-b69c-7f3842902aff",
+    "amount": 7918.47,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Hayleybury",
+    "timestamp": "2026-05-22T21:41:13.934295"
+  },
+  {
+    "transaction_id": "4682501c-0e0e-42b6-a3eb-028cb8563f28",
+    "user_id": "d0911e84-e330-478c-9dad-847856e4048b",
+    "amount": 7035.74,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Miguel",
+    "timestamp": "2026-05-22T21:41:14.436089"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bdebbf7e-3649-4c44-808e-f889d1f8411b",
+    "user_id": "3b907a52-1dc4-4e4e-99c6-4e4e83e06854",
+    "amount": 3164.2,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Kellyberg",
+    "timestamp": "2026-05-22T21:40:08.659953"
+  },
+  {
+    "transaction_id": "6596c3c3-dc78-43fd-9efc-8288518a8a66",
+    "user_id": "cc77d65c-5f33-4c1e-9a5b-6869417edbc3",
+    "amount": 3754.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Kennethfurt",
+    "timestamp": "2026-05-22T21:40:09.161321"
+  },
+  {
+    "transaction_id": "18f4d82d-1803-46cc-bd41-22d99a9a06e4",
+    "user_id": "4dd05d42-bc2b-402e-9281-ea6a6476182e",
+    "amount": 2238.4,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Robert",
+    "timestamp": "2026-05-22T21:40:09.662741"
+  },
+  {
+    "transaction_id": "8ad1892f-92d1-4f49-ab1d-7dcedd073e61",
+    "user_id": "c661a0b1-4586-4853-81a6-7eb65364649a",
+    "amount": 6258.46,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Juanfort",
+    "timestamp": "2026-05-22T21:40:10.164271"
+  },
+  {
+    "transaction_id": "d08ea343-eb76-4f23-94db-2e586eeccc80",
+    "user_id": "6c3145fa-3eb3-4482-a210-d2159b2a1f7d",
+    "amount": 7537.69,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Ortegaville",
+    "timestamp": "2026-05-22T21:40:11.167413"
+  },
+  {
+    "transaction_id": "9a896375-f0e4-4cf6-bf42-7d02f493f0a2",
+    "user_id": "7d630075-84c2-4ad4-a22b-68caa6ab9067",
+    "amount": 2844.35,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Christinebury",
+    "timestamp": "2026-05-22T21:40:12.171968"
+  },
+  {
+    "transaction_id": "9f762679-735d-4ef7-b019-b1f258b351c8",
+    "user_id": "8b846de7-955a-4d3b-bf88-e6af1e7cc714",
+    "amount": 2764.9,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Kristyborough",
+    "timestamp": "2026-05-22T21:40:12.674826"
+  },
+  {
+    "transaction_id": "f2c2b0b9-8a83-4582-8bef-3e0186e6464d",
+    "user_id": "78dd4c45-9f45-4956-8fe9-fec8d02a86f5",
+    "amount": 2175.19,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Yolandashire",
+    "timestamp": "2026-05-22T21:40:13.678132"
+  },
+  {
+    "transaction_id": "0475473a-acb4-496a-a2ea-f69c1f290ad3",
+    "user_id": "132ba5a8-a0a0-4bf7-ae43-413e43d2a352",
+    "amount": 6211.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Kellystad",
+    "timestamp": "2026-05-22T21:40:14.179740"
+  },
+  {
+    "transaction_id": "43209856-b6b4-4788-9051-0e528a5f89ee",
+    "user_id": "180aecef-70dd-4ef4-abce-4a054aa9127d",
+    "amount": 8354.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Lorraineport",
+    "timestamp": "2026-05-22T21:40:14.681339"
+  }
+]

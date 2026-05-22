@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "22d4c0eb-2bd3-4409-853d-e4b17b5a4593",
+    "user_id": "abf62fcc-7d65-4ecd-9fa8-c55e9eca807d",
+    "amount": 7910.16,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Donna",
+    "timestamp": "2026-05-22T21:39:35.024719"
+  },
+  {
+    "transaction_id": "194707d2-9b3f-4e56-99db-3ced665584ba",
+    "user_id": "b45938d8-c967-4bba-a8ec-43077a54949e",
+    "amount": 6907.46,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Karen",
+    "timestamp": "2026-05-22T21:39:35.527183"
+  },
+  {
+    "transaction_id": "ef8f4c7e-bf91-4329-bd29-25d20431e15e",
+    "user_id": "f85172ee-6c8c-432b-bd28-6085cbb5febb",
+    "amount": 4101.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Joseph",
+    "timestamp": "2026-05-22T21:39:36.028577"
+  },
+  {
+    "transaction_id": "548f8dc4-ab93-45d6-9e5f-15ed9bc34916",
+    "user_id": "43f81ac2-ea43-4803-8b00-eed30e7d2934",
+    "amount": 8021.19,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Stevenhaven",
+    "timestamp": "2026-05-22T21:39:36.531164"
+  },
+  {
+    "transaction_id": "c6590552-c6bf-4cf3-bce0-2c535298d253",
+    "user_id": "cf0e49a0-8597-4531-b6cb-4ee341c00a05",
+    "amount": 3614.11,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Sheliaport",
+    "timestamp": "2026-05-22T21:39:37.033071"
+  },
+  {
+    "transaction_id": "33f41c46-a1b8-4413-9b08-fbbc3d598906",
+    "user_id": "cb4fade1-4ce2-4cca-8c7d-230dba6f5b4d",
+    "amount": 6135.03,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Kylefort",
+    "timestamp": "2026-05-22T21:39:37.535898"
+  },
+  {
+    "transaction_id": "4c0a3861-2463-44ce-a8bd-fa549e619927",
+    "user_id": "37b9c281-2584-429a-8d18-3521735af211",
+    "amount": 1642.43,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Damonmouth",
+    "timestamp": "2026-05-22T21:39:38.037199"
+  },
+  {
+    "transaction_id": "aaeecbbf-19f8-4c34-bdf3-70aa09c991c0",
+    "user_id": "47e94099-2d10-4859-8690-3c461b954453",
+    "amount": 6744.8,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Geneberg",
+    "timestamp": "2026-05-22T21:39:38.539354"
+  },
+  {
+    "transaction_id": "0cb64ed6-b1d1-4f28-a9b1-a743cae646fa",
+    "user_id": "ef960420-3fe6-4d14-9ca1-15141f51e316",
+    "amount": 7885.46,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East David",
+    "timestamp": "2026-05-22T21:39:39.040984"
+  },
+  {
+    "transaction_id": "3d68f3b5-7a1f-4d57-8871-6511ffaab2b3",
+    "user_id": "60904184-c55b-472e-ae3f-d37a725ee2ef",
+    "amount": 840.74,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Pearsonfort",
+    "timestamp": "2026-05-22T21:39:39.543772"
+  }
+]

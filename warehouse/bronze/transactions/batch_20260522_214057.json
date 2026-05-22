@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5f05f2d9-d2fe-469b-9995-20bde2b2daed",
+    "user_id": "6ded14a7-2910-42f4-9280-ebbe07c71b5c",
+    "amount": 9682.36,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Janicebury",
+    "timestamp": "2026-05-22T21:40:52.351725"
+  },
+  {
+    "transaction_id": "582ce6dc-9a41-4552-a75b-481bffbfdecd",
+    "user_id": "ce4ab85e-387a-4be9-bf54-dcf5feaa9d3e",
+    "amount": 6643.98,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Christineton",
+    "timestamp": "2026-05-22T21:40:52.853405"
+  },
+  {
+    "transaction_id": "55da6eeb-410d-44fb-83c7-bc1845b1c63a",
+    "user_id": "3d34f6d6-5432-433b-948b-58154c0b088b",
+    "amount": 7650.92,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Robertshire",
+    "timestamp": "2026-05-22T21:40:53.356268"
+  },
+  {
+    "transaction_id": "5ea704f4-7d60-487b-b836-965f97d83b3d",
+    "user_id": "e441b46e-9ab4-45ea-9594-b619fc17d612",
+    "amount": 2991.6,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Lindsay",
+    "timestamp": "2026-05-22T21:40:53.859064"
+  },
+  {
+    "transaction_id": "8e227441-6136-48cc-8bf9-af5418ac0a83",
+    "user_id": "f93dce0a-8b4d-43ac-bc99-81ee68c6fd6b",
+    "amount": 9080.36,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Oconnorchester",
+    "timestamp": "2026-05-22T21:40:54.360905"
+  },
+  {
+    "transaction_id": "40e3a18a-56e9-4360-bfed-49cef10a940a",
+    "user_id": "d0513671-862e-4cbe-9535-20d2c3ce2e93",
+    "amount": 7677.51,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Matthewhaven",
+    "timestamp": "2026-05-22T21:40:54.862333"
+  },
+  {
+    "transaction_id": "da208cfc-8ac7-453a-9830-6b92c8c0f0b5",
+    "user_id": "057a63b9-762d-4177-8923-3028e4f45610",
+    "amount": 5854.47,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Phillipborough",
+    "timestamp": "2026-05-22T21:40:55.365017"
+  },
+  {
+    "transaction_id": "8c880aea-9e9b-49ef-987e-f479b70ac3c5",
+    "user_id": "471e0598-cf66-458e-aa44-dfd8af96aaf7",
+    "amount": 9173.02,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Daniel",
+    "timestamp": "2026-05-22T21:40:56.368954"
+  },
+  {
+    "transaction_id": "8bc63c21-6301-4a26-a586-7258a48c6f02",
+    "user_id": "bdc8cbb6-d5a5-4702-9592-88f800663c8e",
+    "amount": 1664.15,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Greenbury",
+    "timestamp": "2026-05-22T21:40:56.870029"
+  },
+  {
+    "transaction_id": "20d38d74-dea0-4492-a50f-cd9c1daf81c9",
+    "user_id": "53b2f23f-3eff-40af-959e-8b5764932387",
+    "amount": 2330.54,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Jessicafort",
+    "timestamp": "2026-05-22T21:40:57.371085"
+  }
+]

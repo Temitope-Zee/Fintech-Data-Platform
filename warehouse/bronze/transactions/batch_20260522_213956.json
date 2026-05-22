@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "84351d7e-0176-443b-9425-9ba58d26102f",
+    "user_id": "837a9ed7-435f-4b35-8ec9-c8cfe8b1663a",
+    "amount": 9744.64,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Melanie",
+    "timestamp": "2026-05-22T21:39:51.598211"
+  },
+  {
+    "transaction_id": "f74680a4-2535-4f0e-9580-5437df917a9a",
+    "user_id": "9fb8748e-6f24-43cc-9c4c-592cbb04c778",
+    "amount": 4251.32,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Jasmineton",
+    "timestamp": "2026-05-22T21:39:52.099866"
+  },
+  {
+    "transaction_id": "c176085f-89e8-4601-a493-659037e7b4b4",
+    "user_id": "550bce53-a840-4079-b982-27316cde4e67",
+    "amount": 6368.73,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Adambury",
+    "timestamp": "2026-05-22T21:39:52.601354"
+  },
+  {
+    "transaction_id": "c8039ec4-7519-4ada-ab9f-dcc3a250b0bc",
+    "user_id": "6b74d3d4-dfb2-4488-a6be-b65b074df0c2",
+    "amount": 6957.63,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Josephmouth",
+    "timestamp": "2026-05-22T21:39:53.101440"
+  },
+  {
+    "transaction_id": "3cd1d991-ba55-4f52-a663-8429410515a2",
+    "user_id": "6c278c9b-0592-41ed-a3fa-64c7574eb703",
+    "amount": 5787.2,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Tammychester",
+    "timestamp": "2026-05-22T21:39:53.603646"
+  },
+  {
+    "transaction_id": "dedd0477-27cf-4812-b478-ac79d914271e",
+    "user_id": "c175adc4-b3fe-4173-850a-1b9e2f4d4271",
+    "amount": 3167.34,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Jeffreybury",
+    "timestamp": "2026-05-22T21:39:54.105141"
+  },
+  {
+    "transaction_id": "bc8b1289-58b6-4cae-a429-b8c1920f03ff",
+    "user_id": "f1289f1a-aca0-4f37-ae35-627c778002f4",
+    "amount": 8259.47,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Tylerborough",
+    "timestamp": "2026-05-22T21:39:54.606735"
+  },
+  {
+    "transaction_id": "dfabffc1-e9e8-46fe-ab3a-41986ccc0aca",
+    "user_id": "ffc23dee-a3ae-4fa7-bc91-32a0d7cb7c93",
+    "amount": 1932.64,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Danielleview",
+    "timestamp": "2026-05-22T21:39:55.611307"
+  },
+  {
+    "transaction_id": "6b3ba978-48ab-4b15-b71c-3629f084c60b",
+    "user_id": "2f46663d-1523-4754-86b5-e4380459b804",
+    "amount": 6575.13,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Barbaramouth",
+    "timestamp": "2026-05-22T21:39:56.112703"
+  },
+  {
+    "transaction_id": "f890a042-998e-4418-996f-60e57c54482c",
+    "user_id": "46858e3f-54cb-4ed1-a97d-c4c34e4d8e6e",
+    "amount": 4034.01,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnsonberg",
+    "timestamp": "2026-05-22T21:39:56.614168"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3fb6b34b-3727-47e6-a8c4-5b0738f91a55",
+    "user_id": "aa8d4826-aeed-4b5f-bfb8-ec55420c7fac",
+    "amount": 5211.78,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Kenneth",
+    "timestamp": "2026-05-22T21:39:14.954114"
+  },
+  {
+    "transaction_id": "1c9e000b-c22f-4199-a289-3a09812ec3f8",
+    "user_id": "2df00d13-7f8f-41e5-973b-512a6d7d904b",
+    "amount": 2096.5,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Ashlee",
+    "timestamp": "2026-05-22T21:39:15.455448"
+  },
+  {
+    "transaction_id": "5c4fb2f7-c227-4641-964e-4699a9e5690c",
+    "user_id": "095f0bbc-c55a-4976-9023-79c681003a0c",
+    "amount": 2038.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Brandy",
+    "timestamp": "2026-05-22T21:39:16.959939"
+  },
+  {
+    "transaction_id": "d56717b6-ec52-4ec4-bb13-e162f13ccb22",
+    "user_id": "d7e2c19a-eedf-4ed6-8f2b-c327a1a03a91",
+    "amount": 3505.95,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Stevenburgh",
+    "timestamp": "2026-05-22T21:39:17.461142"
+  },
+  {
+    "transaction_id": "ee3a6439-7033-4b7d-9fbb-9ea0eb4fa7b2",
+    "user_id": "c2681571-cc23-42bf-932b-b37d9418ce52",
+    "amount": 7412.94,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Franklinport",
+    "timestamp": "2026-05-22T21:39:17.962597"
+  },
+  {
+    "transaction_id": "26352734-6d3c-417c-aee2-435b46d300b0",
+    "user_id": "8357b7dd-d3ef-4ed6-b21b-0a2c2f22ee98",
+    "amount": 9015.37,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kellyfort",
+    "timestamp": "2026-05-22T21:39:18.464278"
+  },
+  {
+    "transaction_id": "bf205743-d832-4d83-938b-e8ebcf547106",
+    "user_id": "8d776418-c9f9-42a4-82e0-622ef6065820",
+    "amount": 6168.32,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Michaelberg",
+    "timestamp": "2026-05-22T21:39:19.467017"
+  },
+  {
+    "transaction_id": "94fecc33-3420-4bbb-bb35-df71bb5ea4e2",
+    "user_id": "24b6e10a-b755-48a6-be54-4c369eaeb73d",
+    "amount": 9507.76,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Jason",
+    "timestamp": "2026-05-22T21:39:19.969824"
+  },
+  {
+    "transaction_id": "e4c6d467-7283-4ff6-8b38-0b0e7aea6481",
+    "user_id": "c1a96a34-1a55-4334-8659-edaabbd3870a",
+    "amount": 8816.21,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Richardstad",
+    "timestamp": "2026-05-22T21:39:20.471253"
+  },
+  {
+    "transaction_id": "4b8f20a4-1573-463f-a036-3b0b69ba908c",
+    "user_id": "cf51cf18-dc14-483b-be24-4051c1feba21",
+    "amount": 3861.21,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Tanya",
+    "timestamp": "2026-05-22T21:39:21.476134"
+  }
+]

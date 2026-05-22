@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6cdcdf87-ff18-428b-9bc5-8f21a77ff944",
+    "user_id": "d6c24e25-971a-4a40-8ca0-c9c901fe65f1",
+    "amount": 6996.73,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Gregoryton",
+    "timestamp": "2026-05-22T21:39:29.001270"
+  },
+  {
+    "transaction_id": "e1572a84-9f25-4aec-be14-52513cfa4e37",
+    "user_id": "78703349-98f2-444a-949e-446d0617e3df",
+    "amount": 2371.28,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Sheilahaven",
+    "timestamp": "2026-05-22T21:39:29.504146"
+  },
+  {
+    "transaction_id": "353241f6-1ec8-4fa9-b56f-ee9053ffd484",
+    "user_id": "22c1e0a2-b57c-4ceb-824f-89dcc7fd03e7",
+    "amount": 1558.91,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Maurice",
+    "timestamp": "2026-05-22T21:39:30.508210"
+  },
+  {
+    "transaction_id": "62f73e59-d1fc-4c53-ac2c-fac6e0913755",
+    "user_id": "07dedab5-3258-4ba6-99e8-11a744b55ba9",
+    "amount": 542.17,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Patrickhaven",
+    "timestamp": "2026-05-22T21:39:31.010505"
+  },
+  {
+    "transaction_id": "99642e81-d94e-4b00-91b4-6782451a8897",
+    "user_id": "c7c93fa0-605a-4dc1-80a1-0c608b524401",
+    "amount": 5577.34,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Alexander",
+    "timestamp": "2026-05-22T21:39:31.511843"
+  },
+  {
+    "transaction_id": "f4f4ca97-e307-44ab-a1f2-897b8a33de78",
+    "user_id": "0bf849e5-78eb-4b12-ba7a-952b20f73df8",
+    "amount": 690.89,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Eugene",
+    "timestamp": "2026-05-22T21:39:32.012922"
+  },
+  {
+    "transaction_id": "b0be5234-671c-428d-bd3b-1d7a578b420e",
+    "user_id": "85117969-6539-460c-9ea6-3287fd4234ff",
+    "amount": 8957.65,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Seanmouth",
+    "timestamp": "2026-05-22T21:39:33.017916"
+  },
+  {
+    "transaction_id": "cd8b5bb5-1c11-4ccc-b052-49db814cea58",
+    "user_id": "f0d42695-57ac-47e9-b71e-2ad944d88318",
+    "amount": 7625.67,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Christopherview",
+    "timestamp": "2026-05-22T21:39:33.519186"
+  },
+  {
+    "transaction_id": "2380c5f8-f130-408b-bebe-92a68f3f0e4b",
+    "user_id": "3f654af8-aed7-4641-af4d-f61cbf88ca33",
+    "amount": 1624.09,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Jeremiahhaven",
+    "timestamp": "2026-05-22T21:39:34.021902"
+  },
+  {
+    "transaction_id": "9fcaa020-bbbe-40f6-8430-59632290a12c",
+    "user_id": "1ed1e598-d24c-4777-8f26-d26d301a1376",
+    "amount": 7521.05,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Collierton",
+    "timestamp": "2026-05-22T21:39:34.523427"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d49d4b97-c3d4-4029-98b0-17c0eeafb56a",
+    "user_id": "c690c0a7-730d-451b-8c90-c24a767c4d95",
+    "amount": 7964.29,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Johnnyton",
+    "timestamp": "2026-05-22T21:40:32.771324"
+  },
+  {
+    "transaction_id": "29c732ad-5128-48c7-a107-4a54f1659089",
+    "user_id": "eb04167d-516a-440a-9eed-3606d7ef4e87",
+    "amount": 5593.73,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Elizabethshire",
+    "timestamp": "2026-05-22T21:40:33.273967"
+  },
+  {
+    "transaction_id": "5854212e-87dd-4af1-ac10-4ed7a3afd952",
+    "user_id": "3d339907-bc92-43d8-b7d2-06608b44f0df",
+    "amount": 259.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Craigville",
+    "timestamp": "2026-05-22T21:40:33.775251"
+  },
+  {
+    "transaction_id": "b26539ae-f554-4b28-ace9-8b8a8fef5795",
+    "user_id": "eb89e161-5388-4314-8f6f-68028b519ca9",
+    "amount": 6306.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Markland",
+    "timestamp": "2026-05-22T21:40:34.276682"
+  },
+  {
+    "transaction_id": "9b44ef29-7393-4caf-8e29-56d0bd7894d4",
+    "user_id": "945f4b9d-736c-427d-82a4-85256ce023a9",
+    "amount": 8247.67,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Andrewstad",
+    "timestamp": "2026-05-22T21:40:34.779581"
+  },
+  {
+    "transaction_id": "71812e75-f922-4981-a3db-00bb12b5dc55",
+    "user_id": "1e443f75-2a04-455f-a2d1-b441f7bbfc0e",
+    "amount": 4317.14,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Andrewport",
+    "timestamp": "2026-05-22T21:40:36.285428"
+  },
+  {
+    "transaction_id": "4d86a562-c9b5-4676-ba86-aaf518cc7eff",
+    "user_id": "0508409a-5d40-4862-80c7-87ec47891733",
+    "amount": 4132.16,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Evansshire",
+    "timestamp": "2026-05-22T21:40:36.787401"
+  },
+  {
+    "transaction_id": "d9b82c03-047d-4dd0-91e6-a3137357ea40",
+    "user_id": "58fa9740-bdd7-4bf5-a166-f9bb4a53760e",
+    "amount": 4594.84,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Ericksonburgh",
+    "timestamp": "2026-05-22T21:40:37.288927"
+  },
+  {
+    "transaction_id": "a597a602-d457-4b88-957b-2605df774f59",
+    "user_id": "97b9aba4-6ce8-45f8-b737-5d806c181c3a",
+    "amount": 5229.61,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Jon",
+    "timestamp": "2026-05-22T21:40:37.790702"
+  },
+  {
+    "transaction_id": "4f9a4362-2d56-4baf-b430-5ea31d04aebe",
+    "user_id": "3bda3dc0-b780-4596-b6f1-c199c9321d50",
+    "amount": 7784.61,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Jade",
+    "timestamp": "2026-05-22T21:40:38.292277"
+  }
+]

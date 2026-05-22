@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "352a8721-d1f2-4ac8-a709-c8f252ed4f49",
+    "user_id": "c52256b2-8401-42d5-b34a-f2bced20dbdb",
+    "amount": 3304.9,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Carmenborough",
+    "timestamp": "2026-05-22T21:39:57.116611"
+  },
+  {
+    "transaction_id": "6bc70474-38d8-4c2d-913f-f0dad9304176",
+    "user_id": "a880599c-0f45-4e1b-984e-5aba42377559",
+    "amount": 3247.45,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Christineport",
+    "timestamp": "2026-05-22T21:39:57.617808"
+  },
+  {
+    "transaction_id": "73efffc7-95d4-44ee-8016-815033380900",
+    "user_id": "9a737275-5151-4768-898a-894a7b8cd06f",
+    "amount": 2077.74,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Mariah",
+    "timestamp": "2026-05-22T21:39:59.120957"
+  },
+  {
+    "transaction_id": "043c0698-876b-4bf3-bef5-8cb518bc69ae",
+    "user_id": "ba6d4587-2b5c-42d8-b0e9-bc43dd94457b",
+    "amount": 4466.95,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Walterbury",
+    "timestamp": "2026-05-22T21:39:59.623540"
+  },
+  {
+    "transaction_id": "2c99ce03-9694-474f-ab00-64614e3f9a85",
+    "user_id": "f2e47922-c2cd-4a46-9e35-8efc4fffd7e1",
+    "amount": 5783.23,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Traceychester",
+    "timestamp": "2026-05-22T21:40:00.124962"
+  },
+  {
+    "transaction_id": "ef024445-046f-418d-9031-e6b987293fc4",
+    "user_id": "8a1e6232-9d3a-41f3-abb4-e5e5c7de3fc9",
+    "amount": 8785.76,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Anthonyland",
+    "timestamp": "2026-05-22T21:40:00.627010"
+  },
+  {
+    "transaction_id": "9a13004a-2739-4d8a-af6f-756877199190",
+    "user_id": "a0d85811-b0b4-49d3-ba6d-15f9da278fcf",
+    "amount": 471.27,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Caitlinmouth",
+    "timestamp": "2026-05-22T21:40:01.128511"
+  },
+  {
+    "transaction_id": "ac4bb1db-2ebb-47d6-b545-4686d0a11909",
+    "user_id": "e50d4d0e-78f8-41e2-8fc5-00efb44dc1e4",
+    "amount": 9050.19,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Jack",
+    "timestamp": "2026-05-22T21:40:01.629824"
+  },
+  {
+    "transaction_id": "6856ead4-3837-424f-ae31-dc6405f7e433",
+    "user_id": "a94e394e-33f2-4166-b008-2a473096fbb8",
+    "amount": 5980.0,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Nicholas",
+    "timestamp": "2026-05-22T21:40:02.635786"
+  },
+  {
+    "transaction_id": "03aed29b-fd26-4f74-b343-4d737e89b615",
+    "user_id": "29227c24-dbde-468b-b5d8-1c53b8a33e70",
+    "amount": 6315.96,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Murrayfurt",
+    "timestamp": "2026-05-22T21:40:03.137345"
+  }
+]

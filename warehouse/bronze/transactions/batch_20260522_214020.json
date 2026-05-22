@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "93ebe789-f240-4c46-8d5d-148fdac5fe0a",
+    "user_id": "4dbac46e-3fd9-4d1e-8b52-08252f0df43d",
+    "amount": 5605.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Drewside",
+    "timestamp": "2026-05-22T21:40:15.182762"
+  },
+  {
+    "transaction_id": "3f8f1052-9043-4d8f-b4a0-af59c0535904",
+    "user_id": "9bcda6af-5693-4b7d-a7d1-bca506178cd6",
+    "amount": 9687.13,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Melissabury",
+    "timestamp": "2026-05-22T21:40:15.685967"
+  },
+  {
+    "transaction_id": "f804db92-ffa9-45c9-98f7-cac4823bafe7",
+    "user_id": "4417c3db-305d-4daf-bd35-ece296df5691",
+    "amount": 2138.71,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Marksville",
+    "timestamp": "2026-05-22T21:40:16.187644"
+  },
+  {
+    "transaction_id": "2baf2967-e393-4989-9244-cd6a95289e55",
+    "user_id": "752ee553-57a9-41d6-98a6-4917e7b041c3",
+    "amount": 2801.23,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Careyville",
+    "timestamp": "2026-05-22T21:40:16.689180"
+  },
+  {
+    "transaction_id": "964667bd-754d-475b-974b-bde1924ca80a",
+    "user_id": "bcc17b9a-2624-432d-8d20-44841b173afa",
+    "amount": 1086.01,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Wagnerview",
+    "timestamp": "2026-05-22T21:40:17.190768"
+  },
+  {
+    "transaction_id": "2f3a0a42-2862-4f32-9155-cb306a26d497",
+    "user_id": "61a861a2-a0a3-49a9-b60d-486c5820b418",
+    "amount": 3542.9,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Veronicaview",
+    "timestamp": "2026-05-22T21:40:17.693387"
+  },
+  {
+    "transaction_id": "f40ce376-ff23-46e8-b251-64b4c52c8ecb",
+    "user_id": "6e5efde1-ae71-4380-8cb9-24d151048652",
+    "amount": 6891.69,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Tiffany",
+    "timestamp": "2026-05-22T21:40:18.698377"
+  },
+  {
+    "transaction_id": "98527fc3-b111-45f2-84f0-a1ecf2a0aef1",
+    "user_id": "21592df6-104c-4c66-ad53-0f63e28ee45c",
+    "amount": 889.89,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Jamesland",
+    "timestamp": "2026-05-22T21:40:19.201896"
+  },
+  {
+    "transaction_id": "7c279425-7ded-4130-8827-67b947b64b2b",
+    "user_id": "5bc2d2ab-98a9-4741-8894-439f9947cfdb",
+    "amount": 1765.9,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Karenfurt",
+    "timestamp": "2026-05-22T21:40:19.703434"
+  },
+  {
+    "transaction_id": "4182cd5b-83ab-4da8-b131-b6dff5bc058e",
+    "user_id": "ac68c093-b113-4aee-a1ed-36f19af01f74",
+    "amount": 6604.21,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Shellymouth",
+    "timestamp": "2026-05-22T21:40:20.708108"
+  }
+]

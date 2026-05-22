@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "63790705-96d3-4d8a-920b-b2fe237b8322",
+    "user_id": "3d9f892b-b08c-4ab2-93ef-8c1dedf9a6e6",
+    "amount": 8782.95,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Audreyshire",
+    "timestamp": "2026-05-22T21:38:56.870135"
+  },
+  {
+    "transaction_id": "9b5fcb43-6495-4067-a3e5-9a7e38acaea1",
+    "user_id": "8ca3ca3e-2eff-4c8d-9f4c-0917d8193ea3",
+    "amount": 7914.03,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Andrea",
+    "timestamp": "2026-05-22T21:38:57.371580"
+  },
+  {
+    "transaction_id": "234bdedb-a1d0-446d-9d25-b67f9ed70dad",
+    "user_id": "c9887a3a-f1ca-440f-be40-c4f748a2ac5e",
+    "amount": 522.16,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Michelle",
+    "timestamp": "2026-05-22T21:38:57.873320"
+  },
+  {
+    "transaction_id": "1f83b1b1-0d97-4531-98d2-8c5b88f9e52f",
+    "user_id": "5581a137-a9c0-4d42-a401-d8a22eca5d18",
+    "amount": 1638.63,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Robinfort",
+    "timestamp": "2026-05-22T21:38:58.376206"
+  },
+  {
+    "transaction_id": "cf721781-adeb-4b65-bdc8-25c2ceba7d12",
+    "user_id": "f4231663-1ff6-4e6d-8330-6159ff963ce9",
+    "amount": 7546.77,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Nicholas",
+    "timestamp": "2026-05-22T21:38:58.878654"
+  },
+  {
+    "transaction_id": "ca8d37ed-5376-4cec-a426-73af9ce66794",
+    "user_id": "2478f063-84a0-4110-917c-ccfb8bc495fa",
+    "amount": 260.73,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Lisaville",
+    "timestamp": "2026-05-22T21:38:59.380300"
+  },
+  {
+    "transaction_id": "4f142295-f29f-4a02-b1b1-98ae4d417a25",
+    "user_id": "1aa2665a-597a-40ed-b515-029ac4bdeaa2",
+    "amount": 5333.42,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Timothychester",
+    "timestamp": "2026-05-22T21:38:59.882882"
+  },
+  {
+    "transaction_id": "1a4cc824-96cc-461e-8146-71683ac0b299",
+    "user_id": "07f2d819-b99f-4f7a-881d-fd821baf1598",
+    "amount": 2212.72,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Romerochester",
+    "timestamp": "2026-05-22T21:39:00.384433"
+  },
+  {
+    "transaction_id": "1ba8992d-13bf-44bc-bdd2-b64bb067b029",
+    "user_id": "b305c09c-9ff8-4c6c-a5f8-ce0cf81a0751",
+    "amount": 1634.34,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Gabrielborough",
+    "timestamp": "2026-05-22T21:39:00.885798"
+  },
+  {
+    "transaction_id": "3070d649-076b-47e7-914a-f4a734993699",
+    "user_id": "69a183b8-6d4a-402a-9519-7ddfdf19e703",
+    "amount": 2038.64,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Petersonfurt",
+    "timestamp": "2026-05-22T21:39:01.387352"
+  }
+]

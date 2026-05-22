@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f22d34f7-eb0f-4ca6-8505-2c887bed8862",
+    "user_id": "5cb643f2-f217-47ff-bd41-ca9f06ab4dc8",
+    "amount": 517.87,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Jessicastad",
+    "timestamp": "2026-05-22T21:40:03.639891"
+  },
+  {
+    "transaction_id": "b2d24de2-df12-40d0-bcbf-e94aaed945dc",
+    "user_id": "77edb8fb-1561-4516-a94e-c04638f4a16c",
+    "amount": 4911.09,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Richardmouth",
+    "timestamp": "2026-05-22T21:40:04.142452"
+  },
+  {
+    "transaction_id": "ef80f881-e361-49ba-a5f7-ef8e0c8001de",
+    "user_id": "dee74c4b-448e-4236-9822-acaa1032751c",
+    "amount": 1793.9,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Williamland",
+    "timestamp": "2026-05-22T21:40:04.643947"
+  },
+  {
+    "transaction_id": "d24d5d37-c69a-495a-8059-e6cba57418e7",
+    "user_id": "ed13766b-7e2d-4349-9132-3e0f303b9378",
+    "amount": 1793.25,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Stephenbury",
+    "timestamp": "2026-05-22T21:40:05.146380"
+  },
+  {
+    "transaction_id": "491cfb18-4823-4f48-b026-b406be877fb7",
+    "user_id": "779f34fa-972e-4a5d-b498-457d4d399003",
+    "amount": 9227.77,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Holly",
+    "timestamp": "2026-05-22T21:40:05.647978"
+  },
+  {
+    "transaction_id": "14094f1a-2706-436f-a933-0ad4e7adaa2e",
+    "user_id": "b8956b0d-b1ab-4fef-9510-dddb9a0327d6",
+    "amount": 8257.99,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Mistyville",
+    "timestamp": "2026-05-22T21:40:06.150689"
+  },
+  {
+    "transaction_id": "860d66e9-db0d-4482-a466-6ee035f95ecd",
+    "user_id": "7ebfbd0c-20fc-4665-be1c-8872d84f4748",
+    "amount": 1830.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Gabrielfort",
+    "timestamp": "2026-05-22T21:40:06.653543"
+  },
+  {
+    "transaction_id": "82d74504-4d0a-42d9-bf4c-7ab7aa6826e2",
+    "user_id": "e7da2906-b05a-4a1c-8d87-47fc7dc6ca55",
+    "amount": 3347.94,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Denniston",
+    "timestamp": "2026-05-22T21:40:07.154983"
+  },
+  {
+    "transaction_id": "82ed7bf3-a15f-44dc-b1ff-5fbc5827f709",
+    "user_id": "f59f6017-93f2-4e8e-b5e9-064e65fe485f",
+    "amount": 669.5,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Amyshire",
+    "timestamp": "2026-05-22T21:40:07.656848"
+  },
+  {
+    "transaction_id": "bbfac9e5-c83a-449f-9fdc-74f394d111de",
+    "user_id": "3a40e6ee-cdf5-44c1-af1e-c08343bfcc1b",
+    "amount": 6515.97,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Andersonport",
+    "timestamp": "2026-05-22T21:40:08.158443"
+  }
+]
