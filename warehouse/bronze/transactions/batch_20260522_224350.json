@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f6c83795-18bf-4f92-bbbc-b6d1c26e0f17",
+    "user_id": "00188cad-da83-42bd-8c30-fa81235a2335",
+    "amount": 2242.56,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Robertborough",
+    "timestamp": "2026-05-22T22:43:44.355656"
+  },
+  {
+    "transaction_id": "47f52af2-c7e8-414d-b357-ac97a33faf8e",
+    "user_id": "8f901ea3-b893-4180-b823-8e0afb6e7578",
+    "amount": 1388.56,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Andrewchester",
+    "timestamp": "2026-05-22T22:43:44.856958"
+  },
+  {
+    "transaction_id": "bdfc5a94-df30-4fe0-91f3-68b2963692af",
+    "user_id": "a2ca5204-06a0-4775-95f3-6a0199204b77",
+    "amount": 7609.71,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Karen",
+    "timestamp": "2026-05-22T22:43:45.358267"
+  },
+  {
+    "transaction_id": "06623a31-cac4-4de9-b214-055cc341efe3",
+    "user_id": "3425dc6a-6352-455f-ab33-f50c7767af71",
+    "amount": 5329.52,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Matthewport",
+    "timestamp": "2026-05-22T22:43:46.361800"
+  },
+  {
+    "transaction_id": "b34792c9-cbac-4a04-ada6-562c1e651d53",
+    "user_id": "522b94db-742f-49cd-8e90-b1601a44f0db",
+    "amount": 7683.8,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Amandaton",
+    "timestamp": "2026-05-22T22:43:46.863524"
+  },
+  {
+    "transaction_id": "77746203-c6b7-4f97-a164-96dfc5a7aadf",
+    "user_id": "198ab97d-b94f-4680-8168-7063fac7abfa",
+    "amount": 3976.57,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Sarahburgh",
+    "timestamp": "2026-05-22T22:43:47.365781"
+  },
+  {
+    "transaction_id": "26fa224d-35af-4a85-b12d-7a6e7e92abfe",
+    "user_id": "15b3d790-eff2-46a3-ad75-1ad2f2ced47a",
+    "amount": 3604.24,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Thomasbury",
+    "timestamp": "2026-05-22T22:43:47.867409"
+  },
+  {
+    "transaction_id": "d0fb2bea-2b9a-4af8-b47e-b1e8bd5fb69f",
+    "user_id": "bc0e62a3-79e2-42b9-80f8-b72a40004db3",
+    "amount": 2457.1,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Liborough",
+    "timestamp": "2026-05-22T22:43:48.368991"
+  },
+  {
+    "transaction_id": "646db7ed-88de-4aa6-b05d-763de10f914a",
+    "user_id": "8e77c846-8934-4ffa-bad3-edad4723e49e",
+    "amount": 2120.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jamesville",
+    "timestamp": "2026-05-22T22:43:49.873249"
+  },
+  {
+    "transaction_id": "2b2df3dc-745f-4daa-9ee6-a4614b063769",
+    "user_id": "23bcd6cb-22bf-4f1d-9ef9-3858199cb611",
+    "amount": 6423.33,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Vincentborough",
+    "timestamp": "2026-05-22T22:43:50.374642"
+  }
+]

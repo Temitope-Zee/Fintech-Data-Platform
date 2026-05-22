@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c65d7bdc-7b41-4124-91a0-cce25eff1091",
+    "user_id": "9bfb6e9c-4071-472d-bcb7-b82859500096",
+    "amount": 8357.16,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Donald",
+    "timestamp": "2026-05-22T22:20:05.891715"
+  },
+  {
+    "transaction_id": "c7fd3aea-c48f-4a86-88eb-33e3bb0b3396",
+    "user_id": "e49cc496-bb9f-4d9e-98ea-f2b52a09bc5b",
+    "amount": 2406.95,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Robertbury",
+    "timestamp": "2026-05-22T22:20:06.394721"
+  },
+  {
+    "transaction_id": "de61b220-f87d-4c65-b951-b2df7dc5e74f",
+    "user_id": "57447888-5d49-43c2-ae0f-eeb280cfbf0c",
+    "amount": 4038.27,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Taylorborough",
+    "timestamp": "2026-05-22T22:20:06.896883"
+  },
+  {
+    "transaction_id": "7c51c1c0-40a5-4c67-a38f-e9fcb6eb186e",
+    "user_id": "da91ef0b-dd08-40fb-a85c-d5175f26e19f",
+    "amount": 6817.62,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Daltontown",
+    "timestamp": "2026-05-22T22:20:07.398808"
+  },
+  {
+    "transaction_id": "cd8839d6-a316-46b7-a515-3b3c930442e9",
+    "user_id": "758d9fdf-b5c6-4632-905d-5edb0bee37bc",
+    "amount": 5449.6,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Garnerstad",
+    "timestamp": "2026-05-22T22:20:07.900323"
+  },
+  {
+    "transaction_id": "4a8dff2f-47b5-43c2-ba82-a1f994229d2b",
+    "user_id": "003c9a48-4959-4dca-a48b-ac67f66f9e42",
+    "amount": 4758.27,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Anthonyborough",
+    "timestamp": "2026-05-22T22:20:08.402188"
+  },
+  {
+    "transaction_id": "72d31edb-4675-427c-b384-6ef9c4e99de1",
+    "user_id": "35732407-e5f2-4b53-ab02-5e9265c02937",
+    "amount": 9923.28,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Gary",
+    "timestamp": "2026-05-22T22:20:08.904028"
+  },
+  {
+    "transaction_id": "089fa4af-666e-4e81-a2e1-b2206243186a",
+    "user_id": "5c366023-bcfa-40f2-990b-ce626fbc8063",
+    "amount": 9082.89,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Walkertown",
+    "timestamp": "2026-05-22T22:20:09.407806"
+  },
+  {
+    "transaction_id": "bafb9173-c8b4-4af1-bc8b-acc21be57194",
+    "user_id": "4db78476-5cd6-4c39-83cf-5405ffa02639",
+    "amount": 1055.5,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Rosarioburgh",
+    "timestamp": "2026-05-22T22:20:09.911477"
+  },
+  {
+    "transaction_id": "cab6f99c-e4d3-42c7-85ee-ed6ad6e7fee4",
+    "user_id": "559e6a9c-9f69-48b4-a935-df7b0a53bbbf",
+    "amount": 502.73,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Rachael",
+    "timestamp": "2026-05-22T22:20:10.406875"
+  }
+]

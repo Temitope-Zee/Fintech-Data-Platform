@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bac71ae2-f046-43a7-9b11-71371a5bf932",
+    "user_id": "00a9a243-4ed9-400f-86e3-5ed423082f7d",
+    "amount": 1022.75,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Christopherside",
+    "timestamp": "2026-05-22T21:47:32.009474"
+  },
+  {
+    "transaction_id": "f5bb5a43-d809-4c37-bd30-f512aae498ba",
+    "user_id": "a2382beb-1af1-499f-97ec-4955b9fdbb7f",
+    "amount": 5939.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Tina",
+    "timestamp": "2026-05-22T21:47:33.016500"
+  },
+  {
+    "transaction_id": "ca39e8f4-8e62-41a1-a95c-036ed3bdf3ca",
+    "user_id": "128750a3-96f7-4cba-bff2-8584ae28a45f",
+    "amount": 7074.11,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Susanfort",
+    "timestamp": "2026-05-22T21:47:33.520777"
+  },
+  {
+    "transaction_id": "aa87d99b-1c5c-462c-837d-05842a4028ea",
+    "user_id": "beb3b262-70cd-4b62-a22a-52d59c446925",
+    "amount": 6979.66,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Williamborough",
+    "timestamp": "2026-05-22T21:47:34.022722"
+  },
+  {
+    "transaction_id": "080c5adf-ee2c-4bbd-8b1c-b4d7cb3b3c38",
+    "user_id": "049b8a9a-0efb-4283-abba-68199ba1ca90",
+    "amount": 2750.92,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Ashley",
+    "timestamp": "2026-05-22T21:47:34.525995"
+  },
+  {
+    "transaction_id": "fbe515b7-e7aa-4941-ae63-06545d05865b",
+    "user_id": "be4d6b8e-bbc0-4d88-bd65-e9c8debb6f21",
+    "amount": 6926.17,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Judithstad",
+    "timestamp": "2026-05-22T21:47:35.027490"
+  },
+  {
+    "transaction_id": "dac64fbb-c34e-4389-a605-b6266e3e2b03",
+    "user_id": "c94605fd-4199-49cc-96e1-2aa00ddcceac",
+    "amount": 4769.99,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Scottville",
+    "timestamp": "2026-05-22T21:47:35.529356"
+  },
+  {
+    "transaction_id": "63b76455-fe1a-477a-92bc-68600e881c87",
+    "user_id": "61f6a467-1ca1-46a7-81c5-b4e4d63ffda9",
+    "amount": 9970.55,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Phillipfurt",
+    "timestamp": "2026-05-22T21:47:36.031447"
+  },
+  {
+    "transaction_id": "0f30867c-7d0f-49c4-94bb-8a7a2ef692e7",
+    "user_id": "1934127b-d641-4977-b025-d47ce77b65f3",
+    "amount": 1632.44,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Zachary",
+    "timestamp": "2026-05-22T21:47:36.534455"
+  },
+  {
+    "transaction_id": "073f6b34-a8ea-492f-bedd-849b74295016",
+    "user_id": "9b478731-74d9-49df-9ad8-fe02291f624e",
+    "amount": 2719.51,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Curtisside",
+    "timestamp": "2026-05-22T21:47:37.035852"
+  }
+]

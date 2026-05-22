@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0147b5da-178f-4889-aeae-54ee6507b6ac",
+    "user_id": "c8bf2017-fdb0-4d22-a208-7701bf589518",
+    "amount": 9328.46,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Tiffanyshire",
+    "timestamp": "2026-05-22T22:41:21.808344"
+  },
+  {
+    "transaction_id": "ec688c7f-8253-4f4a-86e4-f5ba41f87670",
+    "user_id": "8d8e3d11-a73a-4852-a154-774ec3bb53fd",
+    "amount": 5801.45,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Blackhaven",
+    "timestamp": "2026-05-22T22:41:22.309923"
+  },
+  {
+    "transaction_id": "08b013ce-8682-4fc8-8215-3a239f79a585",
+    "user_id": "29ff9301-d82d-413f-aa23-18d741ba52f8",
+    "amount": 9432.88,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Paul",
+    "timestamp": "2026-05-22T22:41:23.312853"
+  },
+  {
+    "transaction_id": "dd6ea7d1-6b5e-4730-a4bd-a650553e8f00",
+    "user_id": "849f7cee-ed1c-44f5-af68-80eedcb5fe67",
+    "amount": 6919.38,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Markborough",
+    "timestamp": "2026-05-22T22:41:24.315621"
+  },
+  {
+    "transaction_id": "c134909d-a4e2-4105-aff4-0a76e7641e89",
+    "user_id": "d792c2cd-0016-4e6d-ac73-6851b4971f76",
+    "amount": 3880.11,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Annetteview",
+    "timestamp": "2026-05-22T22:41:24.817087"
+  },
+  {
+    "transaction_id": "8caa60bf-5f9e-48b2-915e-fe70b9945a39",
+    "user_id": "eabcd16f-674c-4199-a0a9-6587da2d4fb5",
+    "amount": 6312.38,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Caitlin",
+    "timestamp": "2026-05-22T22:41:25.319776"
+  },
+  {
+    "transaction_id": "09b0089a-3390-4184-a8a5-bf8429415dca",
+    "user_id": "98b78dc7-f33c-48e8-b355-cc9455222408",
+    "amount": 9864.17,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Micheal",
+    "timestamp": "2026-05-22T22:41:25.822941"
+  },
+  {
+    "transaction_id": "0fe28cb0-9b64-44c1-9e40-3f3a9dce93c1",
+    "user_id": "a1933c2a-6a42-4559-9684-ce77acc73b50",
+    "amount": 7740.53,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Oliverport",
+    "timestamp": "2026-05-22T22:41:26.324499"
+  },
+  {
+    "transaction_id": "3cf24cdc-aa2d-41a1-a1c1-2d85e24157fa",
+    "user_id": "d3549497-4bc0-4546-8570-bd3b35cd83e1",
+    "amount": 8894.33,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Monicaland",
+    "timestamp": "2026-05-22T22:41:26.827386"
+  },
+  {
+    "transaction_id": "888176d7-fafd-4a5c-8ee1-7a66a8fc4121",
+    "user_id": "e1538f64-17c3-48d2-aa37-98e03d7467cd",
+    "amount": 8846.29,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Laurenfurt",
+    "timestamp": "2026-05-22T22:41:27.327627"
+  }
+]

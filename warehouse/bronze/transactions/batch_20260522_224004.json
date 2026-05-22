@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "03919909-214c-4eec-aa32-009260e8c1fb",
+    "user_id": "b5f07b00-3835-488a-9e11-0ac65c4ea0c4",
+    "amount": 5081.5,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Pinedafort",
+    "timestamp": "2026-05-22T22:39:57.470885"
+  },
+  {
+    "transaction_id": "b3d3c183-d8be-46f9-9945-686d7d4c0be8",
+    "user_id": "042d9979-6080-477c-afc3-45a1a3794aca",
+    "amount": 9252.35,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Jeremychester",
+    "timestamp": "2026-05-22T22:39:57.973177"
+  },
+  {
+    "transaction_id": "55c1a319-9d0b-45f7-857a-9b86d00c4e93",
+    "user_id": "52ec81f9-4715-40f2-a538-375ec52c4709",
+    "amount": 6222.7,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Jamesbury",
+    "timestamp": "2026-05-22T22:39:58.475071"
+  },
+  {
+    "transaction_id": "5702c508-6a7e-431c-a296-ff8dc47ad573",
+    "user_id": "d8dea79a-18f2-45a7-8f9d-1bbfaef1ecbc",
+    "amount": 2123.08,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lisashire",
+    "timestamp": "2026-05-22T22:39:58.976701"
+  },
+  {
+    "transaction_id": "0aa5692e-34fa-40b6-bfc3-43355bfae91e",
+    "user_id": "15ffcd65-2f3a-4b26-a8ac-cd3315457f2a",
+    "amount": 6470.25,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Alexishaven",
+    "timestamp": "2026-05-22T22:39:59.478280"
+  },
+  {
+    "transaction_id": "9dced2e9-eb35-4c37-bb89-d9242382bf18",
+    "user_id": "bc2b2a82-8fc9-4fe9-94ad-af94debf504a",
+    "amount": 4805.2,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Harrisonfurt",
+    "timestamp": "2026-05-22T22:40:00.482310"
+  },
+  {
+    "transaction_id": "b75cee9c-705c-4f56-a671-548804cc2361",
+    "user_id": "3a224a7a-fdb2-4db2-9926-a06b7cc0ed0e",
+    "amount": 8799.42,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Staceybury",
+    "timestamp": "2026-05-22T22:40:01.487407"
+  },
+  {
+    "transaction_id": "db06a3f2-22f2-47ca-b856-e73debbb6931",
+    "user_id": "788d6dee-06b2-470c-a2a2-9b3b3f948725",
+    "amount": 7707.83,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Tammy",
+    "timestamp": "2026-05-22T22:40:01.988931"
+  },
+  {
+    "transaction_id": "8d9f27af-64a7-4997-8a3c-f90280ae74b3",
+    "user_id": "104aa820-4918-4bfe-9b9a-7ec2b88be1d2",
+    "amount": 5851.28,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Katherine",
+    "timestamp": "2026-05-22T22:40:03.493775"
+  },
+  {
+    "transaction_id": "07b80a79-8fce-4f69-a286-5ed1d80f459f",
+    "user_id": "fcfb2c94-2c6d-4ebc-93a6-94f29c45a4d9",
+    "amount": 3003.28,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Davidbury",
+    "timestamp": "2026-05-22T22:40:03.995659"
+  }
+]

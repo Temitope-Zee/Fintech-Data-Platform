@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c9a40347-9bc4-44ef-8c67-e05bb94974e4",
+    "user_id": "bbeee129-1edb-48c6-8d41-aaee36e1d370",
+    "amount": 1969.74,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Rachel",
+    "timestamp": "2026-05-22T22:19:30.255456"
+  },
+  {
+    "transaction_id": "c70d16b4-9583-4507-b843-54460316f4c4",
+    "user_id": "55094d9a-3748-4432-b424-4d5bb8f63683",
+    "amount": 2045.0,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Benjamin",
+    "timestamp": "2026-05-22T22:19:31.259238"
+  },
+  {
+    "transaction_id": "a14cfca8-934c-4381-8469-82d12ca09183",
+    "user_id": "2da7e20f-bbc2-44c7-b476-19dc4901a93e",
+    "amount": 1737.62,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Rebekahstad",
+    "timestamp": "2026-05-22T22:19:31.760796"
+  },
+  {
+    "transaction_id": "67d70291-e42a-4025-b488-1c3444ad0c7a",
+    "user_id": "7ffc8190-8e76-4bdb-967d-67ffd5e9bc7f",
+    "amount": 2641.83,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Whiteview",
+    "timestamp": "2026-05-22T22:19:32.263625"
+  },
+  {
+    "transaction_id": "81a3416d-c906-44ef-b9ad-7b71dc57e189",
+    "user_id": "8ce77333-abbb-4aa8-a4fb-890519e987a7",
+    "amount": 3416.91,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Taylorhaven",
+    "timestamp": "2026-05-22T22:19:32.765301"
+  },
+  {
+    "transaction_id": "ef3923c6-e0b3-40d0-afd7-3d6eba32973b",
+    "user_id": "ec5cb890-e407-4ff7-9e3a-ff9388a2d228",
+    "amount": 2807.92,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Sarahside",
+    "timestamp": "2026-05-22T22:19:33.267063"
+  },
+  {
+    "transaction_id": "27644b3a-b195-4c47-b56b-4318c88c9fd9",
+    "user_id": "e9988a47-23bc-4713-a62b-5cd6d3b34d8c",
+    "amount": 9522.4,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Riverashire",
+    "timestamp": "2026-05-22T22:19:33.768478"
+  },
+  {
+    "transaction_id": "e4d2fe3f-930e-479f-81dd-367051e07aef",
+    "user_id": "66351acd-c84f-42cd-b422-b24553711c1d",
+    "amount": 1167.11,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Michaelhaven",
+    "timestamp": "2026-05-22T22:19:34.771132"
+  },
+  {
+    "transaction_id": "7fa4bc29-49b2-4ccb-9581-f80d0779c962",
+    "user_id": "7efd7a42-ff22-415a-bb3c-fbcfb51f6caa",
+    "amount": 7230.06,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Angelamouth",
+    "timestamp": "2026-05-22T22:19:35.272661"
+  },
+  {
+    "transaction_id": "047d01b3-c7ff-4815-bf92-dab348071e1b",
+    "user_id": "bbea7859-93a5-45d8-b967-cd06820ce23e",
+    "amount": 2348.28,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Sheliashire",
+    "timestamp": "2026-05-22T22:19:35.773856"
+  }
+]

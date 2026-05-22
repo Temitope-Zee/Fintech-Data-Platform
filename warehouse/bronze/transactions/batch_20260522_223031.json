@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ae3cf15c-042e-495d-bec5-b022b566f59e",
+    "user_id": "788ff31a-3a57-488d-b848-4504e647b091",
+    "amount": 2008.59,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Deborahhaven",
+    "timestamp": "2026-05-22T22:30:26.472781"
+  },
+  {
+    "transaction_id": "974e4696-6af1-4dd6-a068-a7fb2c884357",
+    "user_id": "06063b02-424c-4e9b-85b8-0ea5e00a46f7",
+    "amount": 4495.47,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Ashleyland",
+    "timestamp": "2026-05-22T22:30:26.974897"
+  },
+  {
+    "transaction_id": "5f08943e-ebe5-46db-8832-cdf487de373c",
+    "user_id": "7bb6ca16-713e-461d-a502-599ed4689557",
+    "amount": 2276.41,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Alexandershire",
+    "timestamp": "2026-05-22T22:30:27.476891"
+  },
+  {
+    "transaction_id": "1709a39f-f455-47a0-818d-3671a597480e",
+    "user_id": "a7e0ded3-ae3d-477a-b006-5ea7895fe1ad",
+    "amount": 830.69,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Adamsfort",
+    "timestamp": "2026-05-22T22:30:27.980211"
+  },
+  {
+    "transaction_id": "678f9d3a-c041-4dbe-8ab2-9bb78f5db140",
+    "user_id": "44c8d3ba-c061-4cb3-8949-b9de6d64c238",
+    "amount": 6183.16,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Larsonborough",
+    "timestamp": "2026-05-22T22:30:28.482431"
+  },
+  {
+    "transaction_id": "3db738e1-d58b-45da-9397-dab21dedef4e",
+    "user_id": "74f42249-8a8a-4301-ac08-216633b51501",
+    "amount": 7499.93,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Paulborough",
+    "timestamp": "2026-05-22T22:30:28.984977"
+  },
+  {
+    "transaction_id": "d71995d5-ec8f-4c5d-9393-00fc339586e1",
+    "user_id": "044baf55-ef0e-4090-83d4-51d633deb0a6",
+    "amount": 9566.75,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Heather",
+    "timestamp": "2026-05-22T22:30:29.490745"
+  },
+  {
+    "transaction_id": "6e8dd49f-b271-4631-98be-4adb9648497e",
+    "user_id": "c46466ff-4e52-466d-a1f2-da41bebba675",
+    "amount": 9944.53,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Brian",
+    "timestamp": "2026-05-22T22:30:29.992619"
+  },
+  {
+    "transaction_id": "0be72918-3e2c-4c1c-bac4-0fddac88b0fd",
+    "user_id": "bd290ca1-96db-4042-acc6-19210d3bcebc",
+    "amount": 7335.95,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Sandra",
+    "timestamp": "2026-05-22T22:30:30.497252"
+  },
+  {
+    "transaction_id": "14e10957-5b5c-444f-86d1-cca0600b12fc",
+    "user_id": "299c1589-8cdb-418b-9cfd-f15c1b6b89d7",
+    "amount": 4078.95,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Melissa",
+    "timestamp": "2026-05-22T22:30:30.999297"
+  }
+]

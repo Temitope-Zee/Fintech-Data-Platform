@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0b891f2c-8a92-48ab-a2c5-fb059626bda8",
+    "user_id": "83560b29-9c0a-408f-ad23-fc0bc1751c70",
+    "amount": 7837.97,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Eduardoville",
+    "timestamp": "2026-05-22T22:58:38.489662"
+  },
+  {
+    "transaction_id": "6ab24294-e573-4481-bafc-5443608b5b37",
+    "user_id": "3c07e09f-4988-48d8-8f46-3e0374bede1c",
+    "amount": 7636.69,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Webbburgh",
+    "timestamp": "2026-05-22T22:58:38.991685"
+  },
+  {
+    "transaction_id": "0b2a5dc8-81eb-4f03-ba91-3dea8f2ad909",
+    "user_id": "f01fd63e-0305-4917-8e04-9ecacfc6e174",
+    "amount": 13.46,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Christopherton",
+    "timestamp": "2026-05-22T22:58:39.494446"
+  },
+  {
+    "transaction_id": "2c32681f-a142-49d7-b4e8-5676ede9f994",
+    "user_id": "3effb0d3-930f-44be-a348-33d78938059a",
+    "amount": 1113.19,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Michaelport",
+    "timestamp": "2026-05-22T22:58:39.995853"
+  },
+  {
+    "transaction_id": "aa452ce5-8aea-4607-80ce-0d2a1146bd5e",
+    "user_id": "7de543d3-d188-4eb2-85b6-b33567967685",
+    "amount": 3444.04,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Bryanside",
+    "timestamp": "2026-05-22T22:58:40.497527"
+  },
+  {
+    "transaction_id": "17b27d14-80d2-47a1-b6bd-dd25a776d7e3",
+    "user_id": "c9d88752-ce87-441f-895b-3fd573ebe75d",
+    "amount": 1348.53,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Emily",
+    "timestamp": "2026-05-22T22:58:40.999525"
+  },
+  {
+    "transaction_id": "cedaf77e-fc64-4634-a1df-700bfcfe8034",
+    "user_id": "b89c5fcd-a1c3-49f2-9cb6-9c75a2417731",
+    "amount": 3090.18,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Maryhaven",
+    "timestamp": "2026-05-22T22:58:41.501129"
+  },
+  {
+    "transaction_id": "bd03b509-410c-467b-8766-7d6371af7143",
+    "user_id": "eb6f091f-416c-4085-a73e-e8f1aeb003d8",
+    "amount": 6252.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Shellychester",
+    "timestamp": "2026-05-22T22:58:42.002345"
+  },
+  {
+    "transaction_id": "b0e7ca74-a630-4ef9-8076-efc7cd796e9a",
+    "user_id": "4e277911-38ab-4b6c-be03-8b024c593b4c",
+    "amount": 3525.63,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Richardberg",
+    "timestamp": "2026-05-22T22:58:42.503632"
+  },
+  {
+    "transaction_id": "0b1332ed-7117-4f5a-ae67-755f4f3895e8",
+    "user_id": "a9f3fd56-aec4-4208-bc35-5c34d114f2eb",
+    "amount": 6272.28,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Riveraborough",
+    "timestamp": "2026-05-22T22:58:43.508548"
+  }
+]

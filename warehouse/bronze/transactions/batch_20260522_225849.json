@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0647e6a3-b946-49fd-bcbe-547b795c60f9",
+    "user_id": "1a388c0a-2e37-4ec7-a04f-a3cbbde77d27",
+    "amount": 3009.4,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Vincenttown",
+    "timestamp": "2026-05-22T22:58:44.010261"
+  },
+  {
+    "transaction_id": "e23263e4-dde4-47b3-bbd7-ad022d22f275",
+    "user_id": "9f7cebbe-0618-47d3-9eb2-e167a58f14f0",
+    "amount": 9122.85,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Domingueztown",
+    "timestamp": "2026-05-22T22:58:44.511813"
+  },
+  {
+    "transaction_id": "90d05860-f2e8-41b9-bb03-084986a606fd",
+    "user_id": "4ebc77b5-9f57-45e5-9a14-32ad26cb1793",
+    "amount": 1889.36,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Edwardside",
+    "timestamp": "2026-05-22T22:58:45.013625"
+  },
+  {
+    "transaction_id": "5d1198a6-0cdb-4f5c-8515-73286c53e954",
+    "user_id": "3172338c-18e3-40f4-859e-cb7b764fd206",
+    "amount": 4216.18,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Frederickland",
+    "timestamp": "2026-05-22T22:58:46.017715"
+  },
+  {
+    "transaction_id": "dc3dc4da-f94d-46ff-bb85-aede5d3a0944",
+    "user_id": "775b4e5b-8d14-42d8-9c5e-422a19fb9bf0",
+    "amount": 2848.97,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Dawnfurt",
+    "timestamp": "2026-05-22T22:58:46.518979"
+  },
+  {
+    "transaction_id": "d9c4b1e4-0bcf-4bad-82e3-8b99668ed38e",
+    "user_id": "01727aad-cb56-4c51-b288-1115aa095fe7",
+    "amount": 6850.44,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Mcdanielport",
+    "timestamp": "2026-05-22T22:58:47.021871"
+  },
+  {
+    "transaction_id": "bbd00413-ce69-4090-9541-dabf199828d3",
+    "user_id": "80a766ab-66ee-48b7-90c5-8ef3606ec614",
+    "amount": 8362.62,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Oliviaside",
+    "timestamp": "2026-05-22T22:58:48.024775"
+  },
+  {
+    "transaction_id": "6e5a846d-6af5-48c5-83cd-b3d7088b508b",
+    "user_id": "ec5273ba-601e-49f9-9d05-4fa4bb53a0c1",
+    "amount": 4977.24,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Christopher",
+    "timestamp": "2026-05-22T22:58:48.526108"
+  },
+  {
+    "transaction_id": "49aab2c1-ef5c-41b8-915c-ef1c5f3a7b54",
+    "user_id": "ab807026-01c7-4b4d-a8ec-0da542c835d5",
+    "amount": 8247.43,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Amy",
+    "timestamp": "2026-05-22T22:58:49.028264"
+  },
+  {
+    "transaction_id": "24d05eac-9d09-4247-b10b-a708b60d9504",
+    "user_id": "d12be83a-e0d9-4f38-96f6-db56e011983f",
+    "amount": 4110.33,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Jacobhaven",
+    "timestamp": "2026-05-22T22:58:49.529467"
+  }
+]

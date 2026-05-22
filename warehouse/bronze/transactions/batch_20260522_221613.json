@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "909da3e7-5bde-47fd-abf8-b2f5a7e4e151",
+    "user_id": "799041c7-a168-4542-a144-4174632a002d",
+    "amount": 9835.82,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Parkerside",
+    "timestamp": "2026-05-22T22:16:08.447095"
+  },
+  {
+    "transaction_id": "3db8b062-ea53-49e6-93fc-012678afece8",
+    "user_id": "63c3868c-2bcb-46b2-8b63-acc4df19d1d8",
+    "amount": 2150.47,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Barbara",
+    "timestamp": "2026-05-22T22:16:08.950262"
+  },
+  {
+    "transaction_id": "4bb43589-d1e4-4b3f-b9bf-55a8a1fdad60",
+    "user_id": "da68196c-8933-4124-9880-a44fc2b84b06",
+    "amount": 7779.78,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Patriciaborough",
+    "timestamp": "2026-05-22T22:16:09.453100"
+  },
+  {
+    "transaction_id": "34d21f06-4d0d-48a3-9bbd-ddc61694fcbd",
+    "user_id": "1834b764-d4b9-4fda-9783-a129a3c5c40a",
+    "amount": 3780.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Gonzalezfort",
+    "timestamp": "2026-05-22T22:16:09.956074"
+  },
+  {
+    "transaction_id": "69e74781-ee01-4c54-8dea-1da307e23110",
+    "user_id": "055a772e-4f60-4c10-b44d-3d6f57a96e17",
+    "amount": 2999.0,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Karen",
+    "timestamp": "2026-05-22T22:16:10.455240"
+  },
+  {
+    "transaction_id": "bce465ac-7af7-4684-9c10-180b2c189b32",
+    "user_id": "ee25e069-998a-4afe-b1df-731f994a500d",
+    "amount": 4808.71,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Sylviashire",
+    "timestamp": "2026-05-22T22:16:10.958209"
+  },
+  {
+    "transaction_id": "b5471baa-0c7b-4f80-9614-6d66214da56d",
+    "user_id": "e5853770-c2c3-4e29-a47e-9e9593bec79b",
+    "amount": 8930.57,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kennethhaven",
+    "timestamp": "2026-05-22T22:16:11.460915"
+  },
+  {
+    "transaction_id": "22e31d9c-532a-4654-be8b-d402c57b5a18",
+    "user_id": "50bbde14-f48d-4cf0-9e17-3b901a6c52a1",
+    "amount": 7088.34,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Donnaton",
+    "timestamp": "2026-05-22T22:16:11.964131"
+  },
+  {
+    "transaction_id": "23edac5f-68d5-4cb0-9979-e1e9a3c0cdc5",
+    "user_id": "81620b48-0d43-455c-aaa3-241862ff7d02",
+    "amount": 8786.31,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Pruittfort",
+    "timestamp": "2026-05-22T22:16:12.465620"
+  },
+  {
+    "transaction_id": "daf4bd0b-7977-42e7-84dd-58a6b95b7ac7",
+    "user_id": "87368d5f-3279-4ed7-968f-3a1f586721f2",
+    "amount": 6054.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Ellen",
+    "timestamp": "2026-05-22T22:16:13.972092"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8530f17c-92a9-4c80-9ca6-9b2dfe17dbf0",
+    "user_id": "038733b4-8f3b-49ac-93ad-5fe2bf81b30f",
+    "amount": 4657.44,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Gavinton",
+    "timestamp": "2026-05-22T22:59:44.723982"
+  },
+  {
+    "transaction_id": "272aef9a-6bf8-47aa-b931-c369e0d742ae",
+    "user_id": "03faf0ca-0f7a-444a-a1d3-14a76893aed8",
+    "amount": 3698.96,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Robertmouth",
+    "timestamp": "2026-05-22T22:59:45.225029"
+  },
+  {
+    "transaction_id": "8e173628-691b-4d86-8f5a-00be9b8ac22d",
+    "user_id": "1b778900-5fc2-46f7-b768-b3dfca0f66de",
+    "amount": 302.2,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Melissaview",
+    "timestamp": "2026-05-22T22:59:45.726362"
+  },
+  {
+    "transaction_id": "c9f229e2-c10c-46f3-945b-e42b23d5fcc5",
+    "user_id": "ffd4f7be-fd18-445b-9ea9-2bb7ff37a72d",
+    "amount": 404.84,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Marthaton",
+    "timestamp": "2026-05-22T22:59:46.227461"
+  },
+  {
+    "transaction_id": "271a79b5-64ed-44e7-88e3-d033ad6fc700",
+    "user_id": "d5127f35-5cd9-4c26-ba38-a2297e01c7f3",
+    "amount": 110.89,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Meaganport",
+    "timestamp": "2026-05-22T22:59:46.728746"
+  },
+  {
+    "transaction_id": "248b64d3-73cf-40ec-9554-c0d0fa4c30ad",
+    "user_id": "00b10725-773c-41e0-88e8-44f409511581",
+    "amount": 7646.65,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Thompsonmouth",
+    "timestamp": "2026-05-22T22:59:47.230286"
+  },
+  {
+    "transaction_id": "5cdc599d-ea46-4a77-9a1e-3d63c86abebd",
+    "user_id": "857e3563-c48d-4b18-bcec-00a5e4d32bdb",
+    "amount": 5328.11,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Molinaview",
+    "timestamp": "2026-05-22T22:59:47.731902"
+  },
+  {
+    "transaction_id": "a9229ff9-5807-45a8-8c9c-436f0e9f5bfc",
+    "user_id": "74c137ef-e532-49e1-99c8-a881d5c2191b",
+    "amount": 9362.67,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Vanessabury",
+    "timestamp": "2026-05-22T22:59:48.233205"
+  },
+  {
+    "transaction_id": "6195c5b6-2352-4861-bf34-fa018b723892",
+    "user_id": "f107045f-b4e7-4a9b-bbb7-1379b86e2f94",
+    "amount": 5903.27,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Bruceburgh",
+    "timestamp": "2026-05-22T22:59:48.734370"
+  },
+  {
+    "transaction_id": "6f387e21-f5f6-4d56-977d-566b1439a0d6",
+    "user_id": "f5371a99-c9fc-401a-b5cf-48b6f58a6066",
+    "amount": 8360.89,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Caitlinchester",
+    "timestamp": "2026-05-22T22:59:49.236510"
+  }
+]

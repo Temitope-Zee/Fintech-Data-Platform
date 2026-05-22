@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "70c7d271-4c73-4b5e-9c19-0476412531fb",
+    "user_id": "2a5beea6-7913-45ca-9412-72f25f78c157",
+    "amount": 1448.45,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Alexis",
+    "timestamp": "2026-05-22T22:13:27.802221"
+  },
+  {
+    "transaction_id": "0c75d610-f8ff-4b82-9014-d0b87474355f",
+    "user_id": "2084b985-45e3-439d-8540-047d2e5be613",
+    "amount": 1678.71,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Kristin",
+    "timestamp": "2026-05-22T22:13:28.303668"
+  },
+  {
+    "transaction_id": "9283e72c-8430-4669-9b1f-f5e6cf277318",
+    "user_id": "d375f45f-dd17-42e9-9be0-1878adaf962d",
+    "amount": 6224.29,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Adamville",
+    "timestamp": "2026-05-22T22:13:28.805036"
+  },
+  {
+    "transaction_id": "2ab4f145-bf57-4dfd-bdd7-b883ca6e3da0",
+    "user_id": "459d8cbd-4b05-4b87-8c27-ed356e58a6f5",
+    "amount": 3604.34,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Priscillaside",
+    "timestamp": "2026-05-22T22:13:29.306296"
+  },
+  {
+    "transaction_id": "89e80c79-674c-4cb3-92ea-b165eea1ed4e",
+    "user_id": "5a3ea897-bb14-4d22-9f9e-766ed5dbd202",
+    "amount": 4358.1,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Brittanystad",
+    "timestamp": "2026-05-22T22:13:29.807510"
+  },
+  {
+    "transaction_id": "f062c40c-8901-45ab-9fa0-04b201adbe99",
+    "user_id": "72b82373-1d99-4a18-99c9-d00e652d0af5",
+    "amount": 657.18,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Aaronmouth",
+    "timestamp": "2026-05-22T22:13:30.309055"
+  },
+  {
+    "transaction_id": "b50bfa68-b393-40a4-8693-0292f77806da",
+    "user_id": "af6d0414-91cb-4e41-97c7-447753b7dbf2",
+    "amount": 2440.18,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Joshuahaven",
+    "timestamp": "2026-05-22T22:13:31.313716"
+  },
+  {
+    "transaction_id": "d61b4eaa-6175-4ba6-8b51-132a1c214475",
+    "user_id": "b32eb664-728b-432c-8c31-67676be21671",
+    "amount": 3125.05,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Timothyport",
+    "timestamp": "2026-05-22T22:13:31.815109"
+  },
+  {
+    "transaction_id": "77044f97-258c-45db-b797-c0fc5a394ba2",
+    "user_id": "26057228-082b-4c7f-9c9c-c8944c4b9dee",
+    "amount": 4785.02,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jasonstad",
+    "timestamp": "2026-05-22T22:13:32.316561"
+  },
+  {
+    "transaction_id": "4009102a-8be9-4c2a-a272-deacdf8b529e",
+    "user_id": "b0497d5a-ee5b-438c-9279-49eb7837973e",
+    "amount": 6250.94,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Joshuaborough",
+    "timestamp": "2026-05-22T22:13:32.817797"
+  }
+]

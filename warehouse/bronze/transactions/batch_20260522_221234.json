@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "36a5c5a5-e9fd-4a8e-b117-7b6c3c6353d5",
+    "user_id": "527a04c7-6514-40c7-a871-d7000affe59b",
+    "amount": 1479.89,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Barbarahaven",
+    "timestamp": "2026-05-22T22:12:29.066345"
+  },
+  {
+    "transaction_id": "8653258b-f6da-4f9a-a274-6a296020d4da",
+    "user_id": "48cbff96-f952-4454-a318-f55fc9879110",
+    "amount": 2440.73,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Andersenchester",
+    "timestamp": "2026-05-22T22:12:29.568255"
+  },
+  {
+    "transaction_id": "2c1d61f8-a7a9-4881-8bfa-f0f598a9f6ad",
+    "user_id": "46471841-af0d-4d93-ac02-eae682015000",
+    "amount": 472.48,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Austinborough",
+    "timestamp": "2026-05-22T22:12:30.070215"
+  },
+  {
+    "transaction_id": "2ce36149-288f-452f-8028-212b00687b83",
+    "user_id": "ed7ee59a-0dda-44d0-82c1-5ca2a39175f5",
+    "amount": 817.96,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Johnstad",
+    "timestamp": "2026-05-22T22:12:30.572188"
+  },
+  {
+    "transaction_id": "90c2634c-1bec-412a-8dda-08672957aad7",
+    "user_id": "8908a654-77d9-4d54-949c-0d0881b5f2b3",
+    "amount": 944.31,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Kurt",
+    "timestamp": "2026-05-22T22:12:31.073922"
+  },
+  {
+    "transaction_id": "276c96ee-cc18-4989-983c-1d0ee9fa886c",
+    "user_id": "2e48d813-1570-475c-8074-daf5f8b9b168",
+    "amount": 1315.58,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Stacey",
+    "timestamp": "2026-05-22T22:12:32.079097"
+  },
+  {
+    "transaction_id": "58c4a814-aa5f-44dd-9766-25b0a35a7f15",
+    "user_id": "d3e0ab27-1fc8-4995-83d6-068308bd68e0",
+    "amount": 4229.35,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Birdfurt",
+    "timestamp": "2026-05-22T22:12:32.580926"
+  },
+  {
+    "transaction_id": "b5273320-976d-4d42-893f-f7f71b9084f1",
+    "user_id": "4a4f7410-9aad-49aa-b1c4-fc672b333ebe",
+    "amount": 2106.69,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New William",
+    "timestamp": "2026-05-22T22:12:33.082450"
+  },
+  {
+    "transaction_id": "45cd27fa-4d03-4a17-bf96-8da8b0c817a1",
+    "user_id": "098b7495-805a-42cf-9e28-99b911bf2005",
+    "amount": 3519.96,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Thomasville",
+    "timestamp": "2026-05-22T22:12:33.585403"
+  },
+  {
+    "transaction_id": "391ef37d-88cc-4c39-b993-f01b40b4d765",
+    "user_id": "90181998-bdbf-48d0-b7a3-fae3ba220f54",
+    "amount": 3749.79,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Amy",
+    "timestamp": "2026-05-22T22:12:34.087922"
+  }
+]

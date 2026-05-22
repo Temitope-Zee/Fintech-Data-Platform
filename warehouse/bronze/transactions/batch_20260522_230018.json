@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ad616791-d142-4464-bf62-da3f8363e33a",
+    "user_id": "65b0dd90-bb90-469c-979a-4a75a63a3009",
+    "amount": 6235.24,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Sanchezburgh",
+    "timestamp": "2026-05-22T23:00:13.834044"
+  },
+  {
+    "transaction_id": "1a28f1cd-5b4a-4997-833f-d16ff6538fca",
+    "user_id": "ace0f63d-d38b-4505-b1ad-0c6f1b950228",
+    "amount": 918.26,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Ewingburgh",
+    "timestamp": "2026-05-22T23:00:14.335782"
+  },
+  {
+    "transaction_id": "cb99ec09-6c7e-4d8c-9c37-6377e7da12a2",
+    "user_id": "3fff9382-c028-4bdb-8845-f25dd6544086",
+    "amount": 8736.56,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Butlerside",
+    "timestamp": "2026-05-22T23:00:14.838323"
+  },
+  {
+    "transaction_id": "f2fe6398-9376-4dcc-a3b1-b702cedff085",
+    "user_id": "1a9a0563-fe8c-455e-828c-5ad805fdb553",
+    "amount": 9131.33,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Daleport",
+    "timestamp": "2026-05-22T23:00:15.339967"
+  },
+  {
+    "transaction_id": "8108ee8f-1b1e-45dc-8581-c2f463729b77",
+    "user_id": "0a8da618-04c6-4787-ba6a-5a5c5f79e3b6",
+    "amount": 9533.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North James",
+    "timestamp": "2026-05-22T23:00:15.841587"
+  },
+  {
+    "transaction_id": "160b0d56-a2d4-4191-9ece-09efd6c7a49c",
+    "user_id": "87b7ca3c-ecc3-4aff-b042-07859aba6250",
+    "amount": 1932.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Williamsside",
+    "timestamp": "2026-05-22T23:00:16.344385"
+  },
+  {
+    "transaction_id": "3151da10-c10e-41bc-bbaa-3e62a166acea",
+    "user_id": "9844a49f-c05a-47c3-842b-8f6cf5fb28e3",
+    "amount": 7014.62,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Dean",
+    "timestamp": "2026-05-22T23:00:16.847014"
+  },
+  {
+    "transaction_id": "a98046b1-5cd7-485a-a377-be8a68b141fb",
+    "user_id": "b7c7e393-18b3-4c82-8ba4-cad188dabfb2",
+    "amount": 554.3,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Williamborough",
+    "timestamp": "2026-05-22T23:00:17.348400"
+  },
+  {
+    "transaction_id": "f2f5786c-75c6-4f4d-9d31-d828f282ce14",
+    "user_id": "a16436af-7328-4d81-b6c9-7aba0fb8ba3e",
+    "amount": 1697.3,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Griffinchester",
+    "timestamp": "2026-05-22T23:00:17.852055"
+  },
+  {
+    "transaction_id": "08c41026-1683-4d71-9a36-3a7283fce4f2",
+    "user_id": "1fb49a4a-876f-4ee2-8900-7f4e784518f9",
+    "amount": 7162.14,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South John",
+    "timestamp": "2026-05-22T23:00:18.353195"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ec1848af-627e-4e50-b678-741afa174307",
+    "user_id": "a52a8504-1451-43b2-8626-c357b6bdec1c",
+    "amount": 4475.09,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Brian",
+    "timestamp": "2026-05-22T21:44:48.834464"
+  },
+  {
+    "transaction_id": "2eab995c-aa30-4f16-ba49-98a981b5c454",
+    "user_id": "9f24964f-2ccb-4515-ba8f-5acdb6272c74",
+    "amount": 4224.85,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Randall",
+    "timestamp": "2026-05-22T21:44:49.839317"
+  },
+  {
+    "transaction_id": "b770e487-3e06-4699-a23e-3b91e00da56f",
+    "user_id": "a16d9cf7-260b-46a1-ab26-b8559c86a738",
+    "amount": 6414.22,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Oconnellberg",
+    "timestamp": "2026-05-22T21:44:50.341519"
+  },
+  {
+    "transaction_id": "a907dfad-e2b6-4220-95ad-4a0ab966fd6e",
+    "user_id": "55e26610-5d3e-43fc-80d3-f9450f50a6a4",
+    "amount": 9205.23,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Joseph",
+    "timestamp": "2026-05-22T21:44:50.844188"
+  },
+  {
+    "transaction_id": "8877c99b-c85c-499e-98c1-5a153bd3f62b",
+    "user_id": "c1196c94-6ee8-4d12-bc6d-a0e6e0434bbd",
+    "amount": 4940.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Davidburgh",
+    "timestamp": "2026-05-22T21:44:51.346295"
+  },
+  {
+    "transaction_id": "c4852ba8-83da-4047-923f-6932b1dc2855",
+    "user_id": "0a0c63fa-775d-432d-82d8-f4db9976e6d6",
+    "amount": 4782.6,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Eric",
+    "timestamp": "2026-05-22T21:44:52.350806"
+  },
+  {
+    "transaction_id": "47e6c90f-cd77-4580-a54e-b121ea233a18",
+    "user_id": "8bc631f3-286d-47f7-9b38-350754e6ba5d",
+    "amount": 5252.22,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Breanna",
+    "timestamp": "2026-05-22T21:44:52.849939"
+  },
+  {
+    "transaction_id": "81414410-9946-48a4-8e66-4291fa5bba04",
+    "user_id": "143cebfd-413d-463b-af12-fef9ba07eabc",
+    "amount": 3850.37,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Jeffrey",
+    "timestamp": "2026-05-22T21:44:53.351795"
+  },
+  {
+    "transaction_id": "cd6a6fab-3f26-4d8e-8f3c-119a37134117",
+    "user_id": "58192191-09ff-46b8-9b55-c308dacda755",
+    "amount": 747.85,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Willistown",
+    "timestamp": "2026-05-22T21:44:53.853699"
+  },
+  {
+    "transaction_id": "6af79a5d-7db9-4453-bfbf-a299aeff545e",
+    "user_id": "451f245e-dee7-4788-b07f-417dab96a351",
+    "amount": 5746.08,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Christianville",
+    "timestamp": "2026-05-22T21:44:54.355789"
+  }
+]

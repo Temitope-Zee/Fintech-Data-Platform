@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b57761ea-d724-412b-83f8-99448b768633",
+    "user_id": "93a127fa-7e99-485c-81ae-5a75387efeee",
+    "amount": 8160.92,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Michelleside",
+    "timestamp": "2026-05-22T22:30:13.418547"
+  },
+  {
+    "transaction_id": "03ded2e7-1dc8-4e16-9a26-703cc856dea8",
+    "user_id": "f746b4c5-c6ce-4183-a000-5d84bbc5c5db",
+    "amount": 9676.01,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Acostaside",
+    "timestamp": "2026-05-22T22:30:13.919866"
+  },
+  {
+    "transaction_id": "bba6bfa8-52cf-4187-806b-32a3c0b6afe1",
+    "user_id": "cc43f6aa-6184-4950-8801-0c5c482ab0e2",
+    "amount": 7460.53,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Johnbury",
+    "timestamp": "2026-05-22T22:30:14.422658"
+  },
+  {
+    "transaction_id": "51c07edc-ae73-4f25-89d6-835914e48878",
+    "user_id": "42e9751b-6924-4fcf-91ed-3c7756eb8122",
+    "amount": 8985.0,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Peterfurt",
+    "timestamp": "2026-05-22T22:30:15.927839"
+  },
+  {
+    "transaction_id": "a7574037-dad9-4895-8e18-f94d2d27c9c9",
+    "user_id": "9be3d911-dd64-4c9c-857f-15f32fc8a1d5",
+    "amount": 1037.95,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Patelberg",
+    "timestamp": "2026-05-22T22:30:16.429628"
+  },
+  {
+    "transaction_id": "f2201e43-325f-49d1-884b-2db2453dae20",
+    "user_id": "a275231b-dec1-47e7-9b57-a43f2daae568",
+    "amount": 7153.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Wardside",
+    "timestamp": "2026-05-22T22:30:17.433522"
+  },
+  {
+    "transaction_id": "0579082d-f60e-48f6-ad54-0f6b048f3d9d",
+    "user_id": "d80a7570-5b00-47c4-a31c-026e3c06e848",
+    "amount": 3220.42,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Kellytown",
+    "timestamp": "2026-05-22T22:30:17.935956"
+  },
+  {
+    "transaction_id": "ceda4343-7e64-4a45-a3f1-201c3376964d",
+    "user_id": "6e39eec8-8bf7-4d41-a30a-9746ba5281cb",
+    "amount": 7857.54,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Fernandezton",
+    "timestamp": "2026-05-22T22:30:18.439196"
+  },
+  {
+    "transaction_id": "00441b69-e804-470a-97ed-d90d44c3b393",
+    "user_id": "5efe028a-3ae4-4945-ab29-7bafdbb5921d",
+    "amount": 4988.28,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Beckyside",
+    "timestamp": "2026-05-22T22:30:18.941837"
+  },
+  {
+    "transaction_id": "d2c7d2e6-3430-4e77-a8cd-2229a0d8b7fa",
+    "user_id": "a8036896-5de2-4d6e-81f8-144d0bff1931",
+    "amount": 4062.35,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Jordan",
+    "timestamp": "2026-05-22T22:30:19.947158"
+  }
+]

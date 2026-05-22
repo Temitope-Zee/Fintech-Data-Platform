@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "349f01e3-df86-4e94-8d0d-9cb77c255fa4",
+    "user_id": "53972e9f-5eba-4df1-a749-cedd605dea0a",
+    "amount": 7960.02,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Thomas",
+    "timestamp": "2026-05-22T21:49:37.014530"
+  },
+  {
+    "transaction_id": "9c5804d3-32b9-4d24-9afc-ba6f38f4ed50",
+    "user_id": "ffefe03d-a6a2-4808-ba13-8b1b15aa9a89",
+    "amount": 6734.92,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Vicki",
+    "timestamp": "2026-05-22T21:49:37.517244"
+  },
+  {
+    "transaction_id": "c3cf5329-ba0b-48ad-bc0a-cdf8e01d3d53",
+    "user_id": "08cacd49-7d17-4e0a-9ba2-b004625f6c83",
+    "amount": 6189.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Smithmouth",
+    "timestamp": "2026-05-22T21:49:38.018726"
+  },
+  {
+    "transaction_id": "b3eb2e01-4325-40bb-afd0-21dcda0fcf60",
+    "user_id": "7bd8800f-1be8-4af6-a4b5-4d63608163e6",
+    "amount": 5805.67,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Christophermouth",
+    "timestamp": "2026-05-22T21:49:38.520286"
+  },
+  {
+    "transaction_id": "905fe6f0-09da-4fa3-b6a2-7f06978295ea",
+    "user_id": "931f6a7e-1810-4d4e-ab78-985313220479",
+    "amount": 6934.53,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Kennethbury",
+    "timestamp": "2026-05-22T21:49:39.023035"
+  },
+  {
+    "transaction_id": "192d1f82-dedd-40e5-8642-bccb5ab4da26",
+    "user_id": "f0939eeb-5b1d-4307-9082-44bb0776a7d8",
+    "amount": 3887.46,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Caseyville",
+    "timestamp": "2026-05-22T21:49:39.524528"
+  },
+  {
+    "transaction_id": "5ad72cd5-07e5-46f1-be54-ec8aab598977",
+    "user_id": "841e589f-b45c-4d25-b6c1-dfe2980f572a",
+    "amount": 5718.33,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Richard",
+    "timestamp": "2026-05-22T21:49:40.026325"
+  },
+  {
+    "transaction_id": "70fbe3ea-65fa-43a9-b826-a7e415be278e",
+    "user_id": "7c4376c7-081b-4c75-a6e9-0cee88671fdf",
+    "amount": 9489.78,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Vasquezfurt",
+    "timestamp": "2026-05-22T21:49:40.529492"
+  },
+  {
+    "transaction_id": "fae23380-8e2b-47bc-994f-f6c6db210259",
+    "user_id": "5a80a2e8-e4b0-49bc-8e89-3718d7bd8e5d",
+    "amount": 40.77,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Meghanmouth",
+    "timestamp": "2026-05-22T21:49:41.031459"
+  },
+  {
+    "transaction_id": "b471bdee-967e-4dfd-89fc-fa426350a558",
+    "user_id": "414b0cc6-0095-4374-a08a-f8f1616d3eb4",
+    "amount": 9251.26,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Cervantesfurt",
+    "timestamp": "2026-05-22T21:49:41.533615"
+  }
+]

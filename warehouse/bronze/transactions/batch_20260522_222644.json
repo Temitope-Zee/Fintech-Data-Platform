@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6076282a-6646-42aa-83b6-9a893382376e",
+    "user_id": "ef806525-e398-4705-948d-4520334fad04",
+    "amount": 8207.46,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Elizabethshire",
+    "timestamp": "2026-05-22T22:26:39.516826"
+  },
+  {
+    "transaction_id": "e8967452-1ca3-4f1a-ab2b-2499d1082dcb",
+    "user_id": "1cfb1481-db36-4c65-9eca-46c7b85b599a",
+    "amount": 2470.45,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Victoriashire",
+    "timestamp": "2026-05-22T22:26:40.018906"
+  },
+  {
+    "transaction_id": "d1155f25-161f-49c0-a50b-89007f8891f9",
+    "user_id": "c4f3711c-9213-4aec-8692-0b772b4f5058",
+    "amount": 8066.94,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Curtis",
+    "timestamp": "2026-05-22T22:26:40.518843"
+  },
+  {
+    "transaction_id": "ae29d17a-a71e-46be-902c-74c3f76cf601",
+    "user_id": "bfcc1075-e403-4528-8c74-40c82a531152",
+    "amount": 862.78,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Edwardshire",
+    "timestamp": "2026-05-22T22:26:41.020528"
+  },
+  {
+    "transaction_id": "d3217f4e-98b8-4aa5-a58d-c38f15ebe1b6",
+    "user_id": "f13bc5be-cb95-42ac-ad51-b8eabdfcc9a3",
+    "amount": 3891.38,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Parkfurt",
+    "timestamp": "2026-05-22T22:26:41.522285"
+  },
+  {
+    "transaction_id": "f6897db6-a86a-42f8-982a-e1a5fa91035d",
+    "user_id": "715cbab8-891c-4e21-9fa8-b5e22f7e7a8a",
+    "amount": 415.18,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Robersonport",
+    "timestamp": "2026-05-22T22:26:42.023626"
+  },
+  {
+    "transaction_id": "415fe033-1bfd-4d92-85c3-a834f19345b4",
+    "user_id": "c70f6a2b-1a2d-41ae-9b22-6d1948afb53e",
+    "amount": 7756.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Amandatown",
+    "timestamp": "2026-05-22T22:26:43.027852"
+  },
+  {
+    "transaction_id": "4ed50049-e40b-448b-8d52-164f3a219ce9",
+    "user_id": "bcc0dcf2-ba7f-4df8-bb58-4cde57d6aaed",
+    "amount": 6005.78,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Mcdonaldmouth",
+    "timestamp": "2026-05-22T22:26:43.530185"
+  },
+  {
+    "transaction_id": "da98b653-b2c8-4432-8e2f-e94f0d80d1f2",
+    "user_id": "e3791152-a081-41ae-b8ab-7dcdf4c798cf",
+    "amount": 5049.78,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Ellen",
+    "timestamp": "2026-05-22T22:26:44.031856"
+  },
+  {
+    "transaction_id": "043983ff-266e-47d1-83c9-3ad3ceb442a6",
+    "user_id": "221e3191-e41f-4a10-bc0a-c44d28cbb2f9",
+    "amount": 5890.19,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Andersonberg",
+    "timestamp": "2026-05-22T22:26:44.533067"
+  }
+]

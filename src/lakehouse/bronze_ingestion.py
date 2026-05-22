@@ -1,19 +1,28 @@
 import json
 import os
 import time
+import boto3
 from datetime import datetime
 from kafka import KafkaConsumer
 from kafka.errors import NoBrokersAvailable
 
 KAFKA_BOOTSTRAP_SERVERS = os.environ.get('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
+AWS_REGION = os.environ.get('AWS_REGION', 'eu-north-1')
+S3_BUCKET = os.environ.get('S3_BUCKET', 'fintech-lakehouse-zainab-2026')
+
+# Also keep local backup
 WAREHOUSE_PATH = os.environ.get('WAREHOUSE_PATH', '/app/warehouse')
 BRONZE_PATH = f'{WAREHOUSE_PATH}/bronze/transactions'
-
 os.makedirs(BRONZE_PATH, exist_ok=True)
 
-print(f"Bronze ingestion starting. Connecting to Kafka at {KAFKA_BOOTSTRAP_SERVERS}...")
+# Connect to S3
+s3_client = boto3.client('s3', region_name=AWS_REGION)
 
-# Retry connecting to Kafka up to 10 times
+print(f"Bronze ingestion starting...")
+print(f"Kafka: {KAFKA_BOOTSTRAP_SERVERS}")
+print(f"S3 Bucket: {S3_BUCKET}")
+
+# Retry connecting to Kafka
 consumer = None
 retries = 10
 
@@ -33,10 +42,9 @@ for attempt in range(retries):
         time.sleep(10)
 
 if consumer is None:
-    print("Could not connect to Kafka after multiple attempts. Exiting.")
+    print("Could not connect to Kafka. Exiting.")
     exit(1)
 
-print(f"Saving data to: {BRONZE_PATH}")
 print("Listening to clean_transactions...\n")
 
 batch = []
@@ -51,8 +59,22 @@ for message in consumer:
 
     if len(batch) >= BATCH_SIZE:
         timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
-        filename = f'{BRONZE_PATH}/batch_{timestamp}.json'
-        with open(filename, 'w') as f:
+
+        # Save locally
+        local_file = f'{BRONZE_PATH}/batch_{timestamp}.json'
+        with open(local_file, 'w') as f:
             json.dump(batch, f, indent=2)
-        print(f"\nWritten {len(batch)} records to Bronze: batch_{timestamp}.json\n")
+
+        # Upload to S3
+        s3_key = f'bronze/transactions/batch_{timestamp}.json'
+        s3_client.put_object(
+            Bucket=S3_BUCKET,
+            Key=s3_key,
+            Body=json.dumps(batch, indent=2),
+            ContentType='application/json'
+        )
+
+        print(f"\nWritten {len(batch)} records to:")
+        print(f"  Local: {local_file}")
+        print(f"  S3: s3://{S3_BUCKET}/{s3_key}\n")
         batch = []

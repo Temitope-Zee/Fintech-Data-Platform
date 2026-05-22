@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "df749a4f-5e76-4ba6-822b-f1fba0810852",
+    "user_id": "66927fc5-acf4-4f2f-84b8-94039ef88637",
+    "amount": 4363.21,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Peter",
+    "timestamp": "2026-05-22T22:27:37.243353"
+  },
+  {
+    "transaction_id": "c96e385a-f7cb-4b18-b4d5-e89cc205390a",
+    "user_id": "16a24667-2df5-4389-8347-2bfc5676c3c6",
+    "amount": 7040.46,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Williamstown",
+    "timestamp": "2026-05-22T22:27:37.746252"
+  },
+  {
+    "transaction_id": "f850ba1b-5c55-435f-8fea-fb0f8f31c308",
+    "user_id": "6e2d9a5b-7f57-4f63-810f-2e0ba37297af",
+    "amount": 8430.6,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Phylliston",
+    "timestamp": "2026-05-22T22:27:38.247995"
+  },
+  {
+    "transaction_id": "4f0c762f-5bb2-4db3-af59-f5c905216560",
+    "user_id": "76b532a5-daf0-4353-b3cb-0a276de47bec",
+    "amount": 4076.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Howellborough",
+    "timestamp": "2026-05-22T22:27:39.251590"
+  },
+  {
+    "transaction_id": "e7dfbce4-145c-4e3d-991a-2b15dce05d8d",
+    "user_id": "1ebd60ea-5522-4ff3-bbec-2375535ff0ca",
+    "amount": 9111.95,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Carsonview",
+    "timestamp": "2026-05-22T22:27:39.753198"
+  },
+  {
+    "transaction_id": "a4541956-bf45-43db-b53f-d66e0b425d4b",
+    "user_id": "44b33b26-8ba1-49a0-825f-720bc7b21d69",
+    "amount": 3323.88,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Bradleytown",
+    "timestamp": "2026-05-22T22:27:40.255494"
+  },
+  {
+    "transaction_id": "ccc2be39-119d-4b45-b68b-54bfcee3e83b",
+    "user_id": "a43781d6-1498-4589-af5f-75271e48a48a",
+    "amount": 9564.11,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Traceyfurt",
+    "timestamp": "2026-05-22T22:27:40.755149"
+  },
+  {
+    "transaction_id": "2362887a-e0d2-4ee9-8671-7155081b2285",
+    "user_id": "9ea14a6b-2db2-4a3c-91f1-fc54b6aa3461",
+    "amount": 526.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Mosesfurt",
+    "timestamp": "2026-05-22T22:27:41.760981"
+  },
+  {
+    "transaction_id": "523b29e7-1b5b-4965-8647-e48a5c364ab2",
+    "user_id": "a3af5c2d-a86d-4d7b-b6a9-7a72683f92a3",
+    "amount": 6009.66,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Vincent",
+    "timestamp": "2026-05-22T22:27:42.263640"
+  },
+  {
+    "transaction_id": "3b9e6496-5ca3-435c-843f-0bef1cfce2d9",
+    "user_id": "9845723b-e2e5-4bcb-982c-4b8af07335c0",
+    "amount": 5259.91,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Patrickbury",
+    "timestamp": "2026-05-22T22:27:42.766011"
+  }
+]

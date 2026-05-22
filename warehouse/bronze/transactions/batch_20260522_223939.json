@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8f246e0a-dfad-4bae-a30e-b7f6c02ab6f9",
+    "user_id": "c0272fdb-9529-44f0-a8df-a11c694c9898",
+    "amount": 615.13,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Rachel",
+    "timestamp": "2026-05-22T22:39:34.380963"
+  },
+  {
+    "transaction_id": "53ae5572-b371-4fea-aefb-5bcf84dadb9e",
+    "user_id": "5575cf62-5137-42cc-ab62-5d9781a18f44",
+    "amount": 409.69,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Robintown",
+    "timestamp": "2026-05-22T22:39:34.882365"
+  },
+  {
+    "transaction_id": "63b5d383-aeba-440c-9677-5f74b0efc7dc",
+    "user_id": "c8180929-5c5a-4e59-a442-e18d27a13c57",
+    "amount": 7417.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Alexander",
+    "timestamp": "2026-05-22T22:39:35.888125"
+  },
+  {
+    "transaction_id": "dd7bc0eb-2726-4bd4-a2c7-3071eff2777b",
+    "user_id": "c0b5f353-6a8f-4f8c-b067-41aa7d0f9cfb",
+    "amount": 3731.03,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Alexis",
+    "timestamp": "2026-05-22T22:39:36.389957"
+  },
+  {
+    "transaction_id": "0a26d741-b74d-4652-bdeb-45e3cbedd590",
+    "user_id": "f218fda2-4553-45b0-b18f-880a9eec5b80",
+    "amount": 8902.3,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Wrightbury",
+    "timestamp": "2026-05-22T22:39:36.891485"
+  },
+  {
+    "transaction_id": "364336bb-d10f-41c6-80c2-0dfa7033bff9",
+    "user_id": "3d08ca62-143b-4156-bc82-7280072cef03",
+    "amount": 848.47,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Jennifer",
+    "timestamp": "2026-05-22T22:39:37.393620"
+  },
+  {
+    "transaction_id": "2b257353-04e0-4f0a-a3bc-252eeeda08e8",
+    "user_id": "8262f96b-afbc-45e5-8964-ff3c921140f5",
+    "amount": 5223.8,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jordanville",
+    "timestamp": "2026-05-22T22:39:37.894987"
+  },
+  {
+    "transaction_id": "9d5253c6-e45b-4200-8610-c56538c1bd40",
+    "user_id": "63adb1bf-2e53-472e-ae2d-456893188c20",
+    "amount": 9551.58,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Jasonside",
+    "timestamp": "2026-05-22T22:39:38.396950"
+  },
+  {
+    "transaction_id": "3ae5c48f-b4d0-4d4e-950f-978e43a5209c",
+    "user_id": "5ad2772b-fc8e-4468-998c-07761eaf1887",
+    "amount": 7500.09,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Robertton",
+    "timestamp": "2026-05-22T22:39:38.898067"
+  },
+  {
+    "transaction_id": "4b876bbe-0656-4606-bca6-a1db2c1468d2",
+    "user_id": "212a6f99-e622-4470-bc33-44003d99dd08",
+    "amount": 3126.77,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Gutierrezport",
+    "timestamp": "2026-05-22T22:39:39.900562"
+  }
+]

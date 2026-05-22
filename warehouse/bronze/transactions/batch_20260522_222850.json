@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "06b424c4-705b-4ce9-91e9-22fe1f3896ac",
+    "user_id": "b2fa8338-2eff-4ac1-874f-82fe78cb417a",
+    "amount": 3059.97,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Williamsland",
+    "timestamp": "2026-05-22T22:28:45.528940"
+  },
+  {
+    "transaction_id": "a7e0210a-eaa4-41e4-be56-5dfd7a10b2fc",
+    "user_id": "c2ca4665-0aa0-4642-bbbb-b58c3510356b",
+    "amount": 5340.83,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Katherine",
+    "timestamp": "2026-05-22T22:28:46.031745"
+  },
+  {
+    "transaction_id": "7bb326be-21cb-4ea6-b17c-757706eddd57",
+    "user_id": "c439224b-374f-4320-89f3-cca9dcacc524",
+    "amount": 2893.65,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Donna",
+    "timestamp": "2026-05-22T22:28:46.532927"
+  },
+  {
+    "transaction_id": "d9e5e0dc-c5d7-4e44-a298-3d170f138ce4",
+    "user_id": "3c7ae7b3-848c-4bd2-9dfe-1717bd0fa3b2",
+    "amount": 5095.19,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Carlos",
+    "timestamp": "2026-05-22T22:28:47.034363"
+  },
+  {
+    "transaction_id": "794cfa14-13aa-4760-a7bf-ab776b5b91d8",
+    "user_id": "ca5af103-5790-437d-8e0e-66b5b82c31ba",
+    "amount": 1364.05,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Emilymouth",
+    "timestamp": "2026-05-22T22:28:47.537113"
+  },
+  {
+    "transaction_id": "4d1c3095-f747-4933-9864-736939e0a4ee",
+    "user_id": "bbeb5263-2fb4-4e55-ae39-111c030bae7c",
+    "amount": 2829.46,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Thorntonburgh",
+    "timestamp": "2026-05-22T22:28:48.038704"
+  },
+  {
+    "transaction_id": "1996d33f-77f9-4b18-9e85-ac2ddda492df",
+    "user_id": "e8e80c0a-f7cc-4565-b390-393c452b17a1",
+    "amount": 2929.48,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Anthonyside",
+    "timestamp": "2026-05-22T22:28:48.541923"
+  },
+  {
+    "transaction_id": "b61fbae1-0ce2-4a0f-91d0-1155e77b18ff",
+    "user_id": "3bebc21c-9409-4f35-bb4e-db0c245e2d3d",
+    "amount": 7166.77,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Ginaview",
+    "timestamp": "2026-05-22T22:28:49.043237"
+  },
+  {
+    "transaction_id": "704da71e-f34d-4643-af17-2e828ff2dd17",
+    "user_id": "40b3ad7b-5180-4335-942a-0520c4be793e",
+    "amount": 3517.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Ruthmouth",
+    "timestamp": "2026-05-22T22:28:49.545071"
+  },
+  {
+    "transaction_id": "8c433c45-f98d-4c45-9a1a-07e8ad20d9fa",
+    "user_id": "594be3d6-74d1-45eb-a339-7ac48d0bcb92",
+    "amount": 51.86,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Torresside",
+    "timestamp": "2026-05-22T22:28:50.548936"
+  }
+]

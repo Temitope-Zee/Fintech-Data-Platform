@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eb5cc201-810d-4e3c-b597-213ab832f1ad",
+    "user_id": "e6e519f6-c411-48f1-9f74-99d083fb900c",
+    "amount": 690.61,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Michelleshire",
+    "timestamp": "2026-05-22T21:50:26.188601"
+  },
+  {
+    "transaction_id": "3e58ce8e-10e7-4184-a41c-01a9ae418426",
+    "user_id": "fa8c00df-eea2-47d1-8631-20c048de4238",
+    "amount": 8053.89,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Theodore",
+    "timestamp": "2026-05-22T21:50:26.691973"
+  },
+  {
+    "transaction_id": "2d68b031-9491-464e-8fad-0e9b022fd906",
+    "user_id": "c651eebd-1517-42a2-8107-5585bed7ee92",
+    "amount": 2831.72,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Martinmouth",
+    "timestamp": "2026-05-22T21:50:27.193427"
+  },
+  {
+    "transaction_id": "6e4bd601-e0d6-4222-bd7a-7b9cd1fde51c",
+    "user_id": "4fcd03e1-20f0-44ef-9eee-f7e300a30234",
+    "amount": 5775.01,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Charleshaven",
+    "timestamp": "2026-05-22T21:50:27.695003"
+  },
+  {
+    "transaction_id": "f16d5bd8-cdbd-4703-b9e8-f5016fc796f2",
+    "user_id": "e44c154a-8bdb-4a40-8007-6538aeb38b91",
+    "amount": 9615.04,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Vanessa",
+    "timestamp": "2026-05-22T21:50:28.197303"
+  },
+  {
+    "transaction_id": "19448543-d00c-4f51-ace3-f63a277df478",
+    "user_id": "e8c6cd8e-21c2-44af-9356-05ebf90b1954",
+    "amount": 950.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Williamstad",
+    "timestamp": "2026-05-22T21:50:28.699279"
+  },
+  {
+    "transaction_id": "001854e8-29fb-4900-ada1-b37bf611af34",
+    "user_id": "ee5c28f0-870b-43c4-ab9f-bd2e0d0e2a6f",
+    "amount": 5789.05,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Michaelborough",
+    "timestamp": "2026-05-22T21:50:29.705683"
+  },
+  {
+    "transaction_id": "24d10c59-316f-4ca3-bfea-aae7bc1ba6a0",
+    "user_id": "ee208093-5fc1-4bb0-b3c1-316fb21c9408",
+    "amount": 672.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Morrisonfort",
+    "timestamp": "2026-05-22T21:50:30.709796"
+  },
+  {
+    "transaction_id": "7a8293c6-4d09-4dec-9f6d-05cc0eab9578",
+    "user_id": "548d21ec-a168-4ebb-8f92-1d67d9794f68",
+    "amount": 404.31,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Berryville",
+    "timestamp": "2026-05-22T21:50:31.212794"
+  },
+  {
+    "transaction_id": "42d6157a-78df-41d7-b00c-9cbafb2fcda5",
+    "user_id": "4a7e48c0-dcee-4cb0-a21c-124658d42ffc",
+    "amount": 5225.87,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Aprilstad",
+    "timestamp": "2026-05-22T21:50:31.714778"
+  }
+]

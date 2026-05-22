@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "07c7b557-e78a-4de2-9861-5b3a546f9656",
+    "user_id": "10f2d921-662e-4cf7-9e64-a0c0be0c1aff",
+    "amount": 9717.07,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Petershire",
+    "timestamp": "2026-05-22T22:41:15.782164"
+  },
+  {
+    "transaction_id": "452e43f3-33e4-43a5-8eac-e0747549e0c7",
+    "user_id": "9276159b-485e-4962-8ecf-fbbd9e56262d",
+    "amount": 8265.15,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Emilyburgh",
+    "timestamp": "2026-05-22T22:41:16.284657"
+  },
+  {
+    "transaction_id": "778d4cc4-5217-4a71-abba-84020afc581f",
+    "user_id": "a8136dfa-2fb3-4a5e-b3e8-2f726c89aa51",
+    "amount": 8579.27,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jamesmouth",
+    "timestamp": "2026-05-22T22:41:16.786233"
+  },
+  {
+    "transaction_id": "ba01d4e2-a099-4af2-b1a1-ef34c5cadd15",
+    "user_id": "aaff582f-c88d-42e3-b641-207ceeb3c3b1",
+    "amount": 1788.5,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Jackchester",
+    "timestamp": "2026-05-22T22:41:17.287722"
+  },
+  {
+    "transaction_id": "c32f9507-85c0-4c0d-8c9e-0584f8b1a44d",
+    "user_id": "3f60bec5-e6b1-4e32-9775-7d6d4f2637da",
+    "amount": 7026.48,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Harry",
+    "timestamp": "2026-05-22T22:41:18.292682"
+  },
+  {
+    "transaction_id": "de6d2567-99c6-422c-b2cf-8f718df49a7d",
+    "user_id": "36a94a36-b129-4a5f-a5a6-250f15730fd2",
+    "amount": 2711.81,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jenniferland",
+    "timestamp": "2026-05-22T22:41:18.795680"
+  },
+  {
+    "transaction_id": "e61af442-52df-4094-9eb0-781e2e590fc3",
+    "user_id": "c7c4d1e1-d887-4712-b943-2d88bd0d0001",
+    "amount": 3490.68,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Schmidtside",
+    "timestamp": "2026-05-22T22:41:19.297933"
+  },
+  {
+    "transaction_id": "1e4d92bf-f9ef-4f50-bb5c-23c9fb8da745",
+    "user_id": "2922b5a8-c062-415e-8415-740371dd79eb",
+    "amount": 6546.19,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Danielleville",
+    "timestamp": "2026-05-22T22:41:19.799201"
+  },
+  {
+    "transaction_id": "f21c12e7-3588-4bbd-8843-207571ee1d0c",
+    "user_id": "464c61f8-8864-406c-bdf4-aac0a374817e",
+    "amount": 6703.18,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Rebeccafort",
+    "timestamp": "2026-05-22T22:41:20.301143"
+  },
+  {
+    "transaction_id": "b8178c47-12be-4e2c-809c-838dee5b3b85",
+    "user_id": "4db4db6a-79ab-4c7b-8144-7949edb80b91",
+    "amount": 6508.63,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Hannaport",
+    "timestamp": "2026-05-22T22:41:20.803657"
+  }
+]

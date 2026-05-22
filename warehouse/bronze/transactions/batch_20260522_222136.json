@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7023b983-869e-452f-8cd1-a1b67b87c470",
+    "user_id": "fe0c5556-f330-4a87-89ed-0e2354c2635d",
+    "amount": 5001.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Hayesview",
+    "timestamp": "2026-05-22T22:21:29.760324"
+  },
+  {
+    "transaction_id": "e6318112-d63e-4d9a-9a56-32c266e3fd64",
+    "user_id": "1a1e391a-2639-4393-825a-8e04f1356e70",
+    "amount": 5642.53,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Fernandomouth",
+    "timestamp": "2026-05-22T22:21:30.265180"
+  },
+  {
+    "transaction_id": "1e930ccc-a130-4b22-b758-93c3f1d166ff",
+    "user_id": "f0beb6cf-0eb0-44c6-aed0-bc479613ac88",
+    "amount": 212.29,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Mistymouth",
+    "timestamp": "2026-05-22T22:21:30.770616"
+  },
+  {
+    "transaction_id": "0c24ab9f-e9de-429d-a3f6-bea249ae620c",
+    "user_id": "83741a21-3f67-48e5-8536-dac60c0c9324",
+    "amount": 1882.11,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Crawfordberg",
+    "timestamp": "2026-05-22T22:21:31.777139"
+  },
+  {
+    "transaction_id": "8664be50-df84-4a5d-bfbf-f890756e8523",
+    "user_id": "3672010e-f18d-4bcb-801e-a695f284c86e",
+    "amount": 2872.22,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Jeffreyburgh",
+    "timestamp": "2026-05-22T22:21:32.279929"
+  },
+  {
+    "transaction_id": "4931ca47-0821-4ebc-91fe-7c63000301e5",
+    "user_id": "d2a0929b-2f88-4b9c-912a-6d73e26a6c23",
+    "amount": 3321.06,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Joelton",
+    "timestamp": "2026-05-22T22:21:33.283768"
+  },
+  {
+    "transaction_id": "ec3bb3cd-05c2-4c4f-8956-24fb207d4f8c",
+    "user_id": "7e9e32d2-de55-42b1-a2e7-5cca4f3d9a48",
+    "amount": 7627.34,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Mckinneymouth",
+    "timestamp": "2026-05-22T22:21:34.286132"
+  },
+  {
+    "transaction_id": "c2941a98-533e-4137-bfa9-03dffeb66c18",
+    "user_id": "b20ab0d3-4d0e-49bd-9629-a94a1f726b60",
+    "amount": 8886.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Rebecca",
+    "timestamp": "2026-05-22T22:21:34.787480"
+  },
+  {
+    "transaction_id": "4450ee47-cf36-4064-9dbb-4d6e2f29ec77",
+    "user_id": "5091a750-ef7a-4a15-a7b9-662c76caed2f",
+    "amount": 4606.72,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Brentton",
+    "timestamp": "2026-05-22T22:21:35.791030"
+  },
+  {
+    "transaction_id": "9229d1eb-631f-47d3-808e-42d780204d57",
+    "user_id": "922c95db-05e3-4738-82df-a59a24f30f8e",
+    "amount": 7534.69,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Mikeborough",
+    "timestamp": "2026-05-22T22:21:36.293883"
+  }
+]

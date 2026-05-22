@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1bce1f33-4d5a-403c-a0c1-a0d6e179dc63",
+    "user_id": "aae5770f-c65d-495b-888d-8292ad568b46",
+    "amount": 7732.31,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Powellfort",
+    "timestamp": "2026-05-22T22:10:39.159873"
+  },
+  {
+    "transaction_id": "f371ba37-bcec-4636-b2e8-de3fc5c50643",
+    "user_id": "f4b36779-09e4-4517-924b-a4e9de9b19ad",
+    "amount": 4656.15,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Scottport",
+    "timestamp": "2026-05-22T22:10:39.662207"
+  },
+  {
+    "transaction_id": "fbd568db-aad6-4775-85c3-cb79d99401ca",
+    "user_id": "b05b4e0a-ce2e-48c3-825a-920989d78a0a",
+    "amount": 4951.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Williamsborough",
+    "timestamp": "2026-05-22T22:10:40.665214"
+  },
+  {
+    "transaction_id": "8978ed7e-2d98-43c0-a895-908a26b330b5",
+    "user_id": "203d8c71-32ff-4023-b787-66a1f485484c",
+    "amount": 5146.5,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jamesborough",
+    "timestamp": "2026-05-22T22:10:41.166270"
+  },
+  {
+    "transaction_id": "06eeec6a-794a-4b22-bc47-87206c81aae4",
+    "user_id": "0a3178f6-8e67-41d6-ac1d-1ef800ced56e",
+    "amount": 3340.57,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Lynn",
+    "timestamp": "2026-05-22T22:10:42.671802"
+  },
+  {
+    "transaction_id": "86ab667e-65ef-46c9-9b11-980f24760331",
+    "user_id": "01072337-a205-42ce-b2e1-93966aed682c",
+    "amount": 5119.47,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Adamton",
+    "timestamp": "2026-05-22T22:10:43.172812"
+  },
+  {
+    "transaction_id": "0e2297d4-7ca3-4b11-98de-8aef5e924d05",
+    "user_id": "e4844688-506a-435c-93e4-154515a5436f",
+    "amount": 1296.52,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Sarahberg",
+    "timestamp": "2026-05-22T22:10:43.675067"
+  },
+  {
+    "transaction_id": "70838352-5aa3-4588-bed7-76c8932110dc",
+    "user_id": "535576b7-1b1f-4f94-84a6-567e3696c356",
+    "amount": 5381.98,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Dixonville",
+    "timestamp": "2026-05-22T22:10:44.176209"
+  },
+  {
+    "transaction_id": "f1a4b58d-289e-415f-91db-8e49bdee2cb0",
+    "user_id": "a2f21564-0da9-4fac-ac3b-1168b4ce5277",
+    "amount": 7314.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Lauren",
+    "timestamp": "2026-05-22T22:10:44.678935"
+  },
+  {
+    "transaction_id": "1326fa98-09fd-4fb6-8c26-bffacddb3d95",
+    "user_id": "f053850f-5ae8-471f-83d5-4ac080cd116a",
+    "amount": 8299.74,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Michaelchester",
+    "timestamp": "2026-05-22T22:10:45.180213"
+  }
+]

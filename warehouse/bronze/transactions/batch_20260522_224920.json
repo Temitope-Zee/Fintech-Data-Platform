@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e14ba1bc-e2a6-4ca3-8220-3a385c53ae57",
+    "user_id": "89bfe2ca-2708-4bdf-9802-817436ec507b",
+    "amount": 4634.06,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Luke",
+    "timestamp": "2026-05-22T22:49:15.186856"
+  },
+  {
+    "transaction_id": "aa4487b0-7357-4a86-8eb2-7628e55ffd7b",
+    "user_id": "5111de02-5070-4ed9-bd10-1f3ca136ebab",
+    "amount": 1032.5,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Stephanie",
+    "timestamp": "2026-05-22T22:49:16.189952"
+  },
+  {
+    "transaction_id": "e2fd6b60-ee19-4c93-92ae-9342704ccd6a",
+    "user_id": "a1a1777c-827c-472a-bc65-ac76a640f1cf",
+    "amount": 5046.54,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Markmouth",
+    "timestamp": "2026-05-22T22:49:16.691943"
+  },
+  {
+    "transaction_id": "4b9e5f94-86d2-4e6c-bb95-08b754ae57dd",
+    "user_id": "b35c4dc8-abf0-4d45-807a-9d39b9bb67a4",
+    "amount": 2125.17,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Kimberlybury",
+    "timestamp": "2026-05-22T22:49:17.193422"
+  },
+  {
+    "transaction_id": "76a5963e-138b-497a-be40-2e0d9a558cf0",
+    "user_id": "549493cb-19b4-4925-9e86-89a8deb87b24",
+    "amount": 9283.62,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Bowersport",
+    "timestamp": "2026-05-22T22:49:17.696821"
+  },
+  {
+    "transaction_id": "2e9d300b-9c81-4f48-8bd5-9154823a527b",
+    "user_id": "0547841d-a0bd-4fa8-b8bc-9e454f2ebe82",
+    "amount": 5191.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Danielbury",
+    "timestamp": "2026-05-22T22:49:18.198693"
+  },
+  {
+    "transaction_id": "ec335e40-7df4-41f7-956a-fd5c71543687",
+    "user_id": "510bfa14-c9ef-456d-8b03-2ddb4947bc49",
+    "amount": 4283.41,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Andrew",
+    "timestamp": "2026-05-22T22:49:18.701627"
+  },
+  {
+    "transaction_id": "b3b25aac-7bb9-4f64-9389-a9fdb41fb88d",
+    "user_id": "6403f89f-4ba4-4ec8-a394-a00c77f81191",
+    "amount": 6425.06,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Sarah",
+    "timestamp": "2026-05-22T22:49:19.204508"
+  },
+  {
+    "transaction_id": "bbbc458c-539d-4c4c-9623-eedb90c8d587",
+    "user_id": "ee76b325-f550-4b32-9296-c8fd3d5bd5d3",
+    "amount": 8631.63,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Erik",
+    "timestamp": "2026-05-22T22:49:20.208037"
+  },
+  {
+    "transaction_id": "ab0490a4-edd0-48c0-8020-43ed66b20ce2",
+    "user_id": "0ec7d90c-9d26-4943-b6d0-4a1fef39da51",
+    "amount": 3629.88,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Contrerastown",
+    "timestamp": "2026-05-22T22:49:20.709464"
+  }
+]

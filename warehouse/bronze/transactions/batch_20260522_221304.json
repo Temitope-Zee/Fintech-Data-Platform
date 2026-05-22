@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1f6eef67-7f3e-4d07-a3c9-4d163127b992",
+    "user_id": "001af5c0-efe1-4836-b6b7-a1f7584d6eab",
+    "amount": 3160.06,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East James",
+    "timestamp": "2026-05-22T22:12:57.682567"
+  },
+  {
+    "transaction_id": "f635a891-2ad3-4ecf-b852-004c3b54c984",
+    "user_id": "8319b5f3-723e-4161-86cb-a87fc13cbb0f",
+    "amount": 8136.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Evanbury",
+    "timestamp": "2026-05-22T22:12:58.687762"
+  },
+  {
+    "transaction_id": "44f106a8-b04d-447e-97a2-230219103887",
+    "user_id": "1bcb0999-177e-4b64-8819-d79e0afa9c10",
+    "amount": 6535.49,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Dillonton",
+    "timestamp": "2026-05-22T22:13:00.195338"
+  },
+  {
+    "transaction_id": "c3d08324-0590-4d5b-828e-3e4dda2b4812",
+    "user_id": "f020bfa0-d819-48ca-876a-03def660f54f",
+    "amount": 8535.74,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Diana",
+    "timestamp": "2026-05-22T22:13:00.696579"
+  },
+  {
+    "transaction_id": "5e3091df-57d7-4345-9827-47d37be72e62",
+    "user_id": "31c436d7-189d-45be-89f1-edec06e24b35",
+    "amount": 5075.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Christina",
+    "timestamp": "2026-05-22T22:13:02.204585"
+  },
+  {
+    "transaction_id": "f575c440-b319-4110-8e46-0a1365a88ebb",
+    "user_id": "a980d4e8-2dff-4cfd-8e78-d096cdeeabaf",
+    "amount": 1237.0,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Anthonyville",
+    "timestamp": "2026-05-22T22:13:02.706270"
+  },
+  {
+    "transaction_id": "47a2b145-bacb-497c-90ec-4153bd774e8b",
+    "user_id": "c13973d7-abc1-4b3e-803a-d06518bb0b77",
+    "amount": 8897.95,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Russellhaven",
+    "timestamp": "2026-05-22T22:13:03.209065"
+  },
+  {
+    "transaction_id": "f3d47674-c196-40cd-996d-8da1561f69b1",
+    "user_id": "e82cfb2d-45f3-4090-8a1a-c04bc8a216bd",
+    "amount": 9560.53,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Norrischester",
+    "timestamp": "2026-05-22T22:13:03.710891"
+  },
+  {
+    "transaction_id": "97b8cdd0-0797-4f8a-9c96-f47ef2fe4ed1",
+    "user_id": "c0416b81-decc-4d9f-99bf-8740a96f0b0c",
+    "amount": 1297.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Jonathanmouth",
+    "timestamp": "2026-05-22T22:13:04.212255"
+  },
+  {
+    "transaction_id": "e9e109e6-271d-4727-aab0-3943864225b2",
+    "user_id": "2d0e09c7-85eb-44fa-8f0c-929a76347846",
+    "amount": 4627.14,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Marcusbury",
+    "timestamp": "2026-05-22T22:13:04.713902"
+  }
+]

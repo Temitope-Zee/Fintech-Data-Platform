@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "40b7366d-2b67-4c4b-adfb-9521238cae73",
+    "user_id": "3a11e724-8947-486a-828d-258bd354e936",
+    "amount": 5536.4,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Randall",
+    "timestamp": "2026-05-22T22:15:04.186615"
+  },
+  {
+    "transaction_id": "c43b26a9-f2f5-4284-8f40-a983cc42b680",
+    "user_id": "e689f34d-f7d1-49fa-845e-b5abb75df847",
+    "amount": 1111.34,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Jennifer",
+    "timestamp": "2026-05-22T22:15:04.688008"
+  },
+  {
+    "transaction_id": "b9794c55-f838-4d92-86eb-789fe3c275ae",
+    "user_id": "d6c49acf-cec9-499e-91da-6b48c9d175f7",
+    "amount": 2582.19,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Obrienview",
+    "timestamp": "2026-05-22T22:15:05.190545"
+  },
+  {
+    "transaction_id": "aa47cb4a-4e2b-4b1e-b8f6-31946d39bed6",
+    "user_id": "1886d099-81e4-4bd6-8d97-aa0f75e52434",
+    "amount": 5971.74,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Thompsonchester",
+    "timestamp": "2026-05-22T22:15:05.691967"
+  },
+  {
+    "transaction_id": "2e7d0be9-84d1-4287-927d-37b3e35fd6ea",
+    "user_id": "3bad09cc-794e-42bd-8aaa-937e1649c7ce",
+    "amount": 6689.98,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Ashley",
+    "timestamp": "2026-05-22T22:15:06.193574"
+  },
+  {
+    "transaction_id": "86aa042a-a92f-4be7-910d-846158f5041c",
+    "user_id": "471305e6-c6e8-4175-9d77-acf6747f453e",
+    "amount": 9137.35,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Stewarthaven",
+    "timestamp": "2026-05-22T22:15:07.198119"
+  },
+  {
+    "transaction_id": "7599dc0e-c75f-4314-a994-748ce0420194",
+    "user_id": "b6292148-133c-4f53-9bd8-514afdeb5065",
+    "amount": 9368.58,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Elizabethland",
+    "timestamp": "2026-05-22T22:15:07.699951"
+  },
+  {
+    "transaction_id": "d6b08ff1-c9ba-4a15-859a-391a9f5d62ba",
+    "user_id": "ce4984fb-969a-46e0-83b4-03258aa7ba03",
+    "amount": 9403.78,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Wrightburgh",
+    "timestamp": "2026-05-22T22:15:08.201645"
+  },
+  {
+    "transaction_id": "9f4e0cce-5b08-46c0-8960-d37ed6b08f13",
+    "user_id": "c11e0de8-f6d9-4d51-b47b-b278992b0246",
+    "amount": 5943.55,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Camerontown",
+    "timestamp": "2026-05-22T22:15:08.703267"
+  },
+  {
+    "transaction_id": "772c2973-bc0b-4906-b055-9b1b91336cf4",
+    "user_id": "bef6cf9e-eb1a-46fa-b1aa-dd4a471c8ddd",
+    "amount": 9749.29,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Jeffreyberg",
+    "timestamp": "2026-05-22T22:15:09.207999"
+  }
+]

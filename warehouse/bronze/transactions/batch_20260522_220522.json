@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fb3a084a-0a3b-47eb-91ba-c7bb16101390",
+    "user_id": "2da3e48a-b210-4914-865d-4d8554bad8a8",
+    "amount": 6862.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Kyle",
+    "timestamp": "2026-05-22T22:05:18.377891"
+  },
+  {
+    "transaction_id": "cefec66c-7729-494b-9e2e-97912ed9ae34",
+    "user_id": "92a3db62-9ccb-4086-b52e-3eefa873a65b",
+    "amount": 2441.75,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Colemantown",
+    "timestamp": "2026-05-22T22:05:18.880891"
+  },
+  {
+    "transaction_id": "ce46bc32-efd3-4d74-b08c-3cd8611eb99c",
+    "user_id": "c26fc964-0d54-45d7-a8be-1c0b7f84aea3",
+    "amount": 6672.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Loriside",
+    "timestamp": "2026-05-22T22:05:19.382830"
+  },
+  {
+    "transaction_id": "e1b3622a-15de-4898-9544-5c2333c9237e",
+    "user_id": "38a3ec2b-c2ee-426e-95a1-5e697d94fd5a",
+    "amount": 6953.25,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Timothyville",
+    "timestamp": "2026-05-22T22:05:19.885022"
+  },
+  {
+    "transaction_id": "a3822fbe-f333-46da-a8f0-1759086a21d1",
+    "user_id": "bf621d31-188e-4103-87e3-f4646197283b",
+    "amount": 6677.01,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Devonton",
+    "timestamp": "2026-05-22T22:05:20.386862"
+  },
+  {
+    "transaction_id": "5ff79886-bd7a-4154-b714-59a71a99f841",
+    "user_id": "c59e901b-8ac3-4b07-9d24-485c4d786f22",
+    "amount": 1106.6,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Kimberly",
+    "timestamp": "2026-05-22T22:05:20.889162"
+  },
+  {
+    "transaction_id": "8aa535b6-c5ed-4e0a-ab34-95a03ea0aa1c",
+    "user_id": "af4688b2-5904-4237-b535-5e72261f9585",
+    "amount": 3186.7,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Samantha",
+    "timestamp": "2026-05-22T22:05:21.391097"
+  },
+  {
+    "transaction_id": "7f30dec3-c780-4751-8c82-8e7d6a13a0a8",
+    "user_id": "c7b0bcc6-068b-4f75-8cd3-a33e249db1ab",
+    "amount": 3240.57,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Melissaville",
+    "timestamp": "2026-05-22T22:05:21.893106"
+  },
+  {
+    "transaction_id": "8255df64-7b13-4ce7-889a-f3d6f24737b2",
+    "user_id": "937f8292-9ce8-4c62-a2ee-e280efd60e10",
+    "amount": 2440.91,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Heatherport",
+    "timestamp": "2026-05-22T22:05:22.394551"
+  },
+  {
+    "transaction_id": "367ec403-6645-4f32-ba14-f104507a5c99",
+    "user_id": "66a331c5-a6a8-4e05-9e33-ba41128297b8",
+    "amount": 9413.09,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Hillmouth",
+    "timestamp": "2026-05-22T22:05:22.896262"
+  }
+]

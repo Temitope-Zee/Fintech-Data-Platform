@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ab432c0f-aea3-4f2e-bf01-aa59b255ffae",
+    "user_id": "a95c0867-41ba-4de6-8ba7-2fe658eed4fb",
+    "amount": 1966.18,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Sarah",
+    "timestamp": "2026-05-22T23:03:21.366610"
+  },
+  {
+    "transaction_id": "01070cdf-9ebf-44fe-9f02-8a28b90009fc",
+    "user_id": "be48cdee-1a15-4f9b-82f9-fe8d0f6a6ca5",
+    "amount": 8477.19,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Kelly",
+    "timestamp": "2026-05-22T23:03:21.868032"
+  },
+  {
+    "transaction_id": "ce61665b-ef1f-418b-aeb0-a1177e58c894",
+    "user_id": "0a32b451-91e1-413e-89fd-d18a57d6b030",
+    "amount": 1128.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Deanna",
+    "timestamp": "2026-05-22T23:03:22.369686"
+  },
+  {
+    "transaction_id": "392e55fc-0765-4904-9929-697d577e02cf",
+    "user_id": "061d9dcf-e6c7-47f3-8d59-767383659d31",
+    "amount": 7626.24,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Greggburgh",
+    "timestamp": "2026-05-22T23:03:22.870933"
+  },
+  {
+    "transaction_id": "55080c97-c5fc-4350-a4a3-39a0aacf0821",
+    "user_id": "f5ca7338-be67-4a63-82e2-4d5811b13177",
+    "amount": 5908.37,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Micheleshire",
+    "timestamp": "2026-05-22T23:03:23.374901"
+  },
+  {
+    "transaction_id": "64c93a7d-a4f2-41b2-b48d-d33a38007f7b",
+    "user_id": "354ab1df-12b2-47f3-acb4-9a98a81899a7",
+    "amount": 9659.69,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Mary",
+    "timestamp": "2026-05-22T23:03:23.876296"
+  },
+  {
+    "transaction_id": "6c6c69b3-4437-4625-89ad-ce1a13192e0d",
+    "user_id": "0eac3913-7bbb-4cb2-9742-2b7466a9e560",
+    "amount": 1796.67,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Kennethmouth",
+    "timestamp": "2026-05-22T23:03:24.379935"
+  },
+  {
+    "transaction_id": "74ca1abb-b3c8-46ae-b9de-5738ebeb115a",
+    "user_id": "6a4ca806-fe31-4702-b585-311f4a45383a",
+    "amount": 1552.44,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Duane",
+    "timestamp": "2026-05-22T23:03:24.881820"
+  },
+  {
+    "transaction_id": "4ba63f22-04e5-4394-8d93-9ee53a05e216",
+    "user_id": "2b05dc91-f72d-45bb-804b-c102b0883ffa",
+    "amount": 2797.44,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Michaelborough",
+    "timestamp": "2026-05-22T23:03:25.385244"
+  },
+  {
+    "transaction_id": "b7993792-a5af-4fce-8d80-6abb2d7fb9ef",
+    "user_id": "113259e2-a282-4929-ae3c-9c9e2ae51fa7",
+    "amount": 6889.6,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Nancyborough",
+    "timestamp": "2026-05-22T23:03:25.886879"
+  }
+]

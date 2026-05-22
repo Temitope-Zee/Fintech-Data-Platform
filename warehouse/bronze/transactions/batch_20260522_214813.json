@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f415efc9-4418-43e8-977a-4112ca559ed7",
+    "user_id": "187f0376-c6dd-4804-b05e-f27011cf31f7",
+    "amount": 8785.09,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Stephanieport",
+    "timestamp": "2026-05-22T21:48:08.668199"
+  },
+  {
+    "transaction_id": "a46b3ad1-5cb0-4cb5-adae-e33261920e79",
+    "user_id": "d08abd0a-ab80-4a0e-99f0-4473d742462c",
+    "amount": 6488.52,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Gillport",
+    "timestamp": "2026-05-22T21:48:09.170987"
+  },
+  {
+    "transaction_id": "1aebebf4-2a2a-4bd7-ab97-16d28f35a0f5",
+    "user_id": "e1db3762-af71-44a6-a029-b520f12e8251",
+    "amount": 8508.64,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Amybury",
+    "timestamp": "2026-05-22T21:48:09.673696"
+  },
+  {
+    "transaction_id": "23c3cf29-ed5d-4bc2-bb2c-7a0c6e844396",
+    "user_id": "7aeb0047-ef68-4502-a8db-3fc9686bd692",
+    "amount": 7249.53,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake John",
+    "timestamp": "2026-05-22T21:48:10.677351"
+  },
+  {
+    "transaction_id": "b765ce33-9973-4dd9-935c-78dc98da2047",
+    "user_id": "723d12b2-e8c2-42f6-9309-968d21128d70",
+    "amount": 362.51,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Hineshaven",
+    "timestamp": "2026-05-22T21:48:11.181253"
+  },
+  {
+    "transaction_id": "3d86f8aa-c334-426d-b1fa-d7472e54cb71",
+    "user_id": "d04651a2-9edc-4baa-9482-801bb8a65d6e",
+    "amount": 4913.55,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Oscarshire",
+    "timestamp": "2026-05-22T21:48:11.682921"
+  },
+  {
+    "transaction_id": "2a1f6d23-1e8a-4d0a-a84e-518518deaa7d",
+    "user_id": "5a0ebb59-cc95-44a2-994d-98c8f331b796",
+    "amount": 1438.87,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Josephville",
+    "timestamp": "2026-05-22T21:48:12.185846"
+  },
+  {
+    "transaction_id": "aa65b322-f7c2-49d2-a14f-54ab6267bc4e",
+    "user_id": "11254854-41c4-46ec-b452-a7bd4872bf9b",
+    "amount": 8461.31,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Kendra",
+    "timestamp": "2026-05-22T21:48:12.687289"
+  },
+  {
+    "transaction_id": "120a5f13-c92c-41a1-88ea-31879ae59e11",
+    "user_id": "b63e745b-a545-44ec-ad47-3e563fb2ff00",
+    "amount": 5659.66,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Amytown",
+    "timestamp": "2026-05-22T21:48:13.189042"
+  },
+  {
+    "transaction_id": "abc5d9f8-1127-4aa1-9a25-a1edffc9fe79",
+    "user_id": "1dae540b-6fb2-4c0d-86bf-e57ac2db7077",
+    "amount": 3506.14,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lauraborough",
+    "timestamp": "2026-05-22T21:48:13.691814"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "15841f1f-9c92-4f1a-ae64-4a029126a120",
+    "user_id": "8b72f1ef-e14f-4053-85d7-92eca09cea14",
+    "amount": 332.03,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Sabrinafort",
+    "timestamp": "2026-05-22T22:17:16.715250"
+  },
+  {
+    "transaction_id": "4c65d6e6-41ee-4bb9-bd71-bc3a50578960",
+    "user_id": "143cedd3-ae57-44f0-82d3-5ed7860cb7f7",
+    "amount": 9573.98,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Darleneville",
+    "timestamp": "2026-05-22T22:17:17.216526"
+  },
+  {
+    "transaction_id": "3020024f-1064-455e-a0b8-a95fe18cc566",
+    "user_id": "b0aaf26e-9df1-4bba-80d6-34b7df55258e",
+    "amount": 6954.89,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Jasonhaven",
+    "timestamp": "2026-05-22T22:17:17.718975"
+  },
+  {
+    "transaction_id": "13ba2bd1-e105-4fa2-a792-425d9103a92a",
+    "user_id": "153a3037-f758-4b00-926d-82fbb8b80062",
+    "amount": 4919.48,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Jeremiah",
+    "timestamp": "2026-05-22T22:17:18.221503"
+  },
+  {
+    "transaction_id": "bfbc819b-1020-47aa-8b2d-13a2116252b8",
+    "user_id": "17956a8e-4a41-458d-97e8-a693874db029",
+    "amount": 4342.56,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Cynthia",
+    "timestamp": "2026-05-22T22:17:18.722879"
+  },
+  {
+    "transaction_id": "42734107-e912-49f0-83e5-e1cf2467cc40",
+    "user_id": "c456a421-2b10-4d18-84f3-fad0dfc3d474",
+    "amount": 7799.25,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Zachary",
+    "timestamp": "2026-05-22T22:17:19.224146"
+  },
+  {
+    "transaction_id": "8a089d3c-f72d-494e-af2b-f6e86fb51c3d",
+    "user_id": "afb040fe-f7bd-41aa-b4f4-cb7b824c6e90",
+    "amount": 5485.55,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Melissa",
+    "timestamp": "2026-05-22T22:17:19.727314"
+  },
+  {
+    "transaction_id": "7681440f-281a-408b-8e82-0cd6f6d13816",
+    "user_id": "3c383cf8-febc-4c0e-9aec-f577fad3864f",
+    "amount": 3754.28,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Alisonside",
+    "timestamp": "2026-05-22T22:17:20.230003"
+  },
+  {
+    "transaction_id": "3ece43e4-529d-4f6f-b326-1226a2fad5d1",
+    "user_id": "b9f6897b-a08f-4f3a-b473-7c507cf2d1ca",
+    "amount": 4790.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Barbarastad",
+    "timestamp": "2026-05-22T22:17:20.731360"
+  },
+  {
+    "transaction_id": "c67ba0d3-c594-4d37-899e-b56eddfb6a94",
+    "user_id": "9bb55032-8b96-453d-8540-f4589ba36498",
+    "amount": 2109.41,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lesliebury",
+    "timestamp": "2026-05-22T22:17:21.234131"
+  }
+]

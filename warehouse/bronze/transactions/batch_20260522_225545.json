@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dbccedad-55da-46a3-87d8-659f6ee35294",
+    "user_id": "04185cfc-afe8-485f-a3fb-0ab8cab0af6e",
+    "amount": 3867.89,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Stephaniehaven",
+    "timestamp": "2026-05-22T22:55:40.301036"
+  },
+  {
+    "transaction_id": "fe10d1cb-4da0-40fe-a46b-ac2cbe8b1fad",
+    "user_id": "cfbe9d2b-a31d-41db-8a5a-430f17c08e70",
+    "amount": 9122.97,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Rubenville",
+    "timestamp": "2026-05-22T22:55:40.802459"
+  },
+  {
+    "transaction_id": "22fce678-5d45-4472-bab7-5fb67ecc530d",
+    "user_id": "831e8228-e0c3-4be9-9f34-bf28a9bfb764",
+    "amount": 8317.0,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Saunderstown",
+    "timestamp": "2026-05-22T22:55:41.807132"
+  },
+  {
+    "transaction_id": "49b49f6e-02e0-4f23-a80c-2d6527180c54",
+    "user_id": "02f1a81f-953c-4bca-b129-82ab8802249a",
+    "amount": 6062.1,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Meghan",
+    "timestamp": "2026-05-22T22:55:42.310123"
+  },
+  {
+    "transaction_id": "ca727cc9-6941-4e86-8255-24d0b0c3d65b",
+    "user_id": "68d9adb8-9a5f-44e4-910a-07a663d94657",
+    "amount": 6908.94,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Burnsberg",
+    "timestamp": "2026-05-22T22:55:42.813096"
+  },
+  {
+    "transaction_id": "e99ddc58-4eb1-4951-bebc-74b57d004cad",
+    "user_id": "243f3966-e0ff-4f9d-8605-2bf888354b1a",
+    "amount": 170.25,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Trevinofort",
+    "timestamp": "2026-05-22T22:55:43.317572"
+  },
+  {
+    "transaction_id": "41ac77f9-a3a9-49a4-a013-f16c85e2f1d9",
+    "user_id": "443aec51-adc4-41ba-9270-f8c41de19f2c",
+    "amount": 711.22,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Caitlinfort",
+    "timestamp": "2026-05-22T22:55:43.820227"
+  },
+  {
+    "transaction_id": "a9192073-1fed-4d9c-a032-53661bce72f7",
+    "user_id": "6b1c2855-6164-4214-9ddb-e6fc02d37265",
+    "amount": 2078.17,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kellyberg",
+    "timestamp": "2026-05-22T22:55:44.321787"
+  },
+  {
+    "transaction_id": "7e3c9ade-b4d2-48af-bb5e-1f6a1639635c",
+    "user_id": "f133847d-5a2b-4566-b96a-1654c9f186c5",
+    "amount": 4430.14,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Taylorfurt",
+    "timestamp": "2026-05-22T22:55:45.326304"
+  },
+  {
+    "transaction_id": "20085cfd-94f9-4247-987b-329d080c0496",
+    "user_id": "d52f358b-fd64-42bf-942b-92d819e80e67",
+    "amount": 5018.03,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Caitlinmouth",
+    "timestamp": "2026-05-22T22:55:45.828182"
+  }
+]

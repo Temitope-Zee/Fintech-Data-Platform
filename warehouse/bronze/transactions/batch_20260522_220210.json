@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6174cd0e-52dc-44e5-8033-a64168e250fb",
+    "user_id": "0af0d8e4-ca3f-43f1-82a7-353ddc498ea7",
+    "amount": 2427.34,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Jennifermouth",
+    "timestamp": "2026-05-22T22:02:05.047619"
+  },
+  {
+    "transaction_id": "6aad98b1-f3d9-4858-b7f0-3bbd94674c8f",
+    "user_id": "12122cab-4cca-4bf0-8687-98711eb183b3",
+    "amount": 6814.64,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Brittanyville",
+    "timestamp": "2026-05-22T22:02:06.052914"
+  },
+  {
+    "transaction_id": "691bc7ed-8c1c-4480-9363-08051c82fda2",
+    "user_id": "cf0f4dc7-9a73-4c2c-bd24-8b16e0122b41",
+    "amount": 9019.08,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Ronaldmouth",
+    "timestamp": "2026-05-22T22:02:06.555227"
+  },
+  {
+    "transaction_id": "aa87f7a1-c887-4105-9207-c5baed307b91",
+    "user_id": "a04dd968-3dfa-4aef-b324-0a55d5ec5436",
+    "amount": 4867.18,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Josephbury",
+    "timestamp": "2026-05-22T22:02:07.058266"
+  },
+  {
+    "transaction_id": "b49d5267-1560-4102-9a24-c79dbe84c7cd",
+    "user_id": "fc7854f7-f8c3-4f7d-bd95-0a6f2d28e11b",
+    "amount": 8842.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Averyhaven",
+    "timestamp": "2026-05-22T22:02:07.561370"
+  },
+  {
+    "transaction_id": "06d7abf9-2aba-4967-9cd2-594593246d6f",
+    "user_id": "9a49d0ee-b521-467c-9d98-effdefb19d15",
+    "amount": 7805.59,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Kellyborough",
+    "timestamp": "2026-05-22T22:02:08.063786"
+  },
+  {
+    "transaction_id": "2658f61a-ecbf-40e0-9732-25cc23509b30",
+    "user_id": "6620af99-21d8-49dc-8280-1614a5e56b64",
+    "amount": 7424.3,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Sarafort",
+    "timestamp": "2026-05-22T22:02:08.566463"
+  },
+  {
+    "transaction_id": "ac04c8e5-af45-4f47-b4f6-2bcf22fc6d5a",
+    "user_id": "3abfbe9f-f814-4a3f-8d7c-60d80b0308d6",
+    "amount": 9603.02,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Christopherfurt",
+    "timestamp": "2026-05-22T22:02:09.072215"
+  },
+  {
+    "transaction_id": "6c962571-bb84-4f70-a59a-dede743147da",
+    "user_id": "60890457-abbe-42ea-b4cc-3c531addddd9",
+    "amount": 6482.25,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Amandaton",
+    "timestamp": "2026-05-22T22:02:10.076869"
+  },
+  {
+    "transaction_id": "362e948e-ee14-4ad8-87bc-15857c30ab88",
+    "user_id": "48c8f6e9-516e-4dbb-a7f8-23c1a3ba6df7",
+    "amount": 6990.68,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Jessicafort",
+    "timestamp": "2026-05-22T22:02:10.576192"
+  }
+]

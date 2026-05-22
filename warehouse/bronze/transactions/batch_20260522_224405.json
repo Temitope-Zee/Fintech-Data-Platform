@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "47cbf25c-bec4-4b73-a9b9-dff08ed4aee6",
+    "user_id": "393967e5-3d6c-4dbe-939b-32f4e6e1b5e7",
+    "amount": 281.28,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Churchchester",
+    "timestamp": "2026-05-22T22:44:01.419055"
+  },
+  {
+    "transaction_id": "391a63a7-0c2a-4602-b993-d7886666e0de",
+    "user_id": "8e819809-9e9c-4778-bf8f-c38f6857646e",
+    "amount": 7504.72,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Yolanda",
+    "timestamp": "2026-05-22T22:44:01.919990"
+  },
+  {
+    "transaction_id": "07f27850-6ba5-49c3-8324-616fdfaa0e54",
+    "user_id": "29754726-c0f4-4ed4-9dc7-8e6de81ab704",
+    "amount": 5207.07,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Brenda",
+    "timestamp": "2026-05-22T22:44:02.421550"
+  },
+  {
+    "transaction_id": "128e3387-ab4c-4f63-a49d-75533dcdca54",
+    "user_id": "095eabe6-142c-482b-8f97-f5b9b12ed214",
+    "amount": 5141.72,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Meghanmouth",
+    "timestamp": "2026-05-22T22:44:02.922715"
+  },
+  {
+    "transaction_id": "6ecaa03c-a233-4f9e-b0b5-702dfdf7b7c4",
+    "user_id": "7ed5712b-9aa0-48d7-a6f2-a67a9133504a",
+    "amount": 4855.62,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Kyleton",
+    "timestamp": "2026-05-22T22:44:03.424250"
+  },
+  {
+    "transaction_id": "a99fe85a-35fd-422a-a0b1-2008fc7b3d40",
+    "user_id": "b57c2542-8462-4c20-b963-65b2a0c32cce",
+    "amount": 3958.89,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Tina",
+    "timestamp": "2026-05-22T22:44:03.925675"
+  },
+  {
+    "transaction_id": "2f10a6dd-1601-49ea-9e58-befc8fe8c106",
+    "user_id": "82431317-31b9-41d4-aa4c-c8f9064cfd0a",
+    "amount": 6834.8,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Sharonmouth",
+    "timestamp": "2026-05-22T22:44:04.427305"
+  },
+  {
+    "transaction_id": "870b3c95-5d4c-4cdb-9d18-79f194fe83cf",
+    "user_id": "b3c7e9dd-5c7d-4ee5-8cc6-48f2c9ba0d83",
+    "amount": 2303.11,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Shannonport",
+    "timestamp": "2026-05-22T22:44:04.929175"
+  },
+  {
+    "transaction_id": "1195aff2-cd0c-4e9b-8a3c-f89daec7be15",
+    "user_id": "ba985122-7c12-4be8-876b-9bb44de7e2c7",
+    "amount": 7692.16,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Travis",
+    "timestamp": "2026-05-22T22:44:05.431127"
+  },
+  {
+    "transaction_id": "a4bf0db4-34df-4200-b9e3-502ad91ffdb2",
+    "user_id": "b889bf79-6143-4b14-a089-a5f4c85ff5a0",
+    "amount": 5492.42,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Samantha",
+    "timestamp": "2026-05-22T22:44:05.932761"
+  }
+]

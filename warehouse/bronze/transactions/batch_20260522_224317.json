@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6c770299-ca42-443a-a9bb-60df7e13623c",
+    "user_id": "4a5b886e-4c86-4ed7-870c-9f17cc2e5419",
+    "amount": 1850.97,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Ryanland",
+    "timestamp": "2026-05-22T22:43:12.243854"
+  },
+  {
+    "transaction_id": "878a40b9-8a17-4a4e-9ab0-9a9adda5d504",
+    "user_id": "e16408cd-e284-430a-8d4f-7ddc2cc3b568",
+    "amount": 6733.99,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Villaside",
+    "timestamp": "2026-05-22T22:43:12.745709"
+  },
+  {
+    "transaction_id": "e160f2a6-5ffd-4c80-977f-adfa93c72a69",
+    "user_id": "bcf7df31-1071-4e9a-b36c-4d23a0603771",
+    "amount": 6517.34,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Andrewmouth",
+    "timestamp": "2026-05-22T22:43:13.247788"
+  },
+  {
+    "transaction_id": "7be0c609-8ddc-40dd-bbc4-34a4c287de3c",
+    "user_id": "a3e7a119-3af4-4ec9-8306-e25bd6494709",
+    "amount": 2110.78,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Matthewfurt",
+    "timestamp": "2026-05-22T22:43:14.251449"
+  },
+  {
+    "transaction_id": "075aa452-2f49-4bfb-a529-a766710c6cda",
+    "user_id": "44baf420-fc82-43a2-a8de-067b2069e5fd",
+    "amount": 2262.36,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake James",
+    "timestamp": "2026-05-22T22:43:14.752525"
+  },
+  {
+    "transaction_id": "598bb1d5-5fa9-49d3-8261-c607700f8e26",
+    "user_id": "646161df-dc85-4def-a1ca-e5c28fedca4c",
+    "amount": 4293.76,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Andrewfurt",
+    "timestamp": "2026-05-22T22:43:15.254528"
+  },
+  {
+    "transaction_id": "ed2cf2a9-1871-4a0c-9c97-4f23e01471ad",
+    "user_id": "a1a66a14-c326-427a-8fd4-378eaac546d7",
+    "amount": 2328.87,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Christopherburgh",
+    "timestamp": "2026-05-22T22:43:15.757021"
+  },
+  {
+    "transaction_id": "c82925b8-0422-49fa-b100-06d2894b197e",
+    "user_id": "50601c7a-93fb-4f53-92ea-31d700b1ec1a",
+    "amount": 3414.4,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Angela",
+    "timestamp": "2026-05-22T22:43:16.258637"
+  },
+  {
+    "transaction_id": "92a1a2d1-a0ee-4562-a1d8-040543da3454",
+    "user_id": "1941ce0d-e6b9-45af-93ee-f9762e025bef",
+    "amount": 3267.89,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Meganland",
+    "timestamp": "2026-05-22T22:43:17.263151"
+  },
+  {
+    "transaction_id": "1d1b2b6e-4b4a-43a7-b6b6-ff28b132bc5d",
+    "user_id": "51cd93c2-aba6-49d7-9500-26ee97658d99",
+    "amount": 355.71,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Gabriellemouth",
+    "timestamp": "2026-05-22T22:43:17.764344"
+  }
+]

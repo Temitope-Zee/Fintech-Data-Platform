@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "40439ab5-6673-4db5-8d35-49f6855d6dac",
+    "user_id": "e50ca918-59f6-4ed0-92d7-800cdbcfacf1",
+    "amount": 3124.24,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Kaiserhaven",
+    "timestamp": "2026-05-22T22:52:49.114785"
+  },
+  {
+    "transaction_id": "73b877d9-7905-4a05-a361-73ff29a67cd2",
+    "user_id": "edb777af-de48-491b-8099-4a7d46157a53",
+    "amount": 4888.56,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Karlashire",
+    "timestamp": "2026-05-22T22:52:49.616226"
+  },
+  {
+    "transaction_id": "7c9e8219-c2ba-4165-87fd-ff10476bf873",
+    "user_id": "7a286995-d571-430f-8ff7-f92227c1747c",
+    "amount": 870.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Cobbview",
+    "timestamp": "2026-05-22T22:52:50.117565"
+  },
+  {
+    "transaction_id": "022c9a8e-dbc4-4367-bc14-9b3b86068bfb",
+    "user_id": "7f028dee-8044-45ce-ae50-0fdaaf4bce0c",
+    "amount": 9700.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Ryanmouth",
+    "timestamp": "2026-05-22T22:52:50.618844"
+  },
+  {
+    "transaction_id": "336d0b3f-cccd-49bb-812c-87fd1310b936",
+    "user_id": "bea61316-6768-4c40-b0e8-997c0be4c904",
+    "amount": 4781.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Tylerview",
+    "timestamp": "2026-05-22T22:52:51.120428"
+  },
+  {
+    "transaction_id": "790919f5-41dc-401f-89bd-266922e20db9",
+    "user_id": "7d0e0313-835b-43ac-9397-bbf64cd987df",
+    "amount": 4060.8,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Williamchester",
+    "timestamp": "2026-05-22T22:52:52.627459"
+  },
+  {
+    "transaction_id": "f7da1a64-63ce-4abc-aa0a-8c49d2e0d820",
+    "user_id": "80f173cf-0e5c-4de6-8fc4-a76974462e41",
+    "amount": 7322.94,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Jason",
+    "timestamp": "2026-05-22T22:52:53.630742"
+  },
+  {
+    "transaction_id": "a6cd063c-bd68-4a91-9257-fe5f9e0c516e",
+    "user_id": "0b344aef-c59c-49d7-a3c4-855a3296d366",
+    "amount": 9434.32,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Nancyport",
+    "timestamp": "2026-05-22T22:52:54.132451"
+  },
+  {
+    "transaction_id": "3a77d1b3-d9b4-42e1-aa41-f3c6592a72fb",
+    "user_id": "5329cb27-74c4-4fe5-8d23-4460e08041ae",
+    "amount": 3973.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Nicole",
+    "timestamp": "2026-05-22T22:52:54.635316"
+  },
+  {
+    "transaction_id": "73f558f6-7a23-448b-87b3-1d31b0776253",
+    "user_id": "dcde5417-9c04-49c4-9972-0f0c319626f6",
+    "amount": 8630.97,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake William",
+    "timestamp": "2026-05-22T22:52:55.137893"
+  }
+]

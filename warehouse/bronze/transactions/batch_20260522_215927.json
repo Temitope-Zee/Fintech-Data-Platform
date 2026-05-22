@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d1096c77-5952-44d1-abe8-90ccdbcb9889",
+    "user_id": "aba0153a-77b3-44fa-b052-71e1e9735a82",
+    "amount": 826.36,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East David",
+    "timestamp": "2026-05-22T21:59:22.405741"
+  },
+  {
+    "transaction_id": "472b54fd-c051-43ef-9218-9ffea6cd77c4",
+    "user_id": "e42ba357-b0b1-4fef-97eb-a639d0e172e2",
+    "amount": 8353.88,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Wagnershire",
+    "timestamp": "2026-05-22T21:59:22.907608"
+  },
+  {
+    "transaction_id": "8d94a728-362b-4839-b98f-6d102a8bf51c",
+    "user_id": "fc38f328-af76-4175-b313-7364364c6067",
+    "amount": 4652.54,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Kevin",
+    "timestamp": "2026-05-22T21:59:23.409271"
+  },
+  {
+    "transaction_id": "f77e1072-fb65-4ac6-8502-039bcce4d079",
+    "user_id": "25ffb800-eb5b-4c99-b8ea-417bdae0801f",
+    "amount": 821.53,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Ellisborough",
+    "timestamp": "2026-05-22T21:59:23.910868"
+  },
+  {
+    "transaction_id": "388710d3-4f3f-4f42-b22f-a026e725e627",
+    "user_id": "86acda0b-28e1-45cf-af77-ce78b024e495",
+    "amount": 389.18,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Thomaston",
+    "timestamp": "2026-05-22T21:59:24.413556"
+  },
+  {
+    "transaction_id": "1413bcc2-3c3d-4ef3-862d-e6a12af6d80f",
+    "user_id": "3f7f2373-4af9-4974-b83c-d93c50202d1e",
+    "amount": 1201.48,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Walkerfurt",
+    "timestamp": "2026-05-22T21:59:24.915465"
+  },
+  {
+    "transaction_id": "f357883b-cdad-45dc-89a1-0f96ef3ff6f2",
+    "user_id": "3fda2a77-7e12-431b-abe0-261ca9e0912d",
+    "amount": 996.54,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Matthew",
+    "timestamp": "2026-05-22T21:59:25.417298"
+  },
+  {
+    "transaction_id": "63544e75-51f5-4214-910d-b8f95b733d02",
+    "user_id": "6bab21cc-827f-4475-a086-0d134dbc0cdb",
+    "amount": 2980.24,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Dylanport",
+    "timestamp": "2026-05-22T21:59:25.918958"
+  },
+  {
+    "transaction_id": "11ef561b-3f3b-466a-8bc6-4237985261f1",
+    "user_id": "9b5b98a3-0935-48b2-a433-e10d1d768503",
+    "amount": 2134.66,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West James",
+    "timestamp": "2026-05-22T21:59:26.924211"
+  },
+  {
+    "transaction_id": "0f9d4df2-25c9-49f6-9481-59d14b82b382",
+    "user_id": "a1361d95-44a5-4530-a0ce-51c2e626642d",
+    "amount": 2048.93,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Alejandro",
+    "timestamp": "2026-05-22T21:59:27.427067"
+  }
+]

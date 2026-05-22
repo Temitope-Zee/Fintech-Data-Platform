@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ef71a54c-ee3f-4fc6-a0c3-591c234134ac",
+    "user_id": "89208c19-5cc0-41d4-93b5-215a35d0942e",
+    "amount": 4335.92,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Mariaberg",
+    "timestamp": "2026-05-22T22:21:59.390257"
+  },
+  {
+    "transaction_id": "e3d15d23-899b-4e50-809e-73c355d420f3",
+    "user_id": "8d5031f2-889b-4ddc-9de8-d384db09c29c",
+    "amount": 6647.78,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Craig",
+    "timestamp": "2026-05-22T22:21:59.893272"
+  },
+  {
+    "transaction_id": "f61e2a51-d46e-4356-99ba-5b670f6b9e28",
+    "user_id": "ced64bea-3aab-4d27-9a6d-4cea991f4908",
+    "amount": 1875.08,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Matthewport",
+    "timestamp": "2026-05-22T22:22:00.396532"
+  },
+  {
+    "transaction_id": "4adf8196-ab8b-441c-82e9-bd0cb6d76995",
+    "user_id": "46cc40af-a89c-401f-8f01-d05b6f946076",
+    "amount": 5432.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Kendra",
+    "timestamp": "2026-05-22T22:22:00.898488"
+  },
+  {
+    "transaction_id": "febc206f-332e-4b0c-967f-f4de57a55e98",
+    "user_id": "118b7e52-10e2-49c9-b7e3-896fe9c80f93",
+    "amount": 2809.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Aaron",
+    "timestamp": "2026-05-22T22:22:01.400471"
+  },
+  {
+    "transaction_id": "c674eac1-e6e0-475b-a1b3-d55625549bf9",
+    "user_id": "306d495b-1eeb-4bd4-8b22-44fc097345e9",
+    "amount": 2258.43,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Julieville",
+    "timestamp": "2026-05-22T22:22:01.901947"
+  },
+  {
+    "transaction_id": "ec7f5afe-0b84-4dfc-bb41-b9325cd3cf95",
+    "user_id": "ac00384e-49a5-40b2-b691-76a4b211bf9f",
+    "amount": 3883.49,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Shannon",
+    "timestamp": "2026-05-22T22:22:02.405543"
+  },
+  {
+    "transaction_id": "7800db90-9c41-4fea-b4b6-116d23263026",
+    "user_id": "33a64543-6e27-4208-a5d7-30fbb0c7f588",
+    "amount": 2592.85,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Victoriabury",
+    "timestamp": "2026-05-22T22:22:02.907297"
+  },
+  {
+    "transaction_id": "70af0ce6-590f-4193-9092-495fad9cd97a",
+    "user_id": "412878d4-37ad-4539-aca3-92013eb2296b",
+    "amount": 7291.97,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Robertshire",
+    "timestamp": "2026-05-22T22:22:03.408751"
+  },
+  {
+    "transaction_id": "eb7b8274-9b33-4c6c-bfcf-be4efe3b86fc",
+    "user_id": "eb547621-006f-417f-a10d-93624d0b5282",
+    "amount": 4340.78,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South James",
+    "timestamp": "2026-05-22T22:22:03.910338"
+  }
+]

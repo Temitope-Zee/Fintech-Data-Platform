@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f957aa45-ca06-41fc-9c2e-94360910b0cc",
+    "user_id": "3672b731-80c1-40db-afe0-7449e28bc369",
+    "amount": 4004.27,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Deniseborough",
+    "timestamp": "2026-05-22T22:22:44.588530"
+  },
+  {
+    "transaction_id": "5c6164f0-12ca-4ec5-a966-af9c63c25d4b",
+    "user_id": "033d7df7-f56d-441c-8e6f-e6ba794eb61c",
+    "amount": 218.5,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Heather",
+    "timestamp": "2026-05-22T22:22:45.090101"
+  },
+  {
+    "transaction_id": "ac6c14e1-b39c-499c-a73c-511035fbfb09",
+    "user_id": "f990bef8-7419-432d-93e7-af6558a37261",
+    "amount": 3128.3,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Sabrinatown",
+    "timestamp": "2026-05-22T22:22:45.591696"
+  },
+  {
+    "transaction_id": "e225972b-4a82-4e59-b680-d42fca109c19",
+    "user_id": "e8ac45e1-e8e8-4db7-b4ec-698a46f41b4f",
+    "amount": 5230.14,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Thomasland",
+    "timestamp": "2026-05-22T22:22:46.093518"
+  },
+  {
+    "transaction_id": "04434418-294c-4785-bf21-2b9cf8631396",
+    "user_id": "4aca2ad2-b7e3-4899-9b93-c6760aa786ee",
+    "amount": 4843.11,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Hamiltonberg",
+    "timestamp": "2026-05-22T22:22:46.594734"
+  },
+  {
+    "transaction_id": "1e08138c-b378-4d73-b1b1-08672db12e89",
+    "user_id": "c7cfa228-16a7-4f48-9e0a-a8c95613bd1c",
+    "amount": 6152.3,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Taraburgh",
+    "timestamp": "2026-05-22T22:22:47.095903"
+  },
+  {
+    "transaction_id": "0ec5425b-b55e-4945-a93a-f830392f0071",
+    "user_id": "29e7a155-a3dd-4678-82e3-3d1e8465b3ae",
+    "amount": 4106.08,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Madison",
+    "timestamp": "2026-05-22T22:22:47.597387"
+  },
+  {
+    "transaction_id": "8c28fee9-cabd-4dfd-b714-9cd7f634fa4a",
+    "user_id": "223b8d9e-0810-4186-9625-fd227c9f8c2a",
+    "amount": 6117.27,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Cherylview",
+    "timestamp": "2026-05-22T22:22:48.098755"
+  },
+  {
+    "transaction_id": "1f3ef5ea-da45-42a6-a118-55e43bea5afa",
+    "user_id": "509b2f1d-3d0b-4032-acc7-6d9c2a6c4170",
+    "amount": 2057.73,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Markview",
+    "timestamp": "2026-05-22T22:22:48.599953"
+  },
+  {
+    "transaction_id": "65388b79-17f2-4887-914f-b6dda8d4155c",
+    "user_id": "5fa6f51f-756f-489c-a5e2-c896ec840fab",
+    "amount": 2177.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Mirandafort",
+    "timestamp": "2026-05-22T22:22:50.107845"
+  }
+]

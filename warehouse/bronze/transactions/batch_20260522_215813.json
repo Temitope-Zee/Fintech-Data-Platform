@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "87b44260-c7c9-4ddc-8c00-25b3ad9b9159",
+    "user_id": "15e991e0-1b6b-4f88-a0e7-f3672617f7f7",
+    "amount": 7110.56,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Simpsonside",
+    "timestamp": "2026-05-22T21:58:06.619440"
+  },
+  {
+    "transaction_id": "d0fcf02e-694d-46de-a6d3-aa535dba1e9f",
+    "user_id": "49dda8e8-12cd-456c-abb7-348e8f1e2e25",
+    "amount": 1087.95,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lloydville",
+    "timestamp": "2026-05-22T21:58:07.121997"
+  },
+  {
+    "transaction_id": "1d7b8915-4838-4cd7-bcbc-70402759c3bb",
+    "user_id": "0e5cc416-c0bb-49af-b96b-ee7e67ad2347",
+    "amount": 9554.05,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Rodneytown",
+    "timestamp": "2026-05-22T21:58:08.126479"
+  },
+  {
+    "transaction_id": "9ad62d80-f743-47ce-8f20-d8d5343966d5",
+    "user_id": "0032c2c4-7c60-4824-9974-7bb37b7c655b",
+    "amount": 7914.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Catherineton",
+    "timestamp": "2026-05-22T21:58:08.628399"
+  },
+  {
+    "transaction_id": "24324571-d4b4-485c-b860-7001921138d5",
+    "user_id": "f1179c58-0441-4cd6-85cf-d5bb965cb818",
+    "amount": 5947.66,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Adam",
+    "timestamp": "2026-05-22T21:58:09.131552"
+  },
+  {
+    "transaction_id": "2361def4-b72a-4fe6-850d-eb02b94284b8",
+    "user_id": "96b6be00-68d1-4b40-a864-722e4301a191",
+    "amount": 817.1,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South George",
+    "timestamp": "2026-05-22T21:58:10.130396"
+  },
+  {
+    "transaction_id": "a726e04a-84cd-4e1e-9352-55f193c54e67",
+    "user_id": "d9d06031-b3c2-457a-b5be-66a4d319a243",
+    "amount": 4060.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Colinville",
+    "timestamp": "2026-05-22T21:58:11.133212"
+  },
+  {
+    "transaction_id": "39214921-d36b-451f-8088-2e148eea7d90",
+    "user_id": "ddaed76b-50d2-47b4-aa90-ff6b6ad84253",
+    "amount": 5336.72,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Laura",
+    "timestamp": "2026-05-22T21:58:11.635834"
+  },
+  {
+    "transaction_id": "251e8afb-2325-4e51-9936-f98a62a43c29",
+    "user_id": "0b0627d3-6a6c-4a9e-bf22-fb5762515ca0",
+    "amount": 5868.35,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Andrewshire",
+    "timestamp": "2026-05-22T21:58:12.638950"
+  },
+  {
+    "transaction_id": "b5b0fb46-e30c-4e49-a68d-55168c6f8d69",
+    "user_id": "e5c0ecf7-4f36-4923-bf26-0913aa97e425",
+    "amount": 3177.73,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Stephenmouth",
+    "timestamp": "2026-05-22T21:58:13.141704"
+  }
+]

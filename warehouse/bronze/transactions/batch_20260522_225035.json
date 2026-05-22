@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "38e4ca11-fed5-4d42-b9e7-f37dcf29f4fc",
+    "user_id": "d6848094-057c-4787-9b89-3508857b5253",
+    "amount": 1634.08,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Peggyview",
+    "timestamp": "2026-05-22T22:50:29.527652"
+  },
+  {
+    "transaction_id": "f8c7f42c-f843-49e5-a8d0-dd6e2410f4e0",
+    "user_id": "fdffd86b-545d-407b-901b-4f2494017555",
+    "amount": 1618.28,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Andrewview",
+    "timestamp": "2026-05-22T22:50:30.532359"
+  },
+  {
+    "transaction_id": "8f9556bf-b4bc-49cc-a9a3-6aec40225de5",
+    "user_id": "196bf20a-bb86-4f23-92c4-198711b2b7d9",
+    "amount": 5796.24,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Steve",
+    "timestamp": "2026-05-22T22:50:31.034520"
+  },
+  {
+    "transaction_id": "37ce271e-fb61-4f51-8f76-6a48970c13ee",
+    "user_id": "1854675a-c749-4d27-b95f-a752e756b114",
+    "amount": 6593.23,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Maria",
+    "timestamp": "2026-05-22T22:50:31.538922"
+  },
+  {
+    "transaction_id": "c387ba56-b7d1-4dcf-ab91-ba62ded179a8",
+    "user_id": "90b39643-63ae-4815-b0b0-c40d3689a4eb",
+    "amount": 5109.81,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Stephenhaven",
+    "timestamp": "2026-05-22T22:50:32.042287"
+  },
+  {
+    "transaction_id": "6ac95031-7e23-4374-98be-9fb2c68644e3",
+    "user_id": "f83d4399-e8f4-4340-82e0-e77798419036",
+    "amount": 4479.75,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Rubenborough",
+    "timestamp": "2026-05-22T22:50:32.545182"
+  },
+  {
+    "transaction_id": "590a2a0b-c137-4997-a741-b14a8bf98cd6",
+    "user_id": "4657ef37-071c-4a09-9177-14bdf854e699",
+    "amount": 1003.25,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Adammouth",
+    "timestamp": "2026-05-22T22:50:33.551851"
+  },
+  {
+    "transaction_id": "14982ba3-e79c-466e-bf8b-4e546279dde2",
+    "user_id": "7ac67687-a287-4b78-8f17-cf27f84153ce",
+    "amount": 3782.81,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Stephanietown",
+    "timestamp": "2026-05-22T22:50:34.053410"
+  },
+  {
+    "transaction_id": "28393882-0e4b-41b7-a9f1-4c45ba894474",
+    "user_id": "36812390-94a3-4c39-9eb4-09d2ee409080",
+    "amount": 7141.15,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Allenberg",
+    "timestamp": "2026-05-22T22:50:34.555161"
+  },
+  {
+    "transaction_id": "cb5b4579-ac00-4288-b334-2f078bc80f20",
+    "user_id": "c0597f72-06dc-4553-9faa-8ef49c7fe9c4",
+    "amount": 6850.18,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Natalieville",
+    "timestamp": "2026-05-22T22:50:35.056999"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8c355622-bb0e-4d49-bf19-df09e2b9e50e",
+    "user_id": "b31afb0f-34c9-416a-842f-f4ed86a60ba0",
+    "amount": 1048.06,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Robin",
+    "timestamp": "2026-05-22T22:01:20.364821"
+  },
+  {
+    "transaction_id": "623dd0a3-20aa-4214-b70e-4c5be63db3bd",
+    "user_id": "4d25183b-86c5-4b55-a9a4-4d28f67f5a05",
+    "amount": 168.79,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Susan",
+    "timestamp": "2026-05-22T22:01:21.368324"
+  },
+  {
+    "transaction_id": "290a70ae-c0ab-4f3b-8ea6-cc44c23b02ca",
+    "user_id": "e09c7f3b-a2fc-4953-a9c9-37154126aecd",
+    "amount": 1770.74,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Madisonmouth",
+    "timestamp": "2026-05-22T22:01:21.869596"
+  },
+  {
+    "transaction_id": "4f0b299b-164b-49df-b407-f1819069e15e",
+    "user_id": "00e6e0ef-5ed4-4490-ba22-8c5e1e580302",
+    "amount": 6735.26,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Scotthaven",
+    "timestamp": "2026-05-22T22:01:22.370838"
+  },
+  {
+    "transaction_id": "09088875-7adc-49c4-b79d-16e404cfc12e",
+    "user_id": "988212a3-34c2-4a73-a91f-7add4da6a196",
+    "amount": 7133.69,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Christopherchester",
+    "timestamp": "2026-05-22T22:01:22.872440"
+  },
+  {
+    "transaction_id": "1b4f6a9e-5bbf-4ee4-b841-b7a793aa92b1",
+    "user_id": "d9ad274e-168f-4656-92cf-64253474c3bd",
+    "amount": 9065.78,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jonesview",
+    "timestamp": "2026-05-22T22:01:23.374748"
+  },
+  {
+    "transaction_id": "7578a5be-1553-4e1f-90cc-15be920dbbd0",
+    "user_id": "c1fc5010-8b1e-4945-8912-fde862793f7e",
+    "amount": 9968.12,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Christopherland",
+    "timestamp": "2026-05-22T22:01:24.379210"
+  },
+  {
+    "transaction_id": "bec6cb8c-126b-49cd-aafc-86f9b5cd2644",
+    "user_id": "faddfc05-03c7-43b1-ab94-c3d94cd26dac",
+    "amount": 5476.97,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Herringshire",
+    "timestamp": "2026-05-22T22:01:24.880591"
+  },
+  {
+    "transaction_id": "07220e0e-7fef-460f-ac28-eaaf8f2466a8",
+    "user_id": "bfad53db-1e4d-427e-98e3-bdd259920836",
+    "amount": 2048.42,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Kevinborough",
+    "timestamp": "2026-05-22T22:01:25.383384"
+  },
+  {
+    "transaction_id": "c77a98ea-18eb-4412-b6a1-ed63da5c2b00",
+    "user_id": "af1d2b24-452c-4d63-b608-8fd17a01e51c",
+    "amount": 2633.21,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Annmouth",
+    "timestamp": "2026-05-22T22:01:26.387258"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "05c33788-7430-4b9d-9b3c-efc37dcf8112",
+    "user_id": "6c5d010e-da4b-4930-9699-ecbec4ea5be7",
+    "amount": 9296.18,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Whitney",
+    "timestamp": "2026-05-22T22:06:25.139776"
+  },
+  {
+    "transaction_id": "b5d83130-e85c-4872-a9b5-79679149c9e7",
+    "user_id": "3980331b-54b9-404c-8d35-11441e609b23",
+    "amount": 2408.8,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Hollyside",
+    "timestamp": "2026-05-22T22:06:25.641186"
+  },
+  {
+    "transaction_id": "4a2c8151-5dfb-4297-9a67-5968ac2c9b6f",
+    "user_id": "02db8c4d-cb15-46e6-8594-a13fc1d4da62",
+    "amount": 7788.25,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Gordonbury",
+    "timestamp": "2026-05-22T22:06:26.144044"
+  },
+  {
+    "transaction_id": "78d74710-9c05-4c57-91f7-3747c94e9d88",
+    "user_id": "567440c6-3abc-4e97-969b-aca307a339fe",
+    "amount": 9920.38,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Matthewfurt",
+    "timestamp": "2026-05-22T22:06:26.645842"
+  },
+  {
+    "transaction_id": "39183fab-b209-490c-bf52-900dab6700de",
+    "user_id": "e20df72c-5f3d-4334-8400-bab6b578fff0",
+    "amount": 7484.73,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Mackenziemouth",
+    "timestamp": "2026-05-22T22:06:27.147484"
+  },
+  {
+    "transaction_id": "20864c07-420b-43bb-9606-42a799485264",
+    "user_id": "97e96e0a-8905-4cad-8e30-e56b826bae8c",
+    "amount": 6202.18,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Rachel",
+    "timestamp": "2026-05-22T22:06:27.649916"
+  },
+  {
+    "transaction_id": "b738a6e3-59fc-4a54-bd35-9fecc611db4e",
+    "user_id": "c0a97562-c9d6-4c00-87e7-45fbb4d889b4",
+    "amount": 7172.87,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Garciaport",
+    "timestamp": "2026-05-22T22:06:28.153474"
+  },
+  {
+    "transaction_id": "add27268-9e97-4e75-869f-41a8f04cb679",
+    "user_id": "d0fd1d5c-ce23-4e4f-aa36-8392ec03132b",
+    "amount": 8499.41,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Meadowsland",
+    "timestamp": "2026-05-22T22:06:28.656585"
+  },
+  {
+    "transaction_id": "d2b4a5ae-c4ef-4c1f-9832-b299d6e6bca8",
+    "user_id": "911e4d46-9e65-4d58-b613-fd687401f6dd",
+    "amount": 3777.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Christinabury",
+    "timestamp": "2026-05-22T22:06:29.659599"
+  },
+  {
+    "transaction_id": "300a25e1-22e0-4e27-9aa5-33e4e8a436be",
+    "user_id": "8b1676d7-eb2d-4f64-829c-7159da17202a",
+    "amount": 6868.43,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Kristyshire",
+    "timestamp": "2026-05-22T22:06:30.161484"
+  }
+]

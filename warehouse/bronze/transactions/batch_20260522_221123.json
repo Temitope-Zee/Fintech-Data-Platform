@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8e632a74-e114-4f72-bb32-fce0099ec0cc",
+    "user_id": "73ee7360-3c84-401f-a82e-e440b99dd755",
+    "amount": 3871.3,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Derekside",
+    "timestamp": "2026-05-22T22:11:18.798966"
+  },
+  {
+    "transaction_id": "42da106e-0d2b-4de1-a335-fe5baf4f1c3c",
+    "user_id": "926bbbe2-43e8-4ed2-8ad0-883be0ca860a",
+    "amount": 8403.39,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lozanoberg",
+    "timestamp": "2026-05-22T22:11:19.300302"
+  },
+  {
+    "transaction_id": "235fd130-e464-4a3c-9aef-403b063ba61f",
+    "user_id": "fcd78d4d-96c6-4bbd-ae7e-0b55b897385b",
+    "amount": 4436.97,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Ericstad",
+    "timestamp": "2026-05-22T22:11:19.802450"
+  },
+  {
+    "transaction_id": "15926170-3bc0-4fa3-b9c2-8a4efc6152f4",
+    "user_id": "fde3ff30-9dba-4d95-a14c-20967c435946",
+    "amount": 6533.47,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Estradastad",
+    "timestamp": "2026-05-22T22:11:20.303901"
+  },
+  {
+    "transaction_id": "98d82a43-8bf2-4deb-8aa4-f699523226a2",
+    "user_id": "bde73fbd-1f78-4a63-b441-bffdc3fe4e6f",
+    "amount": 2280.48,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Kaitlynton",
+    "timestamp": "2026-05-22T22:11:20.806935"
+  },
+  {
+    "transaction_id": "7b22a31e-fa6e-4a0b-92e6-b114564115aa",
+    "user_id": "94e0658f-2188-4b3a-87fd-f14410775a88",
+    "amount": 888.72,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Maria",
+    "timestamp": "2026-05-22T22:11:21.309694"
+  },
+  {
+    "transaction_id": "22d809ec-1fd0-4f15-972b-29878c0f94c6",
+    "user_id": "bd2f176e-254d-439c-b376-de53dfcc2264",
+    "amount": 6930.39,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Cherylchester",
+    "timestamp": "2026-05-22T22:11:21.810738"
+  },
+  {
+    "transaction_id": "bd1be19b-f670-4f03-a70b-34fd1cfda460",
+    "user_id": "ecc0d92c-40e6-4708-9c45-ad18d8bea310",
+    "amount": 8411.91,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Claudiaberg",
+    "timestamp": "2026-05-22T22:11:22.312461"
+  },
+  {
+    "transaction_id": "5d67d146-7e7b-4210-acce-f9da3f5a1462",
+    "user_id": "50452323-314d-4dcb-96c2-73b8a40acd4f",
+    "amount": 9477.03,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Margaretmouth",
+    "timestamp": "2026-05-22T22:11:22.813381"
+  },
+  {
+    "transaction_id": "8a959b1e-cce4-4c5b-a711-6f7bc655e451",
+    "user_id": "cff2af41-c876-42a5-9eec-e736d9332650",
+    "amount": 8985.63,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Brandi",
+    "timestamp": "2026-05-22T22:11:23.314742"
+  }
+]

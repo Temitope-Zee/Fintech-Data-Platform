@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "27eed083-040d-4f05-8cbc-37d6a4bd6185",
+    "user_id": "9978d9d4-cb26-4282-a236-c0bcf5cc60c8",
+    "amount": 9932.06,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Emily",
+    "timestamp": "2026-05-22T21:50:15.154230"
+  },
+  {
+    "transaction_id": "eb3c2198-9189-4879-b1c0-3852f08f2377",
+    "user_id": "6c60cad6-3e79-4c06-8f76-a6fe1b720b3b",
+    "amount": 7893.78,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Roy",
+    "timestamp": "2026-05-22T21:50:16.658887"
+  },
+  {
+    "transaction_id": "7a7f00dd-7c43-4cf5-8ba1-ffc531c7f0dd",
+    "user_id": "c95acf10-041c-4d6b-aa3a-db85baec6118",
+    "amount": 586.87,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Bethshire",
+    "timestamp": "2026-05-22T21:50:17.160167"
+  },
+  {
+    "transaction_id": "2b037896-4f7d-4220-8f1f-1189838654ed",
+    "user_id": "50f9e6f1-f5c7-4bf3-9eb4-973609d6d4e8",
+    "amount": 1563.7,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Christine",
+    "timestamp": "2026-05-22T21:50:17.661615"
+  },
+  {
+    "transaction_id": "9c1cd715-9a5b-4876-9c68-aa867de42101",
+    "user_id": "0545f129-802b-419c-b25a-1412c26827a4",
+    "amount": 9964.28,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Wattsmouth",
+    "timestamp": "2026-05-22T21:50:18.163173"
+  },
+  {
+    "transaction_id": "725fd40b-0272-4aea-8ca0-9e96b599e312",
+    "user_id": "a0674a0b-c728-4c73-b330-ad7c89d94ce6",
+    "amount": 7846.51,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Petersshire",
+    "timestamp": "2026-05-22T21:50:18.665567"
+  },
+  {
+    "transaction_id": "57911d29-6f35-4f7f-aead-79092727a437",
+    "user_id": "6918914d-d284-42b6-8c27-4aed35698689",
+    "amount": 2214.15,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Dunnbury",
+    "timestamp": "2026-05-22T21:50:19.167988"
+  },
+  {
+    "transaction_id": "6969326b-2536-4ead-aba9-dd08c3ad455a",
+    "user_id": "4d669fef-5731-4381-ae3c-b2acfde221d6",
+    "amount": 3618.57,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Elizabethfurt",
+    "timestamp": "2026-05-22T21:50:19.669033"
+  },
+  {
+    "transaction_id": "2d841551-b5de-4b54-b7be-144d338d2089",
+    "user_id": "d436e291-2589-4216-8bfa-9ab8a7e2e853",
+    "amount": 6615.7,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Antonio",
+    "timestamp": "2026-05-22T21:50:20.171510"
+  },
+  {
+    "transaction_id": "db704b19-68bb-4fca-aa16-a043136911d0",
+    "user_id": "cfe95995-f077-446b-8679-6a329ed2ce88",
+    "amount": 5185.06,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Joshua",
+    "timestamp": "2026-05-22T21:50:20.672801"
+  }
+]

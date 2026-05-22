@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3841cbc5-974c-4a95-9cc7-23d817132032",
+    "user_id": "5c3c6534-1ee8-4036-85cd-378e30ff5b37",
+    "amount": 2564.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Jasmin",
+    "timestamp": "2026-05-22T22:18:42.566720"
+  },
+  {
+    "transaction_id": "54bc665b-c942-4f53-b8cc-5e4036050f5e",
+    "user_id": "a21a4a97-4e4b-4a1b-9ec2-7b54d431dde5",
+    "amount": 4638.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Solisshire",
+    "timestamp": "2026-05-22T22:18:43.068837"
+  },
+  {
+    "transaction_id": "2aa2d6b8-a08c-4d47-8c1a-7e6fa2f0b583",
+    "user_id": "51acbe4f-5870-4449-bf10-8fd24f8b8a5b",
+    "amount": 6041.11,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Christineside",
+    "timestamp": "2026-05-22T22:18:44.575773"
+  },
+  {
+    "transaction_id": "26a545e4-5202-4d6c-a65c-cfb2118c396b",
+    "user_id": "906187c2-156a-4a27-953c-12c4c0baa6df",
+    "amount": 4072.69,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Littlestad",
+    "timestamp": "2026-05-22T22:18:45.079391"
+  },
+  {
+    "transaction_id": "ec5e7ef9-a17a-4451-9fda-ae600c0e1632",
+    "user_id": "4603e444-0088-40ae-9745-c5f3e2b8f2eb",
+    "amount": 5172.32,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Nicholasville",
+    "timestamp": "2026-05-22T22:18:45.582093"
+  },
+  {
+    "transaction_id": "94f4aa73-7231-48f8-82f4-15f54e2c93f2",
+    "user_id": "14c6a8f5-bbc9-4bc7-a9ca-d3569cada7a5",
+    "amount": 2040.94,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Paynetown",
+    "timestamp": "2026-05-22T22:18:46.083801"
+  },
+  {
+    "transaction_id": "f12f9158-fc66-4549-ba6a-030dd6436930",
+    "user_id": "ef1d3bf1-36a9-4680-b2d3-fc16a37bca43",
+    "amount": 603.79,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wellsstad",
+    "timestamp": "2026-05-22T22:18:46.586868"
+  },
+  {
+    "transaction_id": "feb7a568-97dd-461d-a177-969807d857f7",
+    "user_id": "35fb01db-fa90-444f-9031-921e9b6efe81",
+    "amount": 2888.8,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Dennis",
+    "timestamp": "2026-05-22T22:18:47.088397"
+  },
+  {
+    "transaction_id": "f3bc79b8-c3cc-4986-a16a-c7571734c7b0",
+    "user_id": "cecb0db3-539f-4ce1-bfb2-2949b3155b8c",
+    "amount": 1909.07,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Kaylaborough",
+    "timestamp": "2026-05-22T22:18:47.593253"
+  },
+  {
+    "transaction_id": "11f09352-b121-4e97-b9b0-46ea8d3f1c7f",
+    "user_id": "fb1621bd-1824-4650-ad81-9404ffbdece3",
+    "amount": 9704.35,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ashleyfort",
+    "timestamp": "2026-05-22T22:18:48.094621"
+  }
+]

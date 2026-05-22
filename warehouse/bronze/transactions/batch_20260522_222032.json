@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f9856e95-ca87-4ce1-9ef8-9f6098b8a626",
+    "user_id": "98b0fe98-ca86-45d3-b10b-44f55d7f10e8",
+    "amount": 5690.95,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Christinamouth",
+    "timestamp": "2026-05-22T22:20:26.988584"
+  },
+  {
+    "transaction_id": "a6b430f6-20b7-4a15-8bc8-64ec35e5eb6c",
+    "user_id": "bfbc8109-59bc-4259-b727-e6028baeda4c",
+    "amount": 9773.25,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Leroy",
+    "timestamp": "2026-05-22T22:20:27.491152"
+  },
+  {
+    "transaction_id": "54f9753d-50c7-4d70-904e-392166002b10",
+    "user_id": "5d84082d-2d07-43ca-90a0-6fd1cb3dcaa6",
+    "amount": 4225.58,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Theodore",
+    "timestamp": "2026-05-22T22:20:28.495574"
+  },
+  {
+    "transaction_id": "f2503982-d68a-4942-a85d-936153d6a210",
+    "user_id": "e1e5b685-8c51-4164-8296-3ec8d2087864",
+    "amount": 3856.33,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Jermaineshire",
+    "timestamp": "2026-05-22T22:20:28.997504"
+  },
+  {
+    "transaction_id": "78e4cd37-75b0-4b4a-b97d-7b9a16a8ae44",
+    "user_id": "f3dd4dd5-07a2-45f4-82b7-2a698f1bd39f",
+    "amount": 7140.06,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Melaniehaven",
+    "timestamp": "2026-05-22T22:20:29.499498"
+  },
+  {
+    "transaction_id": "36d47ff0-664a-4a90-8a1d-163c40a6fb2f",
+    "user_id": "1d56169e-2c0a-4fae-a6d8-3d80dbae1ce2",
+    "amount": 612.03,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Shelby",
+    "timestamp": "2026-05-22T22:20:30.504284"
+  },
+  {
+    "transaction_id": "9e2ab728-bf13-45db-9be4-3bff4dfcaaa8",
+    "user_id": "8b431f29-eb53-44a3-8766-17f14767f6ce",
+    "amount": 7359.54,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Gary",
+    "timestamp": "2026-05-22T22:20:31.005432"
+  },
+  {
+    "transaction_id": "3b7257af-e932-4e87-b1a8-a9e8589185dd",
+    "user_id": "7f8cdbe2-8202-4545-b534-9bea3803fe3f",
+    "amount": 1397.08,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Sandraberg",
+    "timestamp": "2026-05-22T22:20:31.507686"
+  },
+  {
+    "transaction_id": "0753b8d6-3171-4841-a0b2-b627883dae0d",
+    "user_id": "002a36c7-ec41-43ca-99b4-3ae1ef64052f",
+    "amount": 3933.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Craig",
+    "timestamp": "2026-05-22T22:20:32.010374"
+  },
+  {
+    "transaction_id": "049f9988-36b0-4559-aec0-277e8443ec29",
+    "user_id": "5108ebb8-4094-4e81-a149-c006812e8eb1",
+    "amount": 7205.02,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Allison",
+    "timestamp": "2026-05-22T22:20:32.513281"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "592ae2e9-0968-4361-8779-ac31fa770ded",
+    "user_id": "b922d489-e73a-4b06-aafb-6f49ad945e37",
+    "amount": 1817.83,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Christopherborough",
+    "timestamp": "2026-05-22T22:14:09.454765"
+  },
+  {
+    "transaction_id": "14ba47ae-6266-4728-bf37-5e18af821aad",
+    "user_id": "4ac54d1f-2e29-4c37-bfae-49185c2aa652",
+    "amount": 26.55,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Joside",
+    "timestamp": "2026-05-22T22:14:10.957353"
+  },
+  {
+    "transaction_id": "6343ecf9-3474-4ce5-872e-9a331f7ed247",
+    "user_id": "feb0edc0-bef5-4b33-adcc-4cea4ba38bdf",
+    "amount": 3663.28,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Lisa",
+    "timestamp": "2026-05-22T22:14:12.462567"
+  },
+  {
+    "transaction_id": "1d7e83ac-efc8-4c32-8b3f-8a0b426f0751",
+    "user_id": "72d96b2d-ec3c-40d6-b575-33aad56f7996",
+    "amount": 2000.38,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Whitetown",
+    "timestamp": "2026-05-22T22:14:12.963683"
+  },
+  {
+    "transaction_id": "f54c9920-73e0-471b-a32d-eb6e9b995f3b",
+    "user_id": "013cb5d7-202d-4759-a595-6bceafa7ed5e",
+    "amount": 1377.62,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New John",
+    "timestamp": "2026-05-22T22:14:13.466285"
+  },
+  {
+    "transaction_id": "54bca920-3121-4476-8fc2-a9a37336a6d7",
+    "user_id": "d9057c92-9b7a-476f-aeac-a88662e6eb58",
+    "amount": 7076.11,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Pricemouth",
+    "timestamp": "2026-05-22T22:14:13.967737"
+  },
+  {
+    "transaction_id": "40ce7256-d04f-4715-aafd-6856dac57d78",
+    "user_id": "610088e0-ada5-4f8d-9b95-2da62e84470c",
+    "amount": 88.11,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jessicaside",
+    "timestamp": "2026-05-22T22:14:14.970501"
+  },
+  {
+    "transaction_id": "51db53be-d96d-44eb-a7a0-b555f62a777e",
+    "user_id": "2e77a76e-7cc6-46b8-b970-d8a83940f58b",
+    "amount": 993.92,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Kennethport",
+    "timestamp": "2026-05-22T22:14:15.472652"
+  },
+  {
+    "transaction_id": "e3317770-3389-4d71-990d-696f33d2d585",
+    "user_id": "fbf2ab22-2093-420d-9268-84a60457b1e1",
+    "amount": 7552.4,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Thompsonview",
+    "timestamp": "2026-05-22T22:14:15.974312"
+  },
+  {
+    "transaction_id": "f9068847-b62f-4876-a56c-e5d3e3ef96b2",
+    "user_id": "cecbebcf-520d-404b-8e01-d6bfddeff706",
+    "amount": 8609.9,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Hendersonport",
+    "timestamp": "2026-05-22T22:14:16.477749"
+  }
+]

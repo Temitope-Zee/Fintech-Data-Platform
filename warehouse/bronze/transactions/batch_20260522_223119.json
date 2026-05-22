@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a182731f-6e1f-43d0-9547-8b4ef630de85",
+    "user_id": "4514292a-45f7-4cd3-a555-c5d2830bd73c",
+    "amount": 516.23,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Donaldmouth",
+    "timestamp": "2026-05-22T22:31:14.174913"
+  },
+  {
+    "transaction_id": "11185213-f389-4b96-8050-4c24c485fa25",
+    "user_id": "ec072ffb-73f6-47b1-bd9a-cc303a56dec3",
+    "amount": 6531.73,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Mcculloughfort",
+    "timestamp": "2026-05-22T22:31:14.678379"
+  },
+  {
+    "transaction_id": "927df18a-0950-4efe-b271-538b6d6fc764",
+    "user_id": "17529d95-dbcc-40a6-8ea6-9d8138c948f0",
+    "amount": 2030.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Jeremytown",
+    "timestamp": "2026-05-22T22:31:15.683148"
+  },
+  {
+    "transaction_id": "afc0e8bb-149b-43b8-b6e2-0e5108be429d",
+    "user_id": "3b74caaf-2720-4215-9c7b-d808b0af16c2",
+    "amount": 3928.43,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Georgetown",
+    "timestamp": "2026-05-22T22:31:16.185857"
+  },
+  {
+    "transaction_id": "ba67faaf-e6e6-493c-9612-e91208c18278",
+    "user_id": "af03d887-617e-4ad8-8524-cb00af9afd8a",
+    "amount": 9830.75,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Denisetown",
+    "timestamp": "2026-05-22T22:31:16.688200"
+  },
+  {
+    "transaction_id": "75be7b07-4424-4d93-a351-ce6c25fb9226",
+    "user_id": "dc489274-9197-47e5-95f4-a614391e3c80",
+    "amount": 1760.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Jenniferfurt",
+    "timestamp": "2026-05-22T22:31:17.190277"
+  },
+  {
+    "transaction_id": "fe252ea8-25c7-4723-bcac-fcd84721be7b",
+    "user_id": "6fed3ef5-bf78-4477-aa42-ef7cda3e1507",
+    "amount": 6845.68,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Hunterville",
+    "timestamp": "2026-05-22T22:31:17.691969"
+  },
+  {
+    "transaction_id": "44dfe6d3-e3b4-4181-8769-d3065d24e327",
+    "user_id": "2121ba52-632b-4d20-9ff4-f0e5e6907e80",
+    "amount": 20.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jacquelinefurt",
+    "timestamp": "2026-05-22T22:31:18.694066"
+  },
+  {
+    "transaction_id": "0c190f0d-3a74-4502-aa04-dada01fb6982",
+    "user_id": "410f5475-a5a0-4c81-a99c-52d07067eb5d",
+    "amount": 9995.85,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Dustinchester",
+    "timestamp": "2026-05-22T22:31:19.195919"
+  },
+  {
+    "transaction_id": "a5f0e6b4-f6de-4c5a-9bfd-38e037a90044",
+    "user_id": "c00f81c5-0c0f-46eb-b922-0029c17770f4",
+    "amount": 374.93,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Dylanland",
+    "timestamp": "2026-05-22T22:31:19.698659"
+  }
+]

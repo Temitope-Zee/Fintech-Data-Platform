@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "503524d9-374c-4c58-9af4-e98e136f9b98",
+    "user_id": "67ed8904-3369-4396-b642-30e8443c8fcb",
+    "amount": 6896.75,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Tiffanyview",
+    "timestamp": "2026-05-22T22:43:50.876956"
+  },
+  {
+    "transaction_id": "3bfc8cd0-5438-4207-b980-5129df0f8014",
+    "user_id": "eb376617-bcfb-4ce6-b14c-2bf7d57c324d",
+    "amount": 4375.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Sherryview",
+    "timestamp": "2026-05-22T22:43:51.380124"
+  },
+  {
+    "transaction_id": "ad70ec84-300a-466b-87f8-fcecc05ef4c5",
+    "user_id": "b82aaa81-cd68-4b4b-bc11-928f251f27f2",
+    "amount": 2778.91,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Joseph",
+    "timestamp": "2026-05-22T22:43:51.881221"
+  },
+  {
+    "transaction_id": "d239693d-ac0f-47d6-9eb5-4ee8330a903a",
+    "user_id": "c8cc9587-d926-4e74-a1f7-e077cd88d9f0",
+    "amount": 3914.38,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Devin",
+    "timestamp": "2026-05-22T22:43:52.383646"
+  },
+  {
+    "transaction_id": "86b56e43-1818-4491-a3eb-97d3132c6267",
+    "user_id": "bffe7828-259a-4e6b-bea7-ff368637d3a5",
+    "amount": 9526.8,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Davisland",
+    "timestamp": "2026-05-22T22:43:52.884891"
+  },
+  {
+    "transaction_id": "8d2a1c7f-b021-4d1e-ba40-3dc3cc5f57d0",
+    "user_id": "c418eeb0-e922-47ac-b904-2a5214f5fbd5",
+    "amount": 4060.58,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Jennifer",
+    "timestamp": "2026-05-22T22:43:53.385934"
+  },
+  {
+    "transaction_id": "a128b9ce-5570-474e-8d45-b66efc5366f8",
+    "user_id": "2cf840f1-8122-4b82-a825-ee24fe549c9a",
+    "amount": 2115.46,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Vanessashire",
+    "timestamp": "2026-05-22T22:43:53.888586"
+  },
+  {
+    "transaction_id": "027f0722-b4d5-4c5a-8b91-f4e6761b3e57",
+    "user_id": "6f6ad8e8-61b8-4a00-85a8-f916c1722fdc",
+    "amount": 4193.77,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Bruceville",
+    "timestamp": "2026-05-22T22:43:54.390306"
+  },
+  {
+    "transaction_id": "3c749847-72e4-4122-894a-87fac203e933",
+    "user_id": "1f048d20-e2cc-42ef-9a94-17e6d9da073a",
+    "amount": 1569.52,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Kimberlyberg",
+    "timestamp": "2026-05-22T22:43:54.891891"
+  },
+  {
+    "transaction_id": "906e3155-9070-4dbf-ba01-e116418e8ee4",
+    "user_id": "a62c4649-c2c4-4dd9-9094-29480a9c987e",
+    "amount": 507.39,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Ramirezport",
+    "timestamp": "2026-05-22T22:43:55.897381"
+  }
+]

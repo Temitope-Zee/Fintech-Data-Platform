@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "967e426a-63f5-466b-8e55-f8ef2f2d2546",
+    "user_id": "23100c0f-ee09-4d14-b1c2-e6913fcc6869",
+    "amount": 6915.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Michelle",
+    "timestamp": "2026-05-22T22:04:36.199215"
+  },
+  {
+    "transaction_id": "64dc1e1c-1355-4393-b8d3-6fc77cf157ba",
+    "user_id": "427eeffb-fcfe-49e2-8afa-39334c8d6e4a",
+    "amount": 181.76,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Morrisshire",
+    "timestamp": "2026-05-22T22:04:36.702113"
+  },
+  {
+    "transaction_id": "c19bc8c6-4314-42de-bacb-87f0f40e7752",
+    "user_id": "3c199799-b8b6-4567-b4a6-657e6ac788e1",
+    "amount": 2970.83,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Shannonshire",
+    "timestamp": "2026-05-22T22:04:37.204565"
+  },
+  {
+    "transaction_id": "eb25c1fc-c7df-4d58-8939-2bbf3b83a03e",
+    "user_id": "b480b1a7-ba61-44e7-a15a-a8c4a94f741c",
+    "amount": 2983.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Robertville",
+    "timestamp": "2026-05-22T22:04:38.209842"
+  },
+  {
+    "transaction_id": "7d9d89d6-3b99-43d7-bdd9-745d3aeb3acc",
+    "user_id": "99773353-98ba-48d8-874a-15c1f69d5567",
+    "amount": 7037.83,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Gwendolynbury",
+    "timestamp": "2026-05-22T22:04:40.216464"
+  },
+  {
+    "transaction_id": "1298b218-9423-40c7-a104-52c40e9e2b45",
+    "user_id": "e9da6627-c08c-44e3-8a58-dffe3c927bed",
+    "amount": 3807.56,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Dayfurt",
+    "timestamp": "2026-05-22T22:04:40.719908"
+  },
+  {
+    "transaction_id": "9dca333f-a02a-4a45-b0a5-4e60599ae81d",
+    "user_id": "ebf31cfc-d4c8-4319-9a7c-3470670c6795",
+    "amount": 5357.45,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Nicholaschester",
+    "timestamp": "2026-05-22T22:04:41.221380"
+  },
+  {
+    "transaction_id": "c0f7c2bc-4954-495d-a539-0f27e44b6e5e",
+    "user_id": "df3e5b4e-e56b-4700-872d-851a9ec62604",
+    "amount": 1547.96,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Mario",
+    "timestamp": "2026-05-22T22:04:41.724423"
+  },
+  {
+    "transaction_id": "fb753413-b697-4895-a66c-71fe342e5ad6",
+    "user_id": "aaf42781-4bc9-443b-9700-a730dabf7733",
+    "amount": 62.46,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Angieborough",
+    "timestamp": "2026-05-22T22:04:42.225830"
+  },
+  {
+    "transaction_id": "b28b4a96-7816-477b-a90a-c61337b28ed7",
+    "user_id": "676475c5-d02c-4cb4-92cf-b003f9505e67",
+    "amount": 7209.57,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Forbesfort",
+    "timestamp": "2026-05-22T22:04:42.728632"
+  }
+]

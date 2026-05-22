@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ee3dd94d-fd33-4182-9dda-f7b5ecc92950",
+    "user_id": "7353e3d0-36f3-4403-8c51-a8374e8a1b15",
+    "amount": 5721.63,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Jasontown",
+    "timestamp": "2026-05-22T22:57:32.753627"
+  },
+  {
+    "transaction_id": "59dcea77-ae50-415c-852b-2765f3962629",
+    "user_id": "7ee42496-e99b-48e6-8e90-8d1808afd760",
+    "amount": 2435.01,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Trevorville",
+    "timestamp": "2026-05-22T22:57:33.254804"
+  },
+  {
+    "transaction_id": "f76a6558-4734-4ed6-9396-9b72d0f7c9b2",
+    "user_id": "ef429667-1846-4d2c-8075-f3c00adb5e80",
+    "amount": 2116.12,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Tonya",
+    "timestamp": "2026-05-22T22:57:33.757120"
+  },
+  {
+    "transaction_id": "1b48d267-66b4-4f87-89d4-ca4a6b0bfeaa",
+    "user_id": "7af4bbcc-ff2b-4020-adad-28c214cb673e",
+    "amount": 2187.28,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Kimberlyshire",
+    "timestamp": "2026-05-22T22:57:34.760140"
+  },
+  {
+    "transaction_id": "2445e2e9-1aa1-451f-a492-813ef41c4304",
+    "user_id": "c1783fba-5c6f-4e08-99ce-0f46a0c79456",
+    "amount": 963.67,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Susanmouth",
+    "timestamp": "2026-05-22T22:57:35.261304"
+  },
+  {
+    "transaction_id": "5004a1f0-cd82-483c-b01e-09029294297b",
+    "user_id": "5f0a919a-8b6c-49f1-9803-509c4f43f45a",
+    "amount": 9330.86,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jasonland",
+    "timestamp": "2026-05-22T22:57:36.263761"
+  },
+  {
+    "transaction_id": "d94ab9fd-98ca-4ece-a695-57bf5520e75e",
+    "user_id": "fb55135d-db23-4d9e-a4d8-3936f5bc3027",
+    "amount": 6149.78,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Weberside",
+    "timestamp": "2026-05-22T22:57:36.765029"
+  },
+  {
+    "transaction_id": "8f84b36d-507e-4d02-9751-78ec71071789",
+    "user_id": "d79c1b86-f5b5-4245-b239-b1a2b312404a",
+    "amount": 5982.91,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Williamfort",
+    "timestamp": "2026-05-22T22:57:37.266848"
+  },
+  {
+    "transaction_id": "6f2fd323-7f9a-4ad9-8a79-a850dbe1f6ef",
+    "user_id": "55e778c0-91ab-44e2-82d5-7a288d743ccb",
+    "amount": 8067.34,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Barbara",
+    "timestamp": "2026-05-22T22:57:37.768306"
+  },
+  {
+    "transaction_id": "d888e1ce-978c-40e0-bee4-f4607db716ac",
+    "user_id": "a13364f0-00ef-4c11-baff-4d8b5d03474f",
+    "amount": 2818.0,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Jessica",
+    "timestamp": "2026-05-22T22:57:39.272740"
+  }
+]

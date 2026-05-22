@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d8e158f9-7016-4483-adb1-226f96225a41",
+    "user_id": "d811ea8c-8b38-49a0-b261-f04ef22aee5e",
+    "amount": 7207.98,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kennedybury",
+    "timestamp": "2026-05-22T22:15:34.803238"
+  },
+  {
+    "transaction_id": "307f8f9f-9384-4585-b0c9-9ab7d86044a1",
+    "user_id": "3f07413a-50c0-44e7-bc79-631378340d31",
+    "amount": 2203.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Stephaniemouth",
+    "timestamp": "2026-05-22T22:15:35.306168"
+  },
+  {
+    "transaction_id": "79ffde70-d493-44a8-a5d7-78211e294182",
+    "user_id": "a73bdf99-2aed-4713-b2de-3c30a7096a9d",
+    "amount": 2133.35,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Russellburgh",
+    "timestamp": "2026-05-22T22:15:36.308688"
+  },
+  {
+    "transaction_id": "b1af9fe3-491d-4911-ae55-c22c3726899c",
+    "user_id": "3e2173dc-0730-465f-b7a3-006c7ca3e0c8",
+    "amount": 5527.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Nguyenborough",
+    "timestamp": "2026-05-22T22:15:36.811339"
+  },
+  {
+    "transaction_id": "43101d8f-f75a-4986-be23-3613b1eebf72",
+    "user_id": "494f5100-f103-4386-8450-a6c566d69633",
+    "amount": 505.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Porterberg",
+    "timestamp": "2026-05-22T22:15:37.314310"
+  },
+  {
+    "transaction_id": "04ebd0e1-02dd-42b5-9a6f-c23a4757a7bd",
+    "user_id": "7ecf706a-59f8-4710-97c1-d683e9013526",
+    "amount": 7127.73,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Thomasstad",
+    "timestamp": "2026-05-22T22:15:37.816678"
+  },
+  {
+    "transaction_id": "5fba49e2-2eec-4b76-bbc2-0757e0ce51f7",
+    "user_id": "591d0db8-17e9-4591-ac0d-db14834363a8",
+    "amount": 3338.26,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Joseport",
+    "timestamp": "2026-05-22T22:15:38.821007"
+  },
+  {
+    "transaction_id": "6a256203-0375-4f1c-b717-4d8bca0402ff",
+    "user_id": "7c38b9fc-ebbf-4a71-aa2e-9da7f305f963",
+    "amount": 1375.0,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lisatown",
+    "timestamp": "2026-05-22T22:15:39.825152"
+  },
+  {
+    "transaction_id": "3c4b3435-a3a9-4e9b-9c68-3fa40a18aa04",
+    "user_id": "58de1cda-a2ab-47da-abe0-47e1dfb393d3",
+    "amount": 8135.66,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Karen",
+    "timestamp": "2026-05-22T22:15:40.324336"
+  },
+  {
+    "transaction_id": "91c4169c-c32f-44b1-8dd9-2cad57c700bf",
+    "user_id": "bc98155c-7238-4581-8582-06ec065dff45",
+    "amount": 888.88,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port James",
+    "timestamp": "2026-05-22T22:15:41.328698"
+  }
+]

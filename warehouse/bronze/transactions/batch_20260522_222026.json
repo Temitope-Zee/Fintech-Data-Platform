@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "58f17c3e-6d94-4f90-961d-2cb1a435f0bd",
+    "user_id": "d6dc1433-42b7-4ea5-950d-a07f4240902d",
+    "amount": 3488.22,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Annahaven",
+    "timestamp": "2026-05-22T22:20:21.467751"
+  },
+  {
+    "transaction_id": "72b38ffa-01ff-4161-8916-e0318d82ab9a",
+    "user_id": "156d37a6-e4f3-4f52-95e6-b1172b7fb3d0",
+    "amount": 9635.67,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Khanberg",
+    "timestamp": "2026-05-22T22:20:21.969852"
+  },
+  {
+    "transaction_id": "fd9f8664-b744-4efd-a03e-09a75fb1b4ef",
+    "user_id": "b26e9953-db83-411f-8ec4-296e02546c60",
+    "amount": 6120.13,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Royshire",
+    "timestamp": "2026-05-22T22:20:22.471609"
+  },
+  {
+    "transaction_id": "3a8b0c49-789e-4609-84eb-d3c9b2231fb2",
+    "user_id": "aff717a5-fc33-4788-87ef-d66ff89ca552",
+    "amount": 6145.88,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Christopherland",
+    "timestamp": "2026-05-22T22:20:22.972933"
+  },
+  {
+    "transaction_id": "6f809e19-2aac-45bd-8de0-5485efb4ff5e",
+    "user_id": "2de7abdb-2884-4fc0-84d7-e66af6091ef9",
+    "amount": 4240.76,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Stephanieland",
+    "timestamp": "2026-05-22T22:20:23.474068"
+  },
+  {
+    "transaction_id": "21d20977-0330-4b31-99b1-510b9376432a",
+    "user_id": "780a70db-8a12-4c12-88b2-3a7a5f189c20",
+    "amount": 9940.2,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Amberstad",
+    "timestamp": "2026-05-22T22:20:23.975822"
+  },
+  {
+    "transaction_id": "2aa773c0-0379-4154-aaca-ca6eb8f31330",
+    "user_id": "f0409ae5-d9b3-42d3-b046-14a6bb24c3ac",
+    "amount": 6789.77,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Justinchester",
+    "timestamp": "2026-05-22T22:20:24.477380"
+  },
+  {
+    "transaction_id": "372560ff-80c8-410c-98db-f01763130d46",
+    "user_id": "8eaa26ba-86d3-4001-a124-426d0fa2fbfa",
+    "amount": 8132.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Thomasland",
+    "timestamp": "2026-05-22T22:20:24.979066"
+  },
+  {
+    "transaction_id": "b5de07cb-fb6c-475b-b58e-47163d47f227",
+    "user_id": "0f0df858-bdb6-4fba-9bfd-9dc3221136f3",
+    "amount": 350.22,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Jean",
+    "timestamp": "2026-05-22T22:20:25.983211"
+  },
+  {
+    "transaction_id": "c02658a5-1600-4f48-885e-d1e78b38d41d",
+    "user_id": "1bce4bc9-eaa4-45f5-af9f-f9826d8fc22d",
+    "amount": 1279.83,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Smithmouth",
+    "timestamp": "2026-05-22T22:20:26.486574"
+  }
+]

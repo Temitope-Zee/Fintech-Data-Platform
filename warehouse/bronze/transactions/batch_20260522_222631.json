@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "be3da306-cf10-4f18-9a91-857d5658dd48",
+    "user_id": "b3e9c99a-cfa4-4ec8-a0f6-85b08a8f109a",
+    "amount": 417.42,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Richard",
+    "timestamp": "2026-05-22T22:26:26.959014"
+  },
+  {
+    "transaction_id": "1706fbcf-2498-463f-9ed3-33655f11b313",
+    "user_id": "9ed3c063-d397-4f5e-a76f-d54b1dc26992",
+    "amount": 1900.71,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Judyville",
+    "timestamp": "2026-05-22T22:26:27.462072"
+  },
+  {
+    "transaction_id": "18145656-f0ad-4c57-b3bf-be41020a1e9b",
+    "user_id": "f10319fa-1e30-4781-9e95-13a937f09185",
+    "amount": 2994.31,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Garrettbury",
+    "timestamp": "2026-05-22T22:26:27.964526"
+  },
+  {
+    "transaction_id": "da044340-cc77-4d94-a88b-44d83fd400ae",
+    "user_id": "35d7d19b-7218-4c60-b4e2-135936def241",
+    "amount": 637.86,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Garyburgh",
+    "timestamp": "2026-05-22T22:26:28.466032"
+  },
+  {
+    "transaction_id": "1a5af6d1-4ff5-4df1-b66b-0dfc1872687b",
+    "user_id": "000f8336-c7c5-493e-ac5b-f3b7728d5cd8",
+    "amount": 2374.67,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Garciamouth",
+    "timestamp": "2026-05-22T22:26:28.967772"
+  },
+  {
+    "transaction_id": "ead77168-56ce-45f7-a4c3-7f4ec955d232",
+    "user_id": "c3f687a9-eb33-4cc5-842f-3f018baf3243",
+    "amount": 2417.09,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Nicholasfort",
+    "timestamp": "2026-05-22T22:26:29.470773"
+  },
+  {
+    "transaction_id": "e8ecdd89-b002-4acd-93b7-bd3533fd3bfa",
+    "user_id": "3ce30901-4983-45c4-93d8-eda9f477add5",
+    "amount": 531.54,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Megan",
+    "timestamp": "2026-05-22T22:26:29.973880"
+  },
+  {
+    "transaction_id": "db0d69fc-3b0e-4bfd-b8bc-42ccad2f9591",
+    "user_id": "1951fa08-aacf-4da9-8544-133496d712bb",
+    "amount": 8190.36,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Christopherburgh",
+    "timestamp": "2026-05-22T22:26:30.480389"
+  },
+  {
+    "transaction_id": "b7cb6150-12eb-470f-983b-9ae9a6b3688b",
+    "user_id": "6972eccc-5dfe-4dca-9757-1f658cfaf501",
+    "amount": 1626.75,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Chase",
+    "timestamp": "2026-05-22T22:26:30.981794"
+  },
+  {
+    "transaction_id": "efa6155d-f430-4103-8376-7752be3d73ca",
+    "user_id": "4f0b0189-4623-4aaf-b7d9-e4b0eeb58af2",
+    "amount": 546.09,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Griffithton",
+    "timestamp": "2026-05-22T22:26:31.483766"
+  }
+]

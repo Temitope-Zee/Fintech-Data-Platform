@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "47b7fa8f-c5a9-45ae-a0b1-f9326a584aef",
+    "user_id": "9e885cf5-d6b7-4aa4-a013-c632c284517c",
+    "amount": 5546.71,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Lindsayshire",
+    "timestamp": "2026-05-22T22:44:37.562267"
+  },
+  {
+    "transaction_id": "e4333226-c45f-41f4-b555-6779124ece78",
+    "user_id": "5583c7db-086d-463d-b048-34574c7aecd2",
+    "amount": 6119.72,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Steve",
+    "timestamp": "2026-05-22T22:44:38.064893"
+  },
+  {
+    "transaction_id": "b2c09dae-41a6-4716-8566-8a6e99c7f500",
+    "user_id": "2933e3ee-3324-4007-86e3-df954dd017ba",
+    "amount": 8176.33,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Vanessatown",
+    "timestamp": "2026-05-22T22:44:38.567531"
+  },
+  {
+    "transaction_id": "4a098d98-4b51-4aad-aba6-0d45782fda94",
+    "user_id": "0d3024d8-9d34-467f-acb4-bd05cd3fe233",
+    "amount": 3386.78,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Davilabury",
+    "timestamp": "2026-05-22T22:44:39.070159"
+  },
+  {
+    "transaction_id": "f8051eac-af22-48a6-8537-94a3a5b0ace4",
+    "user_id": "2b0ba4a6-94dd-4575-8cb2-d896d48939a9",
+    "amount": 6293.67,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Davidville",
+    "timestamp": "2026-05-22T22:44:40.073111"
+  },
+  {
+    "transaction_id": "b10744f3-a161-410f-a2f5-f905623d6da0",
+    "user_id": "f30ec7f8-a9e9-4549-8f59-91b6311848cf",
+    "amount": 4649.8,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Taraport",
+    "timestamp": "2026-05-22T22:44:40.574682"
+  },
+  {
+    "transaction_id": "1002959a-eaa4-4b53-9960-bed956f7de7a",
+    "user_id": "def117fe-97b6-40a2-800b-8cb0ecf73cc3",
+    "amount": 6650.36,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Autumn",
+    "timestamp": "2026-05-22T22:44:42.081960"
+  },
+  {
+    "transaction_id": "62962f76-2d96-4489-9ffd-695f45529553",
+    "user_id": "006bfd1a-999a-41ee-96c3-e52491d36fae",
+    "amount": 815.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Meredithport",
+    "timestamp": "2026-05-22T22:44:42.583485"
+  },
+  {
+    "transaction_id": "90747629-b592-4294-99f2-4949e42020e8",
+    "user_id": "d080ce85-699d-4899-b4c9-a008b3f75a0a",
+    "amount": 1344.16,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Hayeshaven",
+    "timestamp": "2026-05-22T22:44:43.084586"
+  },
+  {
+    "transaction_id": "8b5ecd01-84b1-418a-a1c7-19670f4ff78c",
+    "user_id": "0fc69944-5bb5-49c1-8453-d2434ca4dede",
+    "amount": 1912.31,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Cohenfurt",
+    "timestamp": "2026-05-22T22:44:43.585875"
+  }
+]

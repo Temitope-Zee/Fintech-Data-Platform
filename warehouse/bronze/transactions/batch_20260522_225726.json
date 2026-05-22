@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f03f950f-72a0-4938-b47a-a80e5545b4a8",
+    "user_id": "f1006611-a68e-47fc-9c89-1cb4161313ff",
+    "amount": 3712.31,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Macdonaldbury",
+    "timestamp": "2026-05-22T22:57:19.699882"
+  },
+  {
+    "transaction_id": "d58006c8-c2da-46e3-872b-c8ba071d4f92",
+    "user_id": "c5fc7b1f-f62a-413d-85bd-511ba85c3e15",
+    "amount": 2650.19,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Josephborough",
+    "timestamp": "2026-05-22T22:57:20.203167"
+  },
+  {
+    "transaction_id": "a023b577-7537-451b-bf87-7a2ec45dce56",
+    "user_id": "2c0bff6c-6387-4049-8422-291b5eebc1b1",
+    "amount": 5234.42,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Sarahfurt",
+    "timestamp": "2026-05-22T22:57:21.711809"
+  },
+  {
+    "transaction_id": "d7569a5e-add9-452c-85a3-fc18ab33b574",
+    "user_id": "1afc67bf-3dde-42ef-a602-d0ee6af63201",
+    "amount": 8635.77,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Craig",
+    "timestamp": "2026-05-22T22:57:22.213801"
+  },
+  {
+    "transaction_id": "bf4100ce-9f8f-4fe7-abe0-d1929d022a74",
+    "user_id": "0b5e3399-4903-4e80-9a2a-1c2bde3e27db",
+    "amount": 8842.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Fisherborough",
+    "timestamp": "2026-05-22T22:57:23.219974"
+  },
+  {
+    "transaction_id": "9a32e4e9-bd4e-42dd-8cb5-06949ccfdafa",
+    "user_id": "dcde5dbb-e3e0-4b35-8c94-e97b5730090b",
+    "amount": 4092.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Amy",
+    "timestamp": "2026-05-22T22:57:23.722471"
+  },
+  {
+    "transaction_id": "23d4b641-6ead-4532-9ec1-2f6576b783ff",
+    "user_id": "93b3f424-9b3b-482f-a4a5-bea0294e8acb",
+    "amount": 4888.85,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Pierceview",
+    "timestamp": "2026-05-22T22:57:24.727255"
+  },
+  {
+    "transaction_id": "512809a0-a74c-4186-83c6-66782cb4edf4",
+    "user_id": "c35b0ed5-7ce4-4c4b-a1ab-5abf821b269b",
+    "amount": 250.15,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Fredshire",
+    "timestamp": "2026-05-22T22:57:25.228781"
+  },
+  {
+    "transaction_id": "e58327bc-2727-441b-9dd3-e0074ea95d3b",
+    "user_id": "cd6527ff-d1ab-4489-8785-c5a362eeee72",
+    "amount": 2110.72,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Alexisfurt",
+    "timestamp": "2026-05-22T22:57:25.731291"
+  },
+  {
+    "transaction_id": "1a0ee755-d282-40af-a295-2c59bfac37b8",
+    "user_id": "edd5c1e7-9c6b-476b-9cfa-2346c4ec6319",
+    "amount": 9116.16,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Alisonfurt",
+    "timestamp": "2026-05-22T22:57:26.233167"
+  }
+]

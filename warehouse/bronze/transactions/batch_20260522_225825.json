@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c6b77033-83a3-4dae-80d1-1934af7d632b",
+    "user_id": "d4f8a145-a5de-4f88-a499-f11385943c9e",
+    "amount": 1714.92,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Blairstad",
+    "timestamp": "2026-05-22T22:58:20.924578"
+  },
+  {
+    "transaction_id": "d47fbbba-2392-4de8-9b76-3422734be0dc",
+    "user_id": "8529e1a7-9f13-4bca-97fa-b7fca90616ef",
+    "amount": 2681.9,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Matthewshire",
+    "timestamp": "2026-05-22T22:58:21.427446"
+  },
+  {
+    "transaction_id": "32c7ef06-f1c0-439b-8602-f94f360594b3",
+    "user_id": "c5402d21-b608-4f19-bfea-5dba67bc9522",
+    "amount": 5665.58,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Megan",
+    "timestamp": "2026-05-22T22:58:21.929860"
+  },
+  {
+    "transaction_id": "0b2ff0b4-7c1c-4d96-9ba3-0c81d998ceb8",
+    "user_id": "a5c6e0fd-f480-45ac-8789-bbf5d328405e",
+    "amount": 9892.06,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Maxton",
+    "timestamp": "2026-05-22T22:58:22.431209"
+  },
+  {
+    "transaction_id": "cf24e753-8ac6-452d-b2b0-5ad3a819a3fd",
+    "user_id": "b93bf3c4-7035-4250-82d2-37197ee6610b",
+    "amount": 1494.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Maureenberg",
+    "timestamp": "2026-05-22T22:58:22.932483"
+  },
+  {
+    "transaction_id": "2b347ca9-89c5-4384-a5a7-cebeff9716fe",
+    "user_id": "7547d78c-5ea8-466c-a548-7ef1b4a78277",
+    "amount": 111.27,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Garretttown",
+    "timestamp": "2026-05-22T22:58:23.433776"
+  },
+  {
+    "transaction_id": "2db1abe3-06db-42d5-9445-3951563611a4",
+    "user_id": "4f01daf5-a9cb-4751-85df-385857350ff9",
+    "amount": 7444.68,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Christopher",
+    "timestamp": "2026-05-22T22:58:24.439646"
+  },
+  {
+    "transaction_id": "e04abf7b-6925-480d-9653-34d235688d07",
+    "user_id": "0fe04a1a-265f-4c21-83b1-889b798aa88a",
+    "amount": 7297.92,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Anthonyview",
+    "timestamp": "2026-05-22T22:58:24.941394"
+  },
+  {
+    "transaction_id": "25d56c09-31e7-4240-8c32-2eb380cf857d",
+    "user_id": "f1954347-c622-4bd5-a3b1-139ebddb6549",
+    "amount": 728.42,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Allisonborough",
+    "timestamp": "2026-05-22T22:58:25.444310"
+  },
+  {
+    "transaction_id": "0df4f8fe-0e41-4484-b20c-1638e8f9b4c4",
+    "user_id": "035a4be9-a836-4b26-ab55-3c15db516458",
+    "amount": 7225.5,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Angelatown",
+    "timestamp": "2026-05-22T22:58:25.945850"
+  }
+]

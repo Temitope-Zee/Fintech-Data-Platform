@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "13943816-bbd8-4fb9-be76-4b6a54824ab4",
+    "user_id": "386b7a79-518a-4aba-8b55-f784b5a110cc",
+    "amount": 7608.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Joshuaside",
+    "timestamp": "2026-05-22T22:18:27.504862"
+  },
+  {
+    "transaction_id": "8b53c965-f858-4ec4-a5a8-98fc5039d62f",
+    "user_id": "8a521f8a-6481-4045-b019-d72b77584141",
+    "amount": 3952.22,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Regina",
+    "timestamp": "2026-05-22T22:18:28.007927"
+  },
+  {
+    "transaction_id": "d53c41d1-74c6-4694-b6bf-d142e256aab9",
+    "user_id": "69400754-7aae-48cd-a4ad-6d8895df55ae",
+    "amount": 6570.24,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Amyburgh",
+    "timestamp": "2026-05-22T22:18:28.509763"
+  },
+  {
+    "transaction_id": "9c5e61a4-dc5e-47a5-9304-16a78ecb8645",
+    "user_id": "2c871313-da7d-47eb-a5a0-3e6ffc2ab8a7",
+    "amount": 2232.5,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Ashley",
+    "timestamp": "2026-05-22T22:18:29.012914"
+  },
+  {
+    "transaction_id": "7d20a119-6548-4cbe-b09d-8650f4c5488f",
+    "user_id": "0249c9f9-4049-4a9e-9c34-818584cfce5a",
+    "amount": 9065.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Rose",
+    "timestamp": "2026-05-22T22:18:29.516092"
+  },
+  {
+    "transaction_id": "342f277c-0ab9-4346-96f0-4e88405303e3",
+    "user_id": "ba808658-2e8d-4d04-97c0-d89cadb3f82c",
+    "amount": 2999.03,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Erichaven",
+    "timestamp": "2026-05-22T22:18:30.019071"
+  },
+  {
+    "transaction_id": "a0adceff-5aa8-4b14-8fb8-31ae786bd99f",
+    "user_id": "d4f2351b-63a5-4306-9fe6-f220d501d297",
+    "amount": 6220.72,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Cherylland",
+    "timestamp": "2026-05-22T22:18:30.522081"
+  },
+  {
+    "transaction_id": "b6318ebe-c58f-4c36-8525-cec8b1364262",
+    "user_id": "68674224-05f2-42f6-91fd-c90b576372e1",
+    "amount": 8379.41,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Smithfurt",
+    "timestamp": "2026-05-22T22:18:31.024579"
+  },
+  {
+    "transaction_id": "cf4dce7e-71f5-4556-9dd3-6f23085e3891",
+    "user_id": "ad6b2b7b-52bd-409a-ab06-66f49e7f7806",
+    "amount": 2532.71,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Stephaniestad",
+    "timestamp": "2026-05-22T22:18:31.525931"
+  },
+  {
+    "transaction_id": "21fe38fc-945e-405a-9cb6-ae5054a90e98",
+    "user_id": "d7d21d85-bb12-4153-bf7d-27a30e8fb442",
+    "amount": 808.19,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Sarahland",
+    "timestamp": "2026-05-22T22:18:32.028860"
+  }
+]

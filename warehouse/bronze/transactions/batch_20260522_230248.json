@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3173edd6-93d6-461e-b626-3d4bb60124be",
+    "user_id": "4a060a5c-0f21-4a2a-84c8-443c5b90f63d",
+    "amount": 6225.39,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Randalltown",
+    "timestamp": "2026-05-22T23:02:43.733220"
+  },
+  {
+    "transaction_id": "80f8b586-4298-4d27-abb2-791daf5fc863",
+    "user_id": "03e194c4-c794-4701-b7b0-d3b021b6e75a",
+    "amount": 5179.88,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gilbertside",
+    "timestamp": "2026-05-22T23:02:44.736715"
+  },
+  {
+    "transaction_id": "fe81dd3d-e9a8-4084-bce9-281f40948589",
+    "user_id": "d42e5d82-c9c4-4598-8573-8e17d0c428ea",
+    "amount": 9633.64,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Schultzborough",
+    "timestamp": "2026-05-22T23:02:45.237887"
+  },
+  {
+    "transaction_id": "ad7f1456-4346-4bf0-9411-e183dcca97cf",
+    "user_id": "6503cfec-00ca-4e1a-97d8-3f54ffe5b1b6",
+    "amount": 2856.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Walterton",
+    "timestamp": "2026-05-22T23:02:45.740336"
+  },
+  {
+    "transaction_id": "9f081901-96f4-4911-b2e1-fc58ac7b0a25",
+    "user_id": "959f6fef-a7ca-4a86-8090-baa9d4356e84",
+    "amount": 8308.09,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Kayla",
+    "timestamp": "2026-05-22T23:02:46.241845"
+  },
+  {
+    "transaction_id": "26f9a35e-f99d-412a-9c8b-7a4c391c6049",
+    "user_id": "6ae9fe0a-c5af-43b5-8c16-473edb3ecb3d",
+    "amount": 3688.71,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Susanbury",
+    "timestamp": "2026-05-22T23:02:46.743666"
+  },
+  {
+    "transaction_id": "fb39c7eb-4764-4b6a-ac83-ae3508beae1a",
+    "user_id": "db0c9e6a-d39c-419e-b1de-f1ecc9a9fb29",
+    "amount": 7762.39,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Sarahhaven",
+    "timestamp": "2026-05-22T23:02:47.246828"
+  },
+  {
+    "transaction_id": "6fc932df-7d7b-4d63-86a9-1074af95dba7",
+    "user_id": "c14ce1d0-329b-4632-a5ff-e8ee1510db69",
+    "amount": 5981.72,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Amyshire",
+    "timestamp": "2026-05-22T23:02:47.748615"
+  },
+  {
+    "transaction_id": "b75c1cf8-3149-4e36-86d3-b359f08c2dac",
+    "user_id": "9ea861e1-6e65-4a79-a56d-52c3c36b7770",
+    "amount": 2851.49,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Wendyside",
+    "timestamp": "2026-05-22T23:02:48.249883"
+  },
+  {
+    "transaction_id": "1bfbe362-9666-48e5-8df2-db0c61451508",
+    "user_id": "86ca8d4f-e58b-40c9-bff1-da6a111ce7af",
+    "amount": 6999.15,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Kennethland",
+    "timestamp": "2026-05-22T23:02:48.751459"
+  }
+]

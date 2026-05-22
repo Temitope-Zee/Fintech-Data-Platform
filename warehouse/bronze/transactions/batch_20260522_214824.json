@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "70d23c53-198a-4e68-9681-4b7efd61b341",
+    "user_id": "ce6de7e4-87a0-4d91-9089-b7deb5b0f769",
+    "amount": 5209.63,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Carrilloshire",
+    "timestamp": "2026-05-22T21:48:19.717050"
+  },
+  {
+    "transaction_id": "2a420f10-d229-43d1-a64a-b51c6877ddb8",
+    "user_id": "ab6a00f8-2319-4ef3-80d6-ac2b7e42c428",
+    "amount": 1805.72,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Robinsonchester",
+    "timestamp": "2026-05-22T21:48:20.220057"
+  },
+  {
+    "transaction_id": "9ccc39a6-9976-4b21-a82b-60e3ef953943",
+    "user_id": "8b5c592c-6c28-4a2a-8e4a-b9fb98682af8",
+    "amount": 5877.3,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lisaport",
+    "timestamp": "2026-05-22T21:48:20.721603"
+  },
+  {
+    "transaction_id": "02311d11-cbbd-4ae5-a512-ff63ae4c45a9",
+    "user_id": "d8e6d6f1-213b-4d8f-95b6-4e1d1e28ede9",
+    "amount": 3498.83,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Jillianview",
+    "timestamp": "2026-05-22T21:48:21.223105"
+  },
+  {
+    "transaction_id": "696ff207-0899-4f24-b2f9-d68ee9ec23cf",
+    "user_id": "e5dd13b1-04fe-426f-ab38-b6370c5120dc",
+    "amount": 3324.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Walterstad",
+    "timestamp": "2026-05-22T21:48:21.724386"
+  },
+  {
+    "transaction_id": "97abc471-fd68-4687-9810-ad632a1b60cc",
+    "user_id": "30545f37-bc1b-4cdb-b8f5-7af9e066a485",
+    "amount": 2098.55,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Nicholasville",
+    "timestamp": "2026-05-22T21:48:22.225385"
+  },
+  {
+    "transaction_id": "211ae0ab-1aff-4b74-acc2-fd869fbe358d",
+    "user_id": "e91e7fcb-f056-4377-8c92-cfa1c0a339eb",
+    "amount": 9398.48,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Robertchester",
+    "timestamp": "2026-05-22T21:48:22.724888"
+  },
+  {
+    "transaction_id": "1d2424b9-d8e8-45ed-9e28-eab3518a5f99",
+    "user_id": "26572c19-e2a3-4dda-9413-220a5b6ee07a",
+    "amount": 3230.79,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Ericfort",
+    "timestamp": "2026-05-22T21:48:23.226379"
+  },
+  {
+    "transaction_id": "22196bb8-5cde-4d39-bbf8-2080162cac40",
+    "user_id": "379639d0-d0cd-4768-8a37-03258d6fe359",
+    "amount": 8952.08,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Derrickport",
+    "timestamp": "2026-05-22T21:48:23.728808"
+  },
+  {
+    "transaction_id": "1169d29a-3631-4939-b91a-a252f2ee77f8",
+    "user_id": "db342643-1a77-4aec-9bab-6e16359410ae",
+    "amount": 3979.77,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Hartville",
+    "timestamp": "2026-05-22T21:48:24.231559"
+  }
+]

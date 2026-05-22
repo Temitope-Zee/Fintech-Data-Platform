@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "721ad701-c738-45af-9437-565f9ab1b711",
+    "user_id": "6a1edd8b-d609-4697-a5a8-26a3980068c1",
+    "amount": 848.32,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Loriport",
+    "timestamp": "2026-05-22T22:05:33.944029"
+  },
+  {
+    "transaction_id": "ba0a4507-5ea1-4c3b-9d8e-95f10ea5e286",
+    "user_id": "04cd0ed1-5554-4cea-929b-4d6395de151b",
+    "amount": 5624.43,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Johnnytown",
+    "timestamp": "2026-05-22T22:05:34.445500"
+  },
+  {
+    "transaction_id": "816899f5-190d-4e94-aba2-b09e9b08ec56",
+    "user_id": "a5639cdb-d5d1-45ba-8fea-e6f168fc4d5e",
+    "amount": 5031.62,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Katrinaborough",
+    "timestamp": "2026-05-22T22:05:34.947285"
+  },
+  {
+    "transaction_id": "91d53735-e0a6-4ac4-b09c-25bc2d43d7a1",
+    "user_id": "0a1c6b58-f67e-4f9f-a91f-cfd1a0d9d07b",
+    "amount": 5527.9,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Melissa",
+    "timestamp": "2026-05-22T22:05:35.450708"
+  },
+  {
+    "transaction_id": "aa3dc12c-701b-445a-8b12-5cd5d3f033d8",
+    "user_id": "eeca5095-d2bd-4a6d-9e4a-7e0faf6f5012",
+    "amount": 9697.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Cynthiatown",
+    "timestamp": "2026-05-22T22:05:35.952615"
+  },
+  {
+    "transaction_id": "87ead5c6-658d-42bd-a594-0d5dfa4f16ab",
+    "user_id": "a326d08b-6e99-448b-b0e9-d826e587a92c",
+    "amount": 1283.59,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Angelaport",
+    "timestamp": "2026-05-22T22:05:36.956839"
+  },
+  {
+    "transaction_id": "0f0259f0-f8fe-4205-864c-55c87b389cc0",
+    "user_id": "facba15d-b05e-42d9-a244-6c06c983d632",
+    "amount": 9385.1,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Allison",
+    "timestamp": "2026-05-22T22:05:37.458806"
+  },
+  {
+    "transaction_id": "f989a085-90ae-408f-ac2e-342cf6c7888c",
+    "user_id": "398dda6f-8bd6-4e59-b861-41471e591655",
+    "amount": 8174.93,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Evelyn",
+    "timestamp": "2026-05-22T22:05:37.961376"
+  },
+  {
+    "transaction_id": "4497ef6e-0c18-451a-a4b3-821a6a26bcee",
+    "user_id": "29f925f0-f9a3-4604-90a2-147730f07d85",
+    "amount": 2641.78,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Villanuevahaven",
+    "timestamp": "2026-05-22T22:05:38.464418"
+  },
+  {
+    "transaction_id": "33e2ff78-6c3f-44ba-bfcf-49805c326c59",
+    "user_id": "5acb08d4-c1e0-4a02-b1a4-bba5bbf05929",
+    "amount": 2573.31,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Todd",
+    "timestamp": "2026-05-22T22:05:38.966147"
+  }
+]

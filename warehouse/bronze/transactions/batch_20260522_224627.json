@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4745b605-7f9c-4444-ad60-768062ca3385",
+    "user_id": "992b0552-31e5-4f3d-9333-798997daa12f",
+    "amount": 8786.62,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Ryan",
+    "timestamp": "2026-05-22T22:46:21.995264"
+  },
+  {
+    "transaction_id": "2d1f1970-5bd2-4fd6-b3df-392948c7a226",
+    "user_id": "c4f8183d-d8c0-4f2e-906a-bbb3ce1ae894",
+    "amount": 3345.28,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Jennifer",
+    "timestamp": "2026-05-22T22:46:22.497362"
+  },
+  {
+    "transaction_id": "9dd65225-65a1-4262-b258-8d1b24f8e8a9",
+    "user_id": "d05000f2-fdb7-46ba-b6e6-63e74409d778",
+    "amount": 526.72,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Sarahport",
+    "timestamp": "2026-05-22T22:46:23.000044"
+  },
+  {
+    "transaction_id": "dbeb9348-5d38-47bc-bdd7-95b6b9d0526c",
+    "user_id": "0464dd8b-56dd-4724-ad7d-7a7b4a63d693",
+    "amount": 5195.43,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Gillstad",
+    "timestamp": "2026-05-22T22:46:23.501936"
+  },
+  {
+    "transaction_id": "e61b872e-99e4-4a55-bafc-9fd00e0e83b8",
+    "user_id": "b8523e01-b09c-475c-b0e0-24290b1cacd0",
+    "amount": 8694.88,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Melissa",
+    "timestamp": "2026-05-22T22:46:24.505453"
+  },
+  {
+    "transaction_id": "61ff2cc2-eac3-4dc3-8cf4-df425d9b7c20",
+    "user_id": "3e34dbbb-af01-40a7-9777-6737febc20df",
+    "amount": 266.54,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Brian",
+    "timestamp": "2026-05-22T22:46:25.007298"
+  },
+  {
+    "transaction_id": "ce1adeb9-63d6-46b1-b755-8b653ecf4d1d",
+    "user_id": "88c11449-1012-4138-b1e4-38268e4efd32",
+    "amount": 6429.67,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Abigail",
+    "timestamp": "2026-05-22T22:46:25.508755"
+  },
+  {
+    "transaction_id": "73e436c0-161f-4a6b-8a5d-38f2a98dbf2b",
+    "user_id": "cc49f983-adff-40c2-8b3b-7d18237bff44",
+    "amount": 4949.46,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Vincentport",
+    "timestamp": "2026-05-22T22:46:26.013118"
+  },
+  {
+    "transaction_id": "8c29c401-c14f-4eeb-af7a-266e60429091",
+    "user_id": "9a66d5e3-22c7-4a57-be32-0101c8f9de38",
+    "amount": 3860.38,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Douglasside",
+    "timestamp": "2026-05-22T22:46:26.515630"
+  },
+  {
+    "transaction_id": "58611404-e5ce-4b8d-a96d-edfad9a7c269",
+    "user_id": "d6597e99-5491-44ef-b6c5-724bfe405c68",
+    "amount": 8690.87,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kristinfurt",
+    "timestamp": "2026-05-22T22:46:27.014178"
+  }
+]

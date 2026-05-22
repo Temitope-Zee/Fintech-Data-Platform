@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "22fb4a49-b5df-4477-97d6-027452092512",
+    "user_id": "076e76ae-50eb-48c3-9e7c-1833e8bf7e7f",
+    "amount": 3199.93,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Jeffreystad",
+    "timestamp": "2026-05-22T22:02:23.632128"
+  },
+  {
+    "transaction_id": "79791429-be71-4e1d-9f1c-2a2cd05313d0",
+    "user_id": "2112c5b2-2968-4f19-b044-b92d6e837aec",
+    "amount": 9413.43,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Alisontown",
+    "timestamp": "2026-05-22T22:02:24.636728"
+  },
+  {
+    "transaction_id": "a200f32c-501f-493b-a639-fc679f5f7d46",
+    "user_id": "53122e0e-bbe9-4e91-a8c3-f183f6a69b5a",
+    "amount": 8480.18,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Richardchester",
+    "timestamp": "2026-05-22T22:02:25.139669"
+  },
+  {
+    "transaction_id": "79d5f3af-9a68-4725-ab2d-fe9fbcc4819d",
+    "user_id": "01f5627b-0f0f-4305-a582-a2795acf3483",
+    "amount": 6155.63,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Laura",
+    "timestamp": "2026-05-22T22:02:26.145860"
+  },
+  {
+    "transaction_id": "44ee884b-44b1-432b-a54d-3cac387924b5",
+    "user_id": "edccd4e5-e72e-49e9-86f7-59e208a9f3ef",
+    "amount": 5633.76,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Bellberg",
+    "timestamp": "2026-05-22T22:02:26.647690"
+  },
+  {
+    "transaction_id": "4ecd2a1b-4335-4dde-a8b7-a8ba88877e54",
+    "user_id": "836f67cc-b1b0-4621-b9bd-9d3a7930f7af",
+    "amount": 1241.7,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lambville",
+    "timestamp": "2026-05-22T22:02:27.148954"
+  },
+  {
+    "transaction_id": "dccd9b40-53af-4fdc-a44c-7d2dae98018b",
+    "user_id": "8fe1c07c-aa7f-4d6d-b97f-7dddaeb373d8",
+    "amount": 7140.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Ronaldport",
+    "timestamp": "2026-05-22T22:02:27.651430"
+  },
+  {
+    "transaction_id": "021a1602-5bbe-49d2-accd-60c91783f770",
+    "user_id": "886b5a54-79a4-4397-bef4-8bf4c30678ce",
+    "amount": 7170.42,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Chungstad",
+    "timestamp": "2026-05-22T22:02:28.153116"
+  },
+  {
+    "transaction_id": "dcfa0d9c-ca19-4dc1-812b-35fb625ef78c",
+    "user_id": "9507141e-1271-42e4-b528-9fe545169760",
+    "amount": 4775.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Dennisbury",
+    "timestamp": "2026-05-22T22:02:28.655790"
+  },
+  {
+    "transaction_id": "1a843738-0a35-49e8-9d7b-aaafc1ac49da",
+    "user_id": "2f528915-7447-464f-885b-37dfceca685d",
+    "amount": 7141.11,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Richardmouth",
+    "timestamp": "2026-05-22T22:02:29.158809"
+  }
+]

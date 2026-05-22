@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a9c1f41b-73af-4416-9124-d994da5a3efc",
+    "user_id": "b1e3fb75-5da0-4a84-b4cc-53d05fb6e521",
+    "amount": 1922.76,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Brianport",
+    "timestamp": "2026-05-22T22:46:40.570004"
+  },
+  {
+    "transaction_id": "a9296956-8a5b-4f0e-8c43-eda4af64cc75",
+    "user_id": "a6d01235-a4c2-403f-abbc-30704bedfef3",
+    "amount": 3918.67,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Chad",
+    "timestamp": "2026-05-22T22:46:41.072759"
+  },
+  {
+    "transaction_id": "20268e2c-a535-4d11-a689-11510a8d762e",
+    "user_id": "2160d4a3-7045-4593-9fe1-444070ecc91c",
+    "amount": 1237.35,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Laurastad",
+    "timestamp": "2026-05-22T22:46:41.576356"
+  },
+  {
+    "transaction_id": "38284d66-4ee4-4b03-90fe-a8ce908b3cd7",
+    "user_id": "7b40b8bc-38b5-49aa-b74c-fe392cd8cedf",
+    "amount": 7280.12,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Gomezberg",
+    "timestamp": "2026-05-22T22:46:42.079780"
+  },
+  {
+    "transaction_id": "9b535d96-5a95-4fd8-bdb1-19f81e9ddea5",
+    "user_id": "99dcbc90-d3c0-4e57-b414-6c77b3b246c6",
+    "amount": 6954.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-22T22:46:43.086359"
+  },
+  {
+    "transaction_id": "d0e82c60-7490-497b-9655-761089f156ed",
+    "user_id": "a5449bbf-40e0-4532-bd96-20cb3ecd2ccd",
+    "amount": 1871.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Samanthachester",
+    "timestamp": "2026-05-22T22:46:43.589523"
+  },
+  {
+    "transaction_id": "0b4f8796-87b1-4cea-8d1d-12ff1a0c6ab2",
+    "user_id": "029464b9-b176-4adc-8f73-67fce5fcbe0e",
+    "amount": 4577.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Lauren",
+    "timestamp": "2026-05-22T22:46:44.092313"
+  },
+  {
+    "transaction_id": "2777f8ee-9de1-425d-9adc-aedcb0f7cbca",
+    "user_id": "fa45b8b6-63d9-4aa8-9f8d-5c66f904f065",
+    "amount": 4669.44,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jacksonview",
+    "timestamp": "2026-05-22T22:46:44.594074"
+  },
+  {
+    "transaction_id": "18ab4c74-0bf9-48b5-9ce2-aca70ca76a05",
+    "user_id": "2baea8d1-a1e4-4eba-8d81-416337208e9e",
+    "amount": 3161.9,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Peterstown",
+    "timestamp": "2026-05-22T22:46:45.096973"
+  },
+  {
+    "transaction_id": "4de08ba6-5505-4f11-b17e-087c52c604f9",
+    "user_id": "de34b1d5-3b97-48bf-b162-0dfaeaa7a71b",
+    "amount": 7586.72,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Nathan",
+    "timestamp": "2026-05-22T22:46:45.599146"
+  }
+]

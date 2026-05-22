@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a87063dd-1b21-4214-8267-1d986b926165",
+    "user_id": "5085507d-5522-4e6c-9812-a9385ac72a9e",
+    "amount": 9494.76,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Cynthiaborough",
+    "timestamp": "2026-05-22T21:59:40.475660"
+  },
+  {
+    "transaction_id": "fff6935b-6cb2-4ca3-ab63-967324fb381b",
+    "user_id": "912c969a-8581-4f60-84b5-0d354a6fcb8f",
+    "amount": 4011.92,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Christinefort",
+    "timestamp": "2026-05-22T21:59:40.977351"
+  },
+  {
+    "transaction_id": "8c0ca8f3-1ebd-41b2-9be7-180a64ce8366",
+    "user_id": "ace09a7a-2e10-439c-90cc-8fc8bedb6eed",
+    "amount": 7606.3,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Jenniferbury",
+    "timestamp": "2026-05-22T21:59:41.479764"
+  },
+  {
+    "transaction_id": "d024a3b9-93d6-4298-a61e-e3d799162a5b",
+    "user_id": "de3c2481-9e5c-4707-9a3f-65be4955a5b9",
+    "amount": 5360.92,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Eric",
+    "timestamp": "2026-05-22T21:59:41.980714"
+  },
+  {
+    "transaction_id": "7b936a41-3c93-4366-83c4-57dec742f123",
+    "user_id": "44878171-e058-4116-a693-3d3e82775ef2",
+    "amount": 8306.81,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Staffordburgh",
+    "timestamp": "2026-05-22T21:59:42.481649"
+  },
+  {
+    "transaction_id": "58865a26-ea7f-4dfd-ab4b-1bde14997ebc",
+    "user_id": "57b099ae-6e7b-4662-a774-e9195df96671",
+    "amount": 1216.44,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Turnertown",
+    "timestamp": "2026-05-22T21:59:42.982870"
+  },
+  {
+    "transaction_id": "6033633c-f233-40bc-b6bb-34cf7eb33eaf",
+    "user_id": "efb379dd-09a9-46ee-9f2a-b6586c65b5e0",
+    "amount": 5330.66,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Laurafurt",
+    "timestamp": "2026-05-22T21:59:43.484311"
+  },
+  {
+    "transaction_id": "9503657d-3576-478c-9143-64e5c77d59ff",
+    "user_id": "70acd1da-7f98-4734-80ff-356680a3a4af",
+    "amount": 2356.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Eddie",
+    "timestamp": "2026-05-22T21:59:43.987039"
+  },
+  {
+    "transaction_id": "e2657ccd-7e44-4f1d-9981-7df90334067f",
+    "user_id": "fcd29d15-14ee-49cb-b829-2d1a4f6973e3",
+    "amount": 6516.64,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Grantchester",
+    "timestamp": "2026-05-22T21:59:44.488694"
+  },
+  {
+    "transaction_id": "b1bb31f9-06c8-4eca-9130-f056fdaa412a",
+    "user_id": "7c728639-3b50-4120-8946-aea71c9c31a5",
+    "amount": 1296.49,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Jenniferton",
+    "timestamp": "2026-05-22T21:59:44.990281"
+  }
+]

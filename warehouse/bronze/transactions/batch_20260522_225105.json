@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f935244c-c4c2-4c31-9a12-bde1b96af03d",
+    "user_id": "38c68f64-dfe4-42cf-b16d-0bce77248d63",
+    "amount": 4534.1,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Simsshire",
+    "timestamp": "2026-05-22T22:51:00.161594"
+  },
+  {
+    "transaction_id": "28fdd337-df3b-4374-9cde-6c303f63c78c",
+    "user_id": "26e593b2-0859-4997-8b45-245cdf69e36c",
+    "amount": 9976.1,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lindseychester",
+    "timestamp": "2026-05-22T22:51:00.662710"
+  },
+  {
+    "transaction_id": "6057220e-bf56-4579-8681-f201ee914376",
+    "user_id": "73c4a4f9-6710-447e-bc67-a538733499c3",
+    "amount": 8937.67,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Pamelahaven",
+    "timestamp": "2026-05-22T22:51:01.164500"
+  },
+  {
+    "transaction_id": "33d2476c-8647-4399-a881-87b49982fc0c",
+    "user_id": "a548d483-8605-443e-ae4b-7ba611ec5df7",
+    "amount": 5566.04,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Bobbytown",
+    "timestamp": "2026-05-22T22:51:02.167573"
+  },
+  {
+    "transaction_id": "c1bc7f98-8aa1-46d9-ac91-a445a3b6a9a6",
+    "user_id": "1cf81959-8e40-49b2-9b6f-29b6a7d0abff",
+    "amount": 6500.56,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Wanda",
+    "timestamp": "2026-05-22T22:51:02.670452"
+  },
+  {
+    "transaction_id": "46ee1afb-3fe8-4b59-b16a-3446800bcef9",
+    "user_id": "46ff1ec6-2797-4ed0-9c2f-b8c98de04f98",
+    "amount": 2037.42,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Mariafort",
+    "timestamp": "2026-05-22T22:51:03.173294"
+  },
+  {
+    "transaction_id": "56c054bf-eaad-4a87-b92c-7c45332322a1",
+    "user_id": "aa9072a8-a11f-4864-8f68-a67099efdf3f",
+    "amount": 2480.13,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Thomasmouth",
+    "timestamp": "2026-05-22T22:51:03.674869"
+  },
+  {
+    "transaction_id": "04c2b2ab-74ac-4f6d-9c20-4c69fa20b28f",
+    "user_id": "277d2365-77d3-4020-940d-0c3f5b9631cb",
+    "amount": 6396.16,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Cindyport",
+    "timestamp": "2026-05-22T22:51:04.177715"
+  },
+  {
+    "transaction_id": "c7bf5527-347a-4a0d-b0e4-a0fef49210a4",
+    "user_id": "9919401f-4b48-409e-b6c3-f3fde83d1bcd",
+    "amount": 8112.34,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Elizabeth",
+    "timestamp": "2026-05-22T22:51:04.679281"
+  },
+  {
+    "transaction_id": "39f4093d-77c9-4767-a580-ae540073c6f7",
+    "user_id": "588fbf2c-2f41-4d13-beea-c0a2ea593052",
+    "amount": 7009.56,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Hannahfurt",
+    "timestamp": "2026-05-22T22:51:05.181250"
+  }
+]

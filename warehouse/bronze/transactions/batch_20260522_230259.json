@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e0c0ab82-0ac5-4705-be63-492db6f01b58",
+    "user_id": "3ad36013-d0f9-49cd-b46f-f1d82555a0cd",
+    "amount": 433.22,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Scottview",
+    "timestamp": "2026-05-22T23:02:54.270268"
+  },
+  {
+    "transaction_id": "3f4dc89e-68bc-4d47-b180-263be6ca499a",
+    "user_id": "fc3bcc97-acbf-4bbd-a540-9a34e325a8d5",
+    "amount": 9626.35,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Kevin",
+    "timestamp": "2026-05-22T23:02:54.772603"
+  },
+  {
+    "transaction_id": "8f62448a-8a1d-425c-b624-7ac302b95e62",
+    "user_id": "c64383fa-00a0-47ce-90eb-351a23e028de",
+    "amount": 4395.6,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Sullivanton",
+    "timestamp": "2026-05-22T23:02:55.274168"
+  },
+  {
+    "transaction_id": "5c0ce792-9b9f-4fcd-8c02-bd866dc94e5d",
+    "user_id": "4c937c24-0488-44e6-80ea-042d605b1f9b",
+    "amount": 7324.92,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Johnsonmouth",
+    "timestamp": "2026-05-22T23:02:55.775513"
+  },
+  {
+    "transaction_id": "7a1359ad-efd0-4581-a226-3ce59d7da840",
+    "user_id": "5b50e4aa-d7ff-44a2-b5b2-9cf714ead394",
+    "amount": 7925.15,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Troyville",
+    "timestamp": "2026-05-22T23:02:56.278115"
+  },
+  {
+    "transaction_id": "627d6954-96ff-48db-8e65-be2073a2f87a",
+    "user_id": "007463ad-012e-48bf-b5b3-b399a3486b6e",
+    "amount": 9121.4,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Andersonborough",
+    "timestamp": "2026-05-22T23:02:56.780861"
+  },
+  {
+    "transaction_id": "9cc6582c-945e-4b1c-8c17-32eacae8abdb",
+    "user_id": "d4dba1fe-f00e-4c8b-a520-9b9ba9bd35fd",
+    "amount": 7616.23,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Tonyaton",
+    "timestamp": "2026-05-22T23:02:57.277920"
+  },
+  {
+    "transaction_id": "ab200af3-89f5-476f-b239-72cd2c9a0601",
+    "user_id": "d69c9af3-be6f-4e32-8e15-2570e509035a",
+    "amount": 365.76,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Higginsfort",
+    "timestamp": "2026-05-22T23:02:58.282379"
+  },
+  {
+    "transaction_id": "b0f131dd-c0f5-4bcb-acd6-b24d3e568efe",
+    "user_id": "56261699-32e6-45e8-88b7-201513c72a51",
+    "amount": 6070.93,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Michelleview",
+    "timestamp": "2026-05-22T23:02:59.285580"
+  },
+  {
+    "transaction_id": "de6faff2-46e3-4866-875d-1913a55a82d7",
+    "user_id": "ba5abf79-52c1-43ab-b640-fa1fbcb09613",
+    "amount": 4102.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Pierceland",
+    "timestamp": "2026-05-22T23:02:59.787714"
+  }
+]

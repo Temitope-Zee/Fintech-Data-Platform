@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5504b0b7-384e-4495-92b8-5cecc3f0be7c",
+    "user_id": "b2eb718c-d51d-413d-9780-d60863173ccd",
+    "amount": 4265.43,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Smithborough",
+    "timestamp": "2026-05-22T21:57:17.911285"
+  },
+  {
+    "transaction_id": "adb62a04-bcfa-4c37-94a8-b2fa344aaf24",
+    "user_id": "8ec56e54-5820-490d-ac73-ed408b3560b7",
+    "amount": 311.69,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Fergusonhaven",
+    "timestamp": "2026-05-22T21:57:18.413062"
+  },
+  {
+    "transaction_id": "887c9c3e-7b12-404e-a699-aea9a9a0f717",
+    "user_id": "1d78aba8-d3b6-4ad0-80e5-29be15a5d936",
+    "amount": 2842.5,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Robert",
+    "timestamp": "2026-05-22T21:57:18.914470"
+  },
+  {
+    "transaction_id": "8023e19b-5254-48ef-80cc-6b6fbd940bf5",
+    "user_id": "4abb98e5-6d18-4ee2-ba0a-73b3c584bfc1",
+    "amount": 6968.7,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Thomasbury",
+    "timestamp": "2026-05-22T21:57:19.415877"
+  },
+  {
+    "transaction_id": "07154acd-180a-41e5-a974-7be86cbd369e",
+    "user_id": "8d425225-5604-4eb6-8fc7-85ff0ae90dab",
+    "amount": 1017.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jeffreyville",
+    "timestamp": "2026-05-22T21:57:19.918599"
+  },
+  {
+    "transaction_id": "844a8b31-87da-4c1c-8afb-65d4ba5b3579",
+    "user_id": "c4897fd6-ffe3-49a7-a489-aa561c3290f0",
+    "amount": 5974.52,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Angelica",
+    "timestamp": "2026-05-22T21:57:20.420938"
+  },
+  {
+    "transaction_id": "f56099b5-8188-4a56-a621-458bfc43265c",
+    "user_id": "6073ced9-1dcd-4bc9-93a8-86cf5e1b0318",
+    "amount": 8238.69,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Richardside",
+    "timestamp": "2026-05-22T21:57:20.922598"
+  },
+  {
+    "transaction_id": "367a480a-aeb8-4edc-83ec-68d62cac29df",
+    "user_id": "ef0ca4e3-db30-4350-92b9-15fe1af94323",
+    "amount": 1915.48,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Donaldshire",
+    "timestamp": "2026-05-22T21:57:21.424230"
+  },
+  {
+    "transaction_id": "98bd0cba-62bb-4b08-b10d-0ba897c14703",
+    "user_id": "90d2f33f-c7ca-4a7b-af6f-528fb19d2af6",
+    "amount": 6571.04,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Tylermouth",
+    "timestamp": "2026-05-22T21:57:21.925833"
+  },
+  {
+    "transaction_id": "dd960ac7-ea69-4beb-9cd9-83983cec8fb1",
+    "user_id": "af1cfb0f-aafd-4cfe-b4b8-fe8d3b3ea0bf",
+    "amount": 9406.07,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Randychester",
+    "timestamp": "2026-05-22T21:57:22.427139"
+  }
+]

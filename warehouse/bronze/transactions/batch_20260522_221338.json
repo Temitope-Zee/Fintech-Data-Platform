@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d6e09ba7-b281-42d4-8d8f-e67b730b1201",
+    "user_id": "fb3d5c1a-dc6d-4824-bbb8-ccc224865412",
+    "amount": 1488.76,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Wilsonfurt",
+    "timestamp": "2026-05-22T22:13:33.320157"
+  },
+  {
+    "transaction_id": "682336fa-8464-4775-ae59-26b3f06ed59a",
+    "user_id": "02b77fe2-d249-4c34-8655-07c84c3c8e14",
+    "amount": 4582.46,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Nathanview",
+    "timestamp": "2026-05-22T22:13:33.822216"
+  },
+  {
+    "transaction_id": "6c897222-084f-43ba-85de-7c8a26beee52",
+    "user_id": "fa9cf057-ea6a-4e26-9170-c55f6e60f992",
+    "amount": 721.23,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Tracybury",
+    "timestamp": "2026-05-22T22:13:34.323717"
+  },
+  {
+    "transaction_id": "7507ab10-e99f-4b8b-b1a8-e02ad3807c04",
+    "user_id": "cf0d18db-4e39-435b-848a-fb0292380b74",
+    "amount": 9700.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Richardberg",
+    "timestamp": "2026-05-22T22:13:34.825470"
+  },
+  {
+    "transaction_id": "63705b5b-a008-4841-bfb0-d035a9248f8a",
+    "user_id": "96faf7d2-2533-4e2f-8ca0-7379454f6834",
+    "amount": 7639.17,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Victoriafort",
+    "timestamp": "2026-05-22T22:13:35.328164"
+  },
+  {
+    "transaction_id": "a33610fa-ae71-4ade-82c0-3453b63436b2",
+    "user_id": "6de18b07-50ee-424a-97c8-b6205b10d73b",
+    "amount": 1609.02,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Wushire",
+    "timestamp": "2026-05-22T22:13:36.332710"
+  },
+  {
+    "transaction_id": "7c35b5dd-c5b9-4b01-a7b6-81d46b3cbddf",
+    "user_id": "09f3763e-9793-4df8-a1a7-79b746fda931",
+    "amount": 8766.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Amanda",
+    "timestamp": "2026-05-22T22:13:36.836008"
+  },
+  {
+    "transaction_id": "c3c5590a-1f32-41ac-bceb-7c9d20f92eb9",
+    "user_id": "70222427-8a7b-41fc-9b6c-4dc344a37af4",
+    "amount": 2694.85,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Michelleberg",
+    "timestamp": "2026-05-22T22:13:37.337707"
+  },
+  {
+    "transaction_id": "097ba21e-3532-4726-99a7-001073f326bb",
+    "user_id": "388dc03e-7805-4736-9218-9c6379f89d19",
+    "amount": 6936.51,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Owenland",
+    "timestamp": "2026-05-22T22:13:37.839375"
+  },
+  {
+    "transaction_id": "fbb66d35-f39e-4a39-91c0-be6dd64b71db",
+    "user_id": "575280e1-4307-4100-b2c9-83731c9f61d8",
+    "amount": 1283.44,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West David",
+    "timestamp": "2026-05-22T22:13:38.340806"
+  }
+]

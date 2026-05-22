@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "53ceffac-c292-4ba5-9d23-1ee2b7f57e55",
+    "user_id": "f0df2de2-d83c-4197-ae2d-1f88f5b22f34",
+    "amount": 2435.8,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Johnstad",
+    "timestamp": "2026-05-22T22:41:02.227480"
+  },
+  {
+    "transaction_id": "daf81790-e851-408f-857a-54b544203ad1",
+    "user_id": "c01b93b8-6e7b-40d6-97d6-446f8bd5fd1a",
+    "amount": 7402.46,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Melissamouth",
+    "timestamp": "2026-05-22T22:41:03.231386"
+  },
+  {
+    "transaction_id": "538bf9a0-eefa-49b2-bdb2-d6074c56dc0b",
+    "user_id": "3057f3e2-bef8-4ec1-8206-51325e4cee84",
+    "amount": 4555.52,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North William",
+    "timestamp": "2026-05-22T22:41:03.732582"
+  },
+  {
+    "transaction_id": "4f80e61e-fef1-4369-b314-d4a395c02e4d",
+    "user_id": "a2832b40-2f9c-431b-996e-dc3dd577b3c4",
+    "amount": 9684.44,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Kathleenbury",
+    "timestamp": "2026-05-22T22:41:04.736688"
+  },
+  {
+    "transaction_id": "1437dd3f-e216-4e89-824d-93389a74d0df",
+    "user_id": "e45206b3-f11f-4ae1-beb9-36aa8a8a4bfe",
+    "amount": 9128.77,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Cantuview",
+    "timestamp": "2026-05-22T22:41:05.739346"
+  },
+  {
+    "transaction_id": "817fb76e-37e5-44c5-b43b-52dc10f5b0a9",
+    "user_id": "90701457-aff8-4fd2-aa31-9866345ad036",
+    "amount": 5900.38,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Michaeltown",
+    "timestamp": "2026-05-22T22:41:06.240312"
+  },
+  {
+    "transaction_id": "f3c815ea-3db8-4fe9-8367-e61e57f13bfb",
+    "user_id": "91a95b82-2d07-4826-90c4-d883c6dc73a1",
+    "amount": 4788.59,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Andrew",
+    "timestamp": "2026-05-22T22:41:07.246042"
+  },
+  {
+    "transaction_id": "b01587e8-4371-4c03-9cb2-56a7b1231052",
+    "user_id": "17efe119-f4ec-4330-809c-75d683d2ee62",
+    "amount": 9222.49,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Robert",
+    "timestamp": "2026-05-22T22:41:07.747721"
+  },
+  {
+    "transaction_id": "c5493893-beb8-4650-818f-0c092eb7bd8e",
+    "user_id": "a0fd3e9d-02d1-4304-95ef-c00e02729bd2",
+    "amount": 6060.49,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Cabreramouth",
+    "timestamp": "2026-05-22T22:41:08.250107"
+  },
+  {
+    "transaction_id": "20c6f4ce-b38c-427d-a708-ea55de7d8996",
+    "user_id": "8ede259b-f7c6-4f95-b3bc-82fd91e88076",
+    "amount": 8237.92,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Patricia",
+    "timestamp": "2026-05-22T22:41:08.752102"
+  }
+]

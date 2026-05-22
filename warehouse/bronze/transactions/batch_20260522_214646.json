@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d26aaff9-d6ac-4402-8b68-cea531ffc627",
+    "user_id": "432a00c3-4497-411d-8e50-a1abfe11f60a",
+    "amount": 2675.05,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Toddport",
+    "timestamp": "2026-05-22T21:46:39.806901"
+  },
+  {
+    "transaction_id": "fd401bda-4351-4ac5-b254-7dcbf11db75b",
+    "user_id": "2e7e6505-0838-4edc-9989-4050c5c04a48",
+    "amount": 8721.82,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Thomashaven",
+    "timestamp": "2026-05-22T21:46:40.308332"
+  },
+  {
+    "transaction_id": "4254add9-01ac-4934-8730-df88d81a18a6",
+    "user_id": "2defb396-978d-4e19-a60f-5e8c9deca37f",
+    "amount": 5610.54,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Johnborough",
+    "timestamp": "2026-05-22T21:46:40.809706"
+  },
+  {
+    "transaction_id": "c83e8c82-dc4b-4471-a2a8-bd5a8c007143",
+    "user_id": "c3d4d10c-d6c4-4ac8-bc9e-a30c505a64fc",
+    "amount": 3106.78,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Blaketown",
+    "timestamp": "2026-05-22T21:46:41.312495"
+  },
+  {
+    "transaction_id": "38df508e-57d7-4b5b-820f-195b53a6708e",
+    "user_id": "3951ba67-3613-4eaa-92aa-52998ac8c224",
+    "amount": 9027.83,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Edwardstad",
+    "timestamp": "2026-05-22T21:46:43.320903"
+  },
+  {
+    "transaction_id": "332cbc6d-ebf8-494a-bd9a-2545749b5031",
+    "user_id": "bf651539-b810-4ece-a085-ce449e117e5b",
+    "amount": 6448.1,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Shawnland",
+    "timestamp": "2026-05-22T21:46:44.827491"
+  },
+  {
+    "transaction_id": "7f3572a9-c8d2-4fa0-85ba-fdc8d9c78d57",
+    "user_id": "704a3efc-6506-4d20-9c63-31bd84fd018e",
+    "amount": 5438.39,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Shannon",
+    "timestamp": "2026-05-22T21:46:45.329776"
+  },
+  {
+    "transaction_id": "cdc8fbac-c80b-4dc9-b4a5-69711605f820",
+    "user_id": "e1b40091-65c5-4a21-be62-982800c7969b",
+    "amount": 4008.53,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Leslieland",
+    "timestamp": "2026-05-22T21:46:45.832399"
+  },
+  {
+    "transaction_id": "a5ff69f6-aacb-4b24-9dcf-2c5bd1e7f9b8",
+    "user_id": "21f113e2-ca8f-4445-a80b-d7bf5abf2a79",
+    "amount": 5647.74,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Randymouth",
+    "timestamp": "2026-05-22T21:46:46.333645"
+  },
+  {
+    "transaction_id": "70ed0288-43ca-469e-99ae-1892d5068af1",
+    "user_id": "d9516c79-abcf-4789-938c-832038d96262",
+    "amount": 9952.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Alexandrafurt",
+    "timestamp": "2026-05-22T21:46:46.834854"
+  }
+]

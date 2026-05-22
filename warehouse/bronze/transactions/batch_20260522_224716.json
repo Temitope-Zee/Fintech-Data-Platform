@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b0a82412-0923-4c0a-bcf6-6e1b52bf357a",
+    "user_id": "00bae067-0480-4cad-9c0d-362700ff97e9",
+    "amount": 8828.45,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Josephburgh",
+    "timestamp": "2026-05-22T22:47:10.709852"
+  },
+  {
+    "transaction_id": "34d1e063-d4f0-415c-95f6-4254f70c59a0",
+    "user_id": "f26561b8-2dee-47cd-889d-f7f89e0f1885",
+    "amount": 7946.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Oliviaborough",
+    "timestamp": "2026-05-22T22:47:11.211430"
+  },
+  {
+    "transaction_id": "15edf3c5-9c14-4bb1-a2c1-6b22cc822d68",
+    "user_id": "0fb83512-891e-40f3-bdd7-09a19b81ec23",
+    "amount": 9024.06,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Jessicamouth",
+    "timestamp": "2026-05-22T22:47:12.216717"
+  },
+  {
+    "transaction_id": "3fbb3748-1e75-4b75-b4c6-3e02797145aa",
+    "user_id": "05ec0c9e-f8f6-409f-aea8-7d2ac0b7dfbf",
+    "amount": 2336.89,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Latoyaton",
+    "timestamp": "2026-05-22T22:47:13.722929"
+  },
+  {
+    "transaction_id": "c318dd37-d027-453a-b159-2595168c0e5f",
+    "user_id": "cebf880b-18d9-43e6-b998-86ec189f976a",
+    "amount": 617.9,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Charlesland",
+    "timestamp": "2026-05-22T22:47:14.225142"
+  },
+  {
+    "transaction_id": "3bdf3f03-a772-4139-9a7c-b536afb0a944",
+    "user_id": "ae2be7ca-af2a-4808-9ff9-12400a17e38e",
+    "amount": 316.23,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Andrewburgh",
+    "timestamp": "2026-05-22T22:47:14.728488"
+  },
+  {
+    "transaction_id": "76028747-e776-42cf-a426-dcdf2fdc290f",
+    "user_id": "8e58cf58-7d6b-409a-a795-c690162fb64e",
+    "amount": 5516.52,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:47:15.230877"
+  },
+  {
+    "transaction_id": "8d09f21c-5058-4fe0-83ad-332c8185b6f6",
+    "user_id": "a7a59dcb-b1c8-4e8c-b7db-8746507eb53d",
+    "amount": 8181.81,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Danielmouth",
+    "timestamp": "2026-05-22T22:47:15.733969"
+  },
+  {
+    "transaction_id": "080d840f-c5fc-4efe-8c30-616975280752",
+    "user_id": "6d8370ba-f275-481d-b891-a846faa33f67",
+    "amount": 2107.13,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Annshire",
+    "timestamp": "2026-05-22T22:47:16.235923"
+  },
+  {
+    "transaction_id": "3611e81e-bce5-4891-b672-f6af91085a4b",
+    "user_id": "062322a6-8401-4a77-83b3-ba3a0cc4a035",
+    "amount": 9801.44,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Moniquehaven",
+    "timestamp": "2026-05-22T22:47:16.737305"
+  }
+]

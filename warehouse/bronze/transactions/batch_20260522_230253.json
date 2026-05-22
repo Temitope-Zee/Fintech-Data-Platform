@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "34dd3003-9ebc-495b-bfd6-dd3f3d50b77e",
+    "user_id": "461307c3-f6c1-47b3-9478-51218ad5eeee",
+    "amount": 8097.96,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Michellefurt",
+    "timestamp": "2026-05-22T23:02:49.253265"
+  },
+  {
+    "transaction_id": "762e1127-11ce-497b-ae94-99b1483671df",
+    "user_id": "f6db9806-408f-4000-bd06-4cac8269fd92",
+    "amount": 2399.71,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Cunninghamstad",
+    "timestamp": "2026-05-22T23:02:49.754712"
+  },
+  {
+    "transaction_id": "bc1f696c-1965-41b8-9dc7-04bab02f2804",
+    "user_id": "12b22bf9-b372-4d9e-a4c7-c2426d5e80fb",
+    "amount": 6504.62,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Susan",
+    "timestamp": "2026-05-22T23:02:50.256752"
+  },
+  {
+    "transaction_id": "27d93ea5-ca4a-4436-93bd-5c564b82672a",
+    "user_id": "5df53506-4c60-4ac1-8cea-a16c695edc25",
+    "amount": 6751.17,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Blackfurt",
+    "timestamp": "2026-05-22T23:02:50.758045"
+  },
+  {
+    "transaction_id": "98e9db23-f073-4803-b58f-86e5f025ab74",
+    "user_id": "b83a4e6d-419f-413a-a2b0-3016f23871a4",
+    "amount": 9457.01,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Alvinmouth",
+    "timestamp": "2026-05-22T23:02:51.259293"
+  },
+  {
+    "transaction_id": "33239a91-9b52-4f84-a6f5-0dd9207f48b7",
+    "user_id": "bc46aa70-cdd3-414c-b343-0d52dc774f0c",
+    "amount": 4954.94,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Terrellchester",
+    "timestamp": "2026-05-22T23:02:51.761583"
+  },
+  {
+    "transaction_id": "52bf1c80-42ae-4f12-bf17-7c2973e14e98",
+    "user_id": "27ede845-5cd0-453e-8106-a2c3d1a4203d",
+    "amount": 3540.06,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Jessicachester",
+    "timestamp": "2026-05-22T23:02:52.263029"
+  },
+  {
+    "transaction_id": "83ee5e3a-1cea-48af-b014-2925598abf9d",
+    "user_id": "3156e582-628d-4177-86c9-f7a2574b0baa",
+    "amount": 238.55,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Elizabethview",
+    "timestamp": "2026-05-22T23:02:52.764962"
+  },
+  {
+    "transaction_id": "0407e6e2-521c-448d-948c-c2977ad3e261",
+    "user_id": "4ced9235-1291-4177-802b-3d44b03144ee",
+    "amount": 9964.58,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Weberchester",
+    "timestamp": "2026-05-22T23:02:53.266509"
+  },
+  {
+    "transaction_id": "9faf026e-4c4a-4d2e-824f-f9195e03504a",
+    "user_id": "c821dba5-5bac-43e7-bed0-bea57fb72619",
+    "amount": 1981.47,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Cynthia",
+    "timestamp": "2026-05-22T23:02:53.769003"
+  }
+]

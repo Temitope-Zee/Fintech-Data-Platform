@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5c0a4f2f-4c62-41ff-8b89-3c9437fe1f6b",
+    "user_id": "b62be8bd-7465-4a33-a72d-baa68abb48c1",
+    "amount": 9474.43,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Shepherdberg",
+    "timestamp": "2026-05-22T22:18:15.454463"
+  },
+  {
+    "transaction_id": "22e56d30-50c0-423d-9c30-cf8e82d8d170",
+    "user_id": "8a6a0f50-7ac4-46ec-a114-e104b1bda3fa",
+    "amount": 190.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gutierrezfort",
+    "timestamp": "2026-05-22T22:18:15.957390"
+  },
+  {
+    "transaction_id": "cbd98ed1-2ea4-4bce-9a10-84d54998aae2",
+    "user_id": "6c0e7c6a-928e-4f95-ada6-0ae64f37ba42",
+    "amount": 4514.34,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Taylorton",
+    "timestamp": "2026-05-22T22:18:16.458926"
+  },
+  {
+    "transaction_id": "d6d57818-9422-42a4-99a9-5ee96c4348ad",
+    "user_id": "bed6f58e-c1d9-47be-a547-019527944f72",
+    "amount": 9437.45,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Pamelaborough",
+    "timestamp": "2026-05-22T22:18:16.961394"
+  },
+  {
+    "transaction_id": "f9457418-90c3-42e8-a69c-b37cf429731a",
+    "user_id": "ea371e4c-3210-47e2-9ebd-574bf6128192",
+    "amount": 7239.02,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Coltonburgh",
+    "timestamp": "2026-05-22T22:18:17.462987"
+  },
+  {
+    "transaction_id": "e11def79-032d-4804-a28b-306dbf70aad1",
+    "user_id": "17283960-db23-4d94-b76b-567f91ccdfe9",
+    "amount": 5722.3,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Jeffrey",
+    "timestamp": "2026-05-22T22:18:17.965249"
+  },
+  {
+    "transaction_id": "445cdf0b-f95d-443e-8a1d-1cee6f522232",
+    "user_id": "e200d15e-7de2-439c-aa6f-988a73a9fd9a",
+    "amount": 340.17,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Barbarachester",
+    "timestamp": "2026-05-22T22:18:18.466525"
+  },
+  {
+    "transaction_id": "ff364de7-8e5b-436b-82af-afb9c8d50470",
+    "user_id": "e2624db5-cb04-4556-9548-cafe506bb26c",
+    "amount": 5996.31,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Gregory",
+    "timestamp": "2026-05-22T22:18:19.469659"
+  },
+  {
+    "transaction_id": "483a4161-a688-46e2-9d7b-1c8ed0b61bf8",
+    "user_id": "21347028-18d8-4822-89b8-220a87c2e6c3",
+    "amount": 3037.44,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Michaelshire",
+    "timestamp": "2026-05-22T22:18:19.971026"
+  },
+  {
+    "transaction_id": "28698354-9bbf-4a39-98b2-1fdee42dcb9e",
+    "user_id": "d1cb1364-76b8-4d91-ab62-903fa3c9fe05",
+    "amount": 1318.67,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Arroyochester",
+    "timestamp": "2026-05-22T22:18:20.473755"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6524533a-1541-44d8-90e4-09c79d2691aa",
+    "user_id": "bf4f51de-f608-46cb-a02c-c5a8d54653f1",
+    "amount": 6504.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Davidhaven",
+    "timestamp": "2026-05-22T22:28:58.582734"
+  },
+  {
+    "transaction_id": "3236fe6e-aca7-4e87-820a-d46347f539a0",
+    "user_id": "2f74c0f5-7988-4398-a0d6-e40c6bb976e9",
+    "amount": 7290.69,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Bridgetmouth",
+    "timestamp": "2026-05-22T22:28:59.085432"
+  },
+  {
+    "transaction_id": "2b232920-22f4-41e9-ae40-f0f5b62dea55",
+    "user_id": "853ee6bd-c237-4ec1-bf91-46ab39008e05",
+    "amount": 7375.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Sheryl",
+    "timestamp": "2026-05-22T22:28:59.588469"
+  },
+  {
+    "transaction_id": "cf27f6a6-f6da-4b50-a831-efc17146d7a1",
+    "user_id": "9b0d140f-13e0-4a50-aa5d-2b13e5891cf9",
+    "amount": 2698.86,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Mccannton",
+    "timestamp": "2026-05-22T22:29:00.091417"
+  },
+  {
+    "transaction_id": "5be57066-b707-4833-be86-ebcc1da51b8e",
+    "user_id": "3c7d979f-4d3c-454e-b0ef-5f6c4cf33efc",
+    "amount": 3689.0,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Evansbury",
+    "timestamp": "2026-05-22T22:29:00.593511"
+  },
+  {
+    "transaction_id": "e95361d0-745e-49c3-8ec5-d4bad6fca8a6",
+    "user_id": "71c7db76-979b-4773-b988-e22007e1a95d",
+    "amount": 5773.67,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Michaelview",
+    "timestamp": "2026-05-22T22:29:01.096956"
+  },
+  {
+    "transaction_id": "fa346db2-2ef2-401e-89e5-3f0e39405f32",
+    "user_id": "f2d0c020-6047-4167-a321-a9b2276714b8",
+    "amount": 9584.52,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Scottbury",
+    "timestamp": "2026-05-22T22:29:01.598705"
+  },
+  {
+    "transaction_id": "b89ad2d3-ea87-4b73-8fdb-ecc46523ec11",
+    "user_id": "4e293a90-d54e-42b5-b5d8-da0926e4e947",
+    "amount": 5739.17,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Sherimouth",
+    "timestamp": "2026-05-22T22:29:02.102946"
+  },
+  {
+    "transaction_id": "f410bdc6-6270-4f60-af44-dbd757b426e2",
+    "user_id": "fa5df76f-3f64-4f38-be6b-fe1d862bf8a0",
+    "amount": 7096.41,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Brian",
+    "timestamp": "2026-05-22T22:29:02.618333"
+  },
+  {
+    "transaction_id": "7f5be7d2-2160-4f99-a5b3-078f664b4ea4",
+    "user_id": "3467f0d2-e547-46cb-a498-42ecf8f43286",
+    "amount": 1279.0,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Daisyfurt",
+    "timestamp": "2026-05-22T22:29:03.121132"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d8a41b9-9ac4-4d0c-a14d-ad1661d31294",
+    "user_id": "ce7fa2e8-9d90-46d2-bf88-a7e5e81352ec",
+    "amount": 7118.52,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Michaelstad",
+    "timestamp": "2026-05-22T22:25:21.722615"
+  },
+  {
+    "transaction_id": "42ddbb27-61e6-48fe-86b5-3146637ec709",
+    "user_id": "baa7a567-5428-4ac5-a919-36e451881ce4",
+    "amount": 9383.21,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Crystalshire",
+    "timestamp": "2026-05-22T22:25:22.224400"
+  },
+  {
+    "transaction_id": "01185184-6080-48a7-837c-c90eec0d9292",
+    "user_id": "bf1b3921-f7cd-4eab-9e32-0dd300584be3",
+    "amount": 9243.2,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Elizabethland",
+    "timestamp": "2026-05-22T22:25:22.727979"
+  },
+  {
+    "transaction_id": "3b80878e-a17a-4730-8838-93664b1a7bf9",
+    "user_id": "db36d488-4314-4be0-99d4-c22c9cffc920",
+    "amount": 1348.59,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Meganland",
+    "timestamp": "2026-05-22T22:25:23.229949"
+  },
+  {
+    "transaction_id": "9dac40ad-6851-44e5-9283-2808f66059db",
+    "user_id": "909a99ac-5222-413a-9211-ae723bf8c7b7",
+    "amount": 4098.06,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brooksville",
+    "timestamp": "2026-05-22T22:25:23.731869"
+  },
+  {
+    "transaction_id": "59628635-a67e-48ad-9509-137e63f2e9a7",
+    "user_id": "3634f917-8835-4924-9247-2e6af6c25254",
+    "amount": 4670.67,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:25:24.234381"
+  },
+  {
+    "transaction_id": "60295830-13b6-4f0e-91b8-793115d85a30",
+    "user_id": "0646e2d9-5e2a-460e-a4ad-369fa838371d",
+    "amount": 3938.07,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Graveshaven",
+    "timestamp": "2026-05-22T22:25:24.735826"
+  },
+  {
+    "transaction_id": "42f8eb41-a27e-4033-9e86-1d64de0abbf9",
+    "user_id": "2ce97553-068a-466a-9273-16ed7732a8f8",
+    "amount": 8796.55,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Christopherton",
+    "timestamp": "2026-05-22T22:25:25.237428"
+  },
+  {
+    "transaction_id": "411518f7-d157-4537-8382-e8e658c8e8a3",
+    "user_id": "84d0a1b6-e5d2-42dc-920b-46e0703037d3",
+    "amount": 7154.15,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Christopherview",
+    "timestamp": "2026-05-22T22:25:25.739153"
+  },
+  {
+    "transaction_id": "250991f4-1eca-47db-8e89-f1c8a70caf77",
+    "user_id": "187b0c17-e7a2-4ba0-8487-3ed787c084b2",
+    "amount": 7684.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Beverly",
+    "timestamp": "2026-05-22T22:25:26.241546"
+  }
+]

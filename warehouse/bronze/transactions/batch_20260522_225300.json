@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "48bc17f8-231b-495e-bbdf-7b2b9f5a0b18",
+    "user_id": "6bc61dbc-388b-4ae0-ad91-abfd4fdb41ca",
+    "amount": 4923.23,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Jasonmouth",
+    "timestamp": "2026-05-22T22:52:55.640822"
+  },
+  {
+    "transaction_id": "d627129e-9cdb-408d-8261-a677c8c522db",
+    "user_id": "03a053aa-28d6-4ebd-b1ad-9dd57c19c231",
+    "amount": 5334.92,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Jasonland",
+    "timestamp": "2026-05-22T22:52:56.645386"
+  },
+  {
+    "transaction_id": "1555a930-b9cd-4270-9f08-21c4e1df2935",
+    "user_id": "106b80ea-a358-4193-bf61-e495e73a6f45",
+    "amount": 6388.4,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Christopherville",
+    "timestamp": "2026-05-22T22:52:57.144357"
+  },
+  {
+    "transaction_id": "7ee285df-53d1-4248-9c5c-141b73c1d609",
+    "user_id": "d7f558e6-9af7-41a9-8eae-c8cbefddc1d5",
+    "amount": 8747.61,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Michaela",
+    "timestamp": "2026-05-22T22:52:57.646437"
+  },
+  {
+    "transaction_id": "fbf11707-e4b5-4495-b66e-ae2848502374",
+    "user_id": "1ab7e01e-4173-4082-b2c1-353f14d8e98a",
+    "amount": 2047.52,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Terry",
+    "timestamp": "2026-05-22T22:52:58.150789"
+  },
+  {
+    "transaction_id": "2e2716bf-6c96-40ef-832b-4da8251777b8",
+    "user_id": "63c95832-aab0-45c4-b504-9bbbe760ce44",
+    "amount": 1152.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Joseph",
+    "timestamp": "2026-05-22T22:52:58.652578"
+  },
+  {
+    "transaction_id": "07735761-2d06-459e-bbcb-20dc64bfc5eb",
+    "user_id": "580fb360-ba92-4747-bfbb-e92f1e55433a",
+    "amount": 4106.32,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Brittanyfort",
+    "timestamp": "2026-05-22T22:52:59.154480"
+  },
+  {
+    "transaction_id": "d183020c-86f1-46a7-aab7-c6d00df8bce3",
+    "user_id": "285a81f2-6ef6-47a1-baaf-61b6a2d7282d",
+    "amount": 4972.17,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South David",
+    "timestamp": "2026-05-22T22:52:59.655940"
+  },
+  {
+    "transaction_id": "a94766ea-b3a6-483d-b3d9-6a1ae0eeac00",
+    "user_id": "513a4115-7af0-45ee-aa48-113f6bd4f977",
+    "amount": 6023.93,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Lisashire",
+    "timestamp": "2026-05-22T22:53:00.157687"
+  },
+  {
+    "transaction_id": "ca82dab3-1d1d-48df-b809-8854b986c00f",
+    "user_id": "95cffb60-96dc-4571-a8e0-63835e5e39cd",
+    "amount": 8076.33,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Brandon",
+    "timestamp": "2026-05-22T22:53:00.659188"
+  }
+]

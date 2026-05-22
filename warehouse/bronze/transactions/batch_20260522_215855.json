@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c4391241-852a-4bb1-8ddd-d8004bd71126",
+    "user_id": "1e6cf998-c09e-4808-befe-b3918bf527a0",
+    "amount": 8409.49,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Jamie",
+    "timestamp": "2026-05-22T21:58:49.783153"
+  },
+  {
+    "transaction_id": "573266ae-d9f5-4c2e-8b7c-468d1e26ad9e",
+    "user_id": "38fb7240-892b-4098-8497-fea93a96c500",
+    "amount": 8197.22,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Morganmouth",
+    "timestamp": "2026-05-22T21:58:50.284624"
+  },
+  {
+    "transaction_id": "d5f24329-f399-4431-957f-11a4d926ea7d",
+    "user_id": "1a8c5910-19bc-42f1-95b2-d565ed01c0b4",
+    "amount": 2921.26,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Rodriguezburgh",
+    "timestamp": "2026-05-22T21:58:50.786539"
+  },
+  {
+    "transaction_id": "ffc07c20-1b97-4b25-9cd7-d673eaaff41b",
+    "user_id": "57b43c9c-4a89-4097-8f07-2580a33a23f3",
+    "amount": 4508.58,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Melissaborough",
+    "timestamp": "2026-05-22T21:58:51.288131"
+  },
+  {
+    "transaction_id": "768fd328-cb14-4714-9318-24c37a556b7d",
+    "user_id": "1811b973-4063-42ba-b897-1d617a1cab5f",
+    "amount": 1201.69,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Rebecca",
+    "timestamp": "2026-05-22T21:58:51.790874"
+  },
+  {
+    "transaction_id": "653d82bd-f9a6-4c64-9fef-d07c4db76fbe",
+    "user_id": "c8e4b877-8ba8-486c-bda4-3d2e76f61cd4",
+    "amount": 5503.6,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Elaineville",
+    "timestamp": "2026-05-22T21:58:52.292778"
+  },
+  {
+    "transaction_id": "7609c45d-53f6-42e8-a7c2-9d2ae977f962",
+    "user_id": "6b1c0aae-be44-49e9-a484-73fe2f05a7cc",
+    "amount": 5325.97,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Farmerberg",
+    "timestamp": "2026-05-22T21:58:52.795255"
+  },
+  {
+    "transaction_id": "ba801578-8d69-407c-86c0-b4dd2eff5215",
+    "user_id": "0a8d53f4-4146-40b6-8210-f6d38a8bb7d1",
+    "amount": 1626.64,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Sue",
+    "timestamp": "2026-05-22T21:58:53.296661"
+  },
+  {
+    "transaction_id": "c08a4141-d13d-4e42-b419-ed571617548f",
+    "user_id": "bd6cfea2-9b50-4d51-9b95-36a7855d3406",
+    "amount": 3594.99,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Robertborough",
+    "timestamp": "2026-05-22T21:58:54.801519"
+  },
+  {
+    "transaction_id": "0b1f7a0d-d295-4213-9a79-4cf546f9ce35",
+    "user_id": "0df578fa-bcb1-4ddc-9e36-152ebea834f7",
+    "amount": 7529.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Gibsontown",
+    "timestamp": "2026-05-22T21:58:55.303074"
+  }
+]

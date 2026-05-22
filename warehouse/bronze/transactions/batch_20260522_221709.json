@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eecde7ab-a2b1-477a-a594-ae90fee15a36",
+    "user_id": "a53ac3b1-99b1-4ace-aebb-df9594f6882c",
+    "amount": 3127.43,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Johnsontown",
+    "timestamp": "2026-05-22T22:17:04.668229"
+  },
+  {
+    "transaction_id": "9ec8bdcc-5c69-4e7c-8700-4d5ec4de74b4",
+    "user_id": "da6db3f3-3198-4953-b7d8-5d96ad7ffd9f",
+    "amount": 6590.81,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Charlesbury",
+    "timestamp": "2026-05-22T22:17:05.169348"
+  },
+  {
+    "transaction_id": "d2237d34-07dd-43d6-9bcb-0bb3634e5c3a",
+    "user_id": "aa0d5138-0d26-47c3-92de-bb4c37fbf018",
+    "amount": 2495.73,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Nicholasmouth",
+    "timestamp": "2026-05-22T22:17:05.672308"
+  },
+  {
+    "transaction_id": "0218f9e1-7018-49d8-a2e3-1779e2337fee",
+    "user_id": "d679d655-9a41-4339-bc39-816ba6103b02",
+    "amount": 1054.11,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Elizabethview",
+    "timestamp": "2026-05-22T22:17:06.173589"
+  },
+  {
+    "transaction_id": "a20b5edd-cac1-46e2-aa88-a1a96115a51b",
+    "user_id": "fb8e253e-0eb8-4b1a-b236-337b1b8782ed",
+    "amount": 5124.85,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Toddmouth",
+    "timestamp": "2026-05-22T22:17:06.676608"
+  },
+  {
+    "transaction_id": "8841f50d-06ba-4820-af3f-89acafd2b5d9",
+    "user_id": "26a06363-8b8b-479b-af5f-d6495ba91540",
+    "amount": 2982.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mcconnellland",
+    "timestamp": "2026-05-22T22:17:07.178265"
+  },
+  {
+    "transaction_id": "3451c648-0b1e-4eb0-b6fe-f54f07a3c9ad",
+    "user_id": "0f5498c8-34bb-44f2-8dae-3cc2204923f2",
+    "amount": 4136.32,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Johnnyland",
+    "timestamp": "2026-05-22T22:17:07.679690"
+  },
+  {
+    "transaction_id": "f9b6d339-fe35-43bd-9293-18c741a7db02",
+    "user_id": "f8c765bc-9de7-445c-838b-78c6165c463b",
+    "amount": 1674.9,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Pattontown",
+    "timestamp": "2026-05-22T22:17:08.183068"
+  },
+  {
+    "transaction_id": "391be4c8-2020-4b04-8123-125a90eddcb0",
+    "user_id": "ecad4941-c0bb-428f-9afc-694c3598cd22",
+    "amount": 7924.59,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Jamesport",
+    "timestamp": "2026-05-22T22:17:08.684253"
+  },
+  {
+    "transaction_id": "5405a9c9-2f40-4800-be96-3913f538db60",
+    "user_id": "5900b83e-e93a-459b-9835-35a47db5b0bb",
+    "amount": 8849.76,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Hendrickston",
+    "timestamp": "2026-05-22T22:17:09.187175"
+  }
+]

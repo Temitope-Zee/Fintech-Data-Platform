@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4409f7b0-d25f-48f9-bd13-714fa7c284e8",
+    "user_id": "3255f275-681c-4b4d-863b-feb0326999ce",
+    "amount": 5463.81,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Alexandraland",
+    "timestamp": "2026-05-22T21:42:12.176648"
+  },
+  {
+    "transaction_id": "a883a7d8-157e-4d7f-b4ab-f7542bdd2766",
+    "user_id": "9fb2e232-21f4-49a0-8a76-2ebde85274d6",
+    "amount": 5776.76,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Brooksport",
+    "timestamp": "2026-05-22T21:42:13.181001"
+  },
+  {
+    "transaction_id": "d3cc9129-9dea-43ab-9dac-ef52a868c1c9",
+    "user_id": "c69997ef-8caa-4063-a48a-46ee9715ef6a",
+    "amount": 762.81,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnsonmouth",
+    "timestamp": "2026-05-22T21:42:13.683844"
+  },
+  {
+    "transaction_id": "df39ba84-950f-4752-8dfc-af8b840a4835",
+    "user_id": "ba9e3c19-813a-438e-b089-090e890f9d08",
+    "amount": 5277.51,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake James",
+    "timestamp": "2026-05-22T21:42:14.185463"
+  },
+  {
+    "transaction_id": "b08178e0-b0ff-4a7b-8b0f-9e77642b1e8a",
+    "user_id": "c5defb4d-cc4d-46f5-ae09-9c315997ef04",
+    "amount": 4881.36,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Vanessatown",
+    "timestamp": "2026-05-22T21:42:14.686984"
+  },
+  {
+    "transaction_id": "a28f9d51-0390-48fd-b72c-f0bf803031d2",
+    "user_id": "f962f5ba-973e-4570-8a74-ff10e0c93e0d",
+    "amount": 6234.11,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Maldonadoport",
+    "timestamp": "2026-05-22T21:42:15.188656"
+  },
+  {
+    "transaction_id": "27f5387d-d9d2-4872-9e48-f15c8de51a19",
+    "user_id": "a595e5ee-68ec-4594-9453-e8c7418db135",
+    "amount": 4107.53,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Evelyn",
+    "timestamp": "2026-05-22T21:42:15.691907"
+  },
+  {
+    "transaction_id": "5fa0697b-2517-445b-ae88-3c41384565ad",
+    "user_id": "75025092-ee6e-4077-a9bd-68e87e968d38",
+    "amount": 1973.16,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Jameschester",
+    "timestamp": "2026-05-22T21:42:16.696121"
+  },
+  {
+    "transaction_id": "d220eca8-ef4f-4121-8ab5-7b1f47c29cca",
+    "user_id": "809fd845-facb-4e7a-a1c4-55d3a963a43e",
+    "amount": 6949.78,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Danielfurt",
+    "timestamp": "2026-05-22T21:42:17.197331"
+  },
+  {
+    "transaction_id": "28df98c1-849f-4537-862e-a58805d86359",
+    "user_id": "60023439-c44e-4860-9eb9-ccd31d10c241",
+    "amount": 7968.47,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Jeremychester",
+    "timestamp": "2026-05-22T21:42:17.700333"
+  }
+]

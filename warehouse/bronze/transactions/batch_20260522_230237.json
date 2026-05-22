@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "104d6cc3-3eea-48b2-bd31-34b58acbcb60",
+    "user_id": "ae5736d3-5eeb-451b-8569-d1189b089c5b",
+    "amount": 9203.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Aaron",
+    "timestamp": "2026-05-22T23:02:31.182099"
+  },
+  {
+    "transaction_id": "952fcade-a213-4559-91d8-1946242e5ba0",
+    "user_id": "58f0a5cf-ce62-425e-a1da-789f0f75aee8",
+    "amount": 7880.99,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Keyhaven",
+    "timestamp": "2026-05-22T23:02:31.684546"
+  },
+  {
+    "transaction_id": "49229e76-0ad4-4fac-9915-c00a18706221",
+    "user_id": "f73d6b0e-0cd0-42a8-85a0-5fb84524cef8",
+    "amount": 8914.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Herringhaven",
+    "timestamp": "2026-05-22T23:02:32.186410"
+  },
+  {
+    "transaction_id": "5beabee6-3017-481f-bcfb-ee31588a9670",
+    "user_id": "c78157c3-8714-4876-bce2-5a3075f56992",
+    "amount": 913.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Burgessberg",
+    "timestamp": "2026-05-22T23:02:33.189442"
+  },
+  {
+    "transaction_id": "995daa12-ef4e-4480-9d82-b639169ba66b",
+    "user_id": "4c8e52c7-de34-4fee-b397-15732d21e304",
+    "amount": 687.61,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Duarteburgh",
+    "timestamp": "2026-05-22T23:02:33.692372"
+  },
+  {
+    "transaction_id": "2c3c93b2-02e9-4b99-aa71-cb9caf31b3db",
+    "user_id": "c5e56662-a502-43ed-8b76-271b6ac90a1a",
+    "amount": 1264.33,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Mariabury",
+    "timestamp": "2026-05-22T23:02:34.697973"
+  },
+  {
+    "transaction_id": "84c0f602-6e6e-492d-965c-7b3c6d327075",
+    "user_id": "bdd40ebb-b5e4-47c3-80ea-998a98b931f8",
+    "amount": 7943.98,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Mooreland",
+    "timestamp": "2026-05-22T23:02:35.201445"
+  },
+  {
+    "transaction_id": "b6f7dd6b-7924-42f6-8ed7-7a1ee71522d6",
+    "user_id": "8f7c2a77-0492-44d9-9924-e6e453b38eb4",
+    "amount": 5101.07,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Jacobland",
+    "timestamp": "2026-05-22T23:02:36.206229"
+  },
+  {
+    "transaction_id": "8fb9f38f-7340-4536-8bba-d5006d816468",
+    "user_id": "9a420e13-ddf5-4355-b7ca-38eb3b31c24f",
+    "amount": 3705.61,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Philipside",
+    "timestamp": "2026-05-22T23:02:36.709746"
+  },
+  {
+    "transaction_id": "8f445436-242c-4ca9-a399-7d0dc7bb8de3",
+    "user_id": "8e6ca9d5-6a9c-49b0-9421-91bdd81c2dc0",
+    "amount": 8988.79,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Carterburgh",
+    "timestamp": "2026-05-22T23:02:37.211109"
+  }
+]

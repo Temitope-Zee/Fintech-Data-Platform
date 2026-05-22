@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "705f2601-fc6f-45b6-93be-673c18fe392e",
+    "user_id": "dc03882d-44e6-41e9-992a-a8b699cfca87",
+    "amount": 1604.74,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Fernandeztown",
+    "timestamp": "2026-05-22T22:54:15.479135"
+  },
+  {
+    "transaction_id": "bc3b2e67-6866-4e77-82bb-65de6dbaaa51",
+    "user_id": "2d909660-63db-4659-b303-a2206da831ca",
+    "amount": 9512.6,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Ashleystad",
+    "timestamp": "2026-05-22T22:54:15.982489"
+  },
+  {
+    "transaction_id": "0a527e08-1379-41bb-99b5-0e99f1b72853",
+    "user_id": "8a053200-d6b7-4748-84cb-4f263df134ea",
+    "amount": 5283.19,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Jasmineshire",
+    "timestamp": "2026-05-22T22:54:16.484902"
+  },
+  {
+    "transaction_id": "650cea40-dc84-44f9-9b12-87810343983e",
+    "user_id": "8f271047-c053-4760-b5ad-f692c257f077",
+    "amount": 8302.32,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Reneeville",
+    "timestamp": "2026-05-22T22:54:16.986290"
+  },
+  {
+    "transaction_id": "1bb75d8e-d8f8-412b-aaa0-8a24750e0ca5",
+    "user_id": "3205368e-d45d-46d1-92fa-4720d1fe2868",
+    "amount": 9721.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Craigchester",
+    "timestamp": "2026-05-22T22:54:17.487339"
+  },
+  {
+    "transaction_id": "825c5758-20ad-4502-8aef-9a949f5f4d67",
+    "user_id": "29996e5c-03cb-4223-9e0c-9b9a5525892f",
+    "amount": 9486.7,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Brandonhaven",
+    "timestamp": "2026-05-22T22:54:17.989044"
+  },
+  {
+    "transaction_id": "d03430dc-e865-41a6-97db-c87517d2d57b",
+    "user_id": "66b48b90-fbf3-43ee-8e46-ad7e7c35f326",
+    "amount": 2746.03,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Joshuaton",
+    "timestamp": "2026-05-22T22:54:18.489759"
+  },
+  {
+    "transaction_id": "be254776-f4b5-4d4d-93ff-900a414f58e5",
+    "user_id": "cee85f4e-ecbe-4939-bd66-bbeac3fb41f3",
+    "amount": 4201.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Alexander",
+    "timestamp": "2026-05-22T22:54:18.990651"
+  },
+  {
+    "transaction_id": "39179627-bee6-4b00-954b-4eac86212b6a",
+    "user_id": "b4d05d9c-0059-444b-a63b-770cb6d935d8",
+    "amount": 6442.5,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Aliciaville",
+    "timestamp": "2026-05-22T22:54:19.492400"
+  },
+  {
+    "transaction_id": "757d4257-204e-447c-ba0a-ccbce74323c4",
+    "user_id": "a8e694f8-a758-43a0-8eb8-94d6c6c3a14e",
+    "amount": 2768.48,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Clayfurt",
+    "timestamp": "2026-05-22T22:54:19.994473"
+  }
+]

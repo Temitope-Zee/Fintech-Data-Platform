@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0fc4ffc9-d2fe-4813-9816-c4d9f2e54c10",
+    "user_id": "ec211da8-060a-4824-93be-6605caee61fc",
+    "amount": 7500.38,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Natalieside",
+    "timestamp": "2026-05-22T22:29:09.145052"
+  },
+  {
+    "transaction_id": "c424f7f5-3f0e-42fb-8522-fbcf99410b8a",
+    "user_id": "d5a8361c-4a48-45af-a3da-a7d60dda7fbf",
+    "amount": 5681.9,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Scottville",
+    "timestamp": "2026-05-22T22:29:09.646723"
+  },
+  {
+    "transaction_id": "068e226c-2149-440b-a4ae-e55535ee6782",
+    "user_id": "2048bf70-f9ff-45cc-902c-4e019a0516fb",
+    "amount": 6228.36,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-22T22:29:10.650151"
+  },
+  {
+    "transaction_id": "e5c2109b-7a3f-4ebe-a436-2333970e7464",
+    "user_id": "1e4e72a6-14de-4da3-b235-fe4a2ada328f",
+    "amount": 8331.44,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Jasonmouth",
+    "timestamp": "2026-05-22T22:29:11.153189"
+  },
+  {
+    "transaction_id": "6b0ca8fb-6b9a-4413-8058-c3f04cdaee5f",
+    "user_id": "c073e3a8-d8e0-464a-8c28-016d71e57554",
+    "amount": 8569.31,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Kathleenchester",
+    "timestamp": "2026-05-22T22:29:11.656000"
+  },
+  {
+    "transaction_id": "1f955fb5-5920-46b9-aa1c-7283f98859b1",
+    "user_id": "c97a0243-427d-46b6-9d4f-f7ecf19e8e49",
+    "amount": 3923.07,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Dustinville",
+    "timestamp": "2026-05-22T22:29:12.158556"
+  },
+  {
+    "transaction_id": "80f65b44-4442-408b-9dee-210b3b20db86",
+    "user_id": "4839c321-65a0-43fa-9deb-44ba12611cb6",
+    "amount": 6722.82,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Nicholasborough",
+    "timestamp": "2026-05-22T22:29:12.661376"
+  },
+  {
+    "transaction_id": "34e988b0-7427-40cd-9487-42d4efc88616",
+    "user_id": "cbf87d31-68db-48e9-8e2f-8bdd089bd46a",
+    "amount": 3835.28,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Christopher",
+    "timestamp": "2026-05-22T22:29:13.164188"
+  },
+  {
+    "transaction_id": "ebde2601-bac3-4821-b32a-7873292b4903",
+    "user_id": "668b5137-985e-4404-bf73-edb3339ca6d1",
+    "amount": 5062.34,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Rachelchester",
+    "timestamp": "2026-05-22T22:29:13.666112"
+  },
+  {
+    "transaction_id": "4ca69cc8-d902-4e7a-a43e-caaf471e1c24",
+    "user_id": "01857f8b-d896-494e-8c4d-c92598863ad0",
+    "amount": 6754.77,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Luisborough",
+    "timestamp": "2026-05-22T22:29:14.168069"
+  }
+]

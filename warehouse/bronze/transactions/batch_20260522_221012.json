@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "74233332-b658-4c39-be05-ef45e7da3b06",
+    "user_id": "d74d71a6-74ba-41ac-b674-22de7213d753",
+    "amount": 8645.59,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Fieldstown",
+    "timestamp": "2026-05-22T22:10:07.539011"
+  },
+  {
+    "transaction_id": "76c25219-417b-4503-a6e0-005b1468a728",
+    "user_id": "8a10b7c3-20e5-4389-9b45-736ccf48d04f",
+    "amount": 8840.58,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Matthew",
+    "timestamp": "2026-05-22T22:10:08.041428"
+  },
+  {
+    "transaction_id": "9125fef4-9c68-4629-82ba-3cb1184f4f4a",
+    "user_id": "bfcf7a7c-e6f3-446e-acd0-7b99f0d20567",
+    "amount": 2874.17,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Lisaborough",
+    "timestamp": "2026-05-22T22:10:08.544456"
+  },
+  {
+    "transaction_id": "05fdd769-fed3-4ad8-a2cd-417dccb82cd4",
+    "user_id": "6fe06ada-bed3-4d34-9e37-c88c23ad06e9",
+    "amount": 5458.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Danielle",
+    "timestamp": "2026-05-22T22:10:09.046861"
+  },
+  {
+    "transaction_id": "9c0ef326-e8c6-4a25-b79a-fc97b247712f",
+    "user_id": "f604366b-c4aa-4c8d-a5a2-11af2f812778",
+    "amount": 193.87,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Kristinaland",
+    "timestamp": "2026-05-22T22:10:09.548126"
+  },
+  {
+    "transaction_id": "651a303e-35a1-487c-9f70-7870620a05ef",
+    "user_id": "4cdb2c9a-77b9-4eba-892b-65010ed05357",
+    "amount": 3334.14,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Kyleborough",
+    "timestamp": "2026-05-22T22:10:10.049248"
+  },
+  {
+    "transaction_id": "18a6c352-a23c-4213-bc0c-6ef6b6eb0bb4",
+    "user_id": "5d8d9cdc-3716-41cc-9ee9-e90097fc2059",
+    "amount": 9286.24,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Leonardshire",
+    "timestamp": "2026-05-22T22:10:10.547514"
+  },
+  {
+    "transaction_id": "42347f05-558c-47e9-8e21-ef31cffae248",
+    "user_id": "7667ce20-3387-4bba-8f98-0e9ad08c0a71",
+    "amount": 2768.37,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Meghan",
+    "timestamp": "2026-05-22T22:10:11.049366"
+  },
+  {
+    "transaction_id": "0dcad49a-21a5-4729-997c-f46811253b99",
+    "user_id": "5cc392cb-2944-4bed-ab0a-c2b25e42760a",
+    "amount": 2194.64,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Tammyburgh",
+    "timestamp": "2026-05-22T22:10:11.551897"
+  },
+  {
+    "transaction_id": "5bee2750-0505-46ce-aaa1-40b4064e5dc2",
+    "user_id": "66e86964-316b-44c1-8f4a-f71e16d9087b",
+    "amount": 3566.42,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Destiny",
+    "timestamp": "2026-05-22T22:10:12.053283"
+  }
+]

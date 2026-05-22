@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "07a0d03a-2500-4308-8e02-578376b3b861",
+    "user_id": "56da2cdb-fcdc-424c-bfa2-b0e8b809fd94",
+    "amount": 8869.47,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Katie",
+    "timestamp": "2026-05-22T22:25:27.244426"
+  },
+  {
+    "transaction_id": "da1d0e71-963e-41c7-bbaa-49bb2fc3c0b7",
+    "user_id": "b06ddac5-f62e-4c82-a381-d930eeac36ee",
+    "amount": 2152.38,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Jamesmouth",
+    "timestamp": "2026-05-22T22:25:27.747126"
+  },
+  {
+    "transaction_id": "1045ebeb-2da3-456f-ac3d-de1ed0c11c97",
+    "user_id": "3849dd70-0cbe-4883-bd34-ec3d76b2ae15",
+    "amount": 7896.49,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lindsaychester",
+    "timestamp": "2026-05-22T22:25:28.248539"
+  },
+  {
+    "transaction_id": "e66d240f-aa4c-4938-b496-1ad096260142",
+    "user_id": "e87aa3e2-8061-4ba4-befa-b69e83629e73",
+    "amount": 1835.81,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Rebecca",
+    "timestamp": "2026-05-22T22:25:28.749775"
+  },
+  {
+    "transaction_id": "0ee09d15-cd52-4855-b2e1-9ea72059f46f",
+    "user_id": "f86b4211-ab77-4d5b-8cef-6d93394bcb10",
+    "amount": 5730.85,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Timothy",
+    "timestamp": "2026-05-22T22:25:29.250835"
+  },
+  {
+    "transaction_id": "d658d6db-1f3b-4c8d-b2bc-b1b243d7ade8",
+    "user_id": "cff2d444-7cec-469f-a25e-3e618c7317e1",
+    "amount": 7898.15,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Christinemouth",
+    "timestamp": "2026-05-22T22:25:29.752760"
+  },
+  {
+    "transaction_id": "0129472c-5c1e-4f75-a5c9-b8a918717376",
+    "user_id": "7033f019-7a92-4d0b-8120-2b9c2184aea7",
+    "amount": 8931.91,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Hodgefurt",
+    "timestamp": "2026-05-22T22:25:30.755755"
+  },
+  {
+    "transaction_id": "e5de0b3d-3a81-4579-8f45-3eb7b0c331da",
+    "user_id": "0e6afb43-5a76-472f-a333-ba6406646461",
+    "amount": 3889.99,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Richard",
+    "timestamp": "2026-05-22T22:25:31.257620"
+  },
+  {
+    "transaction_id": "90383e18-cb77-40f3-9535-57f687533391",
+    "user_id": "a52d4726-c460-4b1a-ba3d-c199eade29cd",
+    "amount": 5791.78,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Miguel",
+    "timestamp": "2026-05-22T22:25:31.758973"
+  },
+  {
+    "transaction_id": "157ab1aa-3dbd-435c-9277-cd372a41e4ef",
+    "user_id": "33b4836f-7572-445c-96be-e73426ba3cc4",
+    "amount": 9616.47,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Cummingsshire",
+    "timestamp": "2026-05-22T22:25:33.264602"
+  }
+]

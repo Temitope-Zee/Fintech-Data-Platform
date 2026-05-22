@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "098c21e4-abb6-430e-8fcb-e4d8e3188b3a",
+    "user_id": "ff087450-52b3-43fb-9243-88a0453ad3c3",
+    "amount": 329.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Markmouth",
+    "timestamp": "2026-05-22T21:43:29.978966"
+  },
+  {
+    "transaction_id": "6e90094d-7cb6-41ca-b729-212790ec8680",
+    "user_id": "3bd3d6ae-07a0-4c66-8fc1-1fee03070a42",
+    "amount": 2731.18,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Travisborough",
+    "timestamp": "2026-05-22T21:43:30.982531"
+  },
+  {
+    "transaction_id": "18a10f6e-1b20-48a0-864e-525a487d07f5",
+    "user_id": "ad416be3-970d-4f5e-8ce3-3da1b558f8d0",
+    "amount": 2532.8,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Anne",
+    "timestamp": "2026-05-22T21:43:31.483817"
+  },
+  {
+    "transaction_id": "5c823143-fc33-4138-9b9a-028d33f101bf",
+    "user_id": "75d14574-6f18-4ad8-aebb-90b2767fb5ed",
+    "amount": 893.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Jamesstad",
+    "timestamp": "2026-05-22T21:43:31.987019"
+  },
+  {
+    "transaction_id": "37c51c98-fc98-4d2f-b9ec-cc21197f5841",
+    "user_id": "c6e4ff2c-7a67-49f2-8844-13868582bd1d",
+    "amount": 3672.71,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Brooksville",
+    "timestamp": "2026-05-22T21:43:32.488847"
+  },
+  {
+    "transaction_id": "da71b15f-0228-4a36-8c1b-eff365a968cb",
+    "user_id": "c5637a39-5a91-4683-b5fa-38efae7d3dba",
+    "amount": 4334.14,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Harrychester",
+    "timestamp": "2026-05-22T21:43:32.990122"
+  },
+  {
+    "transaction_id": "c6aa741e-f2ce-44bb-adbd-1378f7f3c8c7",
+    "user_id": "cc0ff8c2-1aa5-4520-b41e-0b83507b0113",
+    "amount": 2620.58,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Patrick",
+    "timestamp": "2026-05-22T21:43:33.491380"
+  },
+  {
+    "transaction_id": "b04ea2b3-1889-4b3a-a9a1-d3782de60485",
+    "user_id": "86acd7a9-72c3-4425-9433-7b54fd5c6e95",
+    "amount": 5961.9,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Jamesville",
+    "timestamp": "2026-05-22T21:43:33.993258"
+  },
+  {
+    "transaction_id": "067e27d5-5cc2-4c8e-86cf-7352e74ec175",
+    "user_id": "8b510f7c-14e9-4bbf-a342-7d3c82dfd8b4",
+    "amount": 493.57,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Kevinborough",
+    "timestamp": "2026-05-22T21:43:34.494770"
+  },
+  {
+    "transaction_id": "ad629a61-6438-4a09-98a5-1a6a1eedee3f",
+    "user_id": "9f866b46-b5a9-40f4-a338-061dd7c8827a",
+    "amount": 1238.68,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Buckmouth",
+    "timestamp": "2026-05-22T21:43:34.996144"
+  }
+]

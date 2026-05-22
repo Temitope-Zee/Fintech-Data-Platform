@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ec4ad17c-e965-4133-9646-aa408537b91b",
+    "user_id": "5c4726f1-340c-4bd9-af67-82790980df18",
+    "amount": 4838.15,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Michaelborough",
+    "timestamp": "2026-05-22T22:24:13.473069"
+  },
+  {
+    "transaction_id": "7435b847-f06f-4782-ba39-0831667ada1d",
+    "user_id": "820f4b6b-c750-4e65-bd39-36ffccfbc691",
+    "amount": 9192.13,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Justinland",
+    "timestamp": "2026-05-22T22:24:13.974471"
+  },
+  {
+    "transaction_id": "dea6b931-8aca-4904-aab1-b9a610d4f528",
+    "user_id": "00ff05fe-3ff7-45e7-b5e6-dc221ab7ed20",
+    "amount": 4483.85,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lindseystad",
+    "timestamp": "2026-05-22T22:24:14.476168"
+  },
+  {
+    "transaction_id": "49ba5917-b5ae-4195-bd07-9a27964fc3b6",
+    "user_id": "49054b4a-b82f-412d-9089-86dfc7d00162",
+    "amount": 2644.07,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Julieside",
+    "timestamp": "2026-05-22T22:24:14.977609"
+  },
+  {
+    "transaction_id": "369bfa7a-10a3-47ca-8c8b-0bd7273594a1",
+    "user_id": "b3d2d441-65b6-47b2-b334-f6e217b3b177",
+    "amount": 9577.73,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Micheleberg",
+    "timestamp": "2026-05-22T22:24:15.478857"
+  },
+  {
+    "transaction_id": "c45739d2-0f29-4f22-b47a-d50c6284231f",
+    "user_id": "af261e45-db45-4a19-b8d3-f92c45797898",
+    "amount": 9985.39,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Thomas",
+    "timestamp": "2026-05-22T22:24:15.980288"
+  },
+  {
+    "transaction_id": "f9245dd5-cce5-4a26-9ae7-24c5f6307869",
+    "user_id": "c8e70dc9-ba11-43dc-980b-a991e4782db6",
+    "amount": 40.24,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Curtisport",
+    "timestamp": "2026-05-22T22:24:16.482263"
+  },
+  {
+    "transaction_id": "b23ab7df-eb57-40c1-83c2-fe57d643aaea",
+    "user_id": "0b410069-b6d3-4259-ba4e-e701a2e90571",
+    "amount": 118.34,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Garcialand",
+    "timestamp": "2026-05-22T22:24:16.984156"
+  },
+  {
+    "transaction_id": "c983790e-0015-4a79-9ae2-88462d3f3abc",
+    "user_id": "187c9c51-2c35-471b-a24f-17df485688b4",
+    "amount": 301.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Davidhaven",
+    "timestamp": "2026-05-22T22:24:17.485503"
+  },
+  {
+    "transaction_id": "9be5e50f-dfaf-4651-8c55-4ba32f1daf32",
+    "user_id": "12ace84b-1195-4e53-8256-f8b807c1134e",
+    "amount": 4328.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Austinton",
+    "timestamp": "2026-05-22T22:24:17.987178"
+  }
+]

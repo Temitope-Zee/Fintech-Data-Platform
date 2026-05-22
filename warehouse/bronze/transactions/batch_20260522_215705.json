@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3d536eac-e725-4dd3-b18b-e7a771f71c5f",
+    "user_id": "79773e1b-9c05-4092-9d40-f9b3abe4ca92",
+    "amount": 1683.41,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Christopher",
+    "timestamp": "2026-05-22T21:56:57.833667"
+  },
+  {
+    "transaction_id": "7c781cda-aae4-4c45-b9c0-cfb2163249fa",
+    "user_id": "6b36206a-00bb-4b4b-84de-f6f372fc3d36",
+    "amount": 4062.72,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Lauraberg",
+    "timestamp": "2026-05-22T21:56:58.336748"
+  },
+  {
+    "transaction_id": "54d40110-2054-4f28-96a3-078df1e0fa80",
+    "user_id": "62f89abb-efbb-4e96-9bc3-c689dad6e9ae",
+    "amount": 908.72,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Henryport",
+    "timestamp": "2026-05-22T21:56:58.838219"
+  },
+  {
+    "transaction_id": "a3811905-01e6-43ad-ab72-fa71f15c72e6",
+    "user_id": "32a88ce7-2fa3-4d6f-bbb4-ddf1e03de46c",
+    "amount": 2403.35,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Campbellchester",
+    "timestamp": "2026-05-22T21:56:59.340833"
+  },
+  {
+    "transaction_id": "608996ed-c439-468d-ada6-bc2597c52e85",
+    "user_id": "fbdf50eb-2c1f-4148-8dd6-9037cd89e0c2",
+    "amount": 6569.43,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Dixonview",
+    "timestamp": "2026-05-22T21:57:00.343767"
+  },
+  {
+    "transaction_id": "e30648a9-9955-4d32-8e4a-55dd7699a4da",
+    "user_id": "3cd3c324-b262-49fc-b7cc-7272429ce353",
+    "amount": 4102.82,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Katie",
+    "timestamp": "2026-05-22T21:57:00.845766"
+  },
+  {
+    "transaction_id": "37a5a8cd-d036-4730-b4c7-924439bc64f0",
+    "user_id": "25f118ec-7e88-44c3-b8df-2fd76e6818f9",
+    "amount": 867.56,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Bethhaven",
+    "timestamp": "2026-05-22T21:57:01.347533"
+  },
+  {
+    "transaction_id": "bc91b15b-d1c6-44a4-964b-36d658961bc2",
+    "user_id": "cea3e7ef-1a09-4b12-b79f-d74fe05bffbe",
+    "amount": 6659.66,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North David",
+    "timestamp": "2026-05-22T21:57:03.354770"
+  },
+  {
+    "transaction_id": "33bf948b-b99c-4069-8be3-a639c8ed0575",
+    "user_id": "a66b5365-e456-4d06-8dcf-d4f4d8b49fee",
+    "amount": 5807.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Wesleyville",
+    "timestamp": "2026-05-22T21:57:04.359102"
+  },
+  {
+    "transaction_id": "43c52e79-7a17-46e0-bd94-9a4d9b169ac2",
+    "user_id": "fbcbe6ac-67af-4102-9dfd-89cd0470b087",
+    "amount": 2153.18,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Williamport",
+    "timestamp": "2026-05-22T21:57:05.363544"
+  }
+]

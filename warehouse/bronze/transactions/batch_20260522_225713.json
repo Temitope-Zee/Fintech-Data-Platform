@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ccc7906c-d6a9-4759-b86a-82202c309a40",
+    "user_id": "b1c8ca7d-7082-487d-9f34-508489d7074b",
+    "amount": 6653.08,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Coxtown",
+    "timestamp": "2026-05-22T22:57:08.156125"
+  },
+  {
+    "transaction_id": "9f11887f-25a3-460e-873b-461a013b7cf1",
+    "user_id": "bb4094a9-43f4-4f2f-94e8-11dedb7225af",
+    "amount": 4507.59,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Royshire",
+    "timestamp": "2026-05-22T22:57:08.657889"
+  },
+  {
+    "transaction_id": "7fe15d00-8565-451b-a13b-a903e7b2d19f",
+    "user_id": "2e0fb283-32b8-4fdf-9768-db3f3061827d",
+    "amount": 2092.51,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Parkerchester",
+    "timestamp": "2026-05-22T22:57:09.159536"
+  },
+  {
+    "transaction_id": "9c5e82f9-26fc-4ac4-9345-c529667637dc",
+    "user_id": "3a8eda24-a509-47c5-8a42-1ba1af71515d",
+    "amount": 9245.16,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Janiceberg",
+    "timestamp": "2026-05-22T22:57:09.661307"
+  },
+  {
+    "transaction_id": "4e7afb8f-6975-45d6-82fe-999d0701d2c3",
+    "user_id": "7cd5e685-f079-4b5f-b8c9-d0dde89d9b26",
+    "amount": 2785.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Thomas",
+    "timestamp": "2026-05-22T22:57:10.162641"
+  },
+  {
+    "transaction_id": "b3fe2478-324f-4851-ac2f-c0086e5d05f9",
+    "user_id": "8afd06ec-52d8-4861-9daa-c0d8798b73a9",
+    "amount": 1510.07,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Amandaville",
+    "timestamp": "2026-05-22T22:57:10.664368"
+  },
+  {
+    "transaction_id": "6cb9cec1-5757-44e8-bd2a-61c26340dfff",
+    "user_id": "6a5556a3-fe90-4533-88c4-129d77708b4f",
+    "amount": 9522.9,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Paulton",
+    "timestamp": "2026-05-22T22:57:11.165889"
+  },
+  {
+    "transaction_id": "67630ae9-a37a-48c7-a34a-04ece497e78d",
+    "user_id": "3664ae2d-7ee7-4ce5-b43f-7078dfc5fa9f",
+    "amount": 6576.9,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Nashland",
+    "timestamp": "2026-05-22T22:57:11.667229"
+  },
+  {
+    "transaction_id": "8818f8a7-95a6-4f75-96a9-62359ca4c88f",
+    "user_id": "0bc36c70-ed1b-48d3-a5cf-c58422e134f2",
+    "amount": 7569.95,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Willieview",
+    "timestamp": "2026-05-22T22:57:12.671556"
+  },
+  {
+    "transaction_id": "a9ccfe6e-c486-4d25-a165-f0628d657bc4",
+    "user_id": "a67d6953-b721-4b1b-a5e2-84cf76353afb",
+    "amount": 749.18,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Bensonfurt",
+    "timestamp": "2026-05-22T22:57:13.173236"
+  }
+]

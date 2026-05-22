@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6b0006dc-1762-4f6d-84c5-8536a0a49467",
+    "user_id": "b726b65c-0806-495f-9752-d0d55e384dcb",
+    "amount": 7265.68,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Mary",
+    "timestamp": "2026-05-22T22:40:10.020258"
+  },
+  {
+    "transaction_id": "282260f2-d2b9-4798-98c3-0f8388163f4b",
+    "user_id": "53d01a99-1af4-4d30-ab2a-0a2295dc3081",
+    "amount": 577.03,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Longfort",
+    "timestamp": "2026-05-22T22:40:10.521973"
+  },
+  {
+    "transaction_id": "94e2bfd7-b94b-462d-bca9-37bc64d67567",
+    "user_id": "fd0ad05d-4d06-40da-bc6b-cfd9fd64f09e",
+    "amount": 952.66,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Brianmouth",
+    "timestamp": "2026-05-22T22:40:11.524828"
+  },
+  {
+    "transaction_id": "4ed6a253-3554-4dde-b5a6-79548b0e211b",
+    "user_id": "789ad252-6faa-417a-9e45-5be8dbdf2903",
+    "amount": 2576.52,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Michelleton",
+    "timestamp": "2026-05-22T22:40:12.026256"
+  },
+  {
+    "transaction_id": "c5054f0b-4256-4ac3-83cf-324de94515cd",
+    "user_id": "99da0619-6705-4878-89ce-cedff8e92020",
+    "amount": 1044.54,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New John",
+    "timestamp": "2026-05-22T22:40:12.528161"
+  },
+  {
+    "transaction_id": "342d2edf-2fbf-4f34-9b8b-4045baf327db",
+    "user_id": "f01a8d9d-2995-4531-bf09-7f2dda5e52d5",
+    "amount": 6114.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Christopher",
+    "timestamp": "2026-05-22T22:40:13.031062"
+  },
+  {
+    "transaction_id": "ccbe39a1-8097-44ee-bf64-7af8f34323f3",
+    "user_id": "63fa6676-304c-4ae9-b2de-e0885c3deae1",
+    "amount": 1999.69,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Erinstad",
+    "timestamp": "2026-05-22T22:40:13.532601"
+  },
+  {
+    "transaction_id": "a2c3e9c1-f1d6-4c93-b7d0-4b66c2f57b6b",
+    "user_id": "7fc7576d-e7ef-45d0-9557-6201605e736f",
+    "amount": 854.76,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Jessica",
+    "timestamp": "2026-05-22T22:40:14.035184"
+  },
+  {
+    "transaction_id": "7dfaa91b-1c61-48a8-b7f1-4297db6d260e",
+    "user_id": "cd02c66a-9e66-4f2d-be4a-ab5dd118cf5e",
+    "amount": 5521.27,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Rachelmouth",
+    "timestamp": "2026-05-22T22:40:14.536760"
+  },
+  {
+    "transaction_id": "b05aee11-6742-441a-8f04-c88319132cb6",
+    "user_id": "6c2795af-8316-4b90-8d92-693a14b24b29",
+    "amount": 7783.85,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Donnaland",
+    "timestamp": "2026-05-22T22:40:15.039698"
+  }
+]

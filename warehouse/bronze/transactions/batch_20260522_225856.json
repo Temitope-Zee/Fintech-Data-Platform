@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a6ef0462-a898-43a3-afb9-fc56c79fe4a2",
+    "user_id": "9643735f-9627-4f10-bace-976b6a346af5",
+    "amount": 781.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Andreashire",
+    "timestamp": "2026-05-22T22:58:50.030732"
+  },
+  {
+    "transaction_id": "fbe7440e-e237-47c8-88ce-1463f9babb9e",
+    "user_id": "b178fabe-886d-421b-a382-f5cfd4e4cdf2",
+    "amount": 5709.75,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Courtneystad",
+    "timestamp": "2026-05-22T22:58:51.033324"
+  },
+  {
+    "transaction_id": "ac5eb981-9860-4239-9d56-8f587c2268de",
+    "user_id": "13edf39b-9d53-4203-a646-c69d0f07b182",
+    "amount": 5218.22,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Melissaburgh",
+    "timestamp": "2026-05-22T22:58:51.535513"
+  },
+  {
+    "transaction_id": "0e8c3e81-5e8b-4bf3-bec1-b24fd5febbfc",
+    "user_id": "8e997993-eb39-4e22-9b3d-3524ecf5981e",
+    "amount": 6417.7,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Tracyshire",
+    "timestamp": "2026-05-22T22:58:52.036644"
+  },
+  {
+    "transaction_id": "bb28dc28-9426-4fb9-850a-19a97ab057c7",
+    "user_id": "6f999cf1-86d9-4594-abf4-f65c6cab1634",
+    "amount": 2146.58,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Robertsland",
+    "timestamp": "2026-05-22T22:58:52.538164"
+  },
+  {
+    "transaction_id": "08d8404c-8ae6-4ec4-a71a-e899fca17090",
+    "user_id": "e99713f7-65d1-452f-9e15-180521d8db90",
+    "amount": 9368.06,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Carpentertown",
+    "timestamp": "2026-05-22T22:58:53.039667"
+  },
+  {
+    "transaction_id": "7df6a930-b4c7-4219-b767-ea049487e2b7",
+    "user_id": "164dbc22-4ac6-4e0d-bfa3-021f63b96426",
+    "amount": 9857.04,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Jamesbury",
+    "timestamp": "2026-05-22T22:58:54.043955"
+  },
+  {
+    "transaction_id": "0ab6ec48-3207-4559-9a8f-51211cf7147b",
+    "user_id": "04cded3e-01b4-492f-80db-ab34b8f2082e",
+    "amount": 2090.65,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Webertown",
+    "timestamp": "2026-05-22T22:58:54.545278"
+  },
+  {
+    "transaction_id": "c47b64d8-d4f8-4142-95dc-f6e3fe0d7327",
+    "user_id": "b1d0b1f5-fb49-4128-b8f4-1fb4b0b0c1b9",
+    "amount": 437.0,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Hollyberg",
+    "timestamp": "2026-05-22T22:58:55.047598"
+  },
+  {
+    "transaction_id": "5422688b-4c09-412e-96fa-56c8663bae12",
+    "user_id": "f7c24756-d9b4-471b-bf62-3bd6b9d9a23f",
+    "amount": 5245.09,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Garciaville",
+    "timestamp": "2026-05-22T22:58:56.051930"
+  }
+]

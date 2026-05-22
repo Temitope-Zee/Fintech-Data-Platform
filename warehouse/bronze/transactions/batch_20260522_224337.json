@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ac2d8e07-77bf-4c95-bc5d-31e6d6c8940f",
+    "user_id": "f421cde3-aa81-4baf-9dcc-0524a0d9af36",
+    "amount": 8778.68,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Williamchester",
+    "timestamp": "2026-05-22T22:43:29.806955"
+  },
+  {
+    "transaction_id": "498bb8b8-937a-4a00-b48e-019a8d10c0eb",
+    "user_id": "4e4d6b04-3a34-464f-b507-ea127275ea58",
+    "amount": 3646.46,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Salinasbury",
+    "timestamp": "2026-05-22T22:43:30.310350"
+  },
+  {
+    "transaction_id": "636b7845-2dd2-4e4c-9130-4dfc7d8243a8",
+    "user_id": "c2682ef4-b5b8-4c50-be16-88a0ee33f37b",
+    "amount": 4485.45,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Rebeccaland",
+    "timestamp": "2026-05-22T22:43:31.815581"
+  },
+  {
+    "transaction_id": "afd104ca-5a48-401a-9d19-4e7d7707edae",
+    "user_id": "2883cca4-da9c-4e8f-bd5b-2a9db3660a2b",
+    "amount": 4742.42,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Anne",
+    "timestamp": "2026-05-22T22:43:32.317123"
+  },
+  {
+    "transaction_id": "f5c04bd0-9cfe-40ba-913e-5cedf54d6d34",
+    "user_id": "46b95a95-e030-49c5-9b87-3be7666ea962",
+    "amount": 4830.91,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Timothyton",
+    "timestamp": "2026-05-22T22:43:33.823435"
+  },
+  {
+    "transaction_id": "2833a714-1704-4f4d-aba8-4cd2c6b4dabc",
+    "user_id": "18bb51b7-e269-4cd2-89c2-648507887344",
+    "amount": 1334.16,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Markland",
+    "timestamp": "2026-05-22T22:43:34.325362"
+  },
+  {
+    "transaction_id": "55542789-bce5-438a-bec9-685e86c137d4",
+    "user_id": "39e32df8-b50e-4f87-998a-b8a02ead195b",
+    "amount": 2172.98,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Steven",
+    "timestamp": "2026-05-22T22:43:35.329020"
+  },
+  {
+    "transaction_id": "d32eb53e-91c0-40c7-a367-87c711e3156e",
+    "user_id": "99fb6d9f-ede3-446b-a7a3-8ffaaaddf417",
+    "amount": 4580.52,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Charlesfort",
+    "timestamp": "2026-05-22T22:43:35.832018"
+  },
+  {
+    "transaction_id": "b6f103fa-1765-4a1b-98e3-cfb6c552fc65",
+    "user_id": "9debd454-dfe7-41f6-9ed5-3d7a04d66e35",
+    "amount": 8959.45,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Kathleenside",
+    "timestamp": "2026-05-22T22:43:36.333198"
+  },
+  {
+    "transaction_id": "2d8053ae-5e49-40c1-9cb8-787263e70a8b",
+    "user_id": "db0c1acc-ee1b-49fb-9bc6-4ec17b24a052",
+    "amount": 7032.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Rebeccamouth",
+    "timestamp": "2026-05-22T22:43:37.836382"
+  }
+]

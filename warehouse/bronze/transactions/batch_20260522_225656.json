@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ad50c4f4-9ea0-4dc3-b344-52bf054ac1cf",
+    "user_id": "1e037473-d5e0-43ea-8725-4186ede911fb",
+    "amount": 826.69,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Hayneschester",
+    "timestamp": "2026-05-22T22:56:50.577503"
+  },
+  {
+    "transaction_id": "de179d02-12fc-4a73-a7e4-ff8aace7c0b7",
+    "user_id": "b89ad1c4-55d6-4b59-bbaa-29176240b032",
+    "amount": 8710.76,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Tyler",
+    "timestamp": "2026-05-22T22:56:51.079276"
+  },
+  {
+    "transaction_id": "0cdb034c-4b5f-44b3-b9bf-ea65222a5a23",
+    "user_id": "5b27983d-514c-42d9-bc17-2294c08d47b8",
+    "amount": 9675.18,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Amyton",
+    "timestamp": "2026-05-22T22:56:52.588616"
+  },
+  {
+    "transaction_id": "1870bdf3-ea3b-4513-944f-d6cf037c4ea5",
+    "user_id": "4178d891-1a45-4d00-a907-f04892e7026d",
+    "amount": 3447.41,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Michelle",
+    "timestamp": "2026-05-22T22:56:53.094453"
+  },
+  {
+    "transaction_id": "1d118733-b4a7-4549-a7c6-36b39017372a",
+    "user_id": "a3a3f2e2-2ecd-4a88-bc61-961b4d1137da",
+    "amount": 2112.08,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Shaunport",
+    "timestamp": "2026-05-22T22:56:53.599027"
+  },
+  {
+    "transaction_id": "39028cb5-3ed1-4977-96d2-463c8157eea4",
+    "user_id": "dc3967e7-03ae-4ed5-86af-4ea4c2752613",
+    "amount": 8129.45,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lindsaytown",
+    "timestamp": "2026-05-22T22:56:54.101161"
+  },
+  {
+    "transaction_id": "dcbbc8ca-7951-4095-b957-1e67de477d9e",
+    "user_id": "4a9bbca1-e9e1-4d04-bfce-3302e2d6b112",
+    "amount": 3414.33,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Allenbury",
+    "timestamp": "2026-05-22T22:56:54.602980"
+  },
+  {
+    "transaction_id": "919d540d-583a-4771-a1ca-2e21abcb9dc4",
+    "user_id": "67cf307c-cfb4-4516-b23a-a00906b41b95",
+    "amount": 4794.28,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Sheilamouth",
+    "timestamp": "2026-05-22T22:56:55.104650"
+  },
+  {
+    "transaction_id": "b9c39313-f073-4b88-b8b6-cbcb52e778f8",
+    "user_id": "baa09afd-1b80-4120-b8a5-b4a0ee954cf3",
+    "amount": 6502.29,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Lisastad",
+    "timestamp": "2026-05-22T22:56:55.606119"
+  },
+  {
+    "transaction_id": "229504a8-b811-42cd-9b65-45d32cd49487",
+    "user_id": "a5e51b4b-d64d-45b2-9661-e1b8afc2906b",
+    "amount": 9326.05,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Wanda",
+    "timestamp": "2026-05-22T22:56:56.107337"
+  }
+]

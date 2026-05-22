@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bf74c0b8-0327-4938-b32a-3b01f3d7897e",
+    "user_id": "606a8432-8075-4bd9-b39f-407fffe13fcd",
+    "amount": 390.86,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Baldwinstad",
+    "timestamp": "2026-05-22T22:21:53.862219"
+  },
+  {
+    "transaction_id": "d7dc435d-5df4-4142-83e0-535e0fba992c",
+    "user_id": "b65dd602-00e2-44df-8dcb-59877e5838ff",
+    "amount": 4459.32,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Whiteheadport",
+    "timestamp": "2026-05-22T22:21:54.364927"
+  },
+  {
+    "transaction_id": "1eac2471-d781-48d0-a2fe-4acef837851a",
+    "user_id": "a850a649-63ee-4e9c-ab2f-1f6d31bdfdad",
+    "amount": 7290.54,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lauraview",
+    "timestamp": "2026-05-22T22:21:55.369466"
+  },
+  {
+    "transaction_id": "62967753-fa3a-485d-974a-1ece46f212c1",
+    "user_id": "ab5d86ad-5ea3-4c7b-8d35-2eafed4337fb",
+    "amount": 244.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnstonland",
+    "timestamp": "2026-05-22T22:21:55.871277"
+  },
+  {
+    "transaction_id": "ffcee42e-a075-4939-929d-b0e033aa8d23",
+    "user_id": "026ddcd3-3bbb-4cdc-a6df-c330d232fd3f",
+    "amount": 3119.85,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Thomasport",
+    "timestamp": "2026-05-22T22:21:56.373896"
+  },
+  {
+    "transaction_id": "d8169915-b1e3-4781-b371-0af374807708",
+    "user_id": "91b5dc20-4c56-488b-93d8-74d454d50e10",
+    "amount": 3004.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Jimenezburgh",
+    "timestamp": "2026-05-22T22:21:56.875343"
+  },
+  {
+    "transaction_id": "193f9999-7e2a-4faa-8e72-e419323e757f",
+    "user_id": "bb29c159-0591-4bd8-83b2-f12efda222c3",
+    "amount": 3043.54,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Michele",
+    "timestamp": "2026-05-22T22:21:57.379214"
+  },
+  {
+    "transaction_id": "908533e0-2c3b-4f18-9ada-7266709d1102",
+    "user_id": "124fb204-8886-491d-a195-9a7c57ab902d",
+    "amount": 4320.86,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Ashleyland",
+    "timestamp": "2026-05-22T22:21:57.882195"
+  },
+  {
+    "transaction_id": "662ff243-49fa-4544-a184-78336bb3c645",
+    "user_id": "f8263d0a-e32d-42c2-a419-5b7e99008bd9",
+    "amount": 4910.43,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Kerrfurt",
+    "timestamp": "2026-05-22T22:21:58.384737"
+  },
+  {
+    "transaction_id": "0b8a2192-3a67-4abe-918d-33636fff5fc7",
+    "user_id": "d4db5290-5abc-411f-b54f-f805d132f84e",
+    "amount": 1292.16,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lisaton",
+    "timestamp": "2026-05-22T22:21:58.888617"
+  }
+]

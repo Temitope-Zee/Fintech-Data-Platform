@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "747cf518-132b-4b63-94f6-772cc2de8374",
+    "user_id": "e312122e-b596-4834-9638-07d8cdec08dd",
+    "amount": 7766.62,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Parkerview",
+    "timestamp": "2026-05-22T22:16:14.473794"
+  },
+  {
+    "transaction_id": "2ff455ef-46d9-4f47-8aee-fe1de23a0ecb",
+    "user_id": "0c7585ce-4b3a-4155-ac1b-2785434632e0",
+    "amount": 29.13,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Cynthiamouth",
+    "timestamp": "2026-05-22T22:16:14.975993"
+  },
+  {
+    "transaction_id": "7709a673-437c-4150-bd72-c41e24e15371",
+    "user_id": "2b0fe7d7-91e0-4fa4-bbbb-d430521f7222",
+    "amount": 7874.26,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Arieltown",
+    "timestamp": "2026-05-22T22:16:15.477532"
+  },
+  {
+    "transaction_id": "1d1aae7e-1695-4c06-b063-244da1c8cffc",
+    "user_id": "0f167157-0450-458e-92b8-b1c5c9983019",
+    "amount": 3506.04,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Kathyport",
+    "timestamp": "2026-05-22T22:16:16.481205"
+  },
+  {
+    "transaction_id": "b49fdfe6-589a-492c-b698-2712c4405088",
+    "user_id": "33c196f1-6d03-48b1-9764-68961b24455c",
+    "amount": 5376.48,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Jesse",
+    "timestamp": "2026-05-22T22:16:16.982836"
+  },
+  {
+    "transaction_id": "5e731b82-8d61-473e-b410-552b10143b4a",
+    "user_id": "658f16f6-1d7b-4a50-952c-4c81e2abd833",
+    "amount": 6895.91,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Robert",
+    "timestamp": "2026-05-22T22:16:17.484292"
+  },
+  {
+    "transaction_id": "843f0c7c-9c45-455f-a245-6a31a2e55f17",
+    "user_id": "ed7c7a11-9eed-43bd-a5ee-548987aa3e6a",
+    "amount": 1442.38,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Scottstad",
+    "timestamp": "2026-05-22T22:16:18.489207"
+  },
+  {
+    "transaction_id": "79287d8a-00fd-46f2-9090-67cef1b2a142",
+    "user_id": "f4edf555-5587-4f7a-bb55-c7d8285dc492",
+    "amount": 6349.73,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Dunnfort",
+    "timestamp": "2026-05-22T22:16:18.991313"
+  },
+  {
+    "transaction_id": "98ae29b3-2918-4472-b961-bcca9484176c",
+    "user_id": "073309f1-b121-453c-bb75-bd877e196ab4",
+    "amount": 5831.74,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Ericfort",
+    "timestamp": "2026-05-22T22:16:20.496040"
+  },
+  {
+    "transaction_id": "a4c5c72d-6212-47b3-a64c-8e0021696275",
+    "user_id": "4e407af1-9e73-45f6-9b2f-ef1cde0be259",
+    "amount": 8563.81,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Knappbury",
+    "timestamp": "2026-05-22T22:16:20.997601"
+  }
+]

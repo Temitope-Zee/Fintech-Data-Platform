@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f66475b1-4260-4399-aeac-dad4ef59543b",
+    "user_id": "04f4ca48-fdb0-47b7-a71c-fe7e56d73c5c",
+    "amount": 2840.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Graytown",
+    "timestamp": "2026-05-22T22:46:46.105375"
+  },
+  {
+    "transaction_id": "fc5908ee-c667-485d-888c-e2cb9ef5d187",
+    "user_id": "bb7097a7-bff1-4b77-ab00-0a7aef8fe7a8",
+    "amount": 5493.93,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Richardsonborough",
+    "timestamp": "2026-05-22T22:46:46.607770"
+  },
+  {
+    "transaction_id": "51529fe8-eb19-4f35-bc8b-3233f66a1fde",
+    "user_id": "6b4cb0a1-397b-437b-8167-770ed1e574fa",
+    "amount": 5576.28,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Ronaldfort",
+    "timestamp": "2026-05-22T22:46:47.113184"
+  },
+  {
+    "transaction_id": "63184e5a-1a30-4c26-9e4c-295cedd31810",
+    "user_id": "55c1f6df-4777-46de-88ba-f364c6b463ab",
+    "amount": 5529.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Stephenstown",
+    "timestamp": "2026-05-22T22:46:47.616748"
+  },
+  {
+    "transaction_id": "039008f9-20b1-461c-9303-32149f402dfb",
+    "user_id": "ca0f259c-c27f-4bd0-a0da-9626b22af10b",
+    "amount": 786.4,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Adamborough",
+    "timestamp": "2026-05-22T22:46:48.622066"
+  },
+  {
+    "transaction_id": "0d5f8332-9ec9-46cb-8521-dfed408c228c",
+    "user_id": "602f1cf3-c582-4ba5-b54f-efed28e3d0e2",
+    "amount": 2377.09,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Barryhaven",
+    "timestamp": "2026-05-22T22:46:49.124744"
+  },
+  {
+    "transaction_id": "1ad2c49a-7306-4430-b4e2-2402e772531a",
+    "user_id": "ba9398aa-0239-4f90-a5e9-4881bb43a89a",
+    "amount": 8736.42,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Amandamouth",
+    "timestamp": "2026-05-22T22:46:49.627609"
+  },
+  {
+    "transaction_id": "847700d2-2d03-47fc-8960-2239e834b933",
+    "user_id": "51bbe95b-bbbc-45a9-b88f-11990e4faee3",
+    "amount": 8932.37,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Tarastad",
+    "timestamp": "2026-05-22T22:46:50.128980"
+  },
+  {
+    "transaction_id": "7cc082ff-8e25-4f91-a556-3899bdf89578",
+    "user_id": "3d54b80a-7004-4683-9633-b7a641100b36",
+    "amount": 8675.76,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Derektown",
+    "timestamp": "2026-05-22T22:46:50.630339"
+  },
+  {
+    "transaction_id": "84ed9d5e-1bda-4432-a547-3dd4b14a369e",
+    "user_id": "89074323-dd5d-483f-94c4-84d52407f0e4",
+    "amount": 4680.51,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Lawrenceside",
+    "timestamp": "2026-05-22T22:46:51.132065"
+  }
+]

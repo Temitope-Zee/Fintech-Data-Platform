@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "26a25fdc-7add-4321-8fb3-512ee579e151",
+    "user_id": "71d192b5-2835-4152-9521-7b7aad98bbd6",
+    "amount": 8538.52,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Marthaville",
+    "timestamp": "2026-05-22T22:57:50.813346"
+  },
+  {
+    "transaction_id": "ce8e2ae6-2f48-456d-9ece-37af6c4bd33a",
+    "user_id": "99d576b1-5019-4731-9a21-cf5ba7d0e523",
+    "amount": 4770.66,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Barkerfurt",
+    "timestamp": "2026-05-22T22:57:51.314708"
+  },
+  {
+    "transaction_id": "7da6bec5-f4f1-4f6a-bef6-696190189e90",
+    "user_id": "62773b85-617b-4c1d-887b-d6744f2ee5d2",
+    "amount": 5094.28,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Timothytown",
+    "timestamp": "2026-05-22T22:57:51.816080"
+  },
+  {
+    "transaction_id": "a3e67367-5065-4ee9-a9ca-2bc5b28ab14c",
+    "user_id": "d7ef6eb8-1389-45ba-b234-d418c419d5a8",
+    "amount": 4796.27,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Debra",
+    "timestamp": "2026-05-22T22:57:52.820306"
+  },
+  {
+    "transaction_id": "cab34dcb-2d41-4ab4-a9ea-27bc7488b138",
+    "user_id": "ed598a40-3a68-44d8-85d1-19aeffb15fd3",
+    "amount": 3931.82,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Michelleberg",
+    "timestamp": "2026-05-22T22:57:53.322465"
+  },
+  {
+    "transaction_id": "3197de43-c7a6-4bc1-9881-5df06c8d8372",
+    "user_id": "0e0aaf1c-6c28-4be8-987a-f19761fd9bd0",
+    "amount": 3492.56,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Wendy",
+    "timestamp": "2026-05-22T22:57:53.823560"
+  },
+  {
+    "transaction_id": "6645b9d7-db46-42ce-aa9d-76965eb75c48",
+    "user_id": "7ee40f7e-ace9-4d52-a4de-3541d54117fe",
+    "amount": 31.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Margaretburgh",
+    "timestamp": "2026-05-22T22:57:54.826411"
+  },
+  {
+    "transaction_id": "3073ce3c-d743-4542-b7e2-6fd4702e0e18",
+    "user_id": "0978daf5-07c7-4d38-8773-9d4cda5f8ccd",
+    "amount": 9241.44,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Patriciaville",
+    "timestamp": "2026-05-22T22:57:55.328441"
+  },
+  {
+    "transaction_id": "9fdd294a-829b-48f5-bb20-0655d2e37765",
+    "user_id": "e77dc919-c2d3-4f34-a256-99903d5b1401",
+    "amount": 1306.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Castroville",
+    "timestamp": "2026-05-22T22:57:55.830967"
+  },
+  {
+    "transaction_id": "95233aa3-a160-4dd4-9140-e61f04a1b6d0",
+    "user_id": "ee6ff269-0c72-456b-b85f-2e85cc3e20c8",
+    "amount": 8151.02,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Simsmouth",
+    "timestamp": "2026-05-22T22:57:56.333506"
+  }
+]

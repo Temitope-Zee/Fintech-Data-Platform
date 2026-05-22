@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2981a8c3-2270-439f-b34c-bea3e535e3c5",
+    "user_id": "70446925-bad6-4152-bfb5-ee97376a5348",
+    "amount": 6567.13,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Daniel",
+    "timestamp": "2026-05-22T22:06:10.087335"
+  },
+  {
+    "transaction_id": "374eb813-4e31-4ceb-9b77-d046c62bdde9",
+    "user_id": "aa734764-3b27-427c-90aa-1b096387545d",
+    "amount": 4697.42,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Julietown",
+    "timestamp": "2026-05-22T22:06:11.086911"
+  },
+  {
+    "transaction_id": "ca3aba7c-e442-40a2-a5fd-41f24e16cde7",
+    "user_id": "eb27bf93-45b2-447e-9efc-51c08359b33d",
+    "amount": 2953.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lawrenceburgh",
+    "timestamp": "2026-05-22T22:06:11.588363"
+  },
+  {
+    "transaction_id": "8a8cc446-159e-4df8-8f1b-15df2561707b",
+    "user_id": "c082c389-a43d-4711-b987-f53034bf6376",
+    "amount": 1356.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Amyberg",
+    "timestamp": "2026-05-22T22:06:12.090800"
+  },
+  {
+    "transaction_id": "6edf1f61-5f06-4287-a663-e6057d24850e",
+    "user_id": "f2ec4195-1c54-44b9-8927-850d2e2b35cb",
+    "amount": 2633.38,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Fergusonchester",
+    "timestamp": "2026-05-22T22:06:13.094646"
+  },
+  {
+    "transaction_id": "524e0387-5cc7-4575-b8e1-0ed8d459542f",
+    "user_id": "cdc92838-ec58-4d05-8fa5-4685a85a8205",
+    "amount": 6059.03,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Jody",
+    "timestamp": "2026-05-22T22:06:13.596062"
+  },
+  {
+    "transaction_id": "9046bd8f-f962-4d62-88a4-2babc511d949",
+    "user_id": "a57f2ab0-f5bc-4f86-9b23-6cfd71c56e71",
+    "amount": 9713.66,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Ashley",
+    "timestamp": "2026-05-22T22:06:14.097228"
+  },
+  {
+    "transaction_id": "eef63dfb-817c-4a89-b6f0-e8442d0bdace",
+    "user_id": "50affc6c-d1bd-4276-b2fe-2c2401120e49",
+    "amount": 3934.03,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Rickyside",
+    "timestamp": "2026-05-22T22:06:14.598436"
+  },
+  {
+    "transaction_id": "f5189902-75bc-4f77-9848-bd063de14919",
+    "user_id": "869e7021-e027-4b6f-bca3-717c4d798e05",
+    "amount": 5618.78,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Jessicaside",
+    "timestamp": "2026-05-22T22:06:15.099817"
+  },
+  {
+    "transaction_id": "35610066-a747-425e-b956-ae5e1f4daf2e",
+    "user_id": "7ac9ead4-9bf2-496b-8ba5-993792a97375",
+    "amount": 6181.34,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Michaelland",
+    "timestamp": "2026-05-22T22:06:16.104414"
+  }
+]

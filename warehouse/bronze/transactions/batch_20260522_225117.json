@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6c43905d-39c1-4ab0-bb62-1d8c34ce1ec4",
+    "user_id": "ff812800-a20a-4988-b927-a91b71030226",
+    "amount": 1849.81,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Allen",
+    "timestamp": "2026-05-22T22:51:12.208320"
+  },
+  {
+    "transaction_id": "54757f42-f842-40c0-ba47-cdb32324fb95",
+    "user_id": "ff71538a-2803-45fd-83ea-058d0a3f8fe7",
+    "amount": 1474.98,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Hallbury",
+    "timestamp": "2026-05-22T22:51:12.710950"
+  },
+  {
+    "transaction_id": "5bec1d05-0b67-493b-9255-667d5425497a",
+    "user_id": "20b4e80d-59ab-47e0-97c3-991f3d763d42",
+    "amount": 6830.81,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Luisburgh",
+    "timestamp": "2026-05-22T22:51:13.212072"
+  },
+  {
+    "transaction_id": "50ad6ec7-6e79-4585-af6d-d0915e9572ee",
+    "user_id": "095f28e4-43f3-4cd3-b783-eb75ce553387",
+    "amount": 7006.12,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Josephmouth",
+    "timestamp": "2026-05-22T22:51:13.714556"
+  },
+  {
+    "transaction_id": "4c017257-f18d-4bad-bcef-80ff6d8e6d94",
+    "user_id": "44754c98-737a-44ef-b2b8-f10ecb539023",
+    "amount": 757.72,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Patriciachester",
+    "timestamp": "2026-05-22T22:51:14.217267"
+  },
+  {
+    "transaction_id": "1f1ec1f3-76ab-485b-8d84-c5523e6e5bb9",
+    "user_id": "48104fc2-6f28-4fef-ba19-e1ae694d4149",
+    "amount": 2393.53,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Rickyland",
+    "timestamp": "2026-05-22T22:51:14.720269"
+  },
+  {
+    "transaction_id": "5aa545e7-e03e-4449-b519-76759e26c49f",
+    "user_id": "7e1ec526-f3ad-4599-951e-1974cc493093",
+    "amount": 8933.49,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Andrewfurt",
+    "timestamp": "2026-05-22T22:51:15.724961"
+  },
+  {
+    "transaction_id": "343d9901-e8f9-4d5f-a0c7-e81b924362bd",
+    "user_id": "19d2e98a-a03d-4490-a686-0c2efcdefc25",
+    "amount": 2110.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lawrenceberg",
+    "timestamp": "2026-05-22T22:51:16.226510"
+  },
+  {
+    "transaction_id": "e05d2339-91bc-4199-befd-faff96e996c7",
+    "user_id": "ef063a89-689d-43ac-a916-460ae927424f",
+    "amount": 8009.55,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bullockberg",
+    "timestamp": "2026-05-22T22:51:16.728072"
+  },
+  {
+    "transaction_id": "b5087046-3969-41a6-b743-a5ecb3ca301e",
+    "user_id": "a53e3e23-b85e-4967-bada-34a677db6ea5",
+    "amount": 5528.41,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Aliciaport",
+    "timestamp": "2026-05-22T22:51:17.229837"
+  }
+]

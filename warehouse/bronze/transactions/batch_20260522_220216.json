@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ca5e91b6-3929-4858-a06a-12b707428ddb",
+    "user_id": "715cea25-aed4-4d56-89fb-4fa3194c51af",
+    "amount": 4482.92,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Aguilarville",
+    "timestamp": "2026-05-22T22:02:11.078681"
+  },
+  {
+    "transaction_id": "450196bb-50a4-43db-a371-b773525950b5",
+    "user_id": "246bad3a-1175-4ffa-99d1-e4d773f80b71",
+    "amount": 4556.2,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Amanda",
+    "timestamp": "2026-05-22T22:02:11.581143"
+  },
+  {
+    "transaction_id": "62a44725-5df0-4530-8cbb-31387b0a37db",
+    "user_id": "cfea603f-5269-4e7b-910f-21442919aa6f",
+    "amount": 2214.8,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Traceyview",
+    "timestamp": "2026-05-22T22:02:12.083093"
+  },
+  {
+    "transaction_id": "2afb366f-658b-41d6-b6e5-795db46157bc",
+    "user_id": "45f190d6-c5ca-4d97-a08b-e12f69326c83",
+    "amount": 8266.05,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Weaverchester",
+    "timestamp": "2026-05-22T22:02:12.584963"
+  },
+  {
+    "transaction_id": "7c5bd70c-d06f-4b77-933c-4c2b1aa8ffab",
+    "user_id": "e1cd01ab-3ac0-4d95-884f-6885c5952436",
+    "amount": 9180.56,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Aliciahaven",
+    "timestamp": "2026-05-22T22:02:13.086745"
+  },
+  {
+    "transaction_id": "9d50df80-134e-4c71-af06-6f13f090664a",
+    "user_id": "e4702124-0cd4-450b-a9c7-cff562a90a51",
+    "amount": 2487.45,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Briannaville",
+    "timestamp": "2026-05-22T22:02:13.589826"
+  },
+  {
+    "transaction_id": "67e3fafe-59e3-462d-876f-3f217c8cad87",
+    "user_id": "f00ca7f6-854e-43fb-941a-a03a404a349c",
+    "amount": 1314.67,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Bradshawtown",
+    "timestamp": "2026-05-22T22:02:14.091731"
+  },
+  {
+    "transaction_id": "28959272-a779-442b-b819-1f8f280c587d",
+    "user_id": "1dd12867-4b22-4c57-a179-7437b4d6b011",
+    "amount": 692.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Ericton",
+    "timestamp": "2026-05-22T22:02:14.593214"
+  },
+  {
+    "transaction_id": "7c22bb44-09c1-47d4-b8f9-dd8d769e7ca7",
+    "user_id": "17a6aec5-68a9-4a9c-a7f8-da9297e8f271",
+    "amount": 2017.96,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Cruzville",
+    "timestamp": "2026-05-22T22:02:15.096041"
+  },
+  {
+    "transaction_id": "a8365578-c6a6-4917-9f57-2df3bbc419ad",
+    "user_id": "8097b481-267b-47b7-8eda-65e47095f766",
+    "amount": 1469.52,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Bryanland",
+    "timestamp": "2026-05-22T22:02:16.603615"
+  }
+]

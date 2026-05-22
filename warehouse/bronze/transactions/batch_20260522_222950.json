@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "06935074-4c9b-4c96-83c7-994ebf94e324",
+    "user_id": "61a29b67-d0e8-41b9-9eb6-bcbb49fae7a5",
+    "amount": 595.77,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Barrettberg",
+    "timestamp": "2026-05-22T22:29:45.292757"
+  },
+  {
+    "transaction_id": "bd437a7c-9a60-4bad-80b5-01701e9d7296",
+    "user_id": "4f2dbeee-8a99-41cc-9871-7583c0b40e33",
+    "amount": 7399.49,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Kevinside",
+    "timestamp": "2026-05-22T22:29:45.794354"
+  },
+  {
+    "transaction_id": "783800d6-a3c9-4e5c-88c3-b93f36a2a65d",
+    "user_id": "a19067a5-f9b4-41af-8b95-694d8961c9c6",
+    "amount": 7094.74,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jennifershire",
+    "timestamp": "2026-05-22T22:29:46.297364"
+  },
+  {
+    "transaction_id": "44ffae88-b227-4faa-8785-aa83d8e2f027",
+    "user_id": "f9267ee6-1cd7-44e9-b5b7-bbd2c03dae86",
+    "amount": 1096.0,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Mitchellbury",
+    "timestamp": "2026-05-22T22:29:46.798975"
+  },
+  {
+    "transaction_id": "ae183fed-c27a-4c4f-818f-ea760f9b022b",
+    "user_id": "767ad034-f954-479c-bdd8-dfca264bfe76",
+    "amount": 1308.11,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Loriport",
+    "timestamp": "2026-05-22T22:29:48.305788"
+  },
+  {
+    "transaction_id": "04d4b775-bfd0-4fb4-b8c8-7bf28dadb36f",
+    "user_id": "c7ddb6cb-ddcb-4994-b732-b9f43e135d82",
+    "amount": 8635.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Marshallbury",
+    "timestamp": "2026-05-22T22:29:48.809419"
+  },
+  {
+    "transaction_id": "1eba6715-3604-44da-bab3-34a67d7f52e5",
+    "user_id": "08b4e85b-fab5-4969-9534-04d5fdb53536",
+    "amount": 8030.03,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Jasminefort",
+    "timestamp": "2026-05-22T22:29:49.311786"
+  },
+  {
+    "transaction_id": "1b607b34-0a1c-4bcd-9fa8-629eb3b8be5f",
+    "user_id": "53f6b583-c63a-4d08-b78d-016cea8f3163",
+    "amount": 3206.13,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Charlesfort",
+    "timestamp": "2026-05-22T22:29:49.814147"
+  },
+  {
+    "transaction_id": "cbcdaaba-065a-43a1-aee0-103590fab375",
+    "user_id": "cb4aac5a-4a22-431e-bbd1-5c83f53a6837",
+    "amount": 7141.88,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Sophia",
+    "timestamp": "2026-05-22T22:29:50.316378"
+  },
+  {
+    "transaction_id": "e700f9c3-0084-4062-b132-b9bb038083ba",
+    "user_id": "a0695ea9-ab2f-4682-9cf8-313daea4582e",
+    "amount": 1150.35,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Carrieberg",
+    "timestamp": "2026-05-22T22:29:50.819340"
+  }
+]

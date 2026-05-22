@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c14a2678-8dc6-4c07-b696-cf57ad259aa2",
+    "user_id": "65e653c4-f569-4095-9fa6-02cf9a515f34",
+    "amount": 8322.13,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Matthew",
+    "timestamp": "2026-05-22T22:03:32.428744"
+  },
+  {
+    "transaction_id": "efc81a93-5280-43ce-984f-bfcf743a4383",
+    "user_id": "bc0c1cdd-4156-4cb2-955c-8daca739a1af",
+    "amount": 4215.87,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Lisaview",
+    "timestamp": "2026-05-22T22:03:32.930408"
+  },
+  {
+    "transaction_id": "853646be-b6c7-433c-b09b-193d9fc5b190",
+    "user_id": "f647578b-7715-4ffd-8c3c-6c5f40380efa",
+    "amount": 6220.23,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jorgemouth",
+    "timestamp": "2026-05-22T22:03:33.933825"
+  },
+  {
+    "transaction_id": "635c0ef2-104b-4426-9e0b-85d51bc8b4d0",
+    "user_id": "2936cf46-7668-48c4-a807-990f059da25a",
+    "amount": 1885.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Christopherton",
+    "timestamp": "2026-05-22T22:03:34.436373"
+  },
+  {
+    "transaction_id": "f856ffa9-0407-414b-b79d-c8680bc398a9",
+    "user_id": "95f10035-680e-4b97-adc0-33750c3ca92a",
+    "amount": 7031.42,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Jennifermouth",
+    "timestamp": "2026-05-22T22:03:34.938969"
+  },
+  {
+    "transaction_id": "ab04427f-31e0-46b8-b204-ba083df56882",
+    "user_id": "3f57c838-db38-48b6-9540-9f0f3afa2d57",
+    "amount": 5029.69,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Randy",
+    "timestamp": "2026-05-22T22:03:35.941564"
+  },
+  {
+    "transaction_id": "08177a4a-36de-485b-8258-6fc6f7cd2241",
+    "user_id": "9435189c-eaf5-4535-a581-fdfeccdfc00f",
+    "amount": 5228.86,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Stephenland",
+    "timestamp": "2026-05-22T22:03:36.442611"
+  },
+  {
+    "transaction_id": "82e64023-0eb3-4ba7-a16e-8dfd192a98f5",
+    "user_id": "30197459-9d86-4858-a459-5f18991c65bb",
+    "amount": 1048.55,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Carol",
+    "timestamp": "2026-05-22T22:03:36.943763"
+  },
+  {
+    "transaction_id": "2b30b3f5-f0ae-43c0-87f4-a402d6d46ecc",
+    "user_id": "bb30f6d1-5614-4df2-b525-557a39de6487",
+    "amount": 8845.78,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Snyderburgh",
+    "timestamp": "2026-05-22T22:03:37.446348"
+  },
+  {
+    "transaction_id": "6c6a6d8d-0f05-4250-905d-bb60feed5a89",
+    "user_id": "c835b112-66f5-4936-8d55-59fa45848055",
+    "amount": 3636.52,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lesliebury",
+    "timestamp": "2026-05-22T22:03:37.947725"
+  }
+]

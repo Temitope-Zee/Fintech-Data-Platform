@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4950e5f4-fd3a-4920-a9d6-be28ebafa36b",
+    "user_id": "f8a707cf-7e65-41dc-b347-cd7d00c05aeb",
+    "amount": 1027.86,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Cassandraton",
+    "timestamp": "2026-05-22T22:03:07.314706"
+  },
+  {
+    "transaction_id": "ebbcc40d-c24c-4c4d-a13a-352fe66e17a8",
+    "user_id": "8a9464bf-3482-42b1-a5ec-e39a2ffed16d",
+    "amount": 6512.12,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Noahfurt",
+    "timestamp": "2026-05-22T22:03:07.816183"
+  },
+  {
+    "transaction_id": "f2744569-9150-4844-b0df-7aeac3eff6cc",
+    "user_id": "e9a148f1-fa42-487b-8485-08c65e9db77e",
+    "amount": 228.03,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Smithmouth",
+    "timestamp": "2026-05-22T22:03:09.322197"
+  },
+  {
+    "transaction_id": "d7bf0610-5fa5-4ebd-9083-3d363c7b6248",
+    "user_id": "dc7949b7-b7ec-45dc-9727-18735454a539",
+    "amount": 7588.54,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Heathtown",
+    "timestamp": "2026-05-22T22:03:09.823823"
+  },
+  {
+    "transaction_id": "b8bd664e-4c96-4b66-89f8-36fabe047b6e",
+    "user_id": "7f06e2ab-6c1e-46ee-a73d-2d93434718b7",
+    "amount": 6235.73,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Robert",
+    "timestamp": "2026-05-22T22:03:10.322608"
+  },
+  {
+    "transaction_id": "d955853b-8762-4006-8e6c-3ef64183c8a2",
+    "user_id": "b66a8e8d-0b39-4a98-bc60-ab3a335653a9",
+    "amount": 7516.09,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Victoria",
+    "timestamp": "2026-05-22T22:03:10.824538"
+  },
+  {
+    "transaction_id": "99e9aafe-fa6c-4011-a7d2-264a825b9001",
+    "user_id": "f70a4749-fc1b-47ff-95a3-44954407bb21",
+    "amount": 3685.38,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Garciaborough",
+    "timestamp": "2026-05-22T22:03:11.326216"
+  },
+  {
+    "transaction_id": "28296fb5-c369-49c6-935e-8a9d91348c08",
+    "user_id": "9741ebc6-41ec-4164-8070-0ba7e259a788",
+    "amount": 4651.17,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jefferyshire",
+    "timestamp": "2026-05-22T22:03:12.330032"
+  },
+  {
+    "transaction_id": "cf8a2eb0-3470-4f84-ba80-dd25520c65ff",
+    "user_id": "1b388e17-c39d-40e8-9375-d454cc774ed1",
+    "amount": 5930.22,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Chad",
+    "timestamp": "2026-05-22T22:03:12.831348"
+  },
+  {
+    "transaction_id": "a5d7e782-f9b3-435d-b7b2-1535ac13ae0f",
+    "user_id": "6f874f02-88e9-4ac7-8ade-e2b60e1d1203",
+    "amount": 530.54,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Jesseville",
+    "timestamp": "2026-05-22T22:03:13.333010"
+  }
+]

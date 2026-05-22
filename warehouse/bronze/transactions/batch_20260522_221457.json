@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "989420fb-7f28-485b-9c84-4d2343caa5b9",
+    "user_id": "1a266857-9aca-4f1d-bf51-5ab08cbc4343",
+    "amount": 1213.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Derrickfurt",
+    "timestamp": "2026-05-22T22:14:51.637990"
+  },
+  {
+    "transaction_id": "1a84aa71-a7ed-46a5-92fa-bec6b20b7745",
+    "user_id": "2afaa77b-b48b-4acc-b5a6-23b7a141e571",
+    "amount": 3073.39,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Jennifer",
+    "timestamp": "2026-05-22T22:14:52.139697"
+  },
+  {
+    "transaction_id": "b2d5b64b-593e-421f-b56d-8cf1d4e53ecb",
+    "user_id": "a07cd74e-f0d6-475c-bfd8-17c8703ab574",
+    "amount": 1370.47,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Millershire",
+    "timestamp": "2026-05-22T22:14:53.144663"
+  },
+  {
+    "transaction_id": "77cea826-9bdc-4ffb-8cbd-9979282c194b",
+    "user_id": "f716835e-3158-46b6-93a3-fff32d6a2471",
+    "amount": 1331.66,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Barkerchester",
+    "timestamp": "2026-05-22T22:14:53.646470"
+  },
+  {
+    "transaction_id": "ffa04b58-eff1-43cd-8d4d-18e0a9473447",
+    "user_id": "584a4a7d-1243-4243-9b38-5f9ef18889aa",
+    "amount": 144.74,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Glennton",
+    "timestamp": "2026-05-22T22:14:54.149392"
+  },
+  {
+    "transaction_id": "d3cec92a-7cc9-41ba-b02f-59e4c211fdd1",
+    "user_id": "f929d13f-59ae-4f21-82f8-fbe23d837669",
+    "amount": 9389.45,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Oscarfurt",
+    "timestamp": "2026-05-22T22:14:54.652132"
+  },
+  {
+    "transaction_id": "882fd02a-6d82-45f8-b104-78fdb3186329",
+    "user_id": "42c159f8-e8e1-4a7e-85ee-95cca6e57638",
+    "amount": 6706.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Jessicashire",
+    "timestamp": "2026-05-22T22:14:55.154116"
+  },
+  {
+    "transaction_id": "53388bbf-6048-4fdf-a5c1-c7f07b11fab1",
+    "user_id": "098e3830-feda-4216-9a82-dd5ead2110a7",
+    "amount": 1561.38,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Adamburgh",
+    "timestamp": "2026-05-22T22:14:55.656060"
+  },
+  {
+    "transaction_id": "11dbf525-397b-47e1-b78b-4b74fabd0538",
+    "user_id": "e06394bf-a215-461b-8aae-4f30842acc2a",
+    "amount": 8904.48,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Ricardo",
+    "timestamp": "2026-05-22T22:14:56.157974"
+  },
+  {
+    "transaction_id": "23c3fb41-c25c-4210-a3c6-8b8073f856cb",
+    "user_id": "66bcb6cf-e824-452e-8026-b23eff567a88",
+    "amount": 1217.56,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lauraborough",
+    "timestamp": "2026-05-22T22:14:57.161189"
+  }
+]

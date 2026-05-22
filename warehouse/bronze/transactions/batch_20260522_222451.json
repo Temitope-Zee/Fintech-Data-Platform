@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "999cba56-b5a3-4ceb-91c3-114774fd267e",
+    "user_id": "ae1559a6-1667-4cf2-ae98-586ba3257b63",
+    "amount": 1414.1,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Robertview",
+    "timestamp": "2026-05-22T22:24:45.090635"
+  },
+  {
+    "transaction_id": "fdf6fb79-d478-4018-adfc-dba95d39cebd",
+    "user_id": "165dd1ef-1196-4017-92bf-238b93878fbd",
+    "amount": 79.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Huntertown",
+    "timestamp": "2026-05-22T22:24:45.593760"
+  },
+  {
+    "transaction_id": "e816310c-bdf5-4ffe-ab9d-5ffd60d04d79",
+    "user_id": "203c5f4a-e578-440b-8197-1a555827506b",
+    "amount": 5329.54,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jacquelineland",
+    "timestamp": "2026-05-22T22:24:46.096541"
+  },
+  {
+    "transaction_id": "046598d0-2d8b-4ed3-972d-eb4d59efdd63",
+    "user_id": "ed0b3b99-b0b7-43a5-bc92-9793c8fafd9f",
+    "amount": 4457.46,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Tiffanyview",
+    "timestamp": "2026-05-22T22:24:46.598058"
+  },
+  {
+    "transaction_id": "3521f97d-bfcd-4a14-859f-fb5b22c466cc",
+    "user_id": "318930f7-319e-4697-8fc2-c3c09fdfe079",
+    "amount": 1216.21,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Ashleyborough",
+    "timestamp": "2026-05-22T22:24:47.099666"
+  },
+  {
+    "transaction_id": "fa6ff378-bb6e-4a5e-b6b2-81bf9a610839",
+    "user_id": "9cc388e5-e2a2-47e3-82f0-156e9192abac",
+    "amount": 3487.24,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Gordon",
+    "timestamp": "2026-05-22T22:24:47.601699"
+  },
+  {
+    "transaction_id": "132b91f6-9480-4239-b1f6-b2896524b64a",
+    "user_id": "0f934f79-fb47-4f90-ad59-7f328b2ff172",
+    "amount": 1812.47,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Griffithshire",
+    "timestamp": "2026-05-22T22:24:48.103702"
+  },
+  {
+    "transaction_id": "202a1218-15a8-4a67-8e37-584a55208892",
+    "user_id": "48d70dce-2e0b-45db-933d-429e64e22968",
+    "amount": 5430.3,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Tina",
+    "timestamp": "2026-05-22T22:24:48.605223"
+  },
+  {
+    "transaction_id": "30f6e74e-bfa5-4bc3-836f-761aca0e0795",
+    "user_id": "be352598-4b31-48e3-8299-64c6c5db8e16",
+    "amount": 5614.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Kimberly",
+    "timestamp": "2026-05-22T22:24:50.109465"
+  },
+  {
+    "transaction_id": "7001b484-ed5a-4d40-937d-69393a5ae9a7",
+    "user_id": "b2af4e59-9ad7-4466-be1b-7749cb1370ce",
+    "amount": 9943.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Robertston",
+    "timestamp": "2026-05-22T22:24:51.114043"
+  }
+]

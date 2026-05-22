@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cfc8a751-9c91-4e9d-8a41-90f92c251553",
+    "user_id": "91312341-c2b9-4f71-b2c6-12e7e1bad891",
+    "amount": 8130.34,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Paulamouth",
+    "timestamp": "2026-05-22T21:48:14.193441"
+  },
+  {
+    "transaction_id": "8fc5ebb2-3833-42f6-898e-4f275b4f15bf",
+    "user_id": "c921edc8-73b7-4cdf-9789-9b95c3b2c2a8",
+    "amount": 3200.28,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Raymondberg",
+    "timestamp": "2026-05-22T21:48:14.696068"
+  },
+  {
+    "transaction_id": "a18f9fe3-7647-47c5-8f41-3dd30f604c29",
+    "user_id": "1db06423-aee4-4e90-a908-8c9c9d44faba",
+    "amount": 267.05,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Smithview",
+    "timestamp": "2026-05-22T21:48:15.198037"
+  },
+  {
+    "transaction_id": "f474d72b-aa7a-43c5-8407-5399fa0b27bf",
+    "user_id": "e620e454-31f9-409c-b6a0-cae4cc49ec8b",
+    "amount": 5559.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Daniel",
+    "timestamp": "2026-05-22T21:48:15.699865"
+  },
+  {
+    "transaction_id": "b08322d0-8460-47b5-8d98-c6a2f309adc7",
+    "user_id": "af910e2c-1b16-4864-9238-1941e127e4dd",
+    "amount": 3621.03,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Meganhaven",
+    "timestamp": "2026-05-22T21:48:16.201349"
+  },
+  {
+    "transaction_id": "cfc53850-fdb9-40b8-98bd-103bf20b81f3",
+    "user_id": "d6ae6383-54ee-4414-b72a-6c218ea30b53",
+    "amount": 2861.14,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jacquelineshire",
+    "timestamp": "2026-05-22T21:48:16.703012"
+  },
+  {
+    "transaction_id": "01a16ec2-f4ae-4c13-be15-61df3fd39458",
+    "user_id": "64ded0b5-90cb-4590-aa7d-b71631354f82",
+    "amount": 6224.75,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Andresshire",
+    "timestamp": "2026-05-22T21:48:17.205872"
+  },
+  {
+    "transaction_id": "fc8232c7-c46c-42fe-a59a-acac1a5d5772",
+    "user_id": "07db0a38-52fb-4890-814d-e1d16926895c",
+    "amount": 5719.77,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Kim",
+    "timestamp": "2026-05-22T21:48:18.210795"
+  },
+  {
+    "transaction_id": "4920bd13-72e6-4301-b0f0-ae3bdf5f2202",
+    "user_id": "4a339627-e9de-41c9-8b81-73329bd06006",
+    "amount": 4851.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brianfurt",
+    "timestamp": "2026-05-22T21:48:18.713175"
+  },
+  {
+    "transaction_id": "93c5da12-05a7-48d1-bd71-7d57711cca51",
+    "user_id": "68e28db5-eda8-4c6d-96bb-c027a4ba7ae8",
+    "amount": 2558.71,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Brittanyport",
+    "timestamp": "2026-05-22T21:48:19.215259"
+  }
+]

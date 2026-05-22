@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5a860f8c-52d6-473b-a35f-c3c56c84cd5b",
+    "user_id": "0a826962-9db9-4a74-afcc-1f5aecfae997",
+    "amount": 9191.0,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Christopherhaven",
+    "timestamp": "2026-05-22T22:20:54.104066"
+  },
+  {
+    "transaction_id": "9abf9722-c1fa-41e7-9aee-ee829f03cd60",
+    "user_id": "f47cb7df-3ed5-43d5-bd52-5c8d66cc9154",
+    "amount": 1328.99,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Tammytown",
+    "timestamp": "2026-05-22T22:20:54.605543"
+  },
+  {
+    "transaction_id": "f23dc896-d76e-448a-a766-5d6dd08f02b5",
+    "user_id": "671acafd-7543-40c7-b4ad-81dcde8be632",
+    "amount": 5726.11,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Thomas",
+    "timestamp": "2026-05-22T22:20:55.107949"
+  },
+  {
+    "transaction_id": "6db62124-da8b-46e8-be37-d25642085a89",
+    "user_id": "9c8310b3-cbfb-4fb5-8898-40f806c88a20",
+    "amount": 4162.25,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Glennside",
+    "timestamp": "2026-05-22T22:20:56.110294"
+  },
+  {
+    "transaction_id": "22ea2a93-e561-40ce-8e26-af6abeddb6af",
+    "user_id": "c41ce845-11f9-40d2-8615-5b76f9ab7874",
+    "amount": 7455.03,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Russellhaven",
+    "timestamp": "2026-05-22T22:20:56.611882"
+  },
+  {
+    "transaction_id": "5dca70c1-9ac1-4b73-afca-695173b17030",
+    "user_id": "e8748c3a-8067-489b-b971-79915922bbd9",
+    "amount": 7223.36,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Amandaville",
+    "timestamp": "2026-05-22T22:20:57.114657"
+  },
+  {
+    "transaction_id": "c46718f2-aff9-4778-ac73-128367660a6a",
+    "user_id": "3b83939d-304f-4442-85e7-bc16f41c8568",
+    "amount": 7004.92,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Loriside",
+    "timestamp": "2026-05-22T22:20:57.617661"
+  },
+  {
+    "transaction_id": "5c93d4e7-205e-43fc-a952-5e2041cc7681",
+    "user_id": "c2764b6d-e2e0-4dab-9997-553d977e111c",
+    "amount": 6476.43,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Andrewfurt",
+    "timestamp": "2026-05-22T22:20:58.119717"
+  },
+  {
+    "transaction_id": "e7ec48e9-bfd0-48fa-a1b0-0b2b9cb36354",
+    "user_id": "47de74d2-6d91-432f-a48c-55adc0fb2237",
+    "amount": 9272.76,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Higginshaven",
+    "timestamp": "2026-05-22T22:20:59.123085"
+  },
+  {
+    "transaction_id": "e154b059-c0ae-44d2-a185-b722bdb7d926",
+    "user_id": "c5d20e4f-4bf2-4060-8b5b-4c4dca624034",
+    "amount": 703.05,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Bowmanville",
+    "timestamp": "2026-05-22T22:20:59.624673"
+  }
+]

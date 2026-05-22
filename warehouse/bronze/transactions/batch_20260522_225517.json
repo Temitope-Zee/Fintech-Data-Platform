@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2bda0c01-2edb-4567-a851-eac7a002bacf",
+    "user_id": "32d3b011-f1e2-4a79-ad46-96f006950ab4",
+    "amount": 3814.95,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Sheltonfurt",
+    "timestamp": "2026-05-22T22:55:11.175264"
+  },
+  {
+    "transaction_id": "f57e1b98-6e94-48ea-a5e1-11967fefa43e",
+    "user_id": "7978ebea-1f15-4188-8312-b028342532d8",
+    "amount": 9353.98,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lyonsville",
+    "timestamp": "2026-05-22T22:55:12.177936"
+  },
+  {
+    "transaction_id": "2e00c7b9-2725-41f3-bfbc-70625b08dc2b",
+    "user_id": "f0445d14-a54d-4746-84e3-5a0aacb6cd8a",
+    "amount": 6827.25,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Cynthiaborough",
+    "timestamp": "2026-05-22T22:55:13.182558"
+  },
+  {
+    "transaction_id": "bb08e4d7-48ce-4156-aa45-c34d42374ed1",
+    "user_id": "a2bce7e2-1a20-4629-ab59-4f91ec7cdaab",
+    "amount": 2042.67,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Brandi",
+    "timestamp": "2026-05-22T22:55:13.685425"
+  },
+  {
+    "transaction_id": "219c39c2-aff9-4e4e-a07d-5137395260ae",
+    "user_id": "a1af21ca-3d12-4c58-818c-35573047d080",
+    "amount": 886.01,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Angelaside",
+    "timestamp": "2026-05-22T22:55:14.188618"
+  },
+  {
+    "transaction_id": "111eece3-5399-460a-afa5-e358b922214a",
+    "user_id": "9400ab1e-49fd-4800-bdd4-fb397cfff348",
+    "amount": 2475.23,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Richardburgh",
+    "timestamp": "2026-05-22T22:55:14.690077"
+  },
+  {
+    "transaction_id": "9d153d76-1f5a-4bf4-ba5d-3847e7d5b40b",
+    "user_id": "8ffbfca5-4ebd-4cd8-b164-9ed2d9193882",
+    "amount": 321.78,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Michaelstad",
+    "timestamp": "2026-05-22T22:55:15.191992"
+  },
+  {
+    "transaction_id": "f22376f5-f13e-49bf-bf61-f7cdaa30350f",
+    "user_id": "6d61ecaa-a015-49ec-806a-b85e7d1440dc",
+    "amount": 5745.2,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Jamesstad",
+    "timestamp": "2026-05-22T22:55:15.693374"
+  },
+  {
+    "transaction_id": "0040b5d7-69fd-4192-ba44-71897cbe0de8",
+    "user_id": "4fb5ffec-53b8-409c-9dc3-9d08e2b402ff",
+    "amount": 374.13,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Aliciahaven",
+    "timestamp": "2026-05-22T22:55:16.697532"
+  },
+  {
+    "transaction_id": "2b90f9e4-c117-488a-9be6-80756ac61bdf",
+    "user_id": "ee289cfa-68a0-44cd-a774-6082545dd3b7",
+    "amount": 342.38,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Jenniferview",
+    "timestamp": "2026-05-22T22:55:17.199129"
+  }
+]

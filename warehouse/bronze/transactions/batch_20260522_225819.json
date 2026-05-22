@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "295e10cb-2381-4379-9d37-48f3c1b470ef",
+    "user_id": "59875b09-dea4-430c-81d5-fe468ef61808",
+    "amount": 4025.61,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Cindybury",
+    "timestamp": "2026-05-22T22:58:15.404032"
+  },
+  {
+    "transaction_id": "5be88c1d-1d37-4d01-b0fc-11db837a5bd4",
+    "user_id": "f53cc88e-0830-4b80-9c2d-6f5971f01594",
+    "amount": 2041.3,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Ryanton",
+    "timestamp": "2026-05-22T22:58:15.905648"
+  },
+  {
+    "transaction_id": "af2ff229-1fce-4a9e-97c3-fe72722744f9",
+    "user_id": "9491dde0-22a5-497e-93b4-b014a9219ac2",
+    "amount": 5891.05,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Johnhaven",
+    "timestamp": "2026-05-22T22:58:16.408558"
+  },
+  {
+    "transaction_id": "9641dc53-df01-4e27-9fad-0deac6554073",
+    "user_id": "1969565b-2435-42c5-bb83-0d66ecc49c69",
+    "amount": 8491.53,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bowersport",
+    "timestamp": "2026-05-22T22:58:16.911190"
+  },
+  {
+    "transaction_id": "40993b32-118a-4658-8f7c-67a2c1fd3b6f",
+    "user_id": "54e1ba4c-3976-4dbb-af8d-19c666bdf725",
+    "amount": 4157.78,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Justinfort",
+    "timestamp": "2026-05-22T22:58:17.414171"
+  },
+  {
+    "transaction_id": "e7ef9f4a-d325-4401-9526-724c7ba6aa39",
+    "user_id": "f86e77fa-dee0-41f4-94ec-cbc97fe8bbb3",
+    "amount": 7152.56,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Anna",
+    "timestamp": "2026-05-22T22:58:17.915403"
+  },
+  {
+    "transaction_id": "92215865-43e5-43cb-9d88-d53791b1cb92",
+    "user_id": "40817a2e-073a-43f5-afb3-3891f8c32986",
+    "amount": 9865.56,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Whitneymouth",
+    "timestamp": "2026-05-22T22:58:18.416570"
+  },
+  {
+    "transaction_id": "c2b99f25-c0e6-4be4-b6bf-25f4320130ce",
+    "user_id": "d3f64434-156a-46ce-b39e-a101aa1878af",
+    "amount": 6197.29,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Tylerhaven",
+    "timestamp": "2026-05-22T22:58:18.918907"
+  },
+  {
+    "transaction_id": "524f807e-e125-443f-9800-8478dd1f36b6",
+    "user_id": "92832151-b212-4b71-884d-2ff7d621bdde",
+    "amount": 8327.34,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Johnside",
+    "timestamp": "2026-05-22T22:58:19.420257"
+  },
+  {
+    "transaction_id": "e8456ce8-e22c-4c9a-8323-73dd05f4a75c",
+    "user_id": "5b620b9b-8932-4b0f-a73c-8e6fbfff6a03",
+    "amount": 302.85,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Williamview",
+    "timestamp": "2026-05-22T22:58:19.921475"
+  }
+]

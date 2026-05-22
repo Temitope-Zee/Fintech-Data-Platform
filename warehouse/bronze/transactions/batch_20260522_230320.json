@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8910cd0f-e7aa-4e2c-bb57-24ad01cbbc1a",
+    "user_id": "9caad2f9-96aa-4dff-9d88-9457def3b939",
+    "amount": 708.49,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Paulaville",
+    "timestamp": "2026-05-22T23:03:12.831406"
+  },
+  {
+    "transaction_id": "a37b00aa-8638-4ac7-b60d-9033552363c9",
+    "user_id": "7238297b-ed2a-4961-b74a-7170ff685fb7",
+    "amount": 2393.84,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Vincentbury",
+    "timestamp": "2026-05-22T23:03:13.835767"
+  },
+  {
+    "transaction_id": "a544bb26-5c34-41f9-9fb3-cabf352d8f3d",
+    "user_id": "fc91e115-6e99-4f0e-9f38-d2ad07599c38",
+    "amount": 4329.89,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Wendychester",
+    "timestamp": "2026-05-22T23:03:14.839736"
+  },
+  {
+    "transaction_id": "1594e6ac-82db-4552-b76a-38a59caf39b5",
+    "user_id": "5171edc8-f682-46e2-ae7b-08cbb4f38f4b",
+    "amount": 60.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Dustinbury",
+    "timestamp": "2026-05-22T23:03:15.842858"
+  },
+  {
+    "transaction_id": "87fc573c-cf17-41ed-89ae-ccc43f53eb2c",
+    "user_id": "20bab8b4-a262-429e-8f45-15bc19bc207e",
+    "amount": 470.06,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Sarah",
+    "timestamp": "2026-05-22T23:03:16.344410"
+  },
+  {
+    "transaction_id": "de7d8430-45bf-455b-86e8-b4d2a8be3f3d",
+    "user_id": "55441586-99a6-4800-8a78-6cb666907d3a",
+    "amount": 9087.09,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Maria",
+    "timestamp": "2026-05-22T23:03:16.846781"
+  },
+  {
+    "transaction_id": "70e2ede0-0e41-4283-9a9a-34908a3837cf",
+    "user_id": "6bdee845-3bda-46e2-8612-0045a28794bb",
+    "amount": 5086.53,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Ericshire",
+    "timestamp": "2026-05-22T23:03:17.349109"
+  },
+  {
+    "transaction_id": "5ab27b9b-a55a-43ba-bb3a-d2ac194c30f0",
+    "user_id": "896f01ef-478d-4b2f-8c47-b65781408fad",
+    "amount": 4870.89,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Ashley",
+    "timestamp": "2026-05-22T23:03:18.856153"
+  },
+  {
+    "transaction_id": "dce2a5cc-c61a-46e1-abdb-312463c35988",
+    "user_id": "b0b452c0-6d04-4825-8787-65c6aca1b4d4",
+    "amount": 9904.35,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Smithville",
+    "timestamp": "2026-05-22T23:03:19.860721"
+  },
+  {
+    "transaction_id": "1bd8bd75-264c-4944-b3c3-5ecb9acf661f",
+    "user_id": "a6b8a56c-594f-40cf-9fda-019bf453d21c",
+    "amount": 8828.04,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port John",
+    "timestamp": "2026-05-22T23:03:20.362252"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c82da722-5035-4b29-a5f0-d4865997b1d8",
+    "user_id": "c6b011ba-d013-4ab7-9557-c0e2206f217a",
+    "amount": 2875.9,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Angela",
+    "timestamp": "2026-05-22T22:40:50.181746"
+  },
+  {
+    "transaction_id": "4186a961-554c-45cf-8f95-d1de6efc349b",
+    "user_id": "3d2f3869-ea80-443c-bb4f-2edff1d0746e",
+    "amount": 4808.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Albert",
+    "timestamp": "2026-05-22T22:40:50.683385"
+  },
+  {
+    "transaction_id": "d0772af4-3736-4b76-b530-df65a7ee3486",
+    "user_id": "fe1a13c9-cec2-4daa-a01f-742a83417049",
+    "amount": 5423.93,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Cowanhaven",
+    "timestamp": "2026-05-22T22:40:51.187511"
+  },
+  {
+    "transaction_id": "815b6ca5-97ce-4cdd-a180-e60fcac5c3a3",
+    "user_id": "ed4bcefa-1289-4372-b423-51784e4b4e7c",
+    "amount": 1638.27,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Sarahmouth",
+    "timestamp": "2026-05-22T22:40:51.688578"
+  },
+  {
+    "transaction_id": "90b54733-e8d3-4145-b41e-7ea95c27f42a",
+    "user_id": "e7c1ecbc-8e0a-4090-87f6-065b851150a1",
+    "amount": 9744.97,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Josephbury",
+    "timestamp": "2026-05-22T22:40:52.692682"
+  },
+  {
+    "transaction_id": "cfa8f05d-5655-4466-8cdc-409aed2b8a32",
+    "user_id": "ab636265-57a8-4fe7-99fd-b70e2cc44ff3",
+    "amount": 878.01,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Meganland",
+    "timestamp": "2026-05-22T22:40:53.194519"
+  },
+  {
+    "transaction_id": "34d04d1e-03fa-4186-a59d-ae1ad44c500e",
+    "user_id": "c2d252bb-72f7-49a5-8b9e-0d50d8b59a1f",
+    "amount": 9766.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Michaelmouth",
+    "timestamp": "2026-05-22T22:40:53.695976"
+  },
+  {
+    "transaction_id": "fb79be78-1977-47a4-bb36-569cc369bdad",
+    "user_id": "4e3f7042-1556-49c7-943c-32c0ab76a402",
+    "amount": 9121.35,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Marcia",
+    "timestamp": "2026-05-22T22:40:54.198862"
+  },
+  {
+    "transaction_id": "2a9d2d61-33b0-4fce-8929-a56171ee8481",
+    "user_id": "5daa7171-71ec-4389-92f0-4a6b6d5f34fd",
+    "amount": 6051.85,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Ashleyton",
+    "timestamp": "2026-05-22T22:40:54.700410"
+  },
+  {
+    "transaction_id": "198fba9e-3dfd-469a-8c63-8f8caf48733e",
+    "user_id": "5ec4d88d-4615-4e8c-9ef9-2ac2b70a43fa",
+    "amount": 3339.4,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Shawnview",
+    "timestamp": "2026-05-22T22:40:55.705393"
+  }
+]

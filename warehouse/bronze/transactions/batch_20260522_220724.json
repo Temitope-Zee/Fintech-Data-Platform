@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "550cab13-51ff-47d9-8cc2-1db7fb86d3c9",
+    "user_id": "60d343f4-f899-44a8-9d8a-0218b9250f8f",
+    "amount": 7791.53,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Cochranton",
+    "timestamp": "2026-05-22T22:07:18.840999"
+  },
+  {
+    "transaction_id": "cd77d968-0279-4853-bddf-b2c41de45c48",
+    "user_id": "93ec178e-5045-4108-a481-8f31b9b8008d",
+    "amount": 795.38,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Annaport",
+    "timestamp": "2026-05-22T22:07:19.844946"
+  },
+  {
+    "transaction_id": "e1fa0317-2506-4bda-8b81-bdb5b493f0d0",
+    "user_id": "68b90c7f-90ff-4334-8b22-e4ba6f9ffffd",
+    "amount": 6109.73,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Martin",
+    "timestamp": "2026-05-22T22:07:20.348037"
+  },
+  {
+    "transaction_id": "4b4ee213-0e34-4e54-9570-6bf2b20837f0",
+    "user_id": "b4d2c0b2-4a21-4a4b-936a-237c6715c246",
+    "amount": 9733.41,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Brianchester",
+    "timestamp": "2026-05-22T22:07:20.849974"
+  },
+  {
+    "transaction_id": "b566af30-4ef6-4a0d-9a61-8c51c4f2a3a8",
+    "user_id": "aa1b7f07-831c-4ab0-9c91-039e07949135",
+    "amount": 4606.47,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Brittany",
+    "timestamp": "2026-05-22T22:07:21.354092"
+  },
+  {
+    "transaction_id": "9dcab9d3-ea9e-4e03-9ee9-5fe75bd0b1e7",
+    "user_id": "235db502-fb7e-451f-9f18-610885ee2f5f",
+    "amount": 6601.18,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Donnafort",
+    "timestamp": "2026-05-22T22:07:22.358473"
+  },
+  {
+    "transaction_id": "21ba2f67-7a2d-4d47-8bb0-d9193fc3dc44",
+    "user_id": "196e8c48-8f91-4d2c-861a-0bde57368249",
+    "amount": 8614.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Crystalshire",
+    "timestamp": "2026-05-22T22:07:22.859918"
+  },
+  {
+    "transaction_id": "5f48e243-c9a7-4b28-ad43-08a053728c5c",
+    "user_id": "f274983b-01bb-4c7c-bb19-be4d00ccebbd",
+    "amount": 8882.95,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Brian",
+    "timestamp": "2026-05-22T22:07:23.362646"
+  },
+  {
+    "transaction_id": "6feb2f4f-e7e7-4fef-bcc3-05781e68e117",
+    "user_id": "89bf503c-d09e-45da-9f09-606db1956596",
+    "amount": 5867.27,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Curryberg",
+    "timestamp": "2026-05-22T22:07:23.864700"
+  },
+  {
+    "transaction_id": "7e6f29ac-dffb-4b4b-a80c-97f90d408297",
+    "user_id": "a8d86427-7a26-49a5-b7fb-c1a0987bb5a9",
+    "amount": 7627.15,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Andreaberg",
+    "timestamp": "2026-05-22T22:07:24.367464"
+  }
+]

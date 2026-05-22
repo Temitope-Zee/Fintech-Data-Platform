@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ff2f11e8-2697-4428-a382-9966e1ece5d0",
+    "user_id": "d44b73a7-2dfd-4179-b30c-847ab270df29",
+    "amount": 4106.71,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Joanmouth",
+    "timestamp": "2026-05-22T21:45:28.007111"
+  },
+  {
+    "transaction_id": "b50bdac0-bafe-45c6-8d34-e0f7cf09d0e5",
+    "user_id": "af9968b5-cbec-4d9a-8843-8578f095f054",
+    "amount": 7021.74,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lesliemouth",
+    "timestamp": "2026-05-22T21:45:28.509216"
+  },
+  {
+    "transaction_id": "147e0cd0-c123-47d5-9b43-c034ebeb75b3",
+    "user_id": "37403676-f849-4189-9fc8-ede49551ee44",
+    "amount": 6833.19,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Jenniferville",
+    "timestamp": "2026-05-22T21:45:29.012047"
+  },
+  {
+    "transaction_id": "fd0e48ed-e7a9-422e-95f7-23ad7ebdc8b3",
+    "user_id": "d0f4c3d3-c5a9-4fff-9614-8650272a652d",
+    "amount": 5294.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Benjaminfurt",
+    "timestamp": "2026-05-22T21:45:29.515370"
+  },
+  {
+    "transaction_id": "55f0703e-a9b1-4e05-850e-070ba80c677d",
+    "user_id": "3031188a-d330-4030-b8de-d9bd733a78be",
+    "amount": 6916.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Melissa",
+    "timestamp": "2026-05-22T21:45:30.017938"
+  },
+  {
+    "transaction_id": "ad05964e-8013-4353-8c68-aacfc1c353ba",
+    "user_id": "3e8d073b-b507-4e8b-b3e2-963419e6b725",
+    "amount": 6450.44,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Heidi",
+    "timestamp": "2026-05-22T21:45:30.519473"
+  },
+  {
+    "transaction_id": "596ecd44-793e-4c2c-a838-9c2ec7e5a2fb",
+    "user_id": "2cee42b4-2153-46f1-8ea0-ac8ae5a7944e",
+    "amount": 6753.61,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Timothyberg",
+    "timestamp": "2026-05-22T21:45:31.525113"
+  },
+  {
+    "transaction_id": "2353a47e-1af0-43f2-909f-823a6469ee12",
+    "user_id": "0684ab7f-1e14-4ae0-a29e-cdd60b164551",
+    "amount": 5152.54,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Aaronport",
+    "timestamp": "2026-05-22T21:45:32.026754"
+  },
+  {
+    "transaction_id": "4217d068-3a0f-49f8-9202-a8976c7e7585",
+    "user_id": "68ffbde2-7330-4d5f-97f0-8dbd04a2be48",
+    "amount": 4795.41,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Russell",
+    "timestamp": "2026-05-22T21:45:32.528837"
+  },
+  {
+    "transaction_id": "f23dc6fc-a2e2-4a24-a61a-276f95f14694",
+    "user_id": "b02fe621-4b99-4211-a3b5-15f6f4200ed6",
+    "amount": 4587.91,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Stevensmouth",
+    "timestamp": "2026-05-22T21:45:33.533800"
+  }
+]

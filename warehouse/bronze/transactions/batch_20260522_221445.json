@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1192f27b-1040-48ad-86ea-a8ae588ec8fc",
+    "user_id": "5f2a4547-6d4d-4928-9dd8-dae5c10071a9",
+    "amount": 8217.53,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Kimberlyfort",
+    "timestamp": "2026-05-22T22:14:40.091722"
+  },
+  {
+    "transaction_id": "c60d447a-0e32-462b-8703-8a68eda0142f",
+    "user_id": "083ea5aa-2256-4989-a08b-347e1fb4883b",
+    "amount": 4978.02,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Lance",
+    "timestamp": "2026-05-22T22:14:40.593742"
+  },
+  {
+    "transaction_id": "fd64836b-7f2e-459c-9f69-9580460e6fad",
+    "user_id": "f1603e97-daa2-4b83-b0d6-fb49305ba9cd",
+    "amount": 5204.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Michellestad",
+    "timestamp": "2026-05-22T22:14:41.096421"
+  },
+  {
+    "transaction_id": "60c140b9-76ee-4966-86a3-71d1b8585ac7",
+    "user_id": "95431364-ed76-4be4-a03a-38bed85b1d40",
+    "amount": 9294.39,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Turnerburgh",
+    "timestamp": "2026-05-22T22:14:41.598011"
+  },
+  {
+    "transaction_id": "366264de-52c4-489e-8ff5-50744c77480b",
+    "user_id": "6ff3048f-9cf4-490b-9873-0d01a450e57b",
+    "amount": 5396.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Thompsonfort",
+    "timestamp": "2026-05-22T22:14:42.100170"
+  },
+  {
+    "transaction_id": "3a807cb0-ab42-47ad-bc4d-5aa52186fbbd",
+    "user_id": "7706c860-8cc5-47b5-ac2e-ef5927c308e7",
+    "amount": 1333.59,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Tiffanyville",
+    "timestamp": "2026-05-22T22:14:42.602021"
+  },
+  {
+    "transaction_id": "38178c0d-ce09-412b-9278-dee242eabc13",
+    "user_id": "911d926c-e3bd-4212-9c7a-bc722cdc5247",
+    "amount": 1666.53,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Josephport",
+    "timestamp": "2026-05-22T22:14:43.604792"
+  },
+  {
+    "transaction_id": "26996958-b8bc-4c49-aa27-5d66234d7060",
+    "user_id": "071be010-9cf6-405e-b798-4246f6de8524",
+    "amount": 4381.34,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Derrick",
+    "timestamp": "2026-05-22T22:14:44.107249"
+  },
+  {
+    "transaction_id": "37241198-7db5-4833-992b-6cd65bc318f8",
+    "user_id": "3071f880-73e5-4112-9e3f-b175b8ea4d1e",
+    "amount": 6994.6,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Marie",
+    "timestamp": "2026-05-22T22:14:44.608585"
+  },
+  {
+    "transaction_id": "c12a1e86-0930-4ad7-a8cb-ff217acb16ac",
+    "user_id": "541146ee-4819-4aa3-a166-a648cb929852",
+    "amount": 6274.6,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Weavermouth",
+    "timestamp": "2026-05-22T22:14:45.110064"
+  }
+]

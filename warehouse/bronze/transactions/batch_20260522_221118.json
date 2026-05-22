@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4dfe4979-9003-498d-9e42-e6a2c5e48f0b",
+    "user_id": "84dfc4c3-1a17-468c-a923-6d3f13776107",
+    "amount": 8423.45,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Jonesbury",
+    "timestamp": "2026-05-22T22:11:12.275586"
+  },
+  {
+    "transaction_id": "c4c3607d-847b-47d0-b61b-26d4b70cc28a",
+    "user_id": "c50ed661-3acb-4d18-8f18-a6c3c238d099",
+    "amount": 2931.5,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Kathyside",
+    "timestamp": "2026-05-22T22:11:12.776949"
+  },
+  {
+    "transaction_id": "ff0d03fb-849d-41a2-a89c-f578dd2d08b4",
+    "user_id": "8d9bd3ed-5332-4e57-aaa3-23f3679c001a",
+    "amount": 9744.26,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Andrea",
+    "timestamp": "2026-05-22T22:11:13.278547"
+  },
+  {
+    "transaction_id": "bf3b662a-5b09-4a61-a60d-cec7a47899f1",
+    "user_id": "96be13e8-c2ab-4ca5-b2f3-37ef978cf273",
+    "amount": 3101.99,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Henrychester",
+    "timestamp": "2026-05-22T22:11:13.781401"
+  },
+  {
+    "transaction_id": "c2355035-5402-4d2b-b4a9-e7d58d09bb15",
+    "user_id": "e3d03c94-8f17-4d9b-ac75-db8c8d49379c",
+    "amount": 2444.71,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Julianport",
+    "timestamp": "2026-05-22T22:11:14.282958"
+  },
+  {
+    "transaction_id": "1bd271f8-ad49-400d-a18b-a50e233580a3",
+    "user_id": "81ee6b2f-50c1-40ed-8931-68ddd41d5190",
+    "amount": 5146.64,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lesliemouth",
+    "timestamp": "2026-05-22T22:11:14.784120"
+  },
+  {
+    "transaction_id": "4af982d1-2f4b-469e-95d6-c774f4c261de",
+    "user_id": "aa891e4e-3d8f-4ae5-aae1-72a97e60e53c",
+    "amount": 6931.11,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Sharonmouth",
+    "timestamp": "2026-05-22T22:11:15.787433"
+  },
+  {
+    "transaction_id": "d6e6baef-b0ee-47d0-a3ce-1cd6dd0fa511",
+    "user_id": "d70430d4-325d-40d4-8121-356e9d89a5f7",
+    "amount": 951.05,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Codytown",
+    "timestamp": "2026-05-22T22:11:16.790698"
+  },
+  {
+    "transaction_id": "4d3e7fe4-6093-408f-94bc-24ec4d2ce794",
+    "user_id": "2f2adbff-962b-4842-ace4-11742537c039",
+    "amount": 1632.82,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Timothy",
+    "timestamp": "2026-05-22T22:11:17.291846"
+  },
+  {
+    "transaction_id": "f059ddce-73ee-4a9d-827f-43098cb07f22",
+    "user_id": "7d3e03c2-27b4-4982-b0d4-bbd3395a6b44",
+    "amount": 8697.57,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Victoriaport",
+    "timestamp": "2026-05-22T22:11:18.295868"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3ac17282-3540-411d-a9b4-6877274acf8d",
+    "user_id": "7bc3850d-d356-4319-8736-ac09cdf93793",
+    "amount": 4505.78,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Anthony",
+    "timestamp": "2026-05-22T21:43:54.575552"
+  },
+  {
+    "transaction_id": "81695ac4-2cfa-4770-9cae-f3715d54b86b",
+    "user_id": "c3bc507c-04d9-40d5-bf4c-f119574736d2",
+    "amount": 4083.16,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Aaron",
+    "timestamp": "2026-05-22T21:43:55.077790"
+  },
+  {
+    "transaction_id": "e2363f03-96fe-4dd2-b220-9504efe29489",
+    "user_id": "7450da61-9d12-4eef-9967-11226152ee15",
+    "amount": 4411.53,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Timothystad",
+    "timestamp": "2026-05-22T21:43:56.083744"
+  },
+  {
+    "transaction_id": "0443a6f7-f82a-4141-92ee-ecd20bd3f425",
+    "user_id": "9f01e432-f16e-4f8c-87d4-ce6298551bd5",
+    "amount": 5717.68,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Joseph",
+    "timestamp": "2026-05-22T21:43:56.585730"
+  },
+  {
+    "transaction_id": "1916cc57-7202-465c-b819-f97e34ef6ad9",
+    "user_id": "95594e34-f4f6-4b5a-a0d7-3974611ef8dc",
+    "amount": 241.89,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Charlesview",
+    "timestamp": "2026-05-22T21:43:57.087467"
+  },
+  {
+    "transaction_id": "6df06f7b-7ea6-4691-bec3-ef9efde5a5ee",
+    "user_id": "e2b31ddc-ee2b-48b2-9b7f-4aa4f96ee880",
+    "amount": 6614.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Courtney",
+    "timestamp": "2026-05-22T21:43:57.589017"
+  },
+  {
+    "transaction_id": "5afe0eb9-8a9e-47ab-bcb8-8a7937265dd1",
+    "user_id": "d38af1bf-37bd-403d-8408-d208448b4e31",
+    "amount": 754.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Davidtown",
+    "timestamp": "2026-05-22T21:43:58.091985"
+  },
+  {
+    "transaction_id": "5df872f9-0e21-4a3a-9ffa-0471d0fe7b1d",
+    "user_id": "dc387a1c-2b3a-4f1f-b069-b3377ac5c1b2",
+    "amount": 7213.79,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Melanieborough",
+    "timestamp": "2026-05-22T21:43:58.593495"
+  },
+  {
+    "transaction_id": "c0d3e54f-6c58-44fa-9c67-f183ce2b0998",
+    "user_id": "1edafc80-ac0c-4ce3-8c0b-d602b3798b63",
+    "amount": 1891.96,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Kylechester",
+    "timestamp": "2026-05-22T21:43:59.096589"
+  },
+  {
+    "transaction_id": "2203e37b-7895-4877-93d0-580b3da3a4c2",
+    "user_id": "ff4e9b8c-76aa-4a31-bdc5-8931727d1efb",
+    "amount": 7306.01,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Hollyville",
+    "timestamp": "2026-05-22T21:43:59.598105"
+  }
+]

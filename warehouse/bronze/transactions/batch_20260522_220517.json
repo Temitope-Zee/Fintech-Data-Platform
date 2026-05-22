@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a6dabc1d-6d3d-4275-bfdb-eeebe40863bb",
+    "user_id": "61f604ac-a759-486f-bb3d-e0d213092fc9",
+    "amount": 9571.48,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Kaitlyn",
+    "timestamp": "2026-05-22T22:05:12.356268"
+  },
+  {
+    "transaction_id": "a2ea4f78-fd62-4a22-8a60-6a41b7ac5869",
+    "user_id": "f7588fe4-61ab-4fff-9bd1-82349295a6e1",
+    "amount": 1407.66,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Jeremiahfort",
+    "timestamp": "2026-05-22T22:05:12.857782"
+  },
+  {
+    "transaction_id": "901a9079-7f80-4bd7-a658-8883a3c1f8fe",
+    "user_id": "8fe32bd2-542a-433f-a4f6-92b581c075f9",
+    "amount": 45.21,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Gregoryborough",
+    "timestamp": "2026-05-22T22:05:13.359777"
+  },
+  {
+    "transaction_id": "34f5d558-d515-483d-a63e-1f9532670b2f",
+    "user_id": "cd1126d5-0d5e-4e31-94ac-078b3e45e26e",
+    "amount": 6531.93,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gutierrezmouth",
+    "timestamp": "2026-05-22T22:05:13.861408"
+  },
+  {
+    "transaction_id": "0d8abc0a-0ed6-4be8-9c55-80302c104577",
+    "user_id": "46610b59-e26a-4425-b852-202bbba9bf6a",
+    "amount": 1068.81,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Yvonne",
+    "timestamp": "2026-05-22T22:05:14.864611"
+  },
+  {
+    "transaction_id": "4f96404c-aa48-46f0-8103-0293f8c2bc20",
+    "user_id": "97217558-b456-48aa-85b8-7268968d376f",
+    "amount": 4476.92,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Darrylport",
+    "timestamp": "2026-05-22T22:05:15.365976"
+  },
+  {
+    "transaction_id": "9dd0666a-779c-4abf-bacf-b26e79ccef8c",
+    "user_id": "6b40d6f0-2679-43c1-b3d2-a1dbabfc4fd7",
+    "amount": 8463.77,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Michele",
+    "timestamp": "2026-05-22T22:05:15.867275"
+  },
+  {
+    "transaction_id": "5bb185c0-84b4-417e-8327-f34ca8cf0c2a",
+    "user_id": "8b00d67d-620a-4862-af52-35f007191bd6",
+    "amount": 2609.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Travismouth",
+    "timestamp": "2026-05-22T22:05:16.368741"
+  },
+  {
+    "transaction_id": "9b2b7e4b-5d3b-4805-bbf8-a27c1fe855bc",
+    "user_id": "51e67126-17e4-4651-b085-5ea1374839a6",
+    "amount": 7076.29,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Yesenia",
+    "timestamp": "2026-05-22T22:05:17.373112"
+  },
+  {
+    "transaction_id": "b1c4acb0-5a8b-436a-b64f-0399b7bbea3c",
+    "user_id": "0a7e9f9e-12c9-4927-af75-4c1edc381d89",
+    "amount": 6868.2,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Christina",
+    "timestamp": "2026-05-22T22:05:17.875830"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cbfb90e9-e228-491d-ac8a-5d2ca0bd3af5",
+    "user_id": "baf838ff-aa0f-4845-90af-aae4fb9f590b",
+    "amount": 2662.94,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Smithshire",
+    "timestamp": "2026-05-22T22:08:57.249710"
+  },
+  {
+    "transaction_id": "c846d327-d97a-4691-832c-fbd68f476acc",
+    "user_id": "21992d0d-59ca-421e-aad5-e69df19bc3a5",
+    "amount": 2812.19,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Stevenhaven",
+    "timestamp": "2026-05-22T22:08:57.751062"
+  },
+  {
+    "transaction_id": "41325511-d9fe-4c65-9144-7f29126059cd",
+    "user_id": "2f505df1-84ee-4067-9824-16ae29b7ebd8",
+    "amount": 6847.88,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West David",
+    "timestamp": "2026-05-22T22:08:58.252756"
+  },
+  {
+    "transaction_id": "51c865f0-db70-440d-b21c-6ea9cdafd265",
+    "user_id": "f18ba2f8-1747-4d1f-b49e-9da3504be568",
+    "amount": 5809.07,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Deborahport",
+    "timestamp": "2026-05-22T22:09:00.260399"
+  },
+  {
+    "transaction_id": "95cdca02-aba2-4f3a-97b1-988b7636a0dc",
+    "user_id": "624bdc4a-3772-4d41-a939-e0b0f02b7579",
+    "amount": 2712.18,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port John",
+    "timestamp": "2026-05-22T22:09:00.762271"
+  },
+  {
+    "transaction_id": "d5b25f47-14f2-4d5f-8872-83b301eb6f42",
+    "user_id": "294cc781-adf9-401f-aa85-ea6259fcdf89",
+    "amount": 8861.21,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Calvinmouth",
+    "timestamp": "2026-05-22T22:09:01.269062"
+  },
+  {
+    "transaction_id": "ee550a56-d49f-4916-b884-ab37100e05e7",
+    "user_id": "16319bc5-872b-433f-b4f8-07029e5367ae",
+    "amount": 5905.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Amy",
+    "timestamp": "2026-05-22T22:09:01.770901"
+  },
+  {
+    "transaction_id": "8fc358e8-e80e-40e5-9922-286bf417fbc4",
+    "user_id": "1edd3482-cd03-4091-99b9-906fa55add5b",
+    "amount": 7748.16,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Emilyborough",
+    "timestamp": "2026-05-22T22:09:02.273792"
+  },
+  {
+    "transaction_id": "8bc746bd-7e4b-40b1-bfe7-b657a4ff72ed",
+    "user_id": "d600dfaa-c0e8-4f58-be38-6f260c58ec89",
+    "amount": 7307.85,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Leonardside",
+    "timestamp": "2026-05-22T22:09:02.775167"
+  },
+  {
+    "transaction_id": "78268a15-2562-4468-8294-a6350ed75591",
+    "user_id": "45bfa098-7534-4ad5-82e1-daa5cb051b89",
+    "amount": 3285.92,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Chrisshire",
+    "timestamp": "2026-05-22T22:09:03.276615"
+  }
+]

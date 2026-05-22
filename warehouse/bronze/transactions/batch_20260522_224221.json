@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ba31e98e-1e42-4b04-992e-eeb58a853a37",
+    "user_id": "03376ffd-8bd4-49ff-9b78-a094229af4a6",
+    "amount": 3600.35,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Jeremychester",
+    "timestamp": "2026-05-22T22:42:14.021689"
+  },
+  {
+    "transaction_id": "13a629aa-56c0-4bdd-bcfd-8041e3281b31",
+    "user_id": "817e94a9-05b1-4363-b3e5-b2c1d8b4d4e5",
+    "amount": 7872.56,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Jessica",
+    "timestamp": "2026-05-22T22:42:14.523518"
+  },
+  {
+    "transaction_id": "0baecf4e-6111-41ab-8a6f-c7df223564a1",
+    "user_id": "e04d9904-4ce9-4f74-893b-dcdf4a092d7b",
+    "amount": 1676.7,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Melissaburgh",
+    "timestamp": "2026-05-22T22:42:15.529423"
+  },
+  {
+    "transaction_id": "d3e9e530-2711-4d22-bc0c-0257143d57f7",
+    "user_id": "a8da7be4-9f66-46ee-b2e6-7b7c8cd22574",
+    "amount": 479.07,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Barbarafurt",
+    "timestamp": "2026-05-22T22:42:17.537318"
+  },
+  {
+    "transaction_id": "3a676933-c7f5-4deb-a220-c1eb6aa2fbad",
+    "user_id": "de75d970-53ba-4b06-b087-a1702fe38339",
+    "amount": 1157.97,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Eugeneton",
+    "timestamp": "2026-05-22T22:42:18.040145"
+  },
+  {
+    "transaction_id": "100a60c7-0780-4c72-a9af-d8921d9a1cab",
+    "user_id": "65b94375-fe5b-4872-ae5a-38b2cdbb7a68",
+    "amount": 662.87,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Alexandrialand",
+    "timestamp": "2026-05-22T22:42:18.541539"
+  },
+  {
+    "transaction_id": "999f7d4b-0061-48af-974e-11b62be004c8",
+    "user_id": "d3e0cea5-3b0f-442a-a475-9fc7d7a926e7",
+    "amount": 1989.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Amy",
+    "timestamp": "2026-05-22T22:42:19.043445"
+  },
+  {
+    "transaction_id": "18592fb2-3f65-4ae5-a4f5-1cfae11e4fda",
+    "user_id": "45dbba94-0b60-4aa9-b444-cc3a96589310",
+    "amount": 9421.4,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Laurenfurt",
+    "timestamp": "2026-05-22T22:42:20.046414"
+  },
+  {
+    "transaction_id": "e5320d03-418e-4496-8581-c8cbe3b92e67",
+    "user_id": "d84e8744-addd-46f8-89cc-2b24ba0f0b90",
+    "amount": 944.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Christopher",
+    "timestamp": "2026-05-22T22:42:20.548139"
+  },
+  {
+    "transaction_id": "3fe857b6-5966-4462-be20-999f8bc44eff",
+    "user_id": "e3f5e0e9-1757-44ff-9269-399142ceeb75",
+    "amount": 5316.51,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Jonathanton",
+    "timestamp": "2026-05-22T22:42:21.049520"
+  }
+]

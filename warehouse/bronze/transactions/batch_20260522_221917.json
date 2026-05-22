@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dcf22d6e-1e4d-4f83-a36d-2f70bc47be7a",
+    "user_id": "789430d7-c4f3-49ef-a573-775bb80d814a",
+    "amount": 8267.63,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Hughesland",
+    "timestamp": "2026-05-22T22:19:12.684422"
+  },
+  {
+    "transaction_id": "13551920-fa8c-47bd-8933-50248aea7f9e",
+    "user_id": "3d3dc4c8-9912-484a-a71a-b9b7abf40ec0",
+    "amount": 8738.37,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Josephville",
+    "timestamp": "2026-05-22T22:19:13.185749"
+  },
+  {
+    "transaction_id": "0af8561d-3b4a-41c5-9039-fb3f392cc018",
+    "user_id": "268cfc8f-97ee-405f-8372-3e4da4b411ef",
+    "amount": 4068.82,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Kyleville",
+    "timestamp": "2026-05-22T22:19:13.688237"
+  },
+  {
+    "transaction_id": "323864a2-06e0-4ef7-a413-ec436748ac6f",
+    "user_id": "102d7538-b350-457e-933f-caa0ab3f8c2c",
+    "amount": 5718.87,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Brian",
+    "timestamp": "2026-05-22T22:19:14.189548"
+  },
+  {
+    "transaction_id": "67034c69-a235-4643-8fc4-ab012f9d2f5a",
+    "user_id": "0deeee4a-0adc-4623-ac91-78e28de2da50",
+    "amount": 5940.45,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Joelport",
+    "timestamp": "2026-05-22T22:19:14.691890"
+  },
+  {
+    "transaction_id": "d9de2da5-3302-4d13-a485-c38809ed2aa7",
+    "user_id": "bab0fabf-43e8-4f68-9ec9-435218aa626e",
+    "amount": 3183.91,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Scottbury",
+    "timestamp": "2026-05-22T22:19:15.695748"
+  },
+  {
+    "transaction_id": "01d4b79d-ee9e-432b-8fe4-6b36536eba84",
+    "user_id": "dfd0cfc8-2eed-4e7f-a054-e8338631a291",
+    "amount": 473.21,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Ashley",
+    "timestamp": "2026-05-22T22:19:16.197979"
+  },
+  {
+    "transaction_id": "596a0929-9055-43de-acb6-dac696d87a2b",
+    "user_id": "e63d7411-0935-479d-8d71-ae84e7c2162f",
+    "amount": 4375.3,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Snowchester",
+    "timestamp": "2026-05-22T22:19:16.699571"
+  },
+  {
+    "transaction_id": "0f6ff125-1ea5-4b57-8914-f1b0efbdf3a6",
+    "user_id": "8c1bfd99-dbea-4f69-8829-9e1f2fbaaa6e",
+    "amount": 3621.14,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Brownside",
+    "timestamp": "2026-05-22T22:19:17.201420"
+  },
+  {
+    "transaction_id": "3d8a2dac-0ff5-4b48-b94d-d01254677f4c",
+    "user_id": "3608e6b4-b448-4ab3-a66f-cee71a784775",
+    "amount": 7792.6,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Robertberg",
+    "timestamp": "2026-05-22T22:19:17.704584"
+  }
+]

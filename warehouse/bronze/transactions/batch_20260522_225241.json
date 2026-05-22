@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "888fadbe-3ea8-47f3-9c8d-dfc34d91f7d6",
+    "user_id": "e8239972-60d4-434e-a11c-c0138cf93dac",
+    "amount": 9577.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Cristiantown",
+    "timestamp": "2026-05-22T22:52:35.539257"
+  },
+  {
+    "transaction_id": "5649a258-3cf1-4769-839a-1869318a5a97",
+    "user_id": "2a65062f-eef9-40e5-956f-1725dde21223",
+    "amount": 972.73,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Daniel",
+    "timestamp": "2026-05-22T22:52:36.041290"
+  },
+  {
+    "transaction_id": "3f4f8e5b-ac2d-4eec-8023-b3ac3a49e986",
+    "user_id": "1960cab0-f0f6-45a4-8fb5-9909db519f93",
+    "amount": 915.9,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Andersonhaven",
+    "timestamp": "2026-05-22T22:52:36.550177"
+  },
+  {
+    "transaction_id": "90cd1d54-194a-49aa-9ca9-509a5f922f67",
+    "user_id": "b24f7fca-5c9b-4b2a-ae0c-d611bb5812b0",
+    "amount": 4844.72,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Amy",
+    "timestamp": "2026-05-22T22:52:37.052658"
+  },
+  {
+    "transaction_id": "114316a4-0cbd-4ce4-9fee-937f52d40989",
+    "user_id": "5dcc2121-8b27-4cc8-a6eb-32e6affbb83f",
+    "amount": 3724.86,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Alexandriastad",
+    "timestamp": "2026-05-22T22:52:37.553782"
+  },
+  {
+    "transaction_id": "771af363-aff5-47ee-9192-b09629c354be",
+    "user_id": "d547c4f5-f993-43b4-a99e-62ef5f9cff1f",
+    "amount": 5834.39,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Littleside",
+    "timestamp": "2026-05-22T22:52:38.055545"
+  },
+  {
+    "transaction_id": "9c433a2f-e802-42b5-81b4-727e6c1ae17a",
+    "user_id": "41705ffc-19ad-4c38-8e91-a25a7584688a",
+    "amount": 6083.65,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Bradleystad",
+    "timestamp": "2026-05-22T22:52:38.557221"
+  },
+  {
+    "transaction_id": "c2c755cb-41ed-4290-803f-d57c0cf3e364",
+    "user_id": "8806edc2-7a2d-4d88-9f91-60872209394a",
+    "amount": 2745.39,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Clairestad",
+    "timestamp": "2026-05-22T22:52:39.563318"
+  },
+  {
+    "transaction_id": "8bea6cdb-9c53-41ca-bdae-7e74f5ebc974",
+    "user_id": "7a45ab08-a666-4423-9a80-8042f3af2bb4",
+    "amount": 1587.36,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Pamelastad",
+    "timestamp": "2026-05-22T22:52:41.068915"
+  },
+  {
+    "transaction_id": "4fa12392-23ef-4a24-98bc-51812c5e034b",
+    "user_id": "b4e00785-4b99-48bf-a33c-2a4740c9a651",
+    "amount": 5583.95,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Jessicastad",
+    "timestamp": "2026-05-22T22:52:41.571762"
+  }
+]

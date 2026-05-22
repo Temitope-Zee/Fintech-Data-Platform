@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ac2f5a65-5d32-42c4-b673-0d8c1a971596",
+    "user_id": "e2e3902a-705a-46d5-a0bb-fa1de1363aad",
+    "amount": 8864.18,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Cynthiamouth",
+    "timestamp": "2026-05-22T22:55:17.700628"
+  },
+  {
+    "transaction_id": "857c170f-bb27-47d1-ad6b-51844ee4205f",
+    "user_id": "cee657e0-7ca5-40cf-bc5d-3bf6da8b3411",
+    "amount": 622.49,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:55:18.203183"
+  },
+  {
+    "transaction_id": "c916852e-cf5b-4b83-a91a-366cc6648c52",
+    "user_id": "22ddbbd0-ba2f-4afc-8194-6cbf72933aa5",
+    "amount": 4621.0,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Arellanoview",
+    "timestamp": "2026-05-22T22:55:18.705602"
+  },
+  {
+    "transaction_id": "bd1c61d4-1918-4b3d-a08c-bbdb4fd82457",
+    "user_id": "1d2cb872-ef69-462f-be43-a916752a9098",
+    "amount": 3646.67,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Rogerstown",
+    "timestamp": "2026-05-22T22:55:19.209195"
+  },
+  {
+    "transaction_id": "ce857232-d0e3-43f6-b569-87d8c1849355",
+    "user_id": "c47ca78b-59d5-44f6-9533-9d3dc6ccb908",
+    "amount": 4298.81,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Frenchport",
+    "timestamp": "2026-05-22T22:55:19.710852"
+  },
+  {
+    "transaction_id": "776c1ff4-20a8-4e4f-8e42-9929d4a33e75",
+    "user_id": "56b1e24f-dee3-4406-b5c9-dcd04b392552",
+    "amount": 3824.94,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Trevorport",
+    "timestamp": "2026-05-22T22:55:20.213461"
+  },
+  {
+    "transaction_id": "214d4bfa-426f-4f9d-876e-211c3c69d537",
+    "user_id": "f7609d23-3d94-46e0-b524-599902fe3d6c",
+    "amount": 1934.09,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Thomas",
+    "timestamp": "2026-05-22T22:55:20.715995"
+  },
+  {
+    "transaction_id": "2efee239-d5bf-40f4-a713-36cc9354b718",
+    "user_id": "de1c6b51-95b4-4ba6-9f42-ca0e9ef8e8e0",
+    "amount": 8495.8,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Devonhaven",
+    "timestamp": "2026-05-22T22:55:21.217600"
+  },
+  {
+    "transaction_id": "a253d740-28ce-411d-9a76-bfaab972a4ab",
+    "user_id": "21b97cbf-e791-4573-b7d4-ee79550f3460",
+    "amount": 2310.8,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Jacob",
+    "timestamp": "2026-05-22T22:55:21.721073"
+  },
+  {
+    "transaction_id": "fab8487a-d543-4c26-9c48-f6891c7d38e9",
+    "user_id": "bc3f9223-d474-43d7-ab83-92e78a92c001",
+    "amount": 9151.64,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Zachary",
+    "timestamp": "2026-05-22T22:55:22.224477"
+  }
+]

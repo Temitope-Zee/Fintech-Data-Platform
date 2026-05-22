@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "128853be-65ac-4697-843b-dac3f3ea8d52",
+    "user_id": "3daa85a8-1ea0-436c-8a16-a851cd316560",
+    "amount": 9323.33,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Mckeeberg",
+    "timestamp": "2026-05-22T22:16:39.074706"
+  },
+  {
+    "transaction_id": "28de818e-c63a-420a-a553-950904e53e5f",
+    "user_id": "b8ae74f9-b9bc-4d9a-aaf4-5a344db78ff9",
+    "amount": 3103.67,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Melissaborough",
+    "timestamp": "2026-05-22T22:16:39.576205"
+  },
+  {
+    "transaction_id": "90f7ecf2-8549-4108-a048-bae50fd6eca1",
+    "user_id": "b43e2b36-3aaa-4318-9a70-1be7fb380698",
+    "amount": 7904.82,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Nathaniel",
+    "timestamp": "2026-05-22T22:16:40.077563"
+  },
+  {
+    "transaction_id": "75a92b52-4341-4a87-8f73-130cd7cfbf13",
+    "user_id": "9c200a60-3ec2-41eb-9a62-265ae64864b7",
+    "amount": 3869.09,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Melissaberg",
+    "timestamp": "2026-05-22T22:16:40.576091"
+  },
+  {
+    "transaction_id": "cf31a779-332b-4d77-877c-1c1830d844ca",
+    "user_id": "ae3a88a2-db1e-4ffa-96cd-2028a3eb03b3",
+    "amount": 5900.61,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Jaredchester",
+    "timestamp": "2026-05-22T22:16:41.077547"
+  },
+  {
+    "transaction_id": "3cae89d5-c739-46d3-8d35-8d433b1c4c16",
+    "user_id": "2cd19ff4-12d8-4873-a872-3a5e1a7aa636",
+    "amount": 1952.65,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Carlhaven",
+    "timestamp": "2026-05-22T22:16:41.578950"
+  },
+  {
+    "transaction_id": "29f8dcfa-e489-429f-8828-acddf5c60911",
+    "user_id": "31a0bd1e-734e-4579-98af-fa4849cb6c0d",
+    "amount": 7885.27,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Shellytown",
+    "timestamp": "2026-05-22T22:16:42.081588"
+  },
+  {
+    "transaction_id": "1fb70c37-7173-400c-a7eb-e1d902d21321",
+    "user_id": "be9cfa9c-58d0-440e-8801-9e098518a261",
+    "amount": 2522.82,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:16:42.584259"
+  },
+  {
+    "transaction_id": "24559695-66d2-40b4-8618-961a4fdc09f1",
+    "user_id": "ed21c447-3640-42ae-b11b-6592fe391902",
+    "amount": 9588.51,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jessicahaven",
+    "timestamp": "2026-05-22T22:16:43.588957"
+  },
+  {
+    "transaction_id": "f25b136c-9d33-451c-be9e-0c21bcc5fe6e",
+    "user_id": "df8ba544-7df6-401a-b80f-cf17b2df94c4",
+    "amount": 8709.25,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Tyler",
+    "timestamp": "2026-05-22T22:16:44.090326"
+  }
+]

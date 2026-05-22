@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "40dba32c-b131-4ef1-915a-8dab24b6ecc5",
+    "user_id": "67d66e01-d4fe-4902-9774-18ac962a47f9",
+    "amount": 6989.95,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Lisa",
+    "timestamp": "2026-05-22T22:18:54.119679"
+  },
+  {
+    "transaction_id": "bce370b9-897c-4cf1-9a8c-545b699f0102",
+    "user_id": "650b63dc-1e98-48f4-a380-1ab7e0794f80",
+    "amount": 8864.35,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Jeffreyport",
+    "timestamp": "2026-05-22T22:18:54.620984"
+  },
+  {
+    "transaction_id": "ca20722e-aa6e-4daf-9064-97982496f894",
+    "user_id": "a2a548f4-bb48-4269-a7a9-f7e2e21923ea",
+    "amount": 2351.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Danielfort",
+    "timestamp": "2026-05-22T22:18:55.123561"
+  },
+  {
+    "transaction_id": "6519f71b-0bfd-46b5-813c-bf5ad9184165",
+    "user_id": "b78d5e68-d539-4b5a-80f8-410aa2bf00ec",
+    "amount": 1426.5,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Johnchester",
+    "timestamp": "2026-05-22T22:18:55.626216"
+  },
+  {
+    "transaction_id": "0ee39e39-caf9-4ae6-83fe-ab4e4b29c57e",
+    "user_id": "147a974a-b37a-45ba-a0d3-f0b2f01baa7d",
+    "amount": 726.6,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Matthew",
+    "timestamp": "2026-05-22T22:18:56.127419"
+  },
+  {
+    "transaction_id": "66150075-0896-4c1b-8a5e-c95cf79c5093",
+    "user_id": "51bb6830-be20-47de-91aa-4d1d7ca176f4",
+    "amount": 7093.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Hollandburgh",
+    "timestamp": "2026-05-22T22:18:56.628621"
+  },
+  {
+    "transaction_id": "30506c8f-9bb7-4dc6-9a1b-812924ea7827",
+    "user_id": "5e11fa84-f183-49ff-8707-aeb5af455850",
+    "amount": 7512.82,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Andreaside",
+    "timestamp": "2026-05-22T22:18:57.130782"
+  },
+  {
+    "transaction_id": "7f225c12-afc3-4198-bd96-923d457687fd",
+    "user_id": "8f3b3695-2c2c-483e-b557-93ee27d7a97b",
+    "amount": 2801.39,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Michelle",
+    "timestamp": "2026-05-22T22:18:57.633447"
+  },
+  {
+    "transaction_id": "23362543-4273-4b93-acc5-eeda16f01564",
+    "user_id": "debdb4ea-5a7c-4831-ad51-669b16eed96a",
+    "amount": 6023.99,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Amanda",
+    "timestamp": "2026-05-22T22:18:58.637807"
+  },
+  {
+    "transaction_id": "8a102f9d-7cce-458b-864e-b7b04dca4a13",
+    "user_id": "0673ad4e-961d-4219-b672-57069e0c6f13",
+    "amount": 7393.43,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Douglas",
+    "timestamp": "2026-05-22T22:18:59.138863"
+  }
+]

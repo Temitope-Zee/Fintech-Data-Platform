@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "67062970-3c31-4302-84ad-370f985b31ea",
+    "user_id": "bb6ab6ef-5f3a-41ca-98a3-9eb6c4be464f",
+    "amount": 3336.91,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jasonchester",
+    "timestamp": "2026-05-22T21:47:15.450066"
+  },
+  {
+    "transaction_id": "c11f2399-1641-4ac5-a291-d2420f21c91e",
+    "user_id": "e835c110-3c87-45fe-ab74-8c95021d0270",
+    "amount": 2143.57,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Kathleen",
+    "timestamp": "2026-05-22T21:47:15.951513"
+  },
+  {
+    "transaction_id": "e92578de-a41f-402e-b79b-be83b7659522",
+    "user_id": "2da9de21-f519-4c3f-82ef-7317afc0d4af",
+    "amount": 6031.79,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Cindyland",
+    "timestamp": "2026-05-22T21:47:16.955901"
+  },
+  {
+    "transaction_id": "dbe00f7c-f6af-409a-add0-b686c625960e",
+    "user_id": "5df2599f-4b9e-46b4-882b-7164717db82d",
+    "amount": 2377.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Petermouth",
+    "timestamp": "2026-05-22T21:47:17.457034"
+  },
+  {
+    "transaction_id": "0b7c0d3a-028a-4abb-949b-eeffab107350",
+    "user_id": "43b7f9b7-b006-47d3-8cc1-6c75ec4e3a6f",
+    "amount": 2620.26,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Smithfurt",
+    "timestamp": "2026-05-22T21:47:17.960130"
+  },
+  {
+    "transaction_id": "6656f2a2-7871-4fce-9a33-f6415b9e75d3",
+    "user_id": "83ddf08a-07ea-4772-b1fc-2365925572ba",
+    "amount": 9754.7,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Gina",
+    "timestamp": "2026-05-22T21:47:18.461434"
+  },
+  {
+    "transaction_id": "14eef97b-6e5b-4b76-abe7-2b6a5d16b763",
+    "user_id": "aa5b3d2b-a413-4e52-88a1-5e5478a6837a",
+    "amount": 3532.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Gary",
+    "timestamp": "2026-05-22T21:47:18.963942"
+  },
+  {
+    "transaction_id": "bc7976c0-ccc1-400d-9870-ea47381dc5b9",
+    "user_id": "1dfb4d7b-f712-4952-a01e-3d1dda4dcaab",
+    "amount": 4706.73,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lauriebury",
+    "timestamp": "2026-05-22T21:47:19.464981"
+  },
+  {
+    "transaction_id": "94dd888b-0b19-4cf4-ae7e-922973a9f5c1",
+    "user_id": "d87f8d78-e01d-4996-a302-98c870a3ea6c",
+    "amount": 7372.45,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Christopher",
+    "timestamp": "2026-05-22T21:47:19.966183"
+  },
+  {
+    "transaction_id": "f577079d-7fd2-4299-8af8-8977aaf3527d",
+    "user_id": "6ac01483-18c5-40b8-91d8-865ae75c8285",
+    "amount": 8315.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Hunter",
+    "timestamp": "2026-05-22T21:47:20.468172"
+  }
+]

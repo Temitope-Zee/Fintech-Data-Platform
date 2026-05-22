@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "955ecb0a-085a-4167-a1c4-c1492fea1d18",
+    "user_id": "f1a51c53-0e46-4462-b148-c2453615c51f",
+    "amount": 8887.27,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jackborough",
+    "timestamp": "2026-05-22T22:09:55.480484"
+  },
+  {
+    "transaction_id": "b5293ccc-5e0a-4294-935e-3e01a4ed6421",
+    "user_id": "93a8f80c-e891-4965-bed5-b18ceea82e94",
+    "amount": 3002.44,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Tracyside",
+    "timestamp": "2026-05-22T22:09:55.981977"
+  },
+  {
+    "transaction_id": "f9014f01-5a05-476b-a62b-022e2b1ca6a8",
+    "user_id": "63879ed0-7fdc-4374-b3c7-7441c2603194",
+    "amount": 6883.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Carol",
+    "timestamp": "2026-05-22T22:09:56.485016"
+  },
+  {
+    "transaction_id": "28193537-7a33-494d-83a8-464415af0962",
+    "user_id": "5c4a3831-da66-42e9-8308-e98a8fae727c",
+    "amount": 7597.13,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Ashleymouth",
+    "timestamp": "2026-05-22T22:09:56.987843"
+  },
+  {
+    "transaction_id": "25f2b766-87df-496d-af55-0f241c8fabd2",
+    "user_id": "cfce23c8-12b6-4e1a-9c2a-7a045b64483b",
+    "amount": 7259.01,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Jefferyview",
+    "timestamp": "2026-05-22T22:09:57.994913"
+  },
+  {
+    "transaction_id": "f32cde0e-c0f9-4bc7-933f-2f76bc2a833b",
+    "user_id": "3a729698-4b7a-459f-b1ef-1bb9d43b16f4",
+    "amount": 164.12,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Riosville",
+    "timestamp": "2026-05-22T22:09:58.496510"
+  },
+  {
+    "transaction_id": "a5d3ebb3-73df-478e-8869-b8ffe8d0fbf3",
+    "user_id": "e4a235e2-9654-46ef-925f-c404c2f06186",
+    "amount": 875.05,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Holderville",
+    "timestamp": "2026-05-22T22:09:58.998026"
+  },
+  {
+    "transaction_id": "4c4b9b1f-0059-4ea4-90ab-3f61681f5b46",
+    "user_id": "c9f6a84c-ed25-4ae9-a25b-73584934355c",
+    "amount": 641.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Greenland",
+    "timestamp": "2026-05-22T22:09:59.500872"
+  },
+  {
+    "transaction_id": "8321c390-2c0f-4d2b-9c23-5150a9628c38",
+    "user_id": "3b8aa36f-920a-4404-99db-1798e7a58229",
+    "amount": 1092.09,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Garyland",
+    "timestamp": "2026-05-22T22:10:00.003250"
+  },
+  {
+    "transaction_id": "aaccab50-313e-401c-8e23-a3e7ab22bd03",
+    "user_id": "5c037290-987a-47df-b39c-262fa4544852",
+    "amount": 7641.84,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Diane",
+    "timestamp": "2026-05-22T22:10:01.008159"
+  }
+]

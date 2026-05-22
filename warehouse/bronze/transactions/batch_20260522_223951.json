@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0f23e43e-1222-47fc-9cde-46bccb0236a9",
+    "user_id": "60b9e050-9ed7-4ada-b439-0493e6da722a",
+    "amount": 8952.27,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Wesleyburgh",
+    "timestamp": "2026-05-22T22:39:45.926379"
+  },
+  {
+    "transaction_id": "3969a7d8-0c58-424a-938a-9ccb0ae2c171",
+    "user_id": "6bf65212-f94b-4f81-ade1-3efffc2f4e91",
+    "amount": 1644.4,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Amberchester",
+    "timestamp": "2026-05-22T22:39:46.930495"
+  },
+  {
+    "transaction_id": "7b1ee8c3-825c-46ce-8fc3-b7a96e37e820",
+    "user_id": "e611df0b-1d11-4d95-b258-2e9438a76017",
+    "amount": 1370.12,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Galvanview",
+    "timestamp": "2026-05-22T22:39:47.935057"
+  },
+  {
+    "transaction_id": "661f8ca4-12ac-4b75-8821-78164335e63a",
+    "user_id": "6af808de-17cb-450e-aef6-aea81cd85462",
+    "amount": 1368.53,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Sawyerburgh",
+    "timestamp": "2026-05-22T22:39:48.436723"
+  },
+  {
+    "transaction_id": "4f04b180-2e92-4149-9734-f915be566e54",
+    "user_id": "0dc1bc2b-c00d-4849-b8a2-a2c16bc0d099",
+    "amount": 5592.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Andrewfurt",
+    "timestamp": "2026-05-22T22:39:48.938965"
+  },
+  {
+    "transaction_id": "c517635c-463d-408d-8c61-79388c78529c",
+    "user_id": "7c2b1408-5555-489a-a7c9-5d8816fe4253",
+    "amount": 1720.44,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Jonathan",
+    "timestamp": "2026-05-22T22:39:49.442005"
+  },
+  {
+    "transaction_id": "e9b0042b-ffbd-4454-adcf-76b4243a1ae0",
+    "user_id": "fe03463b-bfb4-489b-aa42-0de44b7310c9",
+    "amount": 9302.83,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Ambermouth",
+    "timestamp": "2026-05-22T22:39:49.943946"
+  },
+  {
+    "transaction_id": "f6c15ff5-c4ca-46a0-bab1-65bb657bdb2d",
+    "user_id": "dd482d8a-e646-4bec-8616-b8221c2c2165",
+    "amount": 9677.23,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Matthewburgh",
+    "timestamp": "2026-05-22T22:39:50.446617"
+  },
+  {
+    "transaction_id": "c2c96226-9831-4029-a4b7-c2fcabb5e239",
+    "user_id": "cd7fb843-9164-4c2d-9d7c-908714849057",
+    "amount": 9018.94,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Kimberlymouth",
+    "timestamp": "2026-05-22T22:39:50.948126"
+  },
+  {
+    "transaction_id": "fb934d6a-ad2a-4b2a-a604-3eb8253bea63",
+    "user_id": "b2caa56b-7b77-4d8a-a4b1-70bf54d3c2ab",
+    "amount": 2576.58,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Andrew",
+    "timestamp": "2026-05-22T22:39:51.450660"
+  }
+]

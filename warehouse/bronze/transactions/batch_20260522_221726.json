@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b0832dc1-a163-4641-9ae0-90831bb4b124",
+    "user_id": "b80908bf-e9b1-4473-8500-f3439e1934b1",
+    "amount": 3994.03,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Walkerhaven",
+    "timestamp": "2026-05-22T22:17:21.735967"
+  },
+  {
+    "transaction_id": "b809e57c-96f0-4b7c-b8dc-63a72a4a5173",
+    "user_id": "461716c0-7a2a-4473-824c-12f9b969d4f7",
+    "amount": 8242.91,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Josephberg",
+    "timestamp": "2026-05-22T22:17:22.237574"
+  },
+  {
+    "transaction_id": "7c9ec493-d3b7-4a44-8e95-78ede12194bb",
+    "user_id": "38a61249-2fb7-4a6e-9406-9e50dddaae02",
+    "amount": 3263.05,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Kennethville",
+    "timestamp": "2026-05-22T22:17:22.741667"
+  },
+  {
+    "transaction_id": "10c24faf-2cc7-43fb-8312-7571a5b2c0cb",
+    "user_id": "76a31cf7-fe95-489f-a8be-d16f91da989e",
+    "amount": 7114.62,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Zacharyview",
+    "timestamp": "2026-05-22T22:17:23.247447"
+  },
+  {
+    "transaction_id": "15638758-08b7-4b95-90d0-af1600a98f1c",
+    "user_id": "2c0e3e1c-4a0b-4d51-a97a-01b37a5aff6b",
+    "amount": 865.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Elizabethstad",
+    "timestamp": "2026-05-22T22:17:23.749632"
+  },
+  {
+    "transaction_id": "4079503a-c241-423b-b656-d46507343ec4",
+    "user_id": "939fd3a3-38bb-4f30-b619-304a5ef21ea9",
+    "amount": 203.34,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Stephen",
+    "timestamp": "2026-05-22T22:17:24.251437"
+  },
+  {
+    "transaction_id": "722a74b7-8713-408b-ac0d-c57ac842aae0",
+    "user_id": "10ea912e-afdf-456d-9a7e-ed893d527775",
+    "amount": 6712.74,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Jaystad",
+    "timestamp": "2026-05-22T22:17:24.752783"
+  },
+  {
+    "transaction_id": "149cc593-4a1a-4526-8db9-f5c192ce3fdc",
+    "user_id": "e3e6a9f3-6ade-4141-aa17-58399d8f64cf",
+    "amount": 6535.6,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Desireeburgh",
+    "timestamp": "2026-05-22T22:17:25.254144"
+  },
+  {
+    "transaction_id": "dcb88705-988b-4502-ba85-ecd4faea7adc",
+    "user_id": "57d2e79a-ea3f-4de3-a320-0cddd9698e2c",
+    "amount": 4950.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Chrisland",
+    "timestamp": "2026-05-22T22:17:26.259025"
+  },
+  {
+    "transaction_id": "d24f64e5-06d5-4d32-ab80-9fb0dfc4a747",
+    "user_id": "588a6506-70c3-4ee7-bde6-dc8735adb722",
+    "amount": 5274.81,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Larry",
+    "timestamp": "2026-05-22T22:17:26.760378"
+  }
+]

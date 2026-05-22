@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eda1e544-6c3e-4bb9-8254-a06b693ec57f",
+    "user_id": "403214d2-e2b8-4a5c-8438-c3afebde293c",
+    "amount": 4430.51,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Jerrychester",
+    "timestamp": "2026-05-22T21:41:40.556128"
+  },
+  {
+    "transaction_id": "f65cc263-9200-4219-8893-bb12f13bdc72",
+    "user_id": "b656fee0-381a-4b1f-b397-140de4909229",
+    "amount": 9556.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Nicolebury",
+    "timestamp": "2026-05-22T21:41:41.057899"
+  },
+  {
+    "transaction_id": "2c83d427-3f16-47f3-bd92-1bcfa130f290",
+    "user_id": "b9ccdac8-e357-4f91-a54a-6d5d2ac46b41",
+    "amount": 3696.27,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Wardton",
+    "timestamp": "2026-05-22T21:41:41.559931"
+  },
+  {
+    "transaction_id": "4dbcdf2d-5d20-4b71-8109-2a7a555174da",
+    "user_id": "e6ece0e5-9800-4cf2-a7cb-b96b6693e282",
+    "amount": 7463.62,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Michaelland",
+    "timestamp": "2026-05-22T21:41:42.063825"
+  },
+  {
+    "transaction_id": "92961702-1b3b-4cd2-adcb-503808c4bbbe",
+    "user_id": "23c4004a-ad5c-469a-985a-9c1fa4b9587a",
+    "amount": 2691.87,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Tammyshire",
+    "timestamp": "2026-05-22T21:41:42.566679"
+  },
+  {
+    "transaction_id": "aaacaa9b-8791-46b8-9f74-1c4cbffbdb92",
+    "user_id": "e7e49ac3-6390-4b1b-bcbe-cfe5eec9eb0d",
+    "amount": 5031.13,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Davidmouth",
+    "timestamp": "2026-05-22T21:41:43.572505"
+  },
+  {
+    "transaction_id": "7fb4ccac-ff4c-4829-a65c-a8283fc0864e",
+    "user_id": "f393fef5-ab5c-4b43-a65a-e2963382029e",
+    "amount": 9267.26,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Austintown",
+    "timestamp": "2026-05-22T21:41:44.075244"
+  },
+  {
+    "transaction_id": "7f3445b4-77ff-408e-a777-c91577501371",
+    "user_id": "50204d23-3f5e-443d-bef9-36b1b79229b9",
+    "amount": 464.35,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Norman",
+    "timestamp": "2026-05-22T21:41:44.577321"
+  },
+  {
+    "transaction_id": "c5d250ff-232c-4f8a-b51f-549e69cdf6a3",
+    "user_id": "8e4d96f4-d577-4991-9fef-33343d24c420",
+    "amount": 5218.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jacksonton",
+    "timestamp": "2026-05-22T21:41:45.079457"
+  },
+  {
+    "transaction_id": "cbed7e8e-1893-4594-9c41-e1a005d808f3",
+    "user_id": "18e4341b-fc00-42ea-a67a-1294553ef954",
+    "amount": 9660.32,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Markview",
+    "timestamp": "2026-05-22T21:41:45.581296"
+  }
+]

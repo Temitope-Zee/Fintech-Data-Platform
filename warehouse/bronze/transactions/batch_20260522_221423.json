@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9bba425c-6744-4fc6-9ed9-866bc61f1238",
+    "user_id": "0a2b236d-af15-4d76-a776-45dec11607f7",
+    "amount": 306.3,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Bellport",
+    "timestamp": "2026-05-22T22:14:16.979521"
+  },
+  {
+    "transaction_id": "db963abb-74b1-4afb-b899-eb72d3963708",
+    "user_id": "3bfbea03-04af-4523-9de0-c8fdc1df4780",
+    "amount": 5174.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Adamshaven",
+    "timestamp": "2026-05-22T22:14:17.481498"
+  },
+  {
+    "transaction_id": "f7463dd7-9c30-43fe-8eea-a1b2e61f01ca",
+    "user_id": "6cc3ed3d-e88c-420c-8536-4fa59c6bbdd1",
+    "amount": 97.63,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Steven",
+    "timestamp": "2026-05-22T22:14:17.984298"
+  },
+  {
+    "transaction_id": "8c80cb21-32e4-4f00-b020-a555affa302b",
+    "user_id": "0e92ceac-6a70-45cf-9fee-50c97010f4ed",
+    "amount": 9839.86,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Michelleport",
+    "timestamp": "2026-05-22T22:14:18.486998"
+  },
+  {
+    "transaction_id": "24c73e69-6813-450c-9c58-a4e41e1d30d0",
+    "user_id": "1872d990-935d-4c94-8f15-d05a70392f87",
+    "amount": 963.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Lauraland",
+    "timestamp": "2026-05-22T22:14:18.988731"
+  },
+  {
+    "transaction_id": "0558cc78-29f2-480b-8f33-112b8e8f6a1c",
+    "user_id": "25d49985-c619-4c5e-9b19-da2ff35a8d4f",
+    "amount": 4705.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Sanchezberg",
+    "timestamp": "2026-05-22T22:14:20.999086"
+  },
+  {
+    "transaction_id": "de3e80a2-8411-425e-a714-160ef68d8c3c",
+    "user_id": "c5dfd63f-69ac-4f20-87b3-206dde9ecf2c",
+    "amount": 1740.59,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Jessicaland",
+    "timestamp": "2026-05-22T22:14:21.502193"
+  },
+  {
+    "transaction_id": "9feef133-d378-4357-94cd-374eec2d12fc",
+    "user_id": "8b0758bd-c0fa-40f4-b52d-13d8a631c42c",
+    "amount": 234.57,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Markville",
+    "timestamp": "2026-05-22T22:14:22.003286"
+  },
+  {
+    "transaction_id": "ae635396-b4ed-4f39-ad4e-d090aea0c7d0",
+    "user_id": "80f72c2d-25b4-4a11-831c-62b4711beb66",
+    "amount": 5127.48,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Jacobtown",
+    "timestamp": "2026-05-22T22:14:22.504748"
+  },
+  {
+    "transaction_id": "ab2ba6aa-56aa-4a85-b0fb-62efe66cb892",
+    "user_id": "97f00595-1ad6-488f-8044-9ff0d14b1617",
+    "amount": 5196.26,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Amy",
+    "timestamp": "2026-05-22T22:14:23.008010"
+  }
+]

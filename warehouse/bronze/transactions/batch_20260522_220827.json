@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c6122c61-364f-4907-811f-eb5b9480736b",
+    "user_id": "75015f61-7682-45c6-b701-a42c097aad2f",
+    "amount": 5941.38,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Davisborough",
+    "timestamp": "2026-05-22T22:08:23.115987"
+  },
+  {
+    "transaction_id": "29f7ed4b-91d5-4d31-af70-508b4d2a43f7",
+    "user_id": "7b75e165-e7f9-45f5-a828-3307c2edfcfe",
+    "amount": 8178.42,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Stephenmouth",
+    "timestamp": "2026-05-22T22:08:23.619080"
+  },
+  {
+    "transaction_id": "0b3a5236-a51d-4cd4-9233-44b127ef4b66",
+    "user_id": "ead612f2-4e61-4bd4-9cee-588a3d291278",
+    "amount": 7596.75,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Davidberg",
+    "timestamp": "2026-05-22T22:08:24.120775"
+  },
+  {
+    "transaction_id": "c3619802-a911-4e7d-b054-989140aa6263",
+    "user_id": "96c532a5-7b8f-4568-86ac-632eef489b49",
+    "amount": 3291.31,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Shawn",
+    "timestamp": "2026-05-22T22:08:24.622599"
+  },
+  {
+    "transaction_id": "0fb53bfe-b082-408a-b719-1914d7310b4d",
+    "user_id": "e43f434a-dfa4-45c7-8ce8-373d09f46042",
+    "amount": 2086.72,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Daniel",
+    "timestamp": "2026-05-22T22:08:25.126338"
+  },
+  {
+    "transaction_id": "8614a961-e45b-43c4-8bd6-84299fd314a9",
+    "user_id": "e32f1e6c-4019-4221-a3d7-cd864d9b0e80",
+    "amount": 3988.99,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Bryanside",
+    "timestamp": "2026-05-22T22:08:25.628751"
+  },
+  {
+    "transaction_id": "69a57b39-daf4-45b9-81de-c01aad383840",
+    "user_id": "29c7bbba-d5c4-4dd2-9619-407baf984572",
+    "amount": 7048.65,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Danielstad",
+    "timestamp": "2026-05-22T22:08:26.131572"
+  },
+  {
+    "transaction_id": "9811f84f-287d-4c53-85d4-8234877c4846",
+    "user_id": "7f074b61-35ef-4dae-82f2-22b72a68c0aa",
+    "amount": 5586.14,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Mayhaven",
+    "timestamp": "2026-05-22T22:08:26.633691"
+  },
+  {
+    "transaction_id": "02910fed-fb92-44fa-9095-db7ddbb61e29",
+    "user_id": "df4a70ff-619f-4dc3-a63e-d2e481a17533",
+    "amount": 1138.26,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Brianside",
+    "timestamp": "2026-05-22T22:08:27.135102"
+  },
+  {
+    "transaction_id": "ca996d0c-c8dc-4180-8cae-a892186fd34c",
+    "user_id": "4b6204ca-3802-4807-b3bd-2d1fe948590f",
+    "amount": 5599.91,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Thomasbury",
+    "timestamp": "2026-05-22T22:08:27.636478"
+  }
+]

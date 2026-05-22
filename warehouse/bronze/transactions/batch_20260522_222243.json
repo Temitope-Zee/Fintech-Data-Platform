@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "da065b91-6bc2-46e4-b8ab-91aba758e545",
+    "user_id": "c8f12d09-e7c9-47ce-8f1c-9310f14d6406",
+    "amount": 7971.71,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jimmyburgh",
+    "timestamp": "2026-05-22T22:22:39.066673"
+  },
+  {
+    "transaction_id": "e3512d35-7a2f-445e-b49c-e3fe6ed5e7c5",
+    "user_id": "6a19a246-6342-4b6f-8d64-ce2673d77b0a",
+    "amount": 5678.49,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Rogersstad",
+    "timestamp": "2026-05-22T22:22:39.568877"
+  },
+  {
+    "transaction_id": "b5062a44-0d67-4576-b118-1689e509cf60",
+    "user_id": "92d1381b-e03a-402b-8fd1-32d98f84478d",
+    "amount": 79.63,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Mariefurt",
+    "timestamp": "2026-05-22T22:22:40.070545"
+  },
+  {
+    "transaction_id": "1a5a4f88-5609-44d3-bcd6-66fc86a86c16",
+    "user_id": "312ce4c0-6e25-4e61-8766-3cc3ef9f404e",
+    "amount": 5965.43,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Bradhaven",
+    "timestamp": "2026-05-22T22:22:40.570168"
+  },
+  {
+    "transaction_id": "6ad1249a-4e44-4ecf-8bec-f66b1ee0ab82",
+    "user_id": "d795876e-3372-4d83-b2e6-0143db639c4c",
+    "amount": 3194.09,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Gonzalezhaven",
+    "timestamp": "2026-05-22T22:22:41.071947"
+  },
+  {
+    "transaction_id": "08a6b674-db24-448b-b6bd-fab72e6e371b",
+    "user_id": "d34339b9-e780-44b0-bebe-9a4d6da955b6",
+    "amount": 7705.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Hendricksbury",
+    "timestamp": "2026-05-22T22:22:41.573284"
+  },
+  {
+    "transaction_id": "46a62ed9-f746-49c8-acac-3f36648718f9",
+    "user_id": "9c883167-1b8c-44b9-b5d9-fd745418722a",
+    "amount": 7264.73,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Margaret",
+    "timestamp": "2026-05-22T22:22:42.075901"
+  },
+  {
+    "transaction_id": "0b182cbe-fc11-40ed-a852-91fae3bd808b",
+    "user_id": "9641babe-4c0e-44e4-bbc2-e864edfff91b",
+    "amount": 9037.19,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Dalemouth",
+    "timestamp": "2026-05-22T22:22:42.579071"
+  },
+  {
+    "transaction_id": "043476e4-ba12-4382-8aef-38233cf25df9",
+    "user_id": "51fa8c94-b868-47f6-a3ae-6dfae9d14a0a",
+    "amount": 6602.53,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Patriciafurt",
+    "timestamp": "2026-05-22T22:22:43.082021"
+  },
+  {
+    "transaction_id": "25702c3e-4111-4972-82ea-10127f3a7185",
+    "user_id": "cb88bf58-6d63-4f55-ae0c-483d3144cb83",
+    "amount": 4620.42,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-22T22:22:43.584397"
+  }
+]

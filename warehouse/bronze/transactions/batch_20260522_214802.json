@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c66929aa-fa01-4f85-ad86-df6fc6a7515a",
+    "user_id": "8b66f08c-8038-422f-8ae4-b89b2fc13cd5",
+    "amount": 8388.85,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Youngburgh",
+    "timestamp": "2026-05-22T21:47:57.120407"
+  },
+  {
+    "transaction_id": "a8217960-9c3d-4ed6-8434-29d4e46cd17c",
+    "user_id": "ece3bf30-ec51-4289-8140-78b3e26fbedc",
+    "amount": 1896.71,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Mary",
+    "timestamp": "2026-05-22T21:47:57.622199"
+  },
+  {
+    "transaction_id": "27793931-2cd4-4a99-81f3-c1c0fc3b9290",
+    "user_id": "40d14591-632a-42b0-a522-0edbf116bc61",
+    "amount": 8991.16,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Pamela",
+    "timestamp": "2026-05-22T21:47:58.125516"
+  },
+  {
+    "transaction_id": "94944e1d-54b2-4b94-b705-e7f24e071fdb",
+    "user_id": "40f5f99c-d51e-490c-8bf0-203289fe0ee8",
+    "amount": 4383.56,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Montgomeryfort",
+    "timestamp": "2026-05-22T21:47:58.628163"
+  },
+  {
+    "transaction_id": "e4325945-80bd-4dc5-b74c-5ff7326d9d47",
+    "user_id": "4332f1ab-6148-46d8-9cd5-15cfc64c9b23",
+    "amount": 8894.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Jenniferside",
+    "timestamp": "2026-05-22T21:47:59.129582"
+  },
+  {
+    "transaction_id": "6b10d2b0-6df2-48f3-8870-c4fa93240899",
+    "user_id": "aa41c96a-df3d-4836-85a9-afe85dadf8ab",
+    "amount": 4469.76,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Terriville",
+    "timestamp": "2026-05-22T21:47:59.631426"
+  },
+  {
+    "transaction_id": "373ff397-7e8c-485b-a15c-267dbee183a6",
+    "user_id": "63ca2b7f-7f41-4372-bc4e-0e8294461b4f",
+    "amount": 7842.79,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Sandovalton",
+    "timestamp": "2026-05-22T21:48:00.133715"
+  },
+  {
+    "transaction_id": "96c35a69-b6af-46f0-b879-9c796befe54e",
+    "user_id": "b9b4b501-6b60-445c-8ffd-69b07501204a",
+    "amount": 2982.3,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Bethanymouth",
+    "timestamp": "2026-05-22T21:48:01.138327"
+  },
+  {
+    "transaction_id": "853ba811-455c-40eb-a9d8-2759c59f8639",
+    "user_id": "68b07a23-fbb4-4c59-8ea7-3828eecdd1c2",
+    "amount": 3111.37,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Herreraland",
+    "timestamp": "2026-05-22T21:48:01.640788"
+  },
+  {
+    "transaction_id": "6d9e5d01-eb02-43af-9a63-7fa291d75d19",
+    "user_id": "8fb4bbb4-b1ea-49f1-9613-de8d6ae64936",
+    "amount": 723.55,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Gloriamouth",
+    "timestamp": "2026-05-22T21:48:02.142166"
+  }
+]

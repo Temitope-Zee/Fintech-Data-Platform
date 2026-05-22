@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d9c1e5a7-d1fa-47ea-b526-4f94e1669293",
+    "user_id": "973d11be-cacb-4e4e-84bb-7c4cb1d85486",
+    "amount": 8835.99,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Pierceville",
+    "timestamp": "2026-05-22T22:05:23.398003"
+  },
+  {
+    "transaction_id": "74cdde49-72a6-4806-9044-a0bdf8a5485d",
+    "user_id": "3c420e5a-601f-4506-8346-41c013310b9f",
+    "amount": 2911.33,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Patriciashire",
+    "timestamp": "2026-05-22T22:05:23.899482"
+  },
+  {
+    "transaction_id": "902961e2-2544-44ed-b9b3-91f0f61ea3fc",
+    "user_id": "323f71d9-1967-40c1-a98e-8920e98ad9fa",
+    "amount": 6327.44,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Simpsontown",
+    "timestamp": "2026-05-22T22:05:24.402072"
+  },
+  {
+    "transaction_id": "28d35f35-4631-4011-9c0f-21d97705493d",
+    "user_id": "21012cef-1d70-411e-b680-f11789455190",
+    "amount": 1057.03,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Matthewmouth",
+    "timestamp": "2026-05-22T22:05:24.906732"
+  },
+  {
+    "transaction_id": "7d63601c-c31d-4431-afdd-d7b3ab442dc8",
+    "user_id": "7a8c8ce5-edc5-4598-8af3-64f8ce35e589",
+    "amount": 3762.79,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Christopherton",
+    "timestamp": "2026-05-22T22:05:25.408249"
+  },
+  {
+    "transaction_id": "651e57fe-8bed-42e4-810f-cc3bf1e4833f",
+    "user_id": "52909314-4cd3-4500-8e13-6b82565d69b8",
+    "amount": 6815.84,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Shawnberg",
+    "timestamp": "2026-05-22T22:05:25.910794"
+  },
+  {
+    "transaction_id": "6ea95692-624a-4ed9-920c-ab4570b2bd71",
+    "user_id": "4671629c-8474-4cb1-b282-d05a58a188b1",
+    "amount": 643.27,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Billy",
+    "timestamp": "2026-05-22T22:05:26.412615"
+  },
+  {
+    "transaction_id": "e0dde05e-bf37-4681-a090-f425ac250891",
+    "user_id": "a90c441a-46fe-475d-a833-d1b6f6e4f09e",
+    "amount": 8420.75,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Greenland",
+    "timestamp": "2026-05-22T22:05:26.914175"
+  },
+  {
+    "transaction_id": "4e0ee3df-0cdf-47b4-a938-5b6a9036b4db",
+    "user_id": "65a36a98-f371-4af8-bd73-c435ef4c1341",
+    "amount": 8697.38,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lambtown",
+    "timestamp": "2026-05-22T22:05:27.416285"
+  },
+  {
+    "transaction_id": "a1793636-3eb4-4be9-92f3-2144efe1bf84",
+    "user_id": "5a83417b-ad29-44dd-84b7-c135be7b0167",
+    "amount": 8500.0,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Kara",
+    "timestamp": "2026-05-22T22:05:27.918523"
+  }
+]

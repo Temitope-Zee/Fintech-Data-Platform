@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c0546c57-1e64-4b94-b2ef-b6cf5f301ded",
+    "user_id": "d5765bb7-442c-4117-ab3e-e8ef20326a43",
+    "amount": 8133.17,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Robertoton",
+    "timestamp": "2026-05-22T22:03:19.362109"
+  },
+  {
+    "transaction_id": "990e51cd-d32f-48fb-99d8-8f19ccb3e9ca",
+    "user_id": "3ce05517-ba7b-4c95-8308-af9165fc9820",
+    "amount": 2551.46,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Frostborough",
+    "timestamp": "2026-05-22T22:03:19.865076"
+  },
+  {
+    "transaction_id": "102b6af0-febf-4cfe-b41d-ebaf0ce2f086",
+    "user_id": "b8927520-1c5d-4f5a-b139-554f343a9a8f",
+    "amount": 6880.18,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Manuelfurt",
+    "timestamp": "2026-05-22T22:03:20.367803"
+  },
+  {
+    "transaction_id": "b3f77643-4ccc-4833-b8e9-6892d8ea0ecb",
+    "user_id": "cda69324-993e-418a-ab9f-43b2f6f26c12",
+    "amount": 9948.59,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Joshuafurt",
+    "timestamp": "2026-05-22T22:03:20.869180"
+  },
+  {
+    "transaction_id": "ce49d533-7aef-4afa-be0e-7a4449511550",
+    "user_id": "e5063df1-8963-437d-addf-f6d245199034",
+    "amount": 360.54,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Chris",
+    "timestamp": "2026-05-22T22:03:21.372079"
+  },
+  {
+    "transaction_id": "c32f7fab-9568-4d8d-af0a-a1eb1a19ca33",
+    "user_id": "dfbced36-0e98-4183-8787-f8f61ed80187",
+    "amount": 4409.62,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Williamsside",
+    "timestamp": "2026-05-22T22:03:21.880379"
+  },
+  {
+    "transaction_id": "826327f9-1aef-48f1-98a0-bf1bc9375b76",
+    "user_id": "d2ea2d08-3341-4c85-9101-ad0a35be2cfa",
+    "amount": 9618.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Aliciatown",
+    "timestamp": "2026-05-22T22:03:22.383529"
+  },
+  {
+    "transaction_id": "f07f717a-6f8e-4641-b2a2-8e1ccaae69f9",
+    "user_id": "e34f7486-9e79-46ee-af2b-06ea8ca884e7",
+    "amount": 129.01,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Rebeccaberg",
+    "timestamp": "2026-05-22T22:03:22.886909"
+  },
+  {
+    "transaction_id": "6a04f4e5-d53b-4527-b8bf-1f8956969f7f",
+    "user_id": "d605d780-1f44-40ac-bbc9-aff39e90c66f",
+    "amount": 713.78,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Matthewshire",
+    "timestamp": "2026-05-22T22:03:23.388817"
+  },
+  {
+    "transaction_id": "e19af36c-f68a-41a0-a4c1-a205a34e00e2",
+    "user_id": "0e833d44-e75d-44cd-8536-832c53ddae60",
+    "amount": 9503.74,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Williamberg",
+    "timestamp": "2026-05-22T22:03:23.891886"
+  }
+]

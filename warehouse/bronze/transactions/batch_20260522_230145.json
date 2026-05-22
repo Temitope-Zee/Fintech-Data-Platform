@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5ee9a79d-f7d7-4783-8e7f-a63d946bbff8",
+    "user_id": "c50f228e-94a0-4414-8494-01ebeaf06de8",
+    "amount": 2409.75,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lloydhaven",
+    "timestamp": "2026-05-22T23:01:40.010178"
+  },
+  {
+    "transaction_id": "10299382-c1d6-4db6-9839-567eabb91ddc",
+    "user_id": "ac86e1d6-8814-4ac1-a9f0-9e184b57a8b4",
+    "amount": 9473.1,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Wilsonbury",
+    "timestamp": "2026-05-22T23:01:40.511538"
+  },
+  {
+    "transaction_id": "7bb1d1a7-4c48-405d-81e6-3448e4c70c14",
+    "user_id": "8072a832-ba69-4041-8655-750817796659",
+    "amount": 1581.52,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Josephstad",
+    "timestamp": "2026-05-22T23:01:41.014476"
+  },
+  {
+    "transaction_id": "b736765b-f7bc-4636-80fb-10574763be2d",
+    "user_id": "7edb4025-acb5-4f71-b5b2-4115b46d17c9",
+    "amount": 5832.25,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Melissamouth",
+    "timestamp": "2026-05-22T23:01:42.018513"
+  },
+  {
+    "transaction_id": "88a7c485-fed2-4c14-a7c0-cbd033553cc9",
+    "user_id": "f0c486aa-f8d8-41dc-a054-839d14f2d639",
+    "amount": 7492.89,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Alexandraborough",
+    "timestamp": "2026-05-22T23:01:42.521648"
+  },
+  {
+    "transaction_id": "9955079e-b9fc-4736-8e28-cb93b5af7fa7",
+    "user_id": "51692bbf-3f8b-4540-b926-3c936267911a",
+    "amount": 2273.95,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Patrick",
+    "timestamp": "2026-05-22T23:01:43.022879"
+  },
+  {
+    "transaction_id": "7cc46391-4840-4dc6-a241-3985098e1070",
+    "user_id": "956ddb97-4198-4547-96cd-0b6128a7a5cb",
+    "amount": 3638.28,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Jonathanbury",
+    "timestamp": "2026-05-22T23:01:43.525878"
+  },
+  {
+    "transaction_id": "d6c09b27-cce6-469b-b7cf-2e4c44b4ea7a",
+    "user_id": "67363542-3293-4ddd-aaf8-d20d84a8bfd8",
+    "amount": 207.64,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Riosland",
+    "timestamp": "2026-05-22T23:01:44.528500"
+  },
+  {
+    "transaction_id": "12086024-e294-42af-9bea-6715c7dbc2a7",
+    "user_id": "146d8aa1-00bf-4a85-be9c-15b1576093d4",
+    "amount": 7226.1,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Anthony",
+    "timestamp": "2026-05-22T23:01:45.029802"
+  },
+  {
+    "transaction_id": "62c26636-03f7-4bfb-ab14-29bbcba9a614",
+    "user_id": "3a719a70-119b-4d92-98da-fafd7842668a",
+    "amount": 3454.78,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Anthonystad",
+    "timestamp": "2026-05-22T23:01:45.531123"
+  }
+]

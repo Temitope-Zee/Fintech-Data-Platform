@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ecc484e8-a6c8-4b6d-abd6-6fa5c9e48c13",
+    "user_id": "00e1ef24-93a5-4e56-b0b3-86e8fef792c4",
+    "amount": 7760.92,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Chelseaview",
+    "timestamp": "2026-05-22T21:47:25.987853"
+  },
+  {
+    "transaction_id": "4bb47f7a-c209-4706-bc0c-49554a2f1142",
+    "user_id": "3f569f79-c386-4f8e-8e99-83460582811b",
+    "amount": 1264.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nolanborough",
+    "timestamp": "2026-05-22T21:47:26.489937"
+  },
+  {
+    "transaction_id": "87012620-55a7-45f8-98cf-92a4140d3107",
+    "user_id": "1db0f072-8e75-4e1c-89d5-a41bbcf38341",
+    "amount": 728.17,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Ethan",
+    "timestamp": "2026-05-22T21:47:26.991201"
+  },
+  {
+    "transaction_id": "771e7820-2f95-432e-9cc2-9c61ebb44b15",
+    "user_id": "dc7ef874-88e8-453d-be74-686abd076a1d",
+    "amount": 1063.52,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Smithside",
+    "timestamp": "2026-05-22T21:47:27.993424"
+  },
+  {
+    "transaction_id": "a5e45d78-1c35-4faa-8ec2-0f045ab22b19",
+    "user_id": "1c96b109-9450-4d86-a80d-86df1e90d91e",
+    "amount": 1505.49,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kathleenport",
+    "timestamp": "2026-05-22T21:47:28.494669"
+  },
+  {
+    "transaction_id": "bc982f54-0ea3-4c39-8816-6581aa75a2b1",
+    "user_id": "fc77ddfa-9dba-4a5a-9694-e7d74f07a08b",
+    "amount": 3936.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Stephaniemouth",
+    "timestamp": "2026-05-22T21:47:28.996715"
+  },
+  {
+    "transaction_id": "be737b2c-b47c-47bf-b269-6fea409c1384",
+    "user_id": "115c9536-3d1c-46da-aa37-3a0fb9f3b504",
+    "amount": 3154.49,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Elizabeth",
+    "timestamp": "2026-05-22T21:47:29.497692"
+  },
+  {
+    "transaction_id": "5c2761ff-f542-474a-a326-e2ae52ff7603",
+    "user_id": "3d5acf56-1616-49c8-a5b1-730c4b47a09a",
+    "amount": 1632.67,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Juliaville",
+    "timestamp": "2026-05-22T21:47:30.501071"
+  },
+  {
+    "transaction_id": "5ce62e34-ebef-46db-873f-7a5e39e39cd1",
+    "user_id": "850b38c7-580b-480a-b997-617ecf8eedaf",
+    "amount": 4660.35,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Richard",
+    "timestamp": "2026-05-22T21:47:31.003107"
+  },
+  {
+    "transaction_id": "8496cc3f-7b80-4e61-8bef-f04038a6d554",
+    "user_id": "fff14bf4-e79a-4f9c-9a1f-b5e263ae0856",
+    "amount": 3498.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Peter",
+    "timestamp": "2026-05-22T21:47:31.505837"
+  }
+]

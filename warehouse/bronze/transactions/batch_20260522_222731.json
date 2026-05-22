@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e522ef52-b721-4625-a0fb-2c3f3a3467dd",
+    "user_id": "e2d5396b-c696-4cf0-9735-709102368cd3",
+    "amount": 7171.44,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Jennifer",
+    "timestamp": "2026-05-22T22:27:26.697678"
+  },
+  {
+    "transaction_id": "56c9c1fc-cd89-41ed-a985-118b3fe5b66a",
+    "user_id": "2d074e37-ac5c-4104-ac55-2666cfbe23f4",
+    "amount": 3624.38,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Garcialand",
+    "timestamp": "2026-05-22T22:27:27.700853"
+  },
+  {
+    "transaction_id": "07113ef9-dd1e-4032-83de-5736b904c76c",
+    "user_id": "da5a5496-fff7-41cb-bdb3-66620d18b9cd",
+    "amount": 1233.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Bradleychester",
+    "timestamp": "2026-05-22T22:27:28.203241"
+  },
+  {
+    "transaction_id": "e9584b51-c900-4793-aa91-b15186f99ac3",
+    "user_id": "314e13d4-55c3-4020-ba08-ba6004d1c133",
+    "amount": 4744.96,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Jonathanbury",
+    "timestamp": "2026-05-22T22:27:28.705162"
+  },
+  {
+    "transaction_id": "c1f7c0bd-9e55-449e-b9f5-eaa2aca18cdf",
+    "user_id": "6da7bfdb-415a-409f-bfcc-398b4fe4857b",
+    "amount": 1265.5,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Smithhaven",
+    "timestamp": "2026-05-22T22:27:29.206744"
+  },
+  {
+    "transaction_id": "93f72799-70ba-4cfd-85ad-1c8a98f04354",
+    "user_id": "c4b21908-3448-47be-a1dd-08114e829e5e",
+    "amount": 3083.59,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Norristown",
+    "timestamp": "2026-05-22T22:27:29.708969"
+  },
+  {
+    "transaction_id": "3c6641c2-a7d9-4132-8b18-2caf79212af9",
+    "user_id": "c4aa052a-8dfd-40ff-8b6f-330a1c5f7735",
+    "amount": 9710.16,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Davidport",
+    "timestamp": "2026-05-22T22:27:30.212344"
+  },
+  {
+    "transaction_id": "c08be13b-1d7c-4c20-af6b-3c9072468fad",
+    "user_id": "2446b5dc-c220-4edb-b1f2-56e978bf1cc9",
+    "amount": 7357.73,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Angelaside",
+    "timestamp": "2026-05-22T22:27:30.715443"
+  },
+  {
+    "transaction_id": "05bf599f-245e-4db6-950a-c243b6cd8ebb",
+    "user_id": "da586b2b-9e57-47de-8a79-b2c73651493e",
+    "amount": 3565.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Whiteshire",
+    "timestamp": "2026-05-22T22:27:31.217772"
+  },
+  {
+    "transaction_id": "87968794-0c31-4b60-91f0-b9d053d817d4",
+    "user_id": "b4b5d527-8ea3-41c6-b5a3-8e958b2497d6",
+    "amount": 7120.38,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Victor",
+    "timestamp": "2026-05-22T22:27:31.720614"
+  }
+]

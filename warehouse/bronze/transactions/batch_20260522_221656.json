@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8746a467-7d9e-461c-9daa-73ca495f94cb",
+    "user_id": "c5aadf75-3889-4c8f-b5ad-1c37f7f6ed3a",
+    "amount": 8447.86,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Deborah",
+    "timestamp": "2026-05-22T22:16:51.115665"
+  },
+  {
+    "transaction_id": "c06f3ef9-ef42-406a-a245-61e7553e4c51",
+    "user_id": "14d1d4b3-ab99-4386-9492-9843befd82c7",
+    "amount": 6605.72,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Fosterberg",
+    "timestamp": "2026-05-22T22:16:51.617196"
+  },
+  {
+    "transaction_id": "45bac5dc-bd0a-4090-a67e-c49e0e8d5444",
+    "user_id": "ff4bf68d-87e9-4b5a-b2ed-269dca2175f5",
+    "amount": 1513.39,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Franklinview",
+    "timestamp": "2026-05-22T22:16:52.118797"
+  },
+  {
+    "transaction_id": "8a923c67-c633-4403-8a2a-de869eea5325",
+    "user_id": "227d3a72-7cb4-4b8a-a25c-2d8d4e789c92",
+    "amount": 9852.38,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Johnsontown",
+    "timestamp": "2026-05-22T22:16:52.620248"
+  },
+  {
+    "transaction_id": "523a0864-ee25-40a2-8cc6-10956834a467",
+    "user_id": "acaea75c-3654-4d15-b8bd-dbd4c2cef768",
+    "amount": 4852.46,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Trevorborough",
+    "timestamp": "2026-05-22T22:16:53.121702"
+  },
+  {
+    "transaction_id": "10a48ca3-d904-4209-a8c6-98d1cf1a66c9",
+    "user_id": "040b70ef-7975-4a9c-9977-b72564fe33e2",
+    "amount": 7669.89,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Daltonfurt",
+    "timestamp": "2026-05-22T22:16:53.623185"
+  },
+  {
+    "transaction_id": "80e81fb0-a318-4ed9-beb8-247e01c08691",
+    "user_id": "b450a897-2de0-4f5c-8c83-d121ba0cb5bb",
+    "amount": 1689.96,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New David",
+    "timestamp": "2026-05-22T22:16:54.627086"
+  },
+  {
+    "transaction_id": "74c0f201-6082-4ad3-9d8a-485a909c79c1",
+    "user_id": "c61d2b7b-d936-48a6-9e23-7506ba409fcd",
+    "amount": 4563.46,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Stephaniemouth",
+    "timestamp": "2026-05-22T22:16:55.128835"
+  },
+  {
+    "transaction_id": "d2194ecc-f9dd-4e55-b8b3-fd1778ef4643",
+    "user_id": "5e957a13-112e-4ef1-a594-f2ec40a4aba6",
+    "amount": 7824.4,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Jacobmouth",
+    "timestamp": "2026-05-22T22:16:55.630508"
+  },
+  {
+    "transaction_id": "7fc0e8e8-2389-446a-bcf5-b6a2896ed0bd",
+    "user_id": "0dbd6fb0-f934-427f-8add-cb7f465e576b",
+    "amount": 5044.32,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Howellton",
+    "timestamp": "2026-05-22T22:16:56.134979"
+  }
+]

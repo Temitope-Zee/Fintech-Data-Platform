@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "05966e53-4275-4670-a766-1ea04ecc7bf3",
+    "user_id": "6d96b2a9-e1b9-4fc3-ae0d-639f5cff141f",
+    "amount": 5997.86,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Michaelport",
+    "timestamp": "2026-05-22T23:03:49.459546"
+  },
+  {
+    "transaction_id": "858c6e9b-8149-4f10-8cc4-80f8f5a7e621",
+    "user_id": "5a32bf6a-b67e-45d3-9e5e-2dce81e97fd9",
+    "amount": 5981.45,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Tinaton",
+    "timestamp": "2026-05-22T23:03:49.961982"
+  },
+  {
+    "transaction_id": "9285144e-14ef-4bed-a6fe-b56dc23dba8f",
+    "user_id": "3952b5f1-88bf-4ed5-ac70-9ed1342ce960",
+    "amount": 9964.86,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jasonchester",
+    "timestamp": "2026-05-22T23:03:50.463007"
+  },
+  {
+    "transaction_id": "fce39f3b-814c-4d7a-ad39-8661e58a5f40",
+    "user_id": "5713a7b7-d9ce-4610-be19-6ca3cb81514c",
+    "amount": 9789.63,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Farmermouth",
+    "timestamp": "2026-05-22T23:03:51.465881"
+  },
+  {
+    "transaction_id": "41c0f611-25af-443b-be57-2f6fcdc842b8",
+    "user_id": "3f5effc1-20a6-4e9d-913e-c99cfa8924fb",
+    "amount": 6446.43,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Dana",
+    "timestamp": "2026-05-22T23:03:51.966845"
+  },
+  {
+    "transaction_id": "7b61d5c5-cac8-4bbc-8a56-e5d77ad40210",
+    "user_id": "65f79a13-e8f5-465a-a7a8-7d04ab9596f1",
+    "amount": 1335.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jesusbury",
+    "timestamp": "2026-05-22T23:03:52.468802"
+  },
+  {
+    "transaction_id": "4dfdd105-e86a-4173-945e-a4236e984b0c",
+    "user_id": "98c5cd84-36a5-44e6-807c-c37ffd08cc5a",
+    "amount": 3104.8,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jonesburgh",
+    "timestamp": "2026-05-22T23:03:52.971475"
+  },
+  {
+    "transaction_id": "2e535ebf-6b30-4169-bdf4-72c89d3d8b2a",
+    "user_id": "abf9a9c7-0780-4240-8c13-39f22dc25daf",
+    "amount": 865.95,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Bradfordbury",
+    "timestamp": "2026-05-22T23:03:53.474487"
+  },
+  {
+    "transaction_id": "6f3e1220-92e7-41dc-b48d-5feba22e31a4",
+    "user_id": "f6137043-c21b-47b7-91de-004ec54fb230",
+    "amount": 7424.95,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Hillstad",
+    "timestamp": "2026-05-22T23:03:53.977772"
+  },
+  {
+    "transaction_id": "56040209-cc84-46ad-982b-d659e87c86df",
+    "user_id": "9ddf7cf2-3289-4a16-8f04-e118bc0a0ee3",
+    "amount": 1974.15,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Smithfort",
+    "timestamp": "2026-05-22T23:03:54.479738"
+  }
+]

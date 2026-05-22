@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8042da59-f7ca-4e8e-bad6-89c025f0d0cd",
+    "user_id": "03f4f3c0-ed7e-4fd2-a771-50363fbbd47f",
+    "amount": 312.55,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Petersonburgh",
+    "timestamp": "2026-05-22T22:16:44.591728"
+  },
+  {
+    "transaction_id": "007c18ee-696c-4a34-b252-b2eb657f3341",
+    "user_id": "69b93840-006b-4398-a9b3-25dabb6477b5",
+    "amount": 6816.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Debbiechester",
+    "timestamp": "2026-05-22T22:16:45.597018"
+  },
+  {
+    "transaction_id": "db21ee63-9804-4ff2-8371-663419661a3a",
+    "user_id": "b0cf9aa7-52b6-4483-acd3-3f9939e318f2",
+    "amount": 6295.17,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Lindsayborough",
+    "timestamp": "2026-05-22T22:16:46.098359"
+  },
+  {
+    "transaction_id": "96d2c1d1-a472-4135-8c08-dfbbc712a7c7",
+    "user_id": "57e62d83-a6e2-47f2-a150-a970765d0d52",
+    "amount": 4264.71,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Richardchester",
+    "timestamp": "2026-05-22T22:16:46.599750"
+  },
+  {
+    "transaction_id": "e79e272a-1fa8-4817-bb55-4a8ab941bec0",
+    "user_id": "50a9380f-dc79-47de-911f-c4e262cd0261",
+    "amount": 5748.15,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Dawnside",
+    "timestamp": "2026-05-22T22:16:47.101457"
+  },
+  {
+    "transaction_id": "2b450c92-9e31-4374-9f5f-4c8ca032412e",
+    "user_id": "45bae847-6090-417d-9e08-95a2cdd41b45",
+    "amount": 4747.49,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Sharpburgh",
+    "timestamp": "2026-05-22T22:16:48.104358"
+  },
+  {
+    "transaction_id": "1f012372-ca84-4b9e-a9ba-07c12752567e",
+    "user_id": "5bd8caf7-ad86-4ca6-9915-5c609bfe7be9",
+    "amount": 518.07,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Victoria",
+    "timestamp": "2026-05-22T22:16:48.605730"
+  },
+  {
+    "transaction_id": "1dbe99c1-f2ab-4b07-8769-75a2893abd2b",
+    "user_id": "bdd538dc-e53e-4c3f-99db-c37b342e962c",
+    "amount": 1365.42,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Kylieside",
+    "timestamp": "2026-05-22T22:16:49.107426"
+  },
+  {
+    "transaction_id": "577dafd9-bc14-487d-8a35-ba3e9086a059",
+    "user_id": "5482154a-e30d-4060-a086-c2d2f2bd13b3",
+    "amount": 6145.1,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Mosesland",
+    "timestamp": "2026-05-22T22:16:49.610426"
+  },
+  {
+    "transaction_id": "9bd20c02-44bc-4156-ae12-b399de6eb1c0",
+    "user_id": "cdad76cd-74c6-4368-9f79-8a212505bc44",
+    "amount": 1234.69,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Charlesburgh",
+    "timestamp": "2026-05-22T22:16:50.614534"
+  }
+]

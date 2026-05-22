@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d87e1c22-7271-437a-8046-368fe0dc3c81",
+    "user_id": "7f49289f-c2dd-441a-8312-1efe50a488a3",
+    "amount": 1146.02,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Navarrochester",
+    "timestamp": "2026-05-22T22:27:15.652168"
+  },
+  {
+    "transaction_id": "1a8c04f8-2f5a-43b4-a1d4-55e6544c4128",
+    "user_id": "81cdd9f5-0248-439a-86bc-c8dae63b4892",
+    "amount": 8328.97,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Christopherbury",
+    "timestamp": "2026-05-22T22:27:16.153656"
+  },
+  {
+    "transaction_id": "68cddf56-7718-40b8-8d25-8df39eb4f1ae",
+    "user_id": "32305576-e1c1-4f5e-8513-93c94d5036e3",
+    "amount": 1869.33,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jennifertown",
+    "timestamp": "2026-05-22T22:27:16.656299"
+  },
+  {
+    "transaction_id": "a95353ac-3461-4528-b2b3-a65fa1651108",
+    "user_id": "60013e2b-606c-492e-8786-31c865976f70",
+    "amount": 6488.14,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Erinmouth",
+    "timestamp": "2026-05-22T22:27:17.158322"
+  },
+  {
+    "transaction_id": "6f057de5-c1d9-4ac7-a41b-b95804644ac0",
+    "user_id": "fafd144e-8731-41a1-97be-f2d84473adcf",
+    "amount": 2346.56,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jamestown",
+    "timestamp": "2026-05-22T22:27:17.660156"
+  },
+  {
+    "transaction_id": "b4ed7f6d-06f1-44f4-9593-2a2fe2136450",
+    "user_id": "166af935-601d-4833-b3e3-e4bfb493ce0d",
+    "amount": 1730.18,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Jeffrey",
+    "timestamp": "2026-05-22T22:27:18.161385"
+  },
+  {
+    "transaction_id": "3181c7db-2ec4-4ef3-a1ed-c4f0310385e4",
+    "user_id": "12abf669-eb7c-4e9e-90cb-d7803950d100",
+    "amount": 3317.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Kellybury",
+    "timestamp": "2026-05-22T22:27:18.663282"
+  },
+  {
+    "transaction_id": "9b567e50-2b0d-4815-b48c-7c06a5531d37",
+    "user_id": "3b68cdf3-63f7-4eb1-bd0b-105d6599f8e5",
+    "amount": 4434.53,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:27:19.166108"
+  },
+  {
+    "transaction_id": "a07d34a9-baf8-43b7-a14e-c1702152725d",
+    "user_id": "1aa0110f-44c9-471a-9a9d-af5839700ec9",
+    "amount": 7480.49,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Desireehaven",
+    "timestamp": "2026-05-22T22:27:19.669198"
+  },
+  {
+    "transaction_id": "28f42cc7-8ce2-493f-8f63-f387873bb7e4",
+    "user_id": "3eca315f-68ce-42d2-a0ca-bab78de6b01a",
+    "amount": 1927.87,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Aliciahaven",
+    "timestamp": "2026-05-22T22:27:20.171212"
+  }
+]

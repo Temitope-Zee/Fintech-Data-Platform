@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1ab62fde-2bf1-4c50-9eef-54c00568901c",
+    "user_id": "adf9c33c-3e15-41c7-ad7d-4e14ef9e634e",
+    "amount": 6053.39,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Kimberlyland",
+    "timestamp": "2026-05-22T22:04:30.169020"
+  },
+  {
+    "transaction_id": "0324fa47-dc6a-43e4-912a-3c5068745a75",
+    "user_id": "14a5d3d5-98bc-4ebe-932c-5abb014c6bd0",
+    "amount": 4566.48,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Stokesmouth",
+    "timestamp": "2026-05-22T22:04:30.671400"
+  },
+  {
+    "transaction_id": "54677f02-b426-44e6-9723-efe361d4b82b",
+    "user_id": "61b0ddf8-441f-4995-8ac1-a11e29a3d2ae",
+    "amount": 4980.34,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Feliciaview",
+    "timestamp": "2026-05-22T22:04:31.173845"
+  },
+  {
+    "transaction_id": "7481782c-a8fc-4bca-a095-434a7d42881f",
+    "user_id": "27eda5f4-fc68-41d5-8558-b3f2e68f3093",
+    "amount": 9321.83,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Alexis",
+    "timestamp": "2026-05-22T22:04:31.676557"
+  },
+  {
+    "transaction_id": "6cba603e-5b12-4ded-bb88-668045049279",
+    "user_id": "d5cd2a12-faea-43a6-8690-c2cda2f1e87e",
+    "amount": 2629.91,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Kristyshire",
+    "timestamp": "2026-05-22T22:04:32.179463"
+  },
+  {
+    "transaction_id": "115432f4-1d82-4df8-9fb9-50bb7f3b4606",
+    "user_id": "c2b7e5d9-b359-4b87-bcf1-845ea20d78ad",
+    "amount": 458.78,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Cookhaven",
+    "timestamp": "2026-05-22T22:04:32.680838"
+  },
+  {
+    "transaction_id": "d6d8980c-1442-4239-9604-c983cafb9b66",
+    "user_id": "2e583495-5723-46da-9030-eb88f51c5105",
+    "amount": 6913.67,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Stephanieland",
+    "timestamp": "2026-05-22T22:04:33.182851"
+  },
+  {
+    "transaction_id": "eb31e187-4553-4728-b5dd-1eafa93234fa",
+    "user_id": "6557969f-a9ac-49ca-bf29-20a282fa0482",
+    "amount": 802.13,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Alvarezville",
+    "timestamp": "2026-05-22T22:04:34.190055"
+  },
+  {
+    "transaction_id": "3e1aa4dd-6c21-4fe2-81e3-a45bc247d46f",
+    "user_id": "f9524744-f9ee-4e9f-9284-ecd0dd9187fb",
+    "amount": 7444.53,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Rodriguezland",
+    "timestamp": "2026-05-22T22:04:35.195183"
+  },
+  {
+    "transaction_id": "111e100c-3ff8-4612-937e-24ba1cd5b4bc",
+    "user_id": "ae374c03-6a3b-45d0-9920-0777feb1f1c1",
+    "amount": 4678.72,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Danaview",
+    "timestamp": "2026-05-22T22:04:35.697772"
+  }
+]

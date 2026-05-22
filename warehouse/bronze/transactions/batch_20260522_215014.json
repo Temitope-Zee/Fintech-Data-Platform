@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bb819a89-1643-4d5f-908b-320befc9ae37",
+    "user_id": "d3b87c36-6744-4a11-aa1f-bba83cc2761a",
+    "amount": 185.91,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Apriltown",
+    "timestamp": "2026-05-22T21:50:09.640839"
+  },
+  {
+    "transaction_id": "2630031b-1f26-4f55-b07a-df255c57797b",
+    "user_id": "e32a1a13-d73d-4025-aeda-734121637814",
+    "amount": 9000.45,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Cooperville",
+    "timestamp": "2026-05-22T21:50:10.142326"
+  },
+  {
+    "transaction_id": "a90bae40-b188-4aa5-9d32-6022401ea16e",
+    "user_id": "85b7b015-33a9-4517-889a-aee30968ddea",
+    "amount": 2066.6,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Paulland",
+    "timestamp": "2026-05-22T21:50:10.643626"
+  },
+  {
+    "transaction_id": "c916ea06-a454-4073-9a00-6dd5fc2cc33e",
+    "user_id": "acdf4205-1b05-4b8b-9c9c-a90158d79ecb",
+    "amount": 8700.59,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Stuartfurt",
+    "timestamp": "2026-05-22T21:50:11.144850"
+  },
+  {
+    "transaction_id": "86591729-a162-4775-a8d4-6cc2d9957953",
+    "user_id": "8a4439f7-1266-4a68-ad07-05fed3f76d85",
+    "amount": 3752.79,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jonathanburgh",
+    "timestamp": "2026-05-22T21:50:11.646727"
+  },
+  {
+    "transaction_id": "6f124a5f-fe73-40b8-bdda-991a32fe7fb6",
+    "user_id": "4b397725-d313-447f-adfe-4c88c22cbc7e",
+    "amount": 2999.86,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Andreabury",
+    "timestamp": "2026-05-22T21:50:12.147781"
+  },
+  {
+    "transaction_id": "99e750aa-9e14-4834-81cc-4ace182c1a74",
+    "user_id": "8d330859-7c42-459d-a5a5-35e2deb1e665",
+    "amount": 1589.38,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Markstad",
+    "timestamp": "2026-05-22T21:50:12.649006"
+  },
+  {
+    "transaction_id": "9a93342e-fdb2-40ae-a509-46a6afecbbd8",
+    "user_id": "0543bed7-be75-437d-ab3e-95350864d183",
+    "amount": 6717.39,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Tammychester",
+    "timestamp": "2026-05-22T21:50:13.150039"
+  },
+  {
+    "transaction_id": "3cc2e348-aa56-4469-827e-fee6675d929e",
+    "user_id": "3399c6b0-44d7-4a00-bb37-845617456d57",
+    "amount": 6721.93,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Stephanie",
+    "timestamp": "2026-05-22T21:50:14.151996"
+  },
+  {
+    "transaction_id": "4e32b8d1-9993-4ddf-be04-a6152c7aa36e",
+    "user_id": "5e65b2ee-84c3-42d9-8cab-257d19bab0c7",
+    "amount": 1594.95,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Taylorfort",
+    "timestamp": "2026-05-22T21:50:14.653136"
+  }
+]

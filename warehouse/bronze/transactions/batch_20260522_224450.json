@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ede71e69-b8f9-435f-8b84-69582b90ebe6",
+    "user_id": "c6c6566b-d083-4802-8ae6-af98e0191e6a",
+    "amount": 4849.9,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Desireehaven",
+    "timestamp": "2026-05-22T22:44:44.087302"
+  },
+  {
+    "transaction_id": "d6067bc0-a620-4fc3-bdb0-bd2e21d8c0e7",
+    "user_id": "32b35cd9-a98f-4df9-8707-aa0e5f13a8c4",
+    "amount": 6017.02,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Sara",
+    "timestamp": "2026-05-22T22:44:45.092859"
+  },
+  {
+    "transaction_id": "a85d6705-efe1-46d3-b5dd-b9487d2e2853",
+    "user_id": "78917e6c-13cf-43be-ac9a-7874e0766422",
+    "amount": 2244.69,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Paulaside",
+    "timestamp": "2026-05-22T22:44:45.595726"
+  },
+  {
+    "transaction_id": "a39565b1-ff66-48d1-8fb0-d6c2dcda67bf",
+    "user_id": "8bb5589f-16bb-463b-a2dd-92a5fa88f5ae",
+    "amount": 1679.19,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Cummingsville",
+    "timestamp": "2026-05-22T22:44:46.599031"
+  },
+  {
+    "transaction_id": "90a32ba3-ac0b-407c-94bd-962959907e8f",
+    "user_id": "c7c26717-954e-408f-85c9-dd2b7c1d3360",
+    "amount": 6495.86,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Stevenstad",
+    "timestamp": "2026-05-22T22:44:47.102457"
+  },
+  {
+    "transaction_id": "698652d9-284c-4989-b92a-a9f0e07e7880",
+    "user_id": "1516ea0a-58a6-4447-98c0-093d0121441c",
+    "amount": 5117.23,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Josephbury",
+    "timestamp": "2026-05-22T22:44:47.605199"
+  },
+  {
+    "transaction_id": "76beb110-fdb4-4642-b366-abedab891277",
+    "user_id": "9b331ee3-27fc-4a08-abed-f9c9d0661110",
+    "amount": 3556.64,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Kristie",
+    "timestamp": "2026-05-22T22:44:48.608651"
+  },
+  {
+    "transaction_id": "7e909c49-8ba9-4189-8497-46e659927ea1",
+    "user_id": "926cca44-acb5-44d4-9c8d-5a6743eedd0e",
+    "amount": 2582.33,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Jefferyton",
+    "timestamp": "2026-05-22T22:44:49.110580"
+  },
+  {
+    "transaction_id": "a5143d42-8e3b-420e-a77a-579b14fc20b8",
+    "user_id": "89f94585-5f83-4423-8bfd-d0677984e839",
+    "amount": 5262.85,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Stephanietown",
+    "timestamp": "2026-05-22T22:44:49.612550"
+  },
+  {
+    "transaction_id": "754a422b-d7f9-42ce-aeb5-e893a5dd7715",
+    "user_id": "abf78900-b8cf-4a55-8dd7-a9665c50818c",
+    "amount": 9538.87,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Rogersville",
+    "timestamp": "2026-05-22T22:44:50.115758"
+  }
+]

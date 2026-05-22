@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a7b760f4-de9d-41b6-b92e-87eba41ffb27",
+    "user_id": "51bbe202-822b-49b2-92e4-8cdd7e220124",
+    "amount": 9487.34,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Paulstad",
+    "timestamp": "2026-05-22T22:06:55.252043"
+  },
+  {
+    "transaction_id": "0f8440b9-38da-4fb7-9db5-629b6f7b335a",
+    "user_id": "963bbc70-46f4-4945-b5af-33606e8a7a18",
+    "amount": 5193.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Seanchester",
+    "timestamp": "2026-05-22T22:06:55.753597"
+  },
+  {
+    "transaction_id": "36e898b1-a1a2-4df3-81db-d6e5ef7786a5",
+    "user_id": "3eed32c0-5cdd-4ca8-bcab-daf0f9927c61",
+    "amount": 5390.38,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jonesfurt",
+    "timestamp": "2026-05-22T22:06:56.255188"
+  },
+  {
+    "transaction_id": "1bedbe17-e0e4-46b0-b6b2-9a0015bc0ea6",
+    "user_id": "b94805f5-3fbe-4bf2-9e83-e3e4b2d1f6bc",
+    "amount": 9006.2,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Samuelbury",
+    "timestamp": "2026-05-22T22:06:56.756699"
+  },
+  {
+    "transaction_id": "61348bc9-bad8-405d-b24e-f9d6d750797b",
+    "user_id": "c14d1dba-d95f-41c0-898e-01fa0a53eefa",
+    "amount": 7868.75,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Ronald",
+    "timestamp": "2026-05-22T22:06:57.258139"
+  },
+  {
+    "transaction_id": "157fa285-5901-40a3-9023-644f29b32a3b",
+    "user_id": "51cc7309-abed-43cc-a3b8-b80ff1fb5c4a",
+    "amount": 5247.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Lauraport",
+    "timestamp": "2026-05-22T22:06:57.761248"
+  },
+  {
+    "transaction_id": "e20deb3f-b66a-441a-84ce-42923a9f4ce0",
+    "user_id": "95818dee-ec52-48a7-9c6a-8d530a1d2bf9",
+    "amount": 5002.97,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Steve",
+    "timestamp": "2026-05-22T22:06:58.262738"
+  },
+  {
+    "transaction_id": "1a02a98d-7f7d-4387-8435-c0dcf0e8c821",
+    "user_id": "e4df6107-2f71-4369-bf45-1c4eae1df22d",
+    "amount": 3175.15,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Priscillaville",
+    "timestamp": "2026-05-22T22:06:58.764547"
+  },
+  {
+    "transaction_id": "b32955b5-3f9c-4e18-83f6-5d37ba14d5e5",
+    "user_id": "56ae97b7-3419-49e9-b9d3-23a05f027128",
+    "amount": 6177.32,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Samanthaberg",
+    "timestamp": "2026-05-22T22:06:59.266400"
+  },
+  {
+    "transaction_id": "b0713249-ff9a-44b1-9441-0d0b5a1371fc",
+    "user_id": "fae7d6f3-baae-4586-8af6-23a24dec27e4",
+    "amount": 8773.02,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lindashire",
+    "timestamp": "2026-05-22T22:06:59.768824"
+  }
+]

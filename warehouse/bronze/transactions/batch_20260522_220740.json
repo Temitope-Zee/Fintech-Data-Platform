@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "482081a7-0909-426a-bbb2-86a0f891cca7",
+    "user_id": "d0975f02-6e95-4cbf-9cde-70d57625a655",
+    "amount": 8300.26,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Loveside",
+    "timestamp": "2026-05-22T22:07:36.428406"
+  },
+  {
+    "transaction_id": "57c51b79-61bc-47ca-a297-36158d8a6c55",
+    "user_id": "7b726320-1a77-4dea-8604-34483d4c3cdb",
+    "amount": 7723.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Brittanyburgh",
+    "timestamp": "2026-05-22T22:07:36.930683"
+  },
+  {
+    "transaction_id": "0cdcc13c-27e9-485b-83f6-2944dde97510",
+    "user_id": "687f8e5b-a151-4a6f-a2a9-1418f3c8176a",
+    "amount": 8244.87,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Marie",
+    "timestamp": "2026-05-22T22:07:37.436873"
+  },
+  {
+    "transaction_id": "bbf19da5-48f2-42f6-bd7f-ae3f119dce6b",
+    "user_id": "0f718f68-7690-4b82-abe9-bd64b6219aa2",
+    "amount": 8577.13,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Ryan",
+    "timestamp": "2026-05-22T22:07:37.938362"
+  },
+  {
+    "transaction_id": "639bb6d9-3e2d-453a-851a-7d326d1e2238",
+    "user_id": "cf956800-3058-4d68-8d61-eab58ce90f8d",
+    "amount": 6680.41,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Christine",
+    "timestamp": "2026-05-22T22:07:38.440297"
+  },
+  {
+    "transaction_id": "35511120-9a00-48da-9a3d-623c0875b2d5",
+    "user_id": "b395b951-c9a2-48ba-a1c1-67759f374719",
+    "amount": 8294.91,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Erinmouth",
+    "timestamp": "2026-05-22T22:07:38.942009"
+  },
+  {
+    "transaction_id": "238188d6-4716-4732-bcbb-30d315a60e5f",
+    "user_id": "1756a71a-2ec5-4d88-98f0-778c74dec811",
+    "amount": 5772.52,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Timport",
+    "timestamp": "2026-05-22T22:07:39.443375"
+  },
+  {
+    "transaction_id": "3d82a79b-1736-4bf3-a211-67c06c083851",
+    "user_id": "8c013ee4-90d7-44a6-b44f-842e6f45d528",
+    "amount": 7744.46,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Grantstad",
+    "timestamp": "2026-05-22T22:07:39.944892"
+  },
+  {
+    "transaction_id": "45caf44c-7e0e-4acc-a54e-7218dc6b7e91",
+    "user_id": "aaecb1cf-7714-4350-b26e-1bc95a53a0ed",
+    "amount": 4556.78,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Wesley",
+    "timestamp": "2026-05-22T22:07:40.443991"
+  },
+  {
+    "transaction_id": "1119b33d-1393-4a87-97bf-86367f75d0ac",
+    "user_id": "bdb5cfc0-4f14-4ab7-af1a-e6aec0c33bb2",
+    "amount": 5242.27,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Charlesfurt",
+    "timestamp": "2026-05-22T22:07:40.945584"
+  }
+]

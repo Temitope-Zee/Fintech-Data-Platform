@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0966be21-4ea5-45c0-87f8-2b724a8d81e5",
+    "user_id": "3699e257-e345-484e-9375-69b5397b3d8d",
+    "amount": 6076.26,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Robertmouth",
+    "timestamp": "2026-05-22T22:03:01.792185"
+  },
+  {
+    "transaction_id": "6f21dbce-8cec-4483-8221-d687c43cbee6",
+    "user_id": "214df603-4fdc-439f-a254-c49c0b28b6fa",
+    "amount": 4581.43,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Jimmy",
+    "timestamp": "2026-05-22T22:03:02.295383"
+  },
+  {
+    "transaction_id": "7d2a79c8-488c-4a6e-bba2-1e12ef323ccd",
+    "user_id": "abc54ab4-e901-4f9a-b438-b02677d453f6",
+    "amount": 6894.29,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Michaelchester",
+    "timestamp": "2026-05-22T22:03:02.797293"
+  },
+  {
+    "transaction_id": "b3adfdc6-4ee1-4b2c-94d8-b6906538cfe3",
+    "user_id": "7603c57e-ab44-4115-a464-c196bb815725",
+    "amount": 1120.98,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Michael",
+    "timestamp": "2026-05-22T22:03:03.299240"
+  },
+  {
+    "transaction_id": "105c802e-aedd-41fb-8404-778e015cb80b",
+    "user_id": "700c5d3b-c871-47b3-ab05-898fa4f62199",
+    "amount": 5003.78,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Cooperfort",
+    "timestamp": "2026-05-22T22:03:03.801110"
+  },
+  {
+    "transaction_id": "26ad9343-5875-4742-81fa-3d7dbb851d0b",
+    "user_id": "f96b10cc-f1bb-49da-8274-9a4b30cd692a",
+    "amount": 6957.2,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Darrellville",
+    "timestamp": "2026-05-22T22:03:04.302648"
+  },
+  {
+    "transaction_id": "338f256f-3581-42fe-a857-34e0d6496caf",
+    "user_id": "7b37d1f3-cfbf-4ea6-94ce-47f59d38f7b5",
+    "amount": 8926.65,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Coffeyview",
+    "timestamp": "2026-05-22T22:03:04.804245"
+  },
+  {
+    "transaction_id": "d3a92828-1622-445f-a4e8-34022f1db091",
+    "user_id": "b4b61176-221f-4004-824f-91e5308a3408",
+    "amount": 6014.04,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Jamesside",
+    "timestamp": "2026-05-22T22:03:05.808545"
+  },
+  {
+    "transaction_id": "ab5b4eca-8834-43d0-b6c8-db9078be3cf2",
+    "user_id": "41ffc6dd-7c45-400d-b8f1-51ab1a5a4963",
+    "amount": 2480.55,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Howard",
+    "timestamp": "2026-05-22T22:03:06.311716"
+  },
+  {
+    "transaction_id": "72e84c3a-a9f1-4d7f-89dd-f176b8f1ef49",
+    "user_id": "ceaee7e5-7811-4f9e-b851-fbbba59d2eb7",
+    "amount": 7084.76,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Victoria",
+    "timestamp": "2026-05-22T22:03:06.813245"
+  }
+]

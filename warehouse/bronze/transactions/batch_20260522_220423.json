@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b08099b2-a26a-46cd-829d-28aa57279a0a",
+    "user_id": "e013b2af-246e-4502-937d-d8fd34d2b517",
+    "amount": 5859.98,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Johnhaven",
+    "timestamp": "2026-05-22T22:04:19.126535"
+  },
+  {
+    "transaction_id": "5594a463-d40e-4671-87d4-43303c97581e",
+    "user_id": "14fed60f-ff10-47fc-bf59-561ca595ad7f",
+    "amount": 3290.87,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Jonathan",
+    "timestamp": "2026-05-22T22:04:19.628024"
+  },
+  {
+    "transaction_id": "98ff8dc5-7c5b-4a05-b6ab-922738f97b9a",
+    "user_id": "6188bbe1-59d7-413b-b3a4-04f067ee2a08",
+    "amount": 7861.44,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Leslieton",
+    "timestamp": "2026-05-22T22:04:20.129517"
+  },
+  {
+    "transaction_id": "ef55479d-583f-4289-b0d9-c69b9e3c2ab0",
+    "user_id": "ce039422-943f-4d4d-9beb-2442b45a2144",
+    "amount": 848.12,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Loganbury",
+    "timestamp": "2026-05-22T22:04:20.630794"
+  },
+  {
+    "transaction_id": "c3871e48-d694-43b7-aba2-82cf75274783",
+    "user_id": "2989f181-d1a9-4322-a8dc-faec93113893",
+    "amount": 3085.39,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Geraldport",
+    "timestamp": "2026-05-22T22:04:21.132102"
+  },
+  {
+    "transaction_id": "e5920374-441e-4f67-93a2-022075e3df9f",
+    "user_id": "b8ed9a4b-e1e5-446c-b065-d8e864f28576",
+    "amount": 1573.83,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Pamelaview",
+    "timestamp": "2026-05-22T22:04:21.633342"
+  },
+  {
+    "transaction_id": "12188bc7-197e-4486-b155-2bcbeb529820",
+    "user_id": "72592c04-0b18-465e-8e77-c5156ab16e84",
+    "amount": 5484.96,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Collinsshire",
+    "timestamp": "2026-05-22T22:04:22.135980"
+  },
+  {
+    "transaction_id": "dbe22c16-b9e6-47f3-9855-bd2b3a759687",
+    "user_id": "55e063ef-29b6-4cf9-a1f4-d111808b0e1c",
+    "amount": 9918.92,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Alishaport",
+    "timestamp": "2026-05-22T22:04:22.637484"
+  },
+  {
+    "transaction_id": "51e695e0-9838-4749-b22b-aaf0162a576d",
+    "user_id": "cf393433-5413-43dd-b5fb-c5dd8a33a3ce",
+    "amount": 6267.15,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Jessica",
+    "timestamp": "2026-05-22T22:04:23.139359"
+  },
+  {
+    "transaction_id": "e7a8ef29-44d1-4ab9-afa1-e57c8a805999",
+    "user_id": "7798de65-dea8-4a51-9fa4-8f0e0b50602a",
+    "amount": 4533.67,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Jessicafurt",
+    "timestamp": "2026-05-22T22:04:23.642654"
+  }
+]

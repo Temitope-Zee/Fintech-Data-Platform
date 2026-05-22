@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a5016b8d-2803-4026-8c69-96bba548f261",
+    "user_id": "aa1a9a2f-71af-4e0a-a351-06d36c8f6af5",
+    "amount": 9400.89,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lindseystad",
+    "timestamp": "2026-05-22T22:30:50.078659"
+  },
+  {
+    "transaction_id": "fb0299a0-c03a-42fe-af76-730936fc4096",
+    "user_id": "9fad09c0-f606-4c0a-a243-c794fc285024",
+    "amount": 8275.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Thomashaven",
+    "timestamp": "2026-05-22T22:30:51.083521"
+  },
+  {
+    "transaction_id": "b7a7e422-b8b1-4ef3-8404-368c60ec82a5",
+    "user_id": "bd905dd4-5d98-4aae-8eef-fa3c57625a43",
+    "amount": 4270.82,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Karenmouth",
+    "timestamp": "2026-05-22T22:30:51.585773"
+  },
+  {
+    "transaction_id": "8712725a-6434-406c-bb0e-666dfe86e415",
+    "user_id": "3db5098b-c2fa-428f-9a60-fae50c249e88",
+    "amount": 2956.43,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Delgadomouth",
+    "timestamp": "2026-05-22T22:30:52.092852"
+  },
+  {
+    "transaction_id": "d9b361a2-ac5b-4228-becb-9ce461727e3f",
+    "user_id": "fbe6b845-7093-4c72-a92d-c8f8931ba9a7",
+    "amount": 7632.21,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Adamfurt",
+    "timestamp": "2026-05-22T22:30:52.594339"
+  },
+  {
+    "transaction_id": "0f7afa85-d1a8-4c2c-bea8-f2e87f0d48e9",
+    "user_id": "a072d059-e018-48b1-bffe-ba548ffb2525",
+    "amount": 4846.76,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Isaiah",
+    "timestamp": "2026-05-22T22:30:53.096781"
+  },
+  {
+    "transaction_id": "b9ae48ab-9609-48b6-ae72-fc96ca2e7909",
+    "user_id": "b54da02c-b124-4b7b-a3a6-8e137e3d7b0d",
+    "amount": 2134.06,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Brookemouth",
+    "timestamp": "2026-05-22T22:30:53.598162"
+  },
+  {
+    "transaction_id": "ad9ab239-593a-4329-ae61-cff13f6b889b",
+    "user_id": "11812a9e-e4cb-4f19-b263-8e6f55c8fe6e",
+    "amount": 8371.89,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Valerie",
+    "timestamp": "2026-05-22T22:30:54.101417"
+  },
+  {
+    "transaction_id": "149383f4-483d-46ed-9cfb-dc492f6faae1",
+    "user_id": "290eee96-4199-4ccc-bd3f-0a0dbc070907",
+    "amount": 5982.38,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Lauren",
+    "timestamp": "2026-05-22T22:30:55.104771"
+  },
+  {
+    "transaction_id": "973f664f-90a8-4d60-9203-a80eb0813f5b",
+    "user_id": "8518ff8f-8c46-417d-9ece-ed7fd6d72730",
+    "amount": 3315.92,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Franciscotown",
+    "timestamp": "2026-05-22T22:30:55.606704"
+  }
+]

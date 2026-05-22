@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "119070ca-a60c-41fc-b7c2-7b8f94cf4872",
+    "user_id": "e56b7359-d62a-4f5a-b12d-513458b100d3",
+    "amount": 8409.67,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Taylorhaven",
+    "timestamp": "2026-05-22T21:59:57.549606"
+  },
+  {
+    "transaction_id": "cc40f9a7-e082-45cd-bcfc-2ad9fabe4636",
+    "user_id": "107666ba-c724-4498-82c0-396cd939ef00",
+    "amount": 1112.24,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Melindaville",
+    "timestamp": "2026-05-22T21:59:58.051299"
+  },
+  {
+    "transaction_id": "f84ca79e-e6b5-4cdc-83d0-8e9ae7fe3c29",
+    "user_id": "b31dd9fe-918e-4851-88d5-18a3abc8fd3a",
+    "amount": 5567.63,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Rossburgh",
+    "timestamp": "2026-05-22T21:59:58.554362"
+  },
+  {
+    "transaction_id": "99f0986e-4caf-407a-b424-a8162f499846",
+    "user_id": "c9571634-6c6a-4802-bfe3-0abdc43bc47b",
+    "amount": 4502.87,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Donald",
+    "timestamp": "2026-05-22T21:59:59.057280"
+  },
+  {
+    "transaction_id": "80d50939-4766-449e-a01d-fc03b86a6c24",
+    "user_id": "f048f14d-6c60-41ca-bfe1-1f03a299ff26",
+    "amount": 3134.22,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Mcdanielstad",
+    "timestamp": "2026-05-22T21:59:59.559309"
+  },
+  {
+    "transaction_id": "fedfcf82-11ae-4286-a1c4-92a36f11e8a6",
+    "user_id": "4eecbc12-d6a2-4637-87d7-c121a7ea5001",
+    "amount": 5798.59,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Prestonstad",
+    "timestamp": "2026-05-22T22:00:00.060724"
+  },
+  {
+    "transaction_id": "91c0cd29-eb6e-4428-9989-be54e53caa1f",
+    "user_id": "5a325a23-4311-4efe-a27c-38abb2d44ac5",
+    "amount": 3510.4,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Walter",
+    "timestamp": "2026-05-22T22:00:00.563659"
+  },
+  {
+    "transaction_id": "08b1bead-d4b7-48c8-8929-26c0828d6d09",
+    "user_id": "19b6aa83-6e18-4ced-bd81-9f95a48a7cf4",
+    "amount": 5890.35,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Sanchezview",
+    "timestamp": "2026-05-22T22:00:01.066345"
+  },
+  {
+    "transaction_id": "0b716b0f-6516-4b6d-96ef-cfbe9696055f",
+    "user_id": "ca8aaf33-00cf-4aec-a448-a8f76c0df3e8",
+    "amount": 4389.68,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Smithton",
+    "timestamp": "2026-05-22T22:00:02.070528"
+  },
+  {
+    "transaction_id": "5ea47748-5042-46a6-9214-e381fa2a620c",
+    "user_id": "f5dd4380-43a1-4d22-bdbb-080dc6ad0794",
+    "amount": 6626.73,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Brownhaven",
+    "timestamp": "2026-05-22T22:00:03.074990"
+  }
+]

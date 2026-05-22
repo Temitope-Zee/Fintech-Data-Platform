@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4483a5db-3656-4c35-9436-0e41803a154f",
+    "user_id": "8eaff15d-379f-4020-a0e9-11b1763ce7da",
+    "amount": 6039.98,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Victoriaview",
+    "timestamp": "2026-05-22T22:01:40.441453"
+  },
+  {
+    "transaction_id": "ef471ab3-1166-4bab-bf87-2e8764a3809d",
+    "user_id": "3370ef24-8ce2-4fef-b58d-02f39612de64",
+    "amount": 7110.1,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Richardfort",
+    "timestamp": "2026-05-22T22:01:40.943150"
+  },
+  {
+    "transaction_id": "959baab8-c546-4fa5-a04b-a0b6c854d297",
+    "user_id": "a83f2687-c6ae-4281-bb99-fed2d7cdecdc",
+    "amount": 3227.01,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Karenmouth",
+    "timestamp": "2026-05-22T22:01:41.445189"
+  },
+  {
+    "transaction_id": "8b500269-d60b-4b8f-b47a-53e283a0c81c",
+    "user_id": "b87753db-8179-490a-9019-071b92969230",
+    "amount": 8016.67,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Cameron",
+    "timestamp": "2026-05-22T22:01:41.946541"
+  },
+  {
+    "transaction_id": "11f3fd82-0cea-49a9-bbe6-52383a5b819d",
+    "user_id": "eb2ba527-cc99-4107-95f9-eadc34351b80",
+    "amount": 4732.56,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Hutchinsonshire",
+    "timestamp": "2026-05-22T22:01:42.449683"
+  },
+  {
+    "transaction_id": "e8ffd97b-1137-47c6-8a5f-2e398de0f749",
+    "user_id": "55cdf05a-176c-4996-9b9e-ea94cb72b6d7",
+    "amount": 9519.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Lauraton",
+    "timestamp": "2026-05-22T22:01:42.951661"
+  },
+  {
+    "transaction_id": "02fc3107-0b55-4497-b853-a17d4a673d86",
+    "user_id": "feb80748-397c-4943-b37e-94de184a65a0",
+    "amount": 4982.02,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Smithside",
+    "timestamp": "2026-05-22T22:01:43.453237"
+  },
+  {
+    "transaction_id": "12954d07-dc74-44f6-9575-005c6d719ecd",
+    "user_id": "14f9ce62-d6f6-43f0-9b83-14643aa010c8",
+    "amount": 4407.7,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Rodney",
+    "timestamp": "2026-05-22T22:01:43.954712"
+  },
+  {
+    "transaction_id": "c4fcd689-89ab-4744-a31b-1e31d33ed914",
+    "user_id": "b33e2475-a928-4024-a85e-482f6e550d92",
+    "amount": 2639.3,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Johnmouth",
+    "timestamp": "2026-05-22T22:01:44.957224"
+  },
+  {
+    "transaction_id": "4ff9e4b8-88e9-4c65-9e63-192c268aaf20",
+    "user_id": "ba274f81-9d5c-4fc1-8391-dfaab880c3c2",
+    "amount": 1382.08,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Spencerville",
+    "timestamp": "2026-05-22T22:01:45.460481"
+  }
+]

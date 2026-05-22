@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "837948b8-11de-4d22-81dd-485b98931264",
+    "user_id": "6d174a1d-e989-44af-a781-6ba860722bde",
+    "amount": 2987.88,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Cunninghamton",
+    "timestamp": "2026-05-22T22:49:44.814930"
+  },
+  {
+    "transaction_id": "1528029a-ff52-4557-8170-5e00c74fb585",
+    "user_id": "5153f692-e707-49b2-b24c-0ef1324630bd",
+    "amount": 6707.25,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Nathanport",
+    "timestamp": "2026-05-22T22:49:45.316166"
+  },
+  {
+    "transaction_id": "af8bc68f-a33e-4a27-ae33-a9cdb2384171",
+    "user_id": "46b31dd6-5f3c-40cb-9fa8-22a12123ca99",
+    "amount": 9514.54,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Crystal",
+    "timestamp": "2026-05-22T22:49:45.818237"
+  },
+  {
+    "transaction_id": "714550f4-2a45-4cd0-b550-375599e6c26c",
+    "user_id": "94ca549c-e457-4454-9e6c-9aeac72b1257",
+    "amount": 6450.63,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Carlosberg",
+    "timestamp": "2026-05-22T22:49:46.321256"
+  },
+  {
+    "transaction_id": "d9838f5d-e879-4d8c-ae3b-575b6aaefe69",
+    "user_id": "b217d2c8-566f-486f-a99c-e8f3215ff7ce",
+    "amount": 280.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Penafort",
+    "timestamp": "2026-05-22T22:49:46.822992"
+  },
+  {
+    "transaction_id": "b8d32db1-58f4-455d-a633-7a6f720d5550",
+    "user_id": "dbdaa808-8470-4fbb-9500-841cb6340ed5",
+    "amount": 9011.47,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Melanieport",
+    "timestamp": "2026-05-22T22:49:47.324453"
+  },
+  {
+    "transaction_id": "dae6dc19-b0d3-46e7-a123-455b77b652b6",
+    "user_id": "acbfdbea-8cd2-4d3e-a250-e63942c27ccc",
+    "amount": 8202.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Nashberg",
+    "timestamp": "2026-05-22T22:49:48.330119"
+  },
+  {
+    "transaction_id": "adf626d9-874a-4e25-9917-4720d42e00f2",
+    "user_id": "d770ac90-c72b-47de-88aa-9c4db447f9c0",
+    "amount": 9350.27,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Wilkinsbury",
+    "timestamp": "2026-05-22T22:49:48.831931"
+  },
+  {
+    "transaction_id": "69d11890-db19-46b8-bc5e-f2ad8336fb1a",
+    "user_id": "1c3e7dbc-f9e9-4b74-9f5d-7ac04e7d0ee6",
+    "amount": 1699.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Oconnellmouth",
+    "timestamp": "2026-05-22T22:49:49.334847"
+  },
+  {
+    "transaction_id": "c1b5759e-bb26-4088-ad2c-9a8f1001f549",
+    "user_id": "d92a5a07-f497-4338-9ae8-3771295b93a5",
+    "amount": 1263.87,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Brucefurt",
+    "timestamp": "2026-05-22T22:49:49.836737"
+  }
+]

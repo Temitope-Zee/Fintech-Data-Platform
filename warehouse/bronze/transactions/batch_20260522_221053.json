@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5083d045-8b9c-47a4-994c-6358eed63cb8",
+    "user_id": "ec1ff7c7-4825-478c-91a1-bbd3f66afa01",
+    "amount": 8627.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Baldwinburgh",
+    "timestamp": "2026-05-22T22:10:45.683538"
+  },
+  {
+    "transaction_id": "980a5641-8023-438b-8419-e3dfb44bfd8c",
+    "user_id": "463c7c69-3183-449d-9dd7-7ac8f74aee81",
+    "amount": 5567.56,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Derek",
+    "timestamp": "2026-05-22T22:10:46.687727"
+  },
+  {
+    "transaction_id": "acd3b4bd-d87b-48f3-b7da-bca4eefd9067",
+    "user_id": "a23de3fa-a053-432c-bfa9-2968ab810a68",
+    "amount": 7254.51,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Jesseburgh",
+    "timestamp": "2026-05-22T22:10:47.188998"
+  },
+  {
+    "transaction_id": "2fe86f2b-69ed-476d-b51b-bd9e13c0ee0c",
+    "user_id": "507a5c6f-f1b3-4a18-8fbe-77f2f2581f62",
+    "amount": 433.64,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Donaldhaven",
+    "timestamp": "2026-05-22T22:10:48.191290"
+  },
+  {
+    "transaction_id": "cb68e3ef-417c-47b3-bd10-cd84ab7f4cba",
+    "user_id": "7cfb570f-369b-42b6-bcfd-8e4b8d37c999",
+    "amount": 3954.71,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Eddie",
+    "timestamp": "2026-05-22T22:10:50.198398"
+  },
+  {
+    "transaction_id": "5d7f1575-6982-43a0-9fcd-f843c41eeecb",
+    "user_id": "2734a137-31a9-44f0-adaa-61fe33ae6f50",
+    "amount": 8474.43,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Samuelchester",
+    "timestamp": "2026-05-22T22:10:50.699735"
+  },
+  {
+    "transaction_id": "bbee9474-42b6-4822-8af4-9a2c78f41b4b",
+    "user_id": "8431ea6c-38ce-4792-88f1-3d03e4e3a5ad",
+    "amount": 4717.64,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Patriciaborough",
+    "timestamp": "2026-05-22T22:10:51.200962"
+  },
+  {
+    "transaction_id": "478bf654-421d-43d4-94ed-21fa64454400",
+    "user_id": "8aef51b9-7164-4168-92a7-9e516092d016",
+    "amount": 263.22,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Walterborough",
+    "timestamp": "2026-05-22T22:10:52.204046"
+  },
+  {
+    "transaction_id": "4f8419ac-af6a-402b-9857-7fd29a680a48",
+    "user_id": "97456aca-1558-461f-8505-1660c4decfbb",
+    "amount": 6260.2,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Jenniferfort",
+    "timestamp": "2026-05-22T22:10:52.706594"
+  },
+  {
+    "transaction_id": "a6b7e8ea-cfe3-48ce-8175-c021012ff10d",
+    "user_id": "db873871-aacc-4076-b3af-3ff1431391a1",
+    "amount": 7251.73,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Sabrinabury",
+    "timestamp": "2026-05-22T22:10:53.208510"
+  }
+]

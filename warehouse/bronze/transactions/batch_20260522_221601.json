@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b49653c0-3289-40b2-b759-a799476d2bc9",
+    "user_id": "0d1dad0e-1384-44bc-8718-bd310c452a67",
+    "amount": 3698.27,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Elizabeth",
+    "timestamp": "2026-05-22T22:15:55.386378"
+  },
+  {
+    "transaction_id": "2ade83cd-3ea5-4842-bdaf-8e856b430e3e",
+    "user_id": "7d29217e-ebbb-42ba-b509-12db24e9cd49",
+    "amount": 2867.1,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Berryport",
+    "timestamp": "2026-05-22T22:15:55.888119"
+  },
+  {
+    "transaction_id": "0bee88c9-0eb4-416d-b1be-7747963b985d",
+    "user_id": "e308937b-eab1-469d-9ed7-6d4266280c70",
+    "amount": 8172.44,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Gomezhaven",
+    "timestamp": "2026-05-22T22:15:56.389424"
+  },
+  {
+    "transaction_id": "223b2556-61ae-43ae-8b55-b74fd97b19b7",
+    "user_id": "0ee8488e-3025-4084-8fd3-53eaf6dc5468",
+    "amount": 9154.03,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Teresaland",
+    "timestamp": "2026-05-22T22:15:56.890499"
+  },
+  {
+    "transaction_id": "d6ad51f4-27f4-497e-b020-d72571584107",
+    "user_id": "76db2f62-0e32-4a72-b64a-c6b32320dadb",
+    "amount": 7552.0,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Rogerside",
+    "timestamp": "2026-05-22T22:15:57.392719"
+  },
+  {
+    "transaction_id": "19687304-b91d-49f4-b61e-0bf1db01162d",
+    "user_id": "af526714-ffeb-48d9-a6b1-d1c7fadab48f",
+    "amount": 8364.11,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Harrisonburgh",
+    "timestamp": "2026-05-22T22:15:57.895465"
+  },
+  {
+    "transaction_id": "aab1fa3f-2783-4385-ae6e-61a5198a383f",
+    "user_id": "b6f54f92-8f08-494f-a214-c39718a7bf94",
+    "amount": 613.83,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Stephanietown",
+    "timestamp": "2026-05-22T22:15:58.397151"
+  },
+  {
+    "transaction_id": "47d9d7d7-b37c-4dfe-a279-af2a10646317",
+    "user_id": "ca4685a8-50b3-47e3-903b-adf05ebeef31",
+    "amount": 7830.65,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Angela",
+    "timestamp": "2026-05-22T22:15:58.900193"
+  },
+  {
+    "transaction_id": "4c7b9af7-a042-4236-9200-75a5f0d83ab9",
+    "user_id": "96c77f38-c334-4299-8735-a5b5ba5fde19",
+    "amount": 2466.87,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Espinozaborough",
+    "timestamp": "2026-05-22T22:15:59.905017"
+  },
+  {
+    "transaction_id": "a242f7d5-d385-4fb0-9c5a-24dcc6c40856",
+    "user_id": "3b531e1a-6c99-4753-8965-713187308ccb",
+    "amount": 3693.6,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Stevenville",
+    "timestamp": "2026-05-22T22:16:01.914157"
+  }
+]

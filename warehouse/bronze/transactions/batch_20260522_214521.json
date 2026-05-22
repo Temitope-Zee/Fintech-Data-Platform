@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "60ca9416-3179-464a-9b2e-52f650f07cde",
+    "user_id": "def1b186-09cf-48ef-95fb-ebe959eee364",
+    "amount": 9311.29,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Adam",
+    "timestamp": "2026-05-22T21:45:17.463860"
+  },
+  {
+    "transaction_id": "6c075352-88af-4cba-8a40-f67965c6dcf5",
+    "user_id": "57e91c0d-4f98-478f-8798-514cbf03ef8e",
+    "amount": 2167.57,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Karen",
+    "timestamp": "2026-05-22T21:45:17.966468"
+  },
+  {
+    "transaction_id": "de377341-8b21-4074-a47e-3e6d795828b7",
+    "user_id": "b9331e3d-64a8-442c-a093-e8a449c9158f",
+    "amount": 6432.09,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Jay",
+    "timestamp": "2026-05-22T21:45:18.467809"
+  },
+  {
+    "transaction_id": "57129a79-e952-4916-a18c-39d12fdff8f7",
+    "user_id": "a011ac5e-a569-4456-89d6-7213dc4f8808",
+    "amount": 1249.33,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Christyfort",
+    "timestamp": "2026-05-22T21:45:18.969639"
+  },
+  {
+    "transaction_id": "12b2d040-78bc-4bc5-a568-99ddf635ec4f",
+    "user_id": "3a0750fe-cee2-4f41-9284-ed62062f5899",
+    "amount": 9612.91,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Christinaview",
+    "timestamp": "2026-05-22T21:45:19.472271"
+  },
+  {
+    "transaction_id": "bd41926f-52cb-40f9-ae7f-5ae6f8653275",
+    "user_id": "d295ba16-10b2-4e62-9e3e-e4c4a9ef367f",
+    "amount": 3601.5,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Michael",
+    "timestamp": "2026-05-22T21:45:19.973631"
+  },
+  {
+    "transaction_id": "d88c06e2-5562-438b-b6d0-8afab116cada",
+    "user_id": "4b3ba551-376c-404f-b532-dfc6bc1c004e",
+    "amount": 491.96,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Steventon",
+    "timestamp": "2026-05-22T21:45:20.475802"
+  },
+  {
+    "transaction_id": "16072af4-250d-4829-80cd-ef01a19278e5",
+    "user_id": "12aca9fb-e0dd-4861-a110-e76788325f42",
+    "amount": 5822.24,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Danielborough",
+    "timestamp": "2026-05-22T21:45:20.977699"
+  },
+  {
+    "transaction_id": "05ac1c1d-f2eb-46cc-bcd1-fe7a353933f7",
+    "user_id": "56de49bd-1d77-4c37-9c8d-e1e6babc1550",
+    "amount": 9633.01,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Breannaport",
+    "timestamp": "2026-05-22T21:45:21.480251"
+  },
+  {
+    "transaction_id": "393c9ecc-7319-4faf-9d69-60c790a71194",
+    "user_id": "445de03c-21e8-4284-8396-9d7826940278",
+    "amount": 8625.76,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bradberg",
+    "timestamp": "2026-05-22T21:45:21.982509"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d4c69e96-ed32-4def-b4c2-de4f11e0f70a",
+    "user_id": "7a088b6b-68bc-4b0c-b7bc-4124f32d2e50",
+    "amount": 8287.8,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Adamburgh",
+    "timestamp": "2026-05-22T22:08:39.189608"
+  },
+  {
+    "transaction_id": "0ec00250-b59c-4639-8ea9-c5250128cca3",
+    "user_id": "b75cbf14-f28f-47b6-a097-328d54da701a",
+    "amount": 6497.09,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Ann",
+    "timestamp": "2026-05-22T22:08:39.691528"
+  },
+  {
+    "transaction_id": "32b8bdba-fc6a-4db4-a366-7de9bcec89c3",
+    "user_id": "b140072e-54ae-4e90-b3fa-12c18ccc35b1",
+    "amount": 7573.26,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Pamelaview",
+    "timestamp": "2026-05-22T22:08:40.193037"
+  },
+  {
+    "transaction_id": "ed31ad89-b624-4a4b-aeb1-d3e8d3b04e74",
+    "user_id": "63775469-ea23-4d38-a3fc-9dbea4b3afb1",
+    "amount": 8729.95,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Chelseabury",
+    "timestamp": "2026-05-22T22:08:40.690867"
+  },
+  {
+    "transaction_id": "0731bd6e-b862-4bdc-b6f9-7780a8c9f9a9",
+    "user_id": "86293820-4a17-4066-9219-666dad519340",
+    "amount": 8782.29,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Crystal",
+    "timestamp": "2026-05-22T22:08:41.697412"
+  },
+  {
+    "transaction_id": "44d7510e-f5f7-4575-bf47-f271180d072e",
+    "user_id": "33a58810-ff30-4522-a0b4-ddbec2140387",
+    "amount": 6574.27,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Erinhaven",
+    "timestamp": "2026-05-22T22:08:42.199649"
+  },
+  {
+    "transaction_id": "89e66f6d-3a23-4d3b-ba4c-a090851ba59e",
+    "user_id": "d133f5a2-92e1-490f-95f4-62261aaf9919",
+    "amount": 6162.3,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Peterbury",
+    "timestamp": "2026-05-22T22:08:43.202612"
+  },
+  {
+    "transaction_id": "633ea849-b0a4-42dc-9f08-c2a216177f16",
+    "user_id": "b4450bf7-21b0-4108-90d5-7decaabd9340",
+    "amount": 2437.19,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Neilton",
+    "timestamp": "2026-05-22T22:08:43.704036"
+  },
+  {
+    "transaction_id": "c82ecab6-262c-4bc7-8f77-728e3141c16a",
+    "user_id": "574aa535-f65b-4e55-83a4-a3548e49d744",
+    "amount": 2230.09,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Griffinshire",
+    "timestamp": "2026-05-22T22:08:44.207158"
+  },
+  {
+    "transaction_id": "d2b396d6-608e-43f4-a4c4-7d55bda39643",
+    "user_id": "72e6c778-6a28-4f42-9d0e-0223643c82aa",
+    "amount": 1833.69,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Westview",
+    "timestamp": "2026-05-22T22:08:44.708669"
+  }
+]

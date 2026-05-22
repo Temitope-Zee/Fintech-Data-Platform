@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "62882a74-a2e8-48c6-bf92-61d850fe27a5",
+    "user_id": "ef27e112-c46a-41c5-9717-67b2e36d41e3",
+    "amount": 2012.47,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Alex",
+    "timestamp": "2026-05-22T22:43:23.787131"
+  },
+  {
+    "transaction_id": "d1fb09dc-1270-46c9-86ae-f48ff7730388",
+    "user_id": "d00d743d-d824-4d33-9082-75e4897ccf3b",
+    "amount": 6264.68,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Daniel",
+    "timestamp": "2026-05-22T22:43:24.290219"
+  },
+  {
+    "transaction_id": "2bcb103d-0522-419c-b851-22bbd6e52039",
+    "user_id": "0a4b6628-b3c3-44ac-b23a-9438cb8a48fa",
+    "amount": 8785.03,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Smithtown",
+    "timestamp": "2026-05-22T22:43:25.295408"
+  },
+  {
+    "transaction_id": "202c01d0-2e6b-460e-bcd1-d252de89909b",
+    "user_id": "3c6c5714-2dac-4927-a2a2-1789bcef0bfd",
+    "amount": 6443.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Grace",
+    "timestamp": "2026-05-22T22:43:25.796944"
+  },
+  {
+    "transaction_id": "03bad2d9-01ad-45f3-956d-f98be8415143",
+    "user_id": "6399dcf5-0e63-4f11-a67a-bdeab0944cfa",
+    "amount": 5375.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Johnfort",
+    "timestamp": "2026-05-22T22:43:26.299290"
+  },
+  {
+    "transaction_id": "974765e6-92b4-4266-aeef-288fb1c89186",
+    "user_id": "719e713c-b5cf-4cbf-978f-19cad2dcc37f",
+    "amount": 1157.6,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Emilyberg",
+    "timestamp": "2026-05-22T22:43:27.299372"
+  },
+  {
+    "transaction_id": "5ce4819b-3640-42b8-bbe8-a34373db2fb8",
+    "user_id": "0a835698-7374-4cda-b06b-ca8f88b8c13f",
+    "amount": 5000.14,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Jesseville",
+    "timestamp": "2026-05-22T22:43:27.800541"
+  },
+  {
+    "transaction_id": "19b00229-104d-4f9b-bb13-e1535ba2c58a",
+    "user_id": "79b61bf1-b051-4f09-8f27-cbbde11ef3d5",
+    "amount": 1102.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Whitney",
+    "timestamp": "2026-05-22T22:43:28.301750"
+  },
+  {
+    "transaction_id": "9a5457bc-3f67-44e5-a98b-2714e7ab24f3",
+    "user_id": "ee4dc704-a9e1-4729-98d4-d957bc18c66f",
+    "amount": 7494.21,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Brooke",
+    "timestamp": "2026-05-22T22:43:28.803111"
+  },
+  {
+    "transaction_id": "7c077706-2085-4337-a939-35083c2b208c",
+    "user_id": "8f4f5602-8961-443b-88b9-f27c43169e57",
+    "amount": 5698.2,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Ashleyton",
+    "timestamp": "2026-05-22T22:43:29.304546"
+  }
+]

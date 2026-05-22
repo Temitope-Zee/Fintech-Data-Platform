@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b5ce2349-9cdc-4510-8630-0e5ecc6b476c",
+    "user_id": "d6a048d8-8272-4f93-8f2b-f62dcffc25e1",
+    "amount": 5371.1,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Tonyabury",
+    "timestamp": "2026-05-22T21:46:34.792074"
+  },
+  {
+    "transaction_id": "142163b4-ee35-4042-b5d1-066df77a1d93",
+    "user_id": "30e74ec3-1db8-49c8-80b0-a5bff5b1eff7",
+    "amount": 3759.77,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Marisamouth",
+    "timestamp": "2026-05-22T21:46:35.293482"
+  },
+  {
+    "transaction_id": "08ed23aa-a958-4cc6-b427-562a8239e923",
+    "user_id": "1c6d43cf-d5dd-4294-815a-376edcf8b18a",
+    "amount": 3423.17,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Robertfurt",
+    "timestamp": "2026-05-22T21:46:35.795631"
+  },
+  {
+    "transaction_id": "33fe2b1c-493d-4444-af52-398f53c29663",
+    "user_id": "8f0305fa-0051-40f7-8904-16930c11f86a",
+    "amount": 6674.71,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Masonbury",
+    "timestamp": "2026-05-22T21:46:36.296675"
+  },
+  {
+    "transaction_id": "a4ef0fce-95c2-4e97-aa9f-46b7dfcf1404",
+    "user_id": "127dbad1-b5f6-4a5f-831c-589e6cc97a66",
+    "amount": 3123.01,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Ellisshire",
+    "timestamp": "2026-05-22T21:46:36.797706"
+  },
+  {
+    "transaction_id": "998fff3e-6d5e-4408-a2d8-64ac8d56bbd3",
+    "user_id": "c0286b3b-c1b2-42dc-a2b8-38c09282b2b1",
+    "amount": 2511.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Janetview",
+    "timestamp": "2026-05-22T21:46:37.299044"
+  },
+  {
+    "transaction_id": "0b39aef5-6908-41b1-a698-b80bbf43de9c",
+    "user_id": "f2e19a06-24f7-4863-9f5b-d9e8d54fa374",
+    "amount": 4806.94,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Lisaburgh",
+    "timestamp": "2026-05-22T21:46:37.800340"
+  },
+  {
+    "transaction_id": "29e90e40-f33f-4dd0-81f1-939df3358a8d",
+    "user_id": "ddea3da6-8c0b-456e-b833-bae84aa9bd7d",
+    "amount": 4812.82,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Cohenside",
+    "timestamp": "2026-05-22T21:46:38.301904"
+  },
+  {
+    "transaction_id": "e0d8ea75-6a43-4ac6-8012-1c74685abbc1",
+    "user_id": "1a663d46-1168-44e3-a678-a9c9b423a590",
+    "amount": 8585.52,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Michaelshire",
+    "timestamp": "2026-05-22T21:46:38.803625"
+  },
+  {
+    "transaction_id": "f5c0d508-7297-4086-a855-487fd598e419",
+    "user_id": "c9eafadd-bc2a-4992-8b7f-d4ff7abc2ffe",
+    "amount": 403.67,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Hodgesborough",
+    "timestamp": "2026-05-22T21:46:39.304971"
+  }
+]

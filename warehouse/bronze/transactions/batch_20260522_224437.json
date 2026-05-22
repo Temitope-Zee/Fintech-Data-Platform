@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b0a3ae78-a6fe-4af4-bf4f-443185e31181",
+    "user_id": "ee8d33e5-1eb4-44e3-b134-690ffea48bf0",
+    "amount": 1076.8,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Davidville",
+    "timestamp": "2026-05-22T22:44:31.535340"
+  },
+  {
+    "transaction_id": "eaf59fed-b0a5-40be-a6d7-eabf9f736164",
+    "user_id": "381eb8ca-f8f8-4b52-9850-a9d913dc444f",
+    "amount": 4743.16,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Tina",
+    "timestamp": "2026-05-22T22:44:32.036755"
+  },
+  {
+    "transaction_id": "edd24a0c-db47-4d28-8c52-8fc6645ff762",
+    "user_id": "0725e38f-59ef-46c6-8020-94136814c07f",
+    "amount": 2970.78,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Justintown",
+    "timestamp": "2026-05-22T22:44:33.040359"
+  },
+  {
+    "transaction_id": "35ce7485-29e0-4d18-bd0a-51902299e177",
+    "user_id": "45957388-6051-41de-a95e-98e9054d4b3f",
+    "amount": 5988.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jenkinsport",
+    "timestamp": "2026-05-22T22:44:33.541910"
+  },
+  {
+    "transaction_id": "9446971d-bb29-4f10-bd50-1b2f5955183a",
+    "user_id": "ec45c768-049f-47e1-a796-7369d4129919",
+    "amount": 944.94,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Vickiechester",
+    "timestamp": "2026-05-22T22:44:34.547817"
+  },
+  {
+    "transaction_id": "5c6d23e0-0ec2-46e0-bba6-c4bf823f6e00",
+    "user_id": "94628ca3-96d1-425a-bf2a-b20e5c8223b9",
+    "amount": 8177.87,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port John",
+    "timestamp": "2026-05-22T22:44:35.049224"
+  },
+  {
+    "transaction_id": "fda25e31-68fa-4ce5-81e3-1c0fb4f5bf46",
+    "user_id": "2937ef55-b0a4-4ffc-a3f7-2f7671d0bb97",
+    "amount": 4567.3,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Selena",
+    "timestamp": "2026-05-22T22:44:35.551270"
+  },
+  {
+    "transaction_id": "e34f68ff-ef01-47f9-be2e-694b293c1d64",
+    "user_id": "4e1bb87d-7c7b-418f-8fc0-cd17e21897d8",
+    "amount": 7692.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Gabrielside",
+    "timestamp": "2026-05-22T22:44:36.053627"
+  },
+  {
+    "transaction_id": "3314a057-b23b-4f82-a76a-54dde5dbd11c",
+    "user_id": "1ffb8bcf-c839-42c1-b31a-6c30f69a3c11",
+    "amount": 7626.55,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Melissafurt",
+    "timestamp": "2026-05-22T22:44:36.556485"
+  },
+  {
+    "transaction_id": "eeb7943d-b68c-455b-b9fa-d89c69db6941",
+    "user_id": "925f728a-7571-4622-aba3-65f3ea6d1fa1",
+    "amount": 7366.87,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Valerieberg",
+    "timestamp": "2026-05-22T22:44:37.058899"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "88cc7fd8-6f6d-46a9-944a-c038c223847d",
+    "user_id": "fb2a80ed-03f6-4b53-934e-e5a4862ae388",
+    "amount": 12.88,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Eddiebury",
+    "timestamp": "2026-05-22T22:24:07.453597"
+  },
+  {
+    "transaction_id": "b913cf21-c487-4d85-8555-0accfd4caa9c",
+    "user_id": "e79b0a0d-cd2f-4386-b805-70e3aa83612e",
+    "amount": 2524.2,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Heatherton",
+    "timestamp": "2026-05-22T22:24:08.457807"
+  },
+  {
+    "transaction_id": "1ad417d1-0031-4b0b-bc7d-180e788376a5",
+    "user_id": "5acc0363-a0c8-4de0-a18f-487853ba886c",
+    "amount": 7063.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Cooperfort",
+    "timestamp": "2026-05-22T22:24:08.959511"
+  },
+  {
+    "transaction_id": "6b07e413-f323-4e56-b7a0-a6231cef27e1",
+    "user_id": "31a91d36-efdf-431a-931b-09af280b0162",
+    "amount": 9231.11,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Comptonborough",
+    "timestamp": "2026-05-22T22:24:09.460936"
+  },
+  {
+    "transaction_id": "a059677c-3177-49b4-af9b-56543f8ab3fe",
+    "user_id": "36524cb4-b487-422c-b4b9-715c38c2bdb7",
+    "amount": 5063.39,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Dylanstad",
+    "timestamp": "2026-05-22T22:24:09.962349"
+  },
+  {
+    "transaction_id": "77e78200-938a-4221-b7e0-646e9c8b934b",
+    "user_id": "6c0d464f-15f7-4411-bfa7-438d35b6e30f",
+    "amount": 7296.44,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West David",
+    "timestamp": "2026-05-22T22:24:10.460571"
+  },
+  {
+    "transaction_id": "c2d10f58-4381-4946-ac61-a39c5409ee5f",
+    "user_id": "67013716-0ec3-4c47-b45f-64668e4d5b8b",
+    "amount": 5340.76,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Carterfort",
+    "timestamp": "2026-05-22T22:24:11.463880"
+  },
+  {
+    "transaction_id": "08f64e44-959c-4fec-84eb-f9aa9c82be09",
+    "user_id": "dabfc519-55ae-4cfb-8d6a-93551debd5cf",
+    "amount": 5034.8,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Crystal",
+    "timestamp": "2026-05-22T22:24:11.965604"
+  },
+  {
+    "transaction_id": "f9a928cb-8c65-43f2-8192-cf2ffafba2d7",
+    "user_id": "fafcbc10-6db6-4c98-9998-1eeaee430b04",
+    "amount": 6255.38,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Tammy",
+    "timestamp": "2026-05-22T22:24:12.468991"
+  },
+  {
+    "transaction_id": "5954e24a-5077-4ff5-81fc-3882f07c3a96",
+    "user_id": "119d2191-c947-4fb8-a634-710306228dea",
+    "amount": 1996.79,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Boyerton",
+    "timestamp": "2026-05-22T22:24:12.971376"
+  }
+]

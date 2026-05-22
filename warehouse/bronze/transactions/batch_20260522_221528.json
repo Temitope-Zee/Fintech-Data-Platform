@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8ae6e8da-94be-4b39-9e8f-1147a8c1e0a6",
+    "user_id": "e619a9ee-6ac2-474e-96a5-58319bb27f3e",
+    "amount": 3825.44,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Richard",
+    "timestamp": "2026-05-22T22:15:23.256581"
+  },
+  {
+    "transaction_id": "118f4c9c-3185-436e-ad08-9b192fa77c73",
+    "user_id": "23613e8c-79fb-4681-a191-850ce29fb826",
+    "amount": 4430.83,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Ronaldmouth",
+    "timestamp": "2026-05-22T22:15:23.758022"
+  },
+  {
+    "transaction_id": "43b4d342-b9dd-45c2-8d44-32176f583517",
+    "user_id": "8f2d9618-c5f5-4466-baf9-0300d258c724",
+    "amount": 761.31,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Carlostown",
+    "timestamp": "2026-05-22T22:15:24.761993"
+  },
+  {
+    "transaction_id": "24cedd08-3533-4fc9-937f-83fdb2db1927",
+    "user_id": "4468059c-ffca-4314-9d3f-98ad778c710b",
+    "amount": 8373.0,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Burgesschester",
+    "timestamp": "2026-05-22T22:15:25.263327"
+  },
+  {
+    "transaction_id": "51b346e8-f6cf-4823-ad8c-361c09f43083",
+    "user_id": "da1da785-0dd4-4e45-bfb9-cc1ca1bf2527",
+    "amount": 5818.35,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Cowanbury",
+    "timestamp": "2026-05-22T22:15:25.764468"
+  },
+  {
+    "transaction_id": "0a1680ba-1e5d-4a6b-aedd-23c02feb78c8",
+    "user_id": "2299b964-9725-460b-b531-b2d92c8ad50f",
+    "amount": 3080.95,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Peter",
+    "timestamp": "2026-05-22T22:15:26.266929"
+  },
+  {
+    "transaction_id": "41fa28cc-af34-4484-b20c-9beafae30eff",
+    "user_id": "7a531ce6-3f0e-4c8b-bb7e-1fa4bc3c7608",
+    "amount": 3992.86,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Cohentown",
+    "timestamp": "2026-05-22T22:15:26.768089"
+  },
+  {
+    "transaction_id": "3f40d441-682f-45b2-b8a5-0bc94a24f0a2",
+    "user_id": "3110f17b-0a4d-45ed-9c85-ca3a95eb3d4b",
+    "amount": 2279.36,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Norma",
+    "timestamp": "2026-05-22T22:15:27.269329"
+  },
+  {
+    "transaction_id": "ba677cd1-5889-42e9-9d30-b724682de997",
+    "user_id": "80911f10-7afb-41d3-8912-4a728e08cf2a",
+    "amount": 137.55,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Bairdfort",
+    "timestamp": "2026-05-22T22:15:27.772523"
+  },
+  {
+    "transaction_id": "c996d788-48ee-4443-8fbd-8dbca32b0e85",
+    "user_id": "4ab59340-21b3-412f-9627-9d7885154913",
+    "amount": 3475.54,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Ryanshire",
+    "timestamp": "2026-05-22T22:15:28.274874"
+  }
+]

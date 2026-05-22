@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "23bee2b4-840d-4d74-8083-1fe5925ae398",
+    "user_id": "d4468aa9-8b20-456d-bfd5-754ee1774df4",
+    "amount": 6310.05,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Nancytown",
+    "timestamp": "2026-05-22T23:00:24.372194"
+  },
+  {
+    "transaction_id": "013f2620-34e9-4821-b1fe-d988836943d0",
+    "user_id": "a393c84c-4916-4a65-865c-dcd3df645cb8",
+    "amount": 4748.79,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lawrencetown",
+    "timestamp": "2026-05-22T23:00:24.875489"
+  },
+  {
+    "transaction_id": "2d20d54c-f7d9-4e81-8685-468fa3b4085f",
+    "user_id": "757dbf83-86eb-4acd-80b3-77073da8e619",
+    "amount": 8355.55,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Brianchester",
+    "timestamp": "2026-05-22T23:00:25.377413"
+  },
+  {
+    "transaction_id": "01f0f0f7-2603-4d21-8653-fed7a46c3aab",
+    "user_id": "c3eb22b6-c14b-42e2-9696-b4d2c5e65a8b",
+    "amount": 6215.0,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Ethan",
+    "timestamp": "2026-05-22T23:00:25.878603"
+  },
+  {
+    "transaction_id": "ae2ca344-edbf-4891-8be6-770e1bd12359",
+    "user_id": "92c51777-e166-4267-89c7-a525533aaa32",
+    "amount": 9916.89,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Nancyberg",
+    "timestamp": "2026-05-22T23:00:26.881454"
+  },
+  {
+    "transaction_id": "91258585-4021-4020-ae3d-a76703f7fccc",
+    "user_id": "a25488bf-f6f3-4231-9151-f4f91796f4f6",
+    "amount": 3421.27,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Lee",
+    "timestamp": "2026-05-22T23:00:27.379100"
+  },
+  {
+    "transaction_id": "469f4788-71a0-460b-8056-4a36963f93b0",
+    "user_id": "27bc336b-6061-47ab-abe1-5d72a68a462a",
+    "amount": 8304.86,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Anthonyland",
+    "timestamp": "2026-05-22T23:00:27.880257"
+  },
+  {
+    "transaction_id": "61c897b8-798e-4fbf-9bd2-6962d1026062",
+    "user_id": "29d7db7a-94cb-4ff5-990d-17cf1cce4615",
+    "amount": 3622.45,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Charles",
+    "timestamp": "2026-05-22T23:00:28.884139"
+  },
+  {
+    "transaction_id": "5543fc4c-b6ad-4db8-9b9a-b5769d695045",
+    "user_id": "c5d9b591-cd69-40fc-98cb-4997f68d9727",
+    "amount": 8842.33,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Cameron",
+    "timestamp": "2026-05-22T23:00:29.385528"
+  },
+  {
+    "transaction_id": "10d0c464-dd93-4a94-82b5-f0dd90ec0e3e",
+    "user_id": "a7aae6b9-8908-4385-a79c-4bbb1cfa8f96",
+    "amount": 8256.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Elizabeth",
+    "timestamp": "2026-05-22T23:00:29.888130"
+  }
+]

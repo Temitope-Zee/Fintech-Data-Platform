@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8775968f-3a0a-45db-9ca3-733a6803bdd3",
+    "user_id": "0abebb2a-84da-433c-866e-4f7ea4e62eff",
+    "amount": 5335.54,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Aaron",
+    "timestamp": "2026-05-22T22:30:37.531314"
+  },
+  {
+    "transaction_id": "867103e3-a35a-4370-aa7f-f12ad63ca399",
+    "user_id": "acc87006-60b3-49f9-8185-d3ce4d3cabd0",
+    "amount": 5234.69,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lindabury",
+    "timestamp": "2026-05-22T22:30:38.033158"
+  },
+  {
+    "transaction_id": "fecc7e83-bef4-49ce-be20-59a7d825ad13",
+    "user_id": "011180ec-cd1f-4349-8450-41e710eda368",
+    "amount": 3753.12,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Rachel",
+    "timestamp": "2026-05-22T22:30:38.534901"
+  },
+  {
+    "transaction_id": "c0f63204-685d-4d17-a7a2-8d8fd22bc0ec",
+    "user_id": "45a2bd72-f6ce-4547-a70e-ec6e36708714",
+    "amount": 9097.66,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Amber",
+    "timestamp": "2026-05-22T22:30:39.038201"
+  },
+  {
+    "transaction_id": "ab5dc3ca-b1b4-4f84-8568-b291b89f1f6b",
+    "user_id": "acfd64c6-c4b5-4718-9a40-5067269553d1",
+    "amount": 3394.44,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Maryton",
+    "timestamp": "2026-05-22T22:30:39.539856"
+  },
+  {
+    "transaction_id": "7143dedf-6160-4ea6-b6c8-54a99b1de020",
+    "user_id": "937bb915-e5d7-423d-8822-8f6c5965129e",
+    "amount": 589.5,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Jonesmouth",
+    "timestamp": "2026-05-22T22:30:41.041367"
+  },
+  {
+    "transaction_id": "fc2dfecf-2863-4d9d-ac2b-22fc0ac17a22",
+    "user_id": "7d61d7fa-3626-4b68-808e-b2c4d6c89886",
+    "amount": 4460.61,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Brittneyport",
+    "timestamp": "2026-05-22T22:30:41.542907"
+  },
+  {
+    "transaction_id": "6f02b2ed-dc58-483e-8a73-1313dd18d826",
+    "user_id": "676ad0c0-328f-4f26-9e93-fb55ab7e335a",
+    "amount": 8085.96,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Sara",
+    "timestamp": "2026-05-22T22:30:42.044721"
+  },
+  {
+    "transaction_id": "e4a5d025-1aee-4083-8558-e8726289c30a",
+    "user_id": "17fdfcd2-df46-49b3-922e-9212ca827351",
+    "amount": 8680.7,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Javier",
+    "timestamp": "2026-05-22T22:30:42.546341"
+  },
+  {
+    "transaction_id": "f024680b-d80e-4b9f-8541-53d62736036b",
+    "user_id": "69b61482-6cf2-4aa1-98e0-f62aad33ffbb",
+    "amount": 5289.15,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Garymouth",
+    "timestamp": "2026-05-22T22:30:43.047964"
+  }
+]

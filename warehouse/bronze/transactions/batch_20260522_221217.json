@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "beb6d56e-c9c6-48cf-a363-a32058fb8461",
+    "user_id": "b4ca8bf9-8bc0-4014-a483-57a45a7e14cc",
+    "amount": 1570.26,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Tamarashire",
+    "timestamp": "2026-05-22T22:12:11.495520"
+  },
+  {
+    "transaction_id": "9cdca389-31c1-4efa-b899-e773f9edc766",
+    "user_id": "4a201c5d-6149-4547-9a06-752c7c58e6c7",
+    "amount": 6017.54,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Michellebury",
+    "timestamp": "2026-05-22T22:12:13.002117"
+  },
+  {
+    "transaction_id": "c8c286eb-c0f8-4b8d-9c2f-6b35e498e3ea",
+    "user_id": "dc85029c-d64a-40c2-bf39-d2718581a6c4",
+    "amount": 9503.21,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jerryview",
+    "timestamp": "2026-05-22T22:12:13.504556"
+  },
+  {
+    "transaction_id": "db56fbd8-35dd-42a8-920e-8e7274ef2256",
+    "user_id": "a4266362-3fe3-479f-991a-0af1fcea6675",
+    "amount": 3961.87,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Bradyshire",
+    "timestamp": "2026-05-22T22:12:14.508251"
+  },
+  {
+    "transaction_id": "937b4ca8-8e97-469d-9938-b3621aa59550",
+    "user_id": "a3bd454e-9ddc-43f3-82a0-0a40fc000ba4",
+    "amount": 3744.63,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Tamaraside",
+    "timestamp": "2026-05-22T22:12:15.010619"
+  },
+  {
+    "transaction_id": "1cb10079-80bf-44bb-9e84-6003e683a765",
+    "user_id": "25d8fb42-32e0-4bbc-a27c-ae687dcc1ad7",
+    "amount": 8090.36,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Toddhaven",
+    "timestamp": "2026-05-22T22:12:15.512104"
+  },
+  {
+    "transaction_id": "ba4023b3-03e4-41de-9f47-ce7f649ce6ea",
+    "user_id": "f163fdd5-d93a-44b8-887e-c3516fc60ebf",
+    "amount": 4847.61,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Philip",
+    "timestamp": "2026-05-22T22:12:16.013613"
+  },
+  {
+    "transaction_id": "a9458f39-ebb5-4910-bee3-58639992901e",
+    "user_id": "35bb2473-476d-4ba0-8098-b84435817f5a",
+    "amount": 3616.8,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Nguyenbury",
+    "timestamp": "2026-05-22T22:12:16.515880"
+  },
+  {
+    "transaction_id": "5b7aa1f3-4a86-4f6e-845b-b0925fd0c760",
+    "user_id": "edccddd9-1e0a-4501-968c-2b7bba6be37f",
+    "amount": 7797.6,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Williamsbury",
+    "timestamp": "2026-05-22T22:12:17.017894"
+  },
+  {
+    "transaction_id": "f4f1f28b-32d7-4e06-905d-ceb3d4e2f6eb",
+    "user_id": "5d627f6b-e7e3-4cd6-92c5-0ebd699bcb41",
+    "amount": 8747.61,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Linda",
+    "timestamp": "2026-05-22T22:12:17.521160"
+  }
+]

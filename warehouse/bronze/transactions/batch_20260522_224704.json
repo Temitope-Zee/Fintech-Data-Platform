@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "15ec3f16-1382-4bf4-8e91-1bd32ef9cc9d",
+    "user_id": "ea8f1f35-2e83-4894-8fb0-66ac67506112",
+    "amount": 3012.36,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Brettfurt",
+    "timestamp": "2026-05-22T22:46:57.654759"
+  },
+  {
+    "transaction_id": "9191370a-16f3-4fe8-b016-103c2b8a67c2",
+    "user_id": "eb25590a-39c5-4903-a4b8-37d2541f744a",
+    "amount": 6233.58,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Millerfurt",
+    "timestamp": "2026-05-22T22:46:58.157450"
+  },
+  {
+    "transaction_id": "6fbf1be9-3bc6-4e76-a7f8-c25c1cb0eaf7",
+    "user_id": "c2540a66-64e5-429b-b487-4e1bf95df81a",
+    "amount": 4626.41,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ricktown",
+    "timestamp": "2026-05-22T22:46:58.660525"
+  },
+  {
+    "transaction_id": "9990935a-b16a-4f51-bd49-f21f230e34fd",
+    "user_id": "77cebb91-0e15-4dba-b0fa-77d5ce7eb2f7",
+    "amount": 2885.72,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Timothymouth",
+    "timestamp": "2026-05-22T22:46:59.163102"
+  },
+  {
+    "transaction_id": "5cb33915-77ea-4551-b21f-439dab9c2a62",
+    "user_id": "728701cc-f242-4921-820c-4b247a82dac8",
+    "amount": 1409.16,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Jimmy",
+    "timestamp": "2026-05-22T22:46:59.664913"
+  },
+  {
+    "transaction_id": "f246832f-732a-4d0c-9e1d-021202481836",
+    "user_id": "e2b86b4b-5012-48c6-9e8d-d06abd47eaa8",
+    "amount": 9020.91,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Briggsmouth",
+    "timestamp": "2026-05-22T22:47:00.166598"
+  },
+  {
+    "transaction_id": "dd1f4367-d936-455f-bcf5-d2186492c46a",
+    "user_id": "d2836d38-ac0e-4274-940a-7b27912bc35d",
+    "amount": 8725.12,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Reneemouth",
+    "timestamp": "2026-05-22T22:47:01.677807"
+  },
+  {
+    "transaction_id": "798c976c-8972-49af-be97-f551abfa302d",
+    "user_id": "f0ca2087-bd94-41b3-a62a-18395576db4e",
+    "amount": 3468.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Danielfurt",
+    "timestamp": "2026-05-22T22:47:03.182364"
+  },
+  {
+    "transaction_id": "441cf4d8-5857-4b17-aea0-b723c19a6a28",
+    "user_id": "b4203a5c-0568-40a0-9836-0dc729bb6b45",
+    "amount": 4015.09,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Ronaldmouth",
+    "timestamp": "2026-05-22T22:47:03.683851"
+  },
+  {
+    "transaction_id": "bc205be2-19f0-4bee-b83c-f702706089fe",
+    "user_id": "dc6e2178-e85b-498f-bdb3-15199ce314d4",
+    "amount": 6225.64,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Johnberg",
+    "timestamp": "2026-05-22T22:47:04.186767"
+  }
+]

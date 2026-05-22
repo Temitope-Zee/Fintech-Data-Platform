@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f9786c11-860d-47be-aaf3-67d4fa1cade1",
+    "user_id": "2ceaab65-4093-4d71-a314-1580e5190203",
+    "amount": 7119.24,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Cristianville",
+    "timestamp": "2026-05-22T22:55:06.150153"
+  },
+  {
+    "transaction_id": "3e773f98-6c57-4c60-b117-e4565a056c8b",
+    "user_id": "9f269365-be9f-4d60-9b29-168de10091be",
+    "amount": 8100.15,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Jacobtown",
+    "timestamp": "2026-05-22T22:55:06.653108"
+  },
+  {
+    "transaction_id": "ac50f860-9fa9-4fc5-bfa5-3a8084e7aca4",
+    "user_id": "3cabe347-5e60-4c28-a6be-4e7845b845a0",
+    "amount": 8224.3,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Michelleview",
+    "timestamp": "2026-05-22T22:55:07.155781"
+  },
+  {
+    "transaction_id": "06235adb-64a6-48e4-bbd8-dffe73c2a392",
+    "user_id": "a733c422-5b7a-4a31-ba73-66009455c39b",
+    "amount": 3640.1,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Lisa",
+    "timestamp": "2026-05-22T22:55:07.657791"
+  },
+  {
+    "transaction_id": "51391a58-1011-4cea-aca1-70746e3ef825",
+    "user_id": "2abb414e-fff9-4165-b0aa-359717fe151b",
+    "amount": 1182.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Pattonborough",
+    "timestamp": "2026-05-22T22:55:08.160809"
+  },
+  {
+    "transaction_id": "2dc8fa3f-faa3-4d42-91b8-a6d58dfefeb3",
+    "user_id": "e48c9f1f-b242-4349-8a89-3ff01b375c81",
+    "amount": 5558.87,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Jameshaven",
+    "timestamp": "2026-05-22T22:55:08.663755"
+  },
+  {
+    "transaction_id": "89b1fd92-b442-49a0-825c-128ff64ae2c4",
+    "user_id": "88b92c77-7f37-4f04-b913-1bac1e0a8fa9",
+    "amount": 8341.28,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Dianemouth",
+    "timestamp": "2026-05-22T22:55:09.166293"
+  },
+  {
+    "transaction_id": "16a9f44f-f303-44ee-9271-266699be6c35",
+    "user_id": "0959c656-b5a4-4c6c-bd76-6968eda5af72",
+    "amount": 9067.12,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Gibbsfurt",
+    "timestamp": "2026-05-22T22:55:09.667810"
+  },
+  {
+    "transaction_id": "3bdd6c6c-a842-4683-8dc1-82594f408a0c",
+    "user_id": "3c14681b-bd05-46c2-b92e-5648d565ed53",
+    "amount": 2588.72,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Desireechester",
+    "timestamp": "2026-05-22T22:55:10.170786"
+  },
+  {
+    "transaction_id": "6635628b-df68-49e9-a289-5fd5e566eca2",
+    "user_id": "d574918a-ed90-4b99-9f79-cd2067be863a",
+    "amount": 3162.21,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Mackenziestad",
+    "timestamp": "2026-05-22T22:55:10.673610"
+  }
+]

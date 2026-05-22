@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "11db3d2d-4214-4775-85f1-63ddc9709b57",
+    "user_id": "eea0e4d1-2e49-48d6-b46e-f775b0ef6717",
+    "amount": 9132.19,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Shelbyburgh",
+    "timestamp": "2026-05-22T22:25:09.681619"
+  },
+  {
+    "transaction_id": "58df66b4-1adf-487e-81ac-8be339ccedae",
+    "user_id": "85371118-ae2c-45e1-9a0c-9b474ba40559",
+    "amount": 8796.82,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Wolfeshire",
+    "timestamp": "2026-05-22T22:25:10.183390"
+  },
+  {
+    "transaction_id": "129fc359-5f10-4a25-8705-706175529297",
+    "user_id": "d2b802e5-63ae-47e4-861e-a70853fc4919",
+    "amount": 7536.01,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Colemanport",
+    "timestamp": "2026-05-22T22:25:10.681906"
+  },
+  {
+    "transaction_id": "987a03af-facf-4c83-aae7-9234c3df8ec6",
+    "user_id": "ee7e016a-3413-4245-abe4-b6310c410a33",
+    "amount": 8339.01,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Donna",
+    "timestamp": "2026-05-22T22:25:11.183787"
+  },
+  {
+    "transaction_id": "fd25fc47-0383-49ef-977a-74a9dfa562ad",
+    "user_id": "6bbcf6dc-0f7c-4a4d-84f7-db4c85a04e69",
+    "amount": 1390.46,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Derekmouth",
+    "timestamp": "2026-05-22T22:25:11.685183"
+  },
+  {
+    "transaction_id": "1cb8f991-b42f-46ab-af21-cfb76d9cd5ee",
+    "user_id": "44f7d3d4-5386-4809-b502-2d39a5ddeb21",
+    "amount": 1041.06,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Susanmouth",
+    "timestamp": "2026-05-22T22:25:12.186464"
+  },
+  {
+    "transaction_id": "c3eed3f5-3581-4c14-825e-10625ff1e847",
+    "user_id": "89b2d4b2-e2f8-4888-b555-68af71072fb2",
+    "amount": 4970.27,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Tuckermouth",
+    "timestamp": "2026-05-22T22:25:12.688007"
+  },
+  {
+    "transaction_id": "5cd0e01a-3176-4422-88ec-aac7b6f8a67f",
+    "user_id": "82bd418a-a221-4b34-aa64-e91e01f602f7",
+    "amount": 8550.79,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Monicabury",
+    "timestamp": "2026-05-22T22:25:13.190178"
+  },
+  {
+    "transaction_id": "5484ccb3-2caf-4c7a-88ac-a0684b82b4cf",
+    "user_id": "3d037307-baf6-45ec-8b6b-ee590fc56df8",
+    "amount": 944.6,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Crystalburgh",
+    "timestamp": "2026-05-22T22:25:13.691438"
+  },
+  {
+    "transaction_id": "96df0c9e-ba38-41de-b08e-351aaef6f4d1",
+    "user_id": "d6288480-48fa-4e1d-9f90-5db5cb7b9c90",
+    "amount": 8103.27,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Williamberg",
+    "timestamp": "2026-05-22T22:25:14.194371"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d711263-034b-4132-88b7-8cf0f04bcd2b",
+    "user_id": "2b687877-d8b3-479e-abe7-ec5682dc3864",
+    "amount": 3032.66,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Katieshire",
+    "timestamp": "2026-05-22T21:44:06.130096"
+  },
+  {
+    "transaction_id": "c42374ff-5893-4189-8758-a50860ee7216",
+    "user_id": "c35fc47b-9048-45d1-be92-ee45d4806188",
+    "amount": 3903.51,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Chaseborough",
+    "timestamp": "2026-05-22T21:44:06.631413"
+  },
+  {
+    "transaction_id": "1a39cddb-eac7-4899-a846-495fa5fb2afc",
+    "user_id": "e0a78755-d388-4fd3-84d1-241a9a946f54",
+    "amount": 6694.22,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Kinghaven",
+    "timestamp": "2026-05-22T21:44:07.132642"
+  },
+  {
+    "transaction_id": "85c30b51-130b-45c5-9988-cecb6572839b",
+    "user_id": "d6344f8c-1eda-4e35-bffe-47ee2736bb61",
+    "amount": 2750.05,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Russellfurt",
+    "timestamp": "2026-05-22T21:44:08.137318"
+  },
+  {
+    "transaction_id": "20d591cd-c9b0-4ef8-b42a-63de46690ddb",
+    "user_id": "a604687a-b0c4-436d-b5c4-46c185959f64",
+    "amount": 6376.09,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Brendachester",
+    "timestamp": "2026-05-22T21:44:08.640155"
+  },
+  {
+    "transaction_id": "58b02f3c-3807-4ac2-8951-b24d186b6891",
+    "user_id": "bc170aa7-b254-44da-ab71-b5f6b8a6cf19",
+    "amount": 9726.84,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Annafurt",
+    "timestamp": "2026-05-22T21:44:09.142902"
+  },
+  {
+    "transaction_id": "d92a5714-5f42-4b15-b41e-f8a1890adf24",
+    "user_id": "795ce101-55f3-4d00-90c1-9ece83a7ef6e",
+    "amount": 1992.11,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Austinville",
+    "timestamp": "2026-05-22T21:44:09.644406"
+  },
+  {
+    "transaction_id": "d4decc4b-fe4a-467f-b883-0675b6192115",
+    "user_id": "17a7426d-a8c8-4f2b-9c5f-ef2f7fbe3e01",
+    "amount": 9293.54,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Paulmouth",
+    "timestamp": "2026-05-22T21:44:10.147103"
+  },
+  {
+    "transaction_id": "44c71078-ba4d-4275-90d9-fb7c1792bfeb",
+    "user_id": "5bce1bfe-0298-4560-bb0a-77d49ff0e21f",
+    "amount": 5548.66,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Carlaview",
+    "timestamp": "2026-05-22T21:44:10.648648"
+  },
+  {
+    "transaction_id": "ef5437fe-e6ac-4db8-904d-87a5d1d1153c",
+    "user_id": "7bbb9f47-a95b-4336-9386-1b7c01465b1f",
+    "amount": 9121.54,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Waltonview",
+    "timestamp": "2026-05-22T21:44:11.151802"
+  }
+]

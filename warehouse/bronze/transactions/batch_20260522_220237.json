@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5df28479-4ead-4612-a1be-8bba3ca00bca",
+    "user_id": "a839b9a1-8237-47d8-a9da-a9b99b747574",
+    "amount": 6172.02,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Ricehaven",
+    "timestamp": "2026-05-22T22:02:30.161758"
+  },
+  {
+    "transaction_id": "c5ac9197-dc9a-4527-9eb8-53baf0bedff6",
+    "user_id": "7b7b486e-3b54-41b7-9569-e9974d70ba96",
+    "amount": 104.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Danielbury",
+    "timestamp": "2026-05-22T22:02:30.665086"
+  },
+  {
+    "transaction_id": "66acf9d0-abb5-4574-8ece-6720337b6e68",
+    "user_id": "437270a9-c204-4af5-903a-265998e6accb",
+    "amount": 2645.93,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Amber",
+    "timestamp": "2026-05-22T22:02:31.166656"
+  },
+  {
+    "transaction_id": "a6039ee0-e0c0-4923-a796-c00f888c93d3",
+    "user_id": "e9fdc099-5182-436f-a2a3-2423d9427e6e",
+    "amount": 5833.57,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Andresport",
+    "timestamp": "2026-05-22T22:02:31.669125"
+  },
+  {
+    "transaction_id": "8e7080ee-1b58-461d-b199-f529810fb71e",
+    "user_id": "dba8c08f-966c-4f35-a2c9-da10788555a4",
+    "amount": 6098.82,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Cynthia",
+    "timestamp": "2026-05-22T22:02:32.170750"
+  },
+  {
+    "transaction_id": "a8744f08-ec1c-4768-8d54-7b581abe25be",
+    "user_id": "bdcae27f-4b80-4d12-8bec-deccb22ca3e4",
+    "amount": 8188.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West David",
+    "timestamp": "2026-05-22T22:02:33.677513"
+  },
+  {
+    "transaction_id": "3e8fea13-7b7e-4342-aa86-889a1b440944",
+    "user_id": "a348ed48-6f44-4c51-ace2-d027636bc49d",
+    "amount": 5358.31,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Jordanshire",
+    "timestamp": "2026-05-22T22:02:34.179024"
+  },
+  {
+    "transaction_id": "7e220143-d1e8-4ad3-a5af-c6ff4ed5b9e6",
+    "user_id": "7f050c33-5a3a-4c62-bcd5-3071abff3515",
+    "amount": 3668.73,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Jessicaborough",
+    "timestamp": "2026-05-22T22:02:34.682439"
+  },
+  {
+    "transaction_id": "05ab4b7b-8bb6-45b1-9131-f33d795a3b6a",
+    "user_id": "1bd337ff-62f4-4883-98a5-9b2ec3bc8618",
+    "amount": 5349.75,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Wheelerchester",
+    "timestamp": "2026-05-22T22:02:36.689992"
+  },
+  {
+    "transaction_id": "7e438645-15ad-42f2-91c4-60d2f152e298",
+    "user_id": "60e59248-8374-46e2-89ac-65d00b440224",
+    "amount": 7354.66,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Murphytown",
+    "timestamp": "2026-05-22T22:02:37.191752"
+  }
+]

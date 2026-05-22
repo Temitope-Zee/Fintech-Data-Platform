@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "74f07f16-8d87-4370-b263-ca5b4219cc24",
+    "user_id": "a7890537-ab3f-42ca-b906-7f6c4d28a1e1",
+    "amount": 4817.02,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Stevensshire",
+    "timestamp": "2026-05-22T22:40:44.659326"
+  },
+  {
+    "transaction_id": "1fecef0b-2129-4146-b309-5311fe0a83ef",
+    "user_id": "85df5ca2-859f-4590-bdd0-3c3aa8634858",
+    "amount": 6214.96,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Carlhaven",
+    "timestamp": "2026-05-22T22:40:45.161976"
+  },
+  {
+    "transaction_id": "f4204427-1ead-430f-a0ed-f23cc64088bf",
+    "user_id": "c1cbd67d-8a7f-42b9-8766-462e746885aa",
+    "amount": 4771.11,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Julian",
+    "timestamp": "2026-05-22T22:40:45.663257"
+  },
+  {
+    "transaction_id": "311950a0-6215-48e5-a315-ce41074c6ab1",
+    "user_id": "5aa47307-bfa8-4553-a56d-46c81f4d730e",
+    "amount": 1152.51,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Kellyland",
+    "timestamp": "2026-05-22T22:40:46.164795"
+  },
+  {
+    "transaction_id": "9c19c441-5e6d-4034-87bf-253504308e4b",
+    "user_id": "043a249b-08be-4376-859f-b6d467e1cdc1",
+    "amount": 3140.9,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Jamesborough",
+    "timestamp": "2026-05-22T22:40:46.666688"
+  },
+  {
+    "transaction_id": "55cde5dd-f743-4051-adcc-725df8b39e2e",
+    "user_id": "b7cf34ee-5a87-4e3d-a253-6806032c5304",
+    "amount": 448.65,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Pittmanfurt",
+    "timestamp": "2026-05-22T22:40:47.168337"
+  },
+  {
+    "transaction_id": "0058b722-1cd2-4b9a-842f-216d27f81feb",
+    "user_id": "e502aba0-6e7b-4f4a-8a64-9b3efa13df1e",
+    "amount": 5959.65,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Sabrina",
+    "timestamp": "2026-05-22T22:40:47.671072"
+  },
+  {
+    "transaction_id": "029667cb-80c4-41c5-922a-ae5d690a363d",
+    "user_id": "49a84ba7-c828-4cd6-a2c0-a8e1490b7f95",
+    "amount": 2649.19,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Meyersmouth",
+    "timestamp": "2026-05-22T22:40:48.173507"
+  },
+  {
+    "transaction_id": "41f6d9c5-c8da-4ff6-ba03-4c61cd3a2986",
+    "user_id": "13016337-60c2-4538-8d6f-8aadbd6ce175",
+    "amount": 1855.9,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Vanessatown",
+    "timestamp": "2026-05-22T22:40:48.676547"
+  },
+  {
+    "transaction_id": "9c48156c-e0bc-4894-9cdd-6d211db6fbee",
+    "user_id": "aaec1588-4476-4961-9d10-dd525ffde884",
+    "amount": 9072.67,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Dillonbury",
+    "timestamp": "2026-05-22T22:40:49.178197"
+  }
+]

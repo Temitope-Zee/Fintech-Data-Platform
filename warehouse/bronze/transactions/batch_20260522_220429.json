@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9b65f69c-30f4-4911-a095-2c426583ac14",
+    "user_id": "22370cd1-137d-49d2-a0f0-3c76de3b74e3",
+    "amount": 7937.06,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Lucasshire",
+    "timestamp": "2026-05-22T22:04:24.143898"
+  },
+  {
+    "transaction_id": "2c2ec12c-e69c-4779-afe0-5891f1c01c85",
+    "user_id": "2471e682-b6f3-4718-8884-a22c6df7af3a",
+    "amount": 8757.66,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Coryport",
+    "timestamp": "2026-05-22T22:04:24.644878"
+  },
+  {
+    "transaction_id": "6e0518f9-455c-4110-9a5b-d9108c0333f2",
+    "user_id": "dcb52695-4422-4b49-9b91-cd96b7d02a1d",
+    "amount": 9702.36,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Moorefurt",
+    "timestamp": "2026-05-22T22:04:25.647746"
+  },
+  {
+    "transaction_id": "2502e3eb-8b99-405b-8075-027dbb840f04",
+    "user_id": "7f3ca817-cea9-4523-bfb0-2e56a948b622",
+    "amount": 5857.72,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Jerryland",
+    "timestamp": "2026-05-22T22:04:26.149272"
+  },
+  {
+    "transaction_id": "18a3f0b2-3956-4880-8046-454daae79cf5",
+    "user_id": "19cefe2d-8344-43f5-9304-371d8c97199e",
+    "amount": 3417.22,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Brianside",
+    "timestamp": "2026-05-22T22:04:26.651968"
+  },
+  {
+    "transaction_id": "38a0daaa-af73-41ba-b75b-bf7d24be3d9d",
+    "user_id": "749fef31-d1b8-4d86-8a96-f5a1b64dc354",
+    "amount": 272.45,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Kathyton",
+    "timestamp": "2026-05-22T22:04:27.153255"
+  },
+  {
+    "transaction_id": "8e3353da-15a6-46d7-b1f1-4de06d817ba5",
+    "user_id": "c9532285-1e87-4cb7-bb49-8caaae1a7abb",
+    "amount": 9586.51,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Michael",
+    "timestamp": "2026-05-22T22:04:27.655142"
+  },
+  {
+    "transaction_id": "dd712015-baf2-43dc-a184-28f749fa437b",
+    "user_id": "edf5c862-ff76-4fce-ac67-187883b3099c",
+    "amount": 9529.49,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Jesse",
+    "timestamp": "2026-05-22T22:04:28.157712"
+  },
+  {
+    "transaction_id": "de7c2021-4cd7-4a55-a26c-bfa61f8f3905",
+    "user_id": "89a2d960-8e27-42f0-acca-513c178f019d",
+    "amount": 2008.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Dariusberg",
+    "timestamp": "2026-05-22T22:04:28.660664"
+  },
+  {
+    "transaction_id": "759f3c63-546e-47f5-b372-c8b5cf097352",
+    "user_id": "4c6b5bd2-d927-4138-ae94-1908ba552b93",
+    "amount": 6359.98,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Casey",
+    "timestamp": "2026-05-22T22:04:29.666892"
+  }
+]

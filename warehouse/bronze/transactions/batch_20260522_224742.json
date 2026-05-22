@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6d8d1e3d-8802-429a-bc0c-463e16e2c696",
+    "user_id": "33c81678-e95f-4b64-98bf-ca65e889117c",
+    "amount": 5124.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Garcialand",
+    "timestamp": "2026-05-22T22:47:36.806027"
+  },
+  {
+    "transaction_id": "2d003d52-6efb-422d-bc7a-23bf53b6c3c4",
+    "user_id": "eafe9634-0b2c-4a94-a7e2-9b1b986ef005",
+    "amount": 6234.54,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Timothyton",
+    "timestamp": "2026-05-22T22:47:37.307438"
+  },
+  {
+    "transaction_id": "79af953c-029d-4464-93d1-073244f22c84",
+    "user_id": "bec72eab-3a44-4f52-bde9-5373c7c72afc",
+    "amount": 3684.26,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Ryanburgh",
+    "timestamp": "2026-05-22T22:47:37.809070"
+  },
+  {
+    "transaction_id": "e3b521d0-a3df-4f0f-8aeb-67264ed56981",
+    "user_id": "1423723c-e6ec-4ca9-b090-20fc3fb771ec",
+    "amount": 4165.15,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Hooverhaven",
+    "timestamp": "2026-05-22T22:47:38.813583"
+  },
+  {
+    "transaction_id": "e65448e3-af3b-45b9-a379-bde1c56782d5",
+    "user_id": "ae30f9dd-9662-4be7-98b2-442be999d163",
+    "amount": 1405.77,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Patelmouth",
+    "timestamp": "2026-05-22T22:47:39.315274"
+  },
+  {
+    "transaction_id": "e00bd7e3-e560-4e68-b20b-0b654eb2cf83",
+    "user_id": "1b5ea751-007b-47b0-ab92-a77fdf1adc43",
+    "amount": 5623.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Davidsonborough",
+    "timestamp": "2026-05-22T22:47:40.320122"
+  },
+  {
+    "transaction_id": "77ea33e3-f9b1-4a46-8c5d-d847314c9d5b",
+    "user_id": "eb382e41-ef4a-41fe-a2b9-3ff975a5926b",
+    "amount": 3906.14,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Michele",
+    "timestamp": "2026-05-22T22:47:40.822116"
+  },
+  {
+    "transaction_id": "6985c496-1b16-4c27-a9c3-28d44b374d15",
+    "user_id": "a6d8fe90-a60c-48a6-abcd-d7df14a87370",
+    "amount": 9671.73,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Kylehaven",
+    "timestamp": "2026-05-22T22:47:41.323757"
+  },
+  {
+    "transaction_id": "18ea4828-c569-47ae-9b63-9a4e95563edd",
+    "user_id": "468ba383-016b-4d7a-b1d6-b6e424cbf004",
+    "amount": 6420.26,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Evelynside",
+    "timestamp": "2026-05-22T22:47:41.825560"
+  },
+  {
+    "transaction_id": "8164dc52-8559-4b8d-999b-b7ece55b55cc",
+    "user_id": "50541cf9-96e1-46a2-b3e8-ec6c4d4f059e",
+    "amount": 8970.57,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Ramosview",
+    "timestamp": "2026-05-22T22:47:42.328370"
+  }
+]

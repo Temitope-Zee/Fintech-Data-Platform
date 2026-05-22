@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ef5a9089-ee49-45fe-9bdd-e82954515bea",
+    "user_id": "759367ea-ca0b-40b7-b2a1-6b232b3551a5",
+    "amount": 260.75,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Stephen",
+    "timestamp": "2026-05-22T22:50:22.997796"
+  },
+  {
+    "transaction_id": "602ed425-360b-4d75-b380-40a0d59034b2",
+    "user_id": "0fa0521a-a06e-4f9a-b25e-86f5b2b9487d",
+    "amount": 5100.08,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Heatherfort",
+    "timestamp": "2026-05-22T22:50:23.502613"
+  },
+  {
+    "transaction_id": "58b509a3-577b-4215-ac38-7c055f82030c",
+    "user_id": "b96b7e09-8410-4034-957a-d93538cda7f9",
+    "amount": 699.37,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Michelle",
+    "timestamp": "2026-05-22T22:50:24.005169"
+  },
+  {
+    "transaction_id": "fdd35930-766d-4e83-8aa1-63138fc0a8de",
+    "user_id": "146c48c2-b281-4474-b202-3e446a8c6e0b",
+    "amount": 3764.63,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Jennifertown",
+    "timestamp": "2026-05-22T22:50:24.508528"
+  },
+  {
+    "transaction_id": "3486cffb-486b-4079-87a7-338647a362de",
+    "user_id": "8bffec73-a756-4fac-a792-2039b561f0aa",
+    "amount": 1330.3,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Melissastad",
+    "timestamp": "2026-05-22T22:50:25.011298"
+  },
+  {
+    "transaction_id": "5dede53b-a068-42ca-859f-5097c20cbf77",
+    "user_id": "bdac6d5f-70d6-406e-9b22-92c8a5a6c116",
+    "amount": 5209.56,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Barbaraport",
+    "timestamp": "2026-05-22T22:50:26.016408"
+  },
+  {
+    "transaction_id": "61f87efc-0c39-41a4-9b9d-2d912f54aaac",
+    "user_id": "55699742-7508-4987-805c-f199d91a5f3f",
+    "amount": 3160.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Deanport",
+    "timestamp": "2026-05-22T22:50:27.019149"
+  },
+  {
+    "transaction_id": "ff4312ed-39f0-46cc-9a20-fcd37fe8ab54",
+    "user_id": "23d3f8f0-990d-4b08-b256-84dc1ccab116",
+    "amount": 6188.3,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Melissa",
+    "timestamp": "2026-05-22T22:50:27.520832"
+  },
+  {
+    "transaction_id": "d2d1b015-6b48-4f20-86b9-ef233f7890a8",
+    "user_id": "a7b7a465-43b5-4bd5-b852-d7aff3751073",
+    "amount": 5927.3,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Mirandahaven",
+    "timestamp": "2026-05-22T22:50:28.523672"
+  },
+  {
+    "transaction_id": "b94ae54e-7bbf-4706-94fd-94f0feb5e198",
+    "user_id": "def759fc-07aa-4a62-b15d-2fe35bf8bd32",
+    "amount": 3554.21,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Nolanview",
+    "timestamp": "2026-05-22T22:50:29.025634"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ca078236-8f7e-4a10-a0f9-4f394042a523",
+    "user_id": "e29b79df-7207-47e3-aacb-b713d2329c5f",
+    "amount": 154.3,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Smithberg",
+    "timestamp": "2026-05-22T22:40:21.070202"
+  },
+  {
+    "transaction_id": "1711d1d1-45a3-40bb-97f2-bc31ff08ffea",
+    "user_id": "b827e562-0d91-4e81-9307-a4693ca79d46",
+    "amount": 4511.72,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Marissatown",
+    "timestamp": "2026-05-22T22:40:21.572952"
+  },
+  {
+    "transaction_id": "5c61b11c-7ed0-4181-951c-6c21bba01aa7",
+    "user_id": "e93f14bc-b481-4e66-bf1f-d11d57ea2b9b",
+    "amount": 608.0,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Marissaside",
+    "timestamp": "2026-05-22T22:40:22.074397"
+  },
+  {
+    "transaction_id": "dbf41920-5167-4c60-9cc8-06c0357ad1ca",
+    "user_id": "bb2af21c-85cd-4bbf-b134-63e657114903",
+    "amount": 2944.78,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Rachelfurt",
+    "timestamp": "2026-05-22T22:40:22.575676"
+  },
+  {
+    "transaction_id": "0f431972-cce7-4424-bbb5-f1a3ae21e97a",
+    "user_id": "c64cb828-2a4b-4d1c-b98f-6cf9df7bd8d1",
+    "amount": 1404.8,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Zachary",
+    "timestamp": "2026-05-22T22:40:23.579715"
+  },
+  {
+    "transaction_id": "4923fa7b-93f4-4946-9aad-57cf5c10d5eb",
+    "user_id": "370ec1bf-ab7c-4c07-b922-0e3d93bff4bb",
+    "amount": 4099.7,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Kelly",
+    "timestamp": "2026-05-22T22:40:24.080891"
+  },
+  {
+    "transaction_id": "cfa04bad-771b-47b8-ba90-249905c7734d",
+    "user_id": "67fc668e-b3c0-4669-965b-8232793cb465",
+    "amount": 9270.6,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Mark",
+    "timestamp": "2026-05-22T22:40:24.582600"
+  },
+  {
+    "transaction_id": "2159ef8b-aa0e-4023-87f5-66008c5557bf",
+    "user_id": "868ee2e5-1a9d-4f7f-8e5d-1823d4039fd0",
+    "amount": 8257.95,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Troytown",
+    "timestamp": "2026-05-22T22:40:25.084243"
+  },
+  {
+    "transaction_id": "cd84ea25-03dc-4b93-a471-a2b31aab9b6a",
+    "user_id": "effc3ba9-7bd8-4832-90a6-de2a568b6230",
+    "amount": 7787.3,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Chaseberg",
+    "timestamp": "2026-05-22T22:40:25.587229"
+  },
+  {
+    "transaction_id": "d6a78c4e-da53-48b3-98cf-46ab7aa619d7",
+    "user_id": "3e0727ca-2d5b-46d0-8861-11d67908dd66",
+    "amount": 9514.37,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Brianside",
+    "timestamp": "2026-05-22T22:40:26.088840"
+  }
+]

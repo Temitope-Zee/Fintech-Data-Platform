@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1e926253-dd3b-48f7-8c16-04b8bf511a8a",
+    "user_id": "91a8eafd-143e-4b4c-814f-ec34fb2deecf",
+    "amount": 2729.1,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Brian",
+    "timestamp": "2026-05-22T22:57:56.834796"
+  },
+  {
+    "transaction_id": "6a30417c-2294-4003-be79-8a970a80bd4d",
+    "user_id": "8a6c0257-c657-4330-a883-e949f743fce7",
+    "amount": 7163.81,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Villanuevatown",
+    "timestamp": "2026-05-22T22:57:57.334353"
+  },
+  {
+    "transaction_id": "a5275855-42c6-4afa-a943-5636614da803",
+    "user_id": "c428b57b-5190-4024-b009-a4ff3300fcb2",
+    "amount": 2620.11,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Mary",
+    "timestamp": "2026-05-22T22:57:58.338707"
+  },
+  {
+    "transaction_id": "7072951b-d14e-4eb7-9578-1a3a18ff7ab0",
+    "user_id": "c5f2cd7d-a7d1-440f-96ea-c2022c4bff54",
+    "amount": 7931.52,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Amandaland",
+    "timestamp": "2026-05-22T22:57:58.840022"
+  },
+  {
+    "transaction_id": "d297bed8-b1fd-4adc-968f-dba9c72e6a51",
+    "user_id": "ff112235-02d8-437d-aa8f-d2f74c43f1b4",
+    "amount": 9948.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Robinmouth",
+    "timestamp": "2026-05-22T22:57:59.844013"
+  },
+  {
+    "transaction_id": "b0e0cc33-001a-4554-bac0-c45c3a2fadf0",
+    "user_id": "bf7fa6ab-417d-4b39-a264-14a369651aff",
+    "amount": 8589.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Barronberg",
+    "timestamp": "2026-05-22T22:58:00.347031"
+  },
+  {
+    "transaction_id": "2d16add5-10dd-400f-af6f-eca84571c2c2",
+    "user_id": "c2adb8a7-40d5-451c-99bb-4edd921fb898",
+    "amount": 7749.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Amy",
+    "timestamp": "2026-05-22T22:58:00.848747"
+  },
+  {
+    "transaction_id": "642fa3c1-8e50-49a7-a9e2-ada7247cde68",
+    "user_id": "db8f6feb-1b27-4474-9b89-db66d7d1ab6d",
+    "amount": 5732.93,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Gracestad",
+    "timestamp": "2026-05-22T22:58:01.351711"
+  },
+  {
+    "transaction_id": "c54124d8-5743-4c0b-a9ed-776e8b4bf716",
+    "user_id": "48b7e2a3-2300-4604-84a7-d42c1089b063",
+    "amount": 7829.28,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Grantbury",
+    "timestamp": "2026-05-22T22:58:01.854749"
+  },
+  {
+    "transaction_id": "9511fb3c-5526-43c6-be58-a559e6ab2d82",
+    "user_id": "9d8497fa-eb93-4235-b756-2f74d3c93925",
+    "amount": 3441.3,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Davisfort",
+    "timestamp": "2026-05-22T22:58:02.356482"
+  }
+]

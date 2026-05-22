@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ada9a960-88ad-4929-aa92-56fe2df5498a",
+    "user_id": "cb05ae18-7fa7-4206-a807-ce52e8b0771d",
+    "amount": 3391.35,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Emma",
+    "timestamp": "2026-05-22T22:22:56.129419"
+  },
+  {
+    "transaction_id": "88977eaa-bcf8-4399-8563-ed1f2160713f",
+    "user_id": "b0c1528b-ac8a-4d6f-8863-e9363f4f7216",
+    "amount": 3077.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Reginald",
+    "timestamp": "2026-05-22T22:22:56.631181"
+  },
+  {
+    "transaction_id": "82c3c3a6-4a9a-44f8-afcd-8df9841c7526",
+    "user_id": "d4df4786-ca21-4419-bba2-f9b04ad302f8",
+    "amount": 948.06,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Howellberg",
+    "timestamp": "2026-05-22T22:22:57.132570"
+  },
+  {
+    "transaction_id": "7763d6e7-1e35-44f3-bff7-6c0e7d4564eb",
+    "user_id": "b6403fa9-823e-47d9-b543-b27a06b9cdcc",
+    "amount": 525.38,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Knappfurt",
+    "timestamp": "2026-05-22T22:22:58.136166"
+  },
+  {
+    "transaction_id": "8bba2905-6fb2-452d-b9ad-db394dfe8298",
+    "user_id": "91e579b9-f5d0-4471-9c9f-11dc59521875",
+    "amount": 7910.54,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Katrinaton",
+    "timestamp": "2026-05-22T22:22:58.638542"
+  },
+  {
+    "transaction_id": "d2aeea1b-179c-426f-8c78-df4177ac2532",
+    "user_id": "dfbc26c9-605e-40d4-8511-1b9e64b6bec5",
+    "amount": 9662.36,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Eric",
+    "timestamp": "2026-05-22T22:22:59.140996"
+  },
+  {
+    "transaction_id": "4fc9d7e0-ec9a-4668-a9e5-d9b125731903",
+    "user_id": "d53b562c-c55a-4f5c-a12a-8a447561cb9f",
+    "amount": 4633.41,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Gainesmouth",
+    "timestamp": "2026-05-22T22:22:59.643050"
+  },
+  {
+    "transaction_id": "21ab2d2a-f737-4d35-bd1e-e629e1a4f0d9",
+    "user_id": "00562109-35b7-4f6c-9913-91958f9d1c3a",
+    "amount": 4132.76,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Kelly",
+    "timestamp": "2026-05-22T22:23:00.144560"
+  },
+  {
+    "transaction_id": "1ffbac04-c9d1-4683-b26d-d65cb8d7ebf6",
+    "user_id": "bd3a5983-e754-4596-b4f2-a6a38fe565d2",
+    "amount": 468.38,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Jasminemouth",
+    "timestamp": "2026-05-22T22:23:00.647550"
+  },
+  {
+    "transaction_id": "edfa0406-2be2-462f-b79b-1ce433421de5",
+    "user_id": "b2090031-6848-45f0-9121-89aeac687888",
+    "amount": 4501.71,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Danielshire",
+    "timestamp": "2026-05-22T22:23:01.149480"
+  }
+]

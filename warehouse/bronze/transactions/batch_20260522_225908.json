@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8faf2bbc-9b84-47c9-9bed-32cc4495d6a5",
+    "user_id": "55f55fe2-bff7-4469-865d-e042d98fd263",
+    "amount": 5126.52,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Alisonhaven",
+    "timestamp": "2026-05-22T22:59:03.074064"
+  },
+  {
+    "transaction_id": "326b660c-5146-401c-b118-58523d8eca9e",
+    "user_id": "8b4c00d6-9773-43ba-9f14-fbdb4f6a67e0",
+    "amount": 8404.96,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jeremybury",
+    "timestamp": "2026-05-22T22:59:03.575498"
+  },
+  {
+    "transaction_id": "69fead33-4dea-418a-bf54-5f1572bf3ca2",
+    "user_id": "70a35f67-42f4-4b29-82d8-f2c52e6c170c",
+    "amount": 7840.5,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Charles",
+    "timestamp": "2026-05-22T22:59:04.077056"
+  },
+  {
+    "transaction_id": "8d58cbe3-2c0b-4275-86c5-207a4cf6b78c",
+    "user_id": "cf766bec-80a8-4086-a709-98bb6b74abd2",
+    "amount": 9357.78,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Stokesshire",
+    "timestamp": "2026-05-22T22:59:04.580214"
+  },
+  {
+    "transaction_id": "c0e39a4a-a8d5-4b20-b0a6-1d3c70aef4d1",
+    "user_id": "a4b8ed52-3e16-4d3a-9777-6abf38f1611b",
+    "amount": 5253.05,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Todd",
+    "timestamp": "2026-05-22T22:59:05.081933"
+  },
+  {
+    "transaction_id": "4171fe6a-6cc7-42f8-a0f5-d84752f7df6b",
+    "user_id": "ebc65cba-75f7-4807-8ae1-79847686cd49",
+    "amount": 1915.11,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Brian",
+    "timestamp": "2026-05-22T22:59:05.583781"
+  },
+  {
+    "transaction_id": "fafb6bdb-b544-4a51-9d6b-b453f9b8bec3",
+    "user_id": "0fc4fb89-4a7a-434d-b217-fb8a4852108c",
+    "amount": 2550.44,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Brownfort",
+    "timestamp": "2026-05-22T22:59:06.587058"
+  },
+  {
+    "transaction_id": "887c7425-7a8f-4dbc-bb9a-6670f1d7e7ba",
+    "user_id": "61a98158-9501-481a-b774-95921669c811",
+    "amount": 6089.85,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Davidton",
+    "timestamp": "2026-05-22T22:59:07.088704"
+  },
+  {
+    "transaction_id": "8a1d2988-62c5-4d8d-bde9-54ddb7e8593c",
+    "user_id": "15d26dba-da15-4079-85ef-2da48aeeac02",
+    "amount": 9264.15,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kimberlymouth",
+    "timestamp": "2026-05-22T22:59:07.591582"
+  },
+  {
+    "transaction_id": "65c1a65f-8b51-401c-a82e-f1aecfde7730",
+    "user_id": "c374081b-a55c-4fd3-9c5f-05e0dc04322c",
+    "amount": 5277.78,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Adam",
+    "timestamp": "2026-05-22T22:59:08.092691"
+  }
+]

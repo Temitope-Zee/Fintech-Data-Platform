@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "637f5f90-54db-4212-a082-9edb6e6f631e",
+    "user_id": "d377cf6b-319e-4c51-8a7e-1acf68ef21eb",
+    "amount": 9528.5,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jasmineborough",
+    "timestamp": "2026-05-22T22:19:59.866052"
+  },
+  {
+    "transaction_id": "e0a2a316-66fd-427b-b715-4cf39a3564d7",
+    "user_id": "a55cf925-54a6-441d-94ea-8fe79a221c33",
+    "amount": 9654.98,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Deniseton",
+    "timestamp": "2026-05-22T22:20:00.368191"
+  },
+  {
+    "transaction_id": "c82ce092-9bc7-4660-a95c-d97924d661a3",
+    "user_id": "ef6b9638-d3a3-48a5-92a9-e8126aa7fb75",
+    "amount": 3441.04,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Neil",
+    "timestamp": "2026-05-22T22:20:01.371859"
+  },
+  {
+    "transaction_id": "42ccb641-c623-424c-8038-53f93280b514",
+    "user_id": "4dec9574-5be9-4891-88aa-2890a6084741",
+    "amount": 3902.59,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Annborough",
+    "timestamp": "2026-05-22T22:20:01.875402"
+  },
+  {
+    "transaction_id": "eeb9728b-473a-4342-bd4f-e20b780a5d60",
+    "user_id": "5cd4ca9c-48de-425e-8132-c13b5dc3bce6",
+    "amount": 6091.54,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Tammyshire",
+    "timestamp": "2026-05-22T22:20:02.376870"
+  },
+  {
+    "transaction_id": "21f1be6b-4a7d-490d-b565-e47ef0ffa179",
+    "user_id": "83f572ba-7866-4736-b8c0-79426ba93dec",
+    "amount": 2527.21,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Paulport",
+    "timestamp": "2026-05-22T22:20:02.878245"
+  },
+  {
+    "transaction_id": "d1464306-80cc-4526-8327-9cad57cca1aa",
+    "user_id": "7713158c-9109-422a-a4e3-84779891f0fd",
+    "amount": 6143.59,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Kleinmouth",
+    "timestamp": "2026-05-22T22:20:03.882480"
+  },
+  {
+    "transaction_id": "684a12b4-74e2-4fc4-8810-9863448b8f92",
+    "user_id": "08dceec7-dfd3-4ed0-83fb-968c4ff3f6ae",
+    "amount": 5137.55,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Halefurt",
+    "timestamp": "2026-05-22T22:20:04.385509"
+  },
+  {
+    "transaction_id": "27ec0ea0-1a6a-40a5-a3b6-ef0100d07b52",
+    "user_id": "285418ca-2ce0-49a1-ba93-eaca28113f8c",
+    "amount": 3461.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Amanda",
+    "timestamp": "2026-05-22T22:20:04.888319"
+  },
+  {
+    "transaction_id": "f800a516-0494-4dc9-b901-a765a770b965",
+    "user_id": "d954df71-be9e-4166-b00c-2af1b6d79626",
+    "amount": 7474.14,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Wagnermouth",
+    "timestamp": "2026-05-22T22:20:05.390272"
+  }
+]

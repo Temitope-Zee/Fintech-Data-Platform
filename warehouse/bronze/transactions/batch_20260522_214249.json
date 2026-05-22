@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e1c82c92-db5b-41c9-8996-6230dd36b24d",
+    "user_id": "a7b5afd2-0dec-4e38-9c9b-288db7694c14",
+    "amount": 3016.74,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Robert",
+    "timestamp": "2026-05-22T21:42:43.293147"
+  },
+  {
+    "transaction_id": "a5e83626-e182-46fb-9e61-ed56edd309bc",
+    "user_id": "feb76bb9-ba3b-49f4-8102-742bf2e74305",
+    "amount": 7442.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Martin",
+    "timestamp": "2026-05-22T21:42:44.799116"
+  },
+  {
+    "transaction_id": "ceebd424-652d-45ff-80a5-26dd90d2a355",
+    "user_id": "c561de1c-fb28-47c1-a3a1-13f019fd01ec",
+    "amount": 2568.55,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Johnton",
+    "timestamp": "2026-05-22T21:42:45.301021"
+  },
+  {
+    "transaction_id": "56a0b8cd-0e15-4f55-88e8-fb30edca4722",
+    "user_id": "85282a72-8fdc-4fc5-a7f8-582f23d4a548",
+    "amount": 4917.45,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Wintersborough",
+    "timestamp": "2026-05-22T21:42:45.802429"
+  },
+  {
+    "transaction_id": "fb4ebec7-1803-41bf-95a6-59c9ebaad66f",
+    "user_id": "dab3e914-d05c-41fd-b2c8-a2f233e5583d",
+    "amount": 1428.04,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Andreside",
+    "timestamp": "2026-05-22T21:42:46.305156"
+  },
+  {
+    "transaction_id": "8ab2e3da-a907-4933-988f-a106b0c45222",
+    "user_id": "cad27d46-0171-4e45-b073-ee0f7db8c6f7",
+    "amount": 9325.38,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Heatherview",
+    "timestamp": "2026-05-22T21:42:46.806340"
+  },
+  {
+    "transaction_id": "d2aa4326-6d4f-4538-91a9-b115f18e4fe5",
+    "user_id": "48ef32d0-3692-40eb-ac95-a4c3b63d9a03",
+    "amount": 1047.68,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Jeffrey",
+    "timestamp": "2026-05-22T21:42:47.308274"
+  },
+  {
+    "transaction_id": "2800d032-7c6e-4f13-a287-50835339e5d8",
+    "user_id": "0a0eaa4d-962b-430f-94d2-5a9be9ca32ee",
+    "amount": 7967.2,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Loriport",
+    "timestamp": "2026-05-22T21:42:47.810042"
+  },
+  {
+    "transaction_id": "da3c0bd2-99a0-40f7-acba-5b899094cbe2",
+    "user_id": "c24dec62-8060-4407-a271-5efff053b703",
+    "amount": 3254.97,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Kevinshire",
+    "timestamp": "2026-05-22T21:42:48.311104"
+  },
+  {
+    "transaction_id": "7fd36665-339d-4726-8a8f-ac9b5efd7daa",
+    "user_id": "d7de4f0f-c3c0-426e-9d8f-587ae25d5395",
+    "amount": 6997.04,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Vaughnberg",
+    "timestamp": "2026-05-22T21:42:49.314479"
+  }
+]

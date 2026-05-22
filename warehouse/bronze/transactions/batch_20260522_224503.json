@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "baa58f8e-475c-4a1c-b9f4-e8d9e894fb2c",
+    "user_id": "70fe7186-b6af-444e-b648-bfdc0dd1bf63",
+    "amount": 7299.0,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Stephanie",
+    "timestamp": "2026-05-22T22:44:57.643236"
+  },
+  {
+    "transaction_id": "cf663056-20e3-4465-81c4-ad54b5c3cd59",
+    "user_id": "4f9a7732-67e7-49db-b751-b79100cb064c",
+    "amount": 6530.12,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Richardshire",
+    "timestamp": "2026-05-22T22:44:58.645518"
+  },
+  {
+    "transaction_id": "8c366070-8121-477b-9fe1-b625b1575fad",
+    "user_id": "63e56ded-d7eb-4b3d-bf72-0f7a2c9f2277",
+    "amount": 5503.64,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Williamtown",
+    "timestamp": "2026-05-22T22:44:59.147848"
+  },
+  {
+    "transaction_id": "c99146ce-232a-4ee4-9b6a-749e90d0b787",
+    "user_id": "72b6a1cd-4833-4e5a-bc82-cda0c83e74e1",
+    "amount": 9156.78,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Schneidermouth",
+    "timestamp": "2026-05-22T22:44:59.649689"
+  },
+  {
+    "transaction_id": "15f9abed-e1d7-4d0e-955c-671154611943",
+    "user_id": "1b8f4aac-01e9-4768-9b5f-9ee0a31be50a",
+    "amount": 7814.34,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Diana",
+    "timestamp": "2026-05-22T22:45:00.151287"
+  },
+  {
+    "transaction_id": "159e9123-9099-4b6f-8bc2-4cf0c76779ce",
+    "user_id": "3053acfa-9f54-4aa8-ac12-098f68cd9453",
+    "amount": 6919.54,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Morganberg",
+    "timestamp": "2026-05-22T22:45:00.652791"
+  },
+  {
+    "transaction_id": "1288d732-65e1-4d60-be8f-66c512be1846",
+    "user_id": "f47cc5c0-611e-4bcc-9305-d8176de711a4",
+    "amount": 6531.89,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Davidmouth",
+    "timestamp": "2026-05-22T22:45:01.155310"
+  },
+  {
+    "transaction_id": "735a054f-a229-4d6d-a4c9-0177796e6f4f",
+    "user_id": "0184d6de-6387-4da5-afc6-ffe247d20fe9",
+    "amount": 6760.88,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Robinchester",
+    "timestamp": "2026-05-22T22:45:02.157636"
+  },
+  {
+    "transaction_id": "05faa8c6-5bc6-45e4-8524-01b44f23526d",
+    "user_id": "fb5a951c-334e-4354-8183-7f5fca93f4ac",
+    "amount": 9316.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Rachaelburgh",
+    "timestamp": "2026-05-22T22:45:02.658982"
+  },
+  {
+    "transaction_id": "4c8fe0d3-daaf-48b6-aa88-bf0845b3fbef",
+    "user_id": "6b8f2554-ecfd-4ab5-bff0-26fce26defcd",
+    "amount": 8551.61,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Jennifer",
+    "timestamp": "2026-05-22T22:45:03.161008"
+  }
+]

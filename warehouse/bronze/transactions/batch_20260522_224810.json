@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ae428574-a05a-4906-9a16-2c8819d1ad13",
+    "user_id": "1205ffcc-e291-40b9-9257-cbc6c11d32d3",
+    "amount": 5080.33,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Stephaniechester",
+    "timestamp": "2026-05-22T22:48:05.423255"
+  },
+  {
+    "transaction_id": "2af102e3-b2fc-475d-a8f9-15fc9f157353",
+    "user_id": "b286d470-38a0-43d7-8199-19fcdaa4c8f7",
+    "amount": 3739.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Glenntown",
+    "timestamp": "2026-05-22T22:48:05.924383"
+  },
+  {
+    "transaction_id": "272b4171-21c3-42b8-86db-7f07f5fa87e4",
+    "user_id": "fe653fd4-77dc-4dbd-8808-4add5d90d871",
+    "amount": 4862.84,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jamieport",
+    "timestamp": "2026-05-22T22:48:06.425600"
+  },
+  {
+    "transaction_id": "3910452b-0336-4360-912a-1486ba3f82ed",
+    "user_id": "5b22453f-9fa5-44a0-95a8-bae50047f754",
+    "amount": 1041.7,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jensenville",
+    "timestamp": "2026-05-22T22:48:06.926701"
+  },
+  {
+    "transaction_id": "35e02bfe-47bd-4e44-88e5-b46773fa23b5",
+    "user_id": "6149c015-3ee2-49c1-bd16-da5c7a48a588",
+    "amount": 7422.08,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Brandon",
+    "timestamp": "2026-05-22T22:48:07.427722"
+  },
+  {
+    "transaction_id": "54d2cc06-9445-4c59-87c2-8e8f8cc5aeb0",
+    "user_id": "4679fb94-b386-4eb1-91ec-89173751e921",
+    "amount": 4498.06,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Shawn",
+    "timestamp": "2026-05-22T22:48:07.928793"
+  },
+  {
+    "transaction_id": "60b6ef6d-b771-4afb-8c2b-941cb1c736c0",
+    "user_id": "601b36f0-d8a2-48b8-9506-b6a3beea5d5d",
+    "amount": 2105.62,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Ashleyview",
+    "timestamp": "2026-05-22T22:48:08.431010"
+  },
+  {
+    "transaction_id": "2cf470d5-11c2-4b1b-b725-0c6e12b3eb56",
+    "user_id": "4205b7fd-b97a-4361-b5cd-5d03331d9c07",
+    "amount": 6047.22,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South David",
+    "timestamp": "2026-05-22T22:48:08.932830"
+  },
+  {
+    "transaction_id": "ddc37ab9-684e-4373-b97a-b1e26ac7fded",
+    "user_id": "f006dcb8-416f-4ee0-b3d4-217f375cc59c",
+    "amount": 971.31,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Charles",
+    "timestamp": "2026-05-22T22:48:09.434492"
+  },
+  {
+    "transaction_id": "44fd0143-7d3c-4c78-a61c-bb8a773a78a4",
+    "user_id": "61708cdb-622e-4560-9090-762ebe5b20b9",
+    "amount": 1522.07,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Angelaberg",
+    "timestamp": "2026-05-22T22:48:10.438103"
+  }
+]

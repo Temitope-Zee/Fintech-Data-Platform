@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ea24fe84-5dda-47f6-b607-1174f007dd26",
+    "user_id": "ea6e6533-3b43-488e-837b-c6b0a97c0a0d",
+    "amount": 8806.52,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Martinezburgh",
+    "timestamp": "2026-05-22T22:05:28.420201"
+  },
+  {
+    "transaction_id": "5d1a3187-41ee-4782-9c8f-a9c931013f81",
+    "user_id": "0f3c66ad-1363-486a-8e88-3828b6d4c071",
+    "amount": 6790.2,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Billy",
+    "timestamp": "2026-05-22T22:05:28.923767"
+  },
+  {
+    "transaction_id": "df4db135-b572-414b-9b92-79b45657c486",
+    "user_id": "9f8f1dd0-1116-4550-8537-2482216efce4",
+    "amount": 5512.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Janettown",
+    "timestamp": "2026-05-22T22:05:29.425675"
+  },
+  {
+    "transaction_id": "8d696e93-a28a-4c70-8faa-d7f51bcb2d8f",
+    "user_id": "e8001412-08af-415a-af43-e4c9158b730d",
+    "amount": 5638.54,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Darlenefurt",
+    "timestamp": "2026-05-22T22:05:29.927720"
+  },
+  {
+    "transaction_id": "28482668-24c9-46d8-8c93-f94d7000c6ba",
+    "user_id": "6ab746b3-3c01-4e2f-a936-5da6c01a8698",
+    "amount": 6446.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Nicholas",
+    "timestamp": "2026-05-22T22:05:30.430687"
+  },
+  {
+    "transaction_id": "fcc3ed45-a538-49cb-9a01-c6c478c4e6a1",
+    "user_id": "e9834182-d9ba-4b76-90a9-2c0aaccf443c",
+    "amount": 1222.51,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Scottbury",
+    "timestamp": "2026-05-22T22:05:30.932379"
+  },
+  {
+    "transaction_id": "212ea433-2bde-41a9-a318-68cffcdae5e2",
+    "user_id": "304df0ab-5d9a-4d9e-82d0-af02bb95c0e9",
+    "amount": 6898.04,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Nelsonchester",
+    "timestamp": "2026-05-22T22:05:31.935729"
+  },
+  {
+    "transaction_id": "8497b1ea-cfbe-43f3-bb63-4d9fee051491",
+    "user_id": "8bf85e75-d855-495d-a785-0d1d426cd4f6",
+    "amount": 1387.83,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Garretthaven",
+    "timestamp": "2026-05-22T22:05:32.438430"
+  },
+  {
+    "transaction_id": "f1f90dab-a46c-4b48-b5a5-29415a3c564b",
+    "user_id": "cbe51992-531d-4468-9699-93004479cc1d",
+    "amount": 617.05,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Paulshire",
+    "timestamp": "2026-05-22T22:05:32.939989"
+  },
+  {
+    "transaction_id": "247e359b-992e-47e9-86bb-dad3637b925f",
+    "user_id": "93067146-e4ff-44b2-b246-c04da45088a7",
+    "amount": 4694.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Scottland",
+    "timestamp": "2026-05-22T22:05:33.441415"
+  }
+]

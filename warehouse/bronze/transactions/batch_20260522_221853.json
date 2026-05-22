@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d10949f9-40fa-46b8-8ab5-c135f3c97d69",
+    "user_id": "659bb54e-acae-47d6-912a-943712167441",
+    "amount": 9271.3,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Burnsland",
+    "timestamp": "2026-05-22T22:18:48.597402"
+  },
+  {
+    "transaction_id": "0c70069e-92de-48de-ad9b-0baa74c542d6",
+    "user_id": "4d710748-028d-4c28-b7bb-7ee47a99b68f",
+    "amount": 8324.38,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Ortizshire",
+    "timestamp": "2026-05-22T22:18:49.100050"
+  },
+  {
+    "transaction_id": "9a88e879-a4a8-4b5a-ba5f-1830278275a3",
+    "user_id": "a90c79b8-314f-4f1f-acfc-22a2b1f2bb67",
+    "amount": 2119.96,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Audrey",
+    "timestamp": "2026-05-22T22:18:49.602261"
+  },
+  {
+    "transaction_id": "9ba017b3-7f85-4fbd-8d81-214f703e82f6",
+    "user_id": "248d8b70-8c96-47cd-8171-8ebea00e6a88",
+    "amount": 5131.27,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Catherine",
+    "timestamp": "2026-05-22T22:18:50.105304"
+  },
+  {
+    "transaction_id": "fb5c12f3-4d8d-4f45-9841-56b21072db08",
+    "user_id": "d468648b-572a-4ee1-8fc8-10b34ba53b69",
+    "amount": 3361.78,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Davisshire",
+    "timestamp": "2026-05-22T22:18:50.607188"
+  },
+  {
+    "transaction_id": "f9dad8eb-07f2-49b6-84d3-5ff0551e6313",
+    "user_id": "2bfba42a-ba30-4fab-957e-74c2000c63c0",
+    "amount": 2615.68,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Diazside",
+    "timestamp": "2026-05-22T22:18:51.108914"
+  },
+  {
+    "transaction_id": "0aae93b9-2155-40c9-8464-e170d45369c9",
+    "user_id": "c4d0831b-6ba5-4db4-85bb-ad60e99bcdc7",
+    "amount": 7851.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brianberg",
+    "timestamp": "2026-05-22T22:18:51.610485"
+  },
+  {
+    "transaction_id": "6779c644-8ef6-4d67-addf-8891dff7917b",
+    "user_id": "95bf6599-05be-4821-b92b-0818b658cd83",
+    "amount": 5520.23,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Justinland",
+    "timestamp": "2026-05-22T22:18:52.113445"
+  },
+  {
+    "transaction_id": "bf8372cb-6e03-46a6-9cec-868d6bc0bec8",
+    "user_id": "b9931061-390f-4a09-b0b4-e252b4423e3c",
+    "amount": 3207.51,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Allisontown",
+    "timestamp": "2026-05-22T22:18:52.614709"
+  },
+  {
+    "transaction_id": "9156f150-7724-43b5-9e10-8436287aee56",
+    "user_id": "effb1fcf-8e35-48f2-8587-c0f2f9edbad3",
+    "amount": 3736.01,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Valenciaport",
+    "timestamp": "2026-05-22T22:18:53.617133"
+  }
+]

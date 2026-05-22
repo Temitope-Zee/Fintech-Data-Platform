@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3b96ee48-73a8-457c-b3fe-66f7009fe7d6",
+    "user_id": "d5dcd166-2557-4973-ad8f-5b1aa27196ef",
+    "amount": 89.91,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Edward",
+    "timestamp": "2026-05-22T22:54:20.495455"
+  },
+  {
+    "transaction_id": "414f082b-745b-4b5e-9a57-54b99dd46b12",
+    "user_id": "af7b83ab-0273-43fc-ba80-c3cec6c4f9c0",
+    "amount": 7157.49,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Jessica",
+    "timestamp": "2026-05-22T22:54:20.997681"
+  },
+  {
+    "transaction_id": "5623246b-6e3b-423a-be33-193a8d8779c1",
+    "user_id": "44eefde1-8396-4ac7-9fdd-1eec166b41d5",
+    "amount": 953.57,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Potterville",
+    "timestamp": "2026-05-22T22:54:21.498970"
+  },
+  {
+    "transaction_id": "e370e3d0-4c46-4621-86e9-6fe857aff23b",
+    "user_id": "39a6939a-ea09-4009-ba1f-f7c99d02ae24",
+    "amount": 5643.78,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Hillborough",
+    "timestamp": "2026-05-22T22:54:21.999868"
+  },
+  {
+    "transaction_id": "a4c6f801-9f21-42ad-af26-722d3edf7663",
+    "user_id": "3e37a7cf-66fb-4709-97c3-79b852d8e9da",
+    "amount": 9573.92,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Jenniferside",
+    "timestamp": "2026-05-22T22:54:22.500951"
+  },
+  {
+    "transaction_id": "24b109f4-5214-4ad8-a34a-c2b33bd2d221",
+    "user_id": "6c283364-940a-4187-81bc-61a6e6a8b90d",
+    "amount": 4870.36,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Roberthaven",
+    "timestamp": "2026-05-22T22:54:23.002538"
+  },
+  {
+    "transaction_id": "80753e15-f713-44fc-b179-0aecda32cc4c",
+    "user_id": "3db7cd67-6301-4fd7-9ecd-bd6c4f6d1c3a",
+    "amount": 2523.76,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jefferystad",
+    "timestamp": "2026-05-22T22:54:24.007184"
+  },
+  {
+    "transaction_id": "f5375911-7f05-4922-bd43-ab40f7feaaa9",
+    "user_id": "c203d404-48dc-448b-a856-6a800818c3cd",
+    "amount": 426.99,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Russotown",
+    "timestamp": "2026-05-22T22:54:24.508284"
+  },
+  {
+    "transaction_id": "4fd7ed35-43c9-444a-b63d-3a0dbcab73c5",
+    "user_id": "fb2695a3-1e3a-4f28-801f-68f24fb49ba7",
+    "amount": 7435.73,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Selena",
+    "timestamp": "2026-05-22T22:54:25.009784"
+  },
+  {
+    "transaction_id": "b2833554-2476-4aa6-8bf6-d02d45d86915",
+    "user_id": "916c871a-a0fe-4117-8383-43ff7ebae99e",
+    "amount": 231.26,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Margaretside",
+    "timestamp": "2026-05-22T22:54:25.511521"
+  }
+]

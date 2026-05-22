@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "028287bc-b8d1-43ea-9d55-268a896f2cc7",
+    "user_id": "04107a28-146b-43bd-a769-1d7f3bda5da9",
+    "amount": 5048.89,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Christian",
+    "timestamp": "2026-05-22T22:40:04.497126"
+  },
+  {
+    "transaction_id": "a2918d7d-5440-4d40-92ed-979207154178",
+    "user_id": "52546fff-7a41-4b74-914d-5a7fa2b61991",
+    "amount": 1889.93,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Natalie",
+    "timestamp": "2026-05-22T22:40:04.998272"
+  },
+  {
+    "transaction_id": "9fbf5f6f-2fdb-4735-9e4e-057f8fa2b864",
+    "user_id": "641280f2-1d24-42ce-8bda-071c4249867d",
+    "amount": 9558.58,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Richard",
+    "timestamp": "2026-05-22T22:40:05.499546"
+  },
+  {
+    "transaction_id": "c927c39c-8fa6-49ae-b8cb-7a15e4e1c6dd",
+    "user_id": "cb6d7543-1ca1-4f9d-8834-d08692ecd50e",
+    "amount": 4045.36,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Stephen",
+    "timestamp": "2026-05-22T22:40:06.001179"
+  },
+  {
+    "transaction_id": "426c1249-f5ee-4120-92a9-19cc91722b75",
+    "user_id": "1600c919-ad4a-4e71-a886-6bc10a6e16f3",
+    "amount": 1924.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Virginiaburgh",
+    "timestamp": "2026-05-22T22:40:06.505050"
+  },
+  {
+    "transaction_id": "acd891e1-396f-44d4-9e79-4a548f6d29eb",
+    "user_id": "ace74300-cda0-44e3-8f2c-25683c23f071",
+    "amount": 5274.68,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Kathyville",
+    "timestamp": "2026-05-22T22:40:07.007996"
+  },
+  {
+    "transaction_id": "37625e06-dbe9-4ef9-9ec9-3a5a6ed80dbb",
+    "user_id": "b49b4047-1ac9-430f-bd5b-14d10349d5e5",
+    "amount": 2311.13,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Ryanmouth",
+    "timestamp": "2026-05-22T22:40:07.509784"
+  },
+  {
+    "transaction_id": "7d8c532d-95e4-4803-a2f5-31981cb2b16f",
+    "user_id": "7287c770-8e30-4906-a38a-e582f5a2f444",
+    "amount": 929.08,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Duarteberg",
+    "timestamp": "2026-05-22T22:40:08.011977"
+  },
+  {
+    "transaction_id": "45ab1352-908b-4e59-8eea-514b7ee2c25d",
+    "user_id": "395f40c3-a679-4ef2-9126-79416f8150c3",
+    "amount": 3193.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Millerside",
+    "timestamp": "2026-05-22T22:40:08.513419"
+  },
+  {
+    "transaction_id": "bc20a181-b2c0-4ce0-ae57-39f050350857",
+    "user_id": "770aa906-af25-48c8-9ad7-24cab773226c",
+    "amount": 701.19,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Katherine",
+    "timestamp": "2026-05-22T22:40:09.015871"
+  }
+]

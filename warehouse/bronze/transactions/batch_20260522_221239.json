@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b29b2e06-b9af-483f-80da-2a304283131b",
+    "user_id": "74c463f5-674d-4bb9-814f-364b4c8e5df9",
+    "amount": 3982.73,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Meaganberg",
+    "timestamp": "2026-05-22T22:12:34.590796"
+  },
+  {
+    "transaction_id": "a7fa5385-c5d3-4199-b1a9-7e4f70d50207",
+    "user_id": "f7a62fc5-56a9-40d5-b75b-9659ab85aef1",
+    "amount": 8730.87,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Sydney",
+    "timestamp": "2026-05-22T22:12:35.092741"
+  },
+  {
+    "transaction_id": "f7494695-8261-439e-ac60-0924e48f3334",
+    "user_id": "1e64e1ac-9ebb-49c8-8e9e-0b6114c99bb8",
+    "amount": 2112.92,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Williamsview",
+    "timestamp": "2026-05-22T22:12:35.597133"
+  },
+  {
+    "transaction_id": "abde2ed9-09c4-4e29-ab9f-7a53e7e358b2",
+    "user_id": "19a0b442-96f2-46f5-90fa-2dc7cec0a12d",
+    "amount": 4728.87,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Matthewhaven",
+    "timestamp": "2026-05-22T22:12:36.600952"
+  },
+  {
+    "transaction_id": "1e9bc698-f249-47df-8419-c8dce88c15c0",
+    "user_id": "1d561057-62c6-4e07-8dbd-8ccd422c7b0f",
+    "amount": 7213.9,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Holtmouth",
+    "timestamp": "2026-05-22T22:12:37.102790"
+  },
+  {
+    "transaction_id": "e5831a5e-4ff9-422c-bb59-2a200f06a1f6",
+    "user_id": "121a1ed1-cdd6-4980-85e8-3adcea2a26bd",
+    "amount": 5612.19,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Heatherchester",
+    "timestamp": "2026-05-22T22:12:37.605256"
+  },
+  {
+    "transaction_id": "023ac694-3270-495f-ac9c-a0a95f63d14e",
+    "user_id": "8d203bf9-4d75-4d1c-af1e-bf8fba52ae28",
+    "amount": 428.44,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Eric",
+    "timestamp": "2026-05-22T22:12:38.106679"
+  },
+  {
+    "transaction_id": "f006c57e-996d-4bff-af6c-46b955a0f806",
+    "user_id": "e6de7b23-0edb-415e-868a-31e483b8f4ae",
+    "amount": 8165.3,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Megan",
+    "timestamp": "2026-05-22T22:12:38.609541"
+  },
+  {
+    "transaction_id": "915ecdd7-a61f-4111-bf7a-d3cdb3fd6937",
+    "user_id": "4dbf0a96-f797-48a8-a9ad-0dd613e9adc9",
+    "amount": 2816.92,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Thomasburgh",
+    "timestamp": "2026-05-22T22:12:39.112247"
+  },
+  {
+    "transaction_id": "a9929b3c-7c06-49ba-a0b7-c83c71af8e23",
+    "user_id": "da542e5a-0ff2-4eb7-8946-06b3b694d9de",
+    "amount": 202.13,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Maryport",
+    "timestamp": "2026-05-22T22:12:39.613906"
+  }
+]

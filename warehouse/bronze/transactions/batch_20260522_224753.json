@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "70236ad8-ee55-4008-867b-5d7afa724fd9",
+    "user_id": "483e59c0-582f-4905-98b1-ac56c636ab32",
+    "amount": 3739.31,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Tinatown",
+    "timestamp": "2026-05-22T22:47:48.858146"
+  },
+  {
+    "transaction_id": "49e7a584-59c6-4537-a596-4206b65d76a6",
+    "user_id": "ef892ee0-a090-4b97-b538-71887260777f",
+    "amount": 9457.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Kimborough",
+    "timestamp": "2026-05-22T22:47:49.359524"
+  },
+  {
+    "transaction_id": "bd5b85fc-7e6d-4183-bb19-6ad741ee828b",
+    "user_id": "30e42b6c-50d2-4bf8-861c-88bfd54d9e5c",
+    "amount": 3119.64,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Shannon",
+    "timestamp": "2026-05-22T22:47:49.860972"
+  },
+  {
+    "transaction_id": "45cb05cc-2aec-4a68-b953-216f4caeb683",
+    "user_id": "6523bf48-e23f-423a-902c-21fd32e62494",
+    "amount": 9943.77,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Amanda",
+    "timestamp": "2026-05-22T22:47:50.362836"
+  },
+  {
+    "transaction_id": "66cd68d7-52ec-4255-a5aa-05dc6c9cc177",
+    "user_id": "62be3efc-0557-4d87-a6c3-ad26cb3ff74e",
+    "amount": 4660.17,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jacobshire",
+    "timestamp": "2026-05-22T22:47:50.864610"
+  },
+  {
+    "transaction_id": "0731a8cf-0792-4208-8877-0a897deaf91a",
+    "user_id": "6618745b-8d53-4173-8f12-a5ddc0971dbf",
+    "amount": 2233.86,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Sherryshire",
+    "timestamp": "2026-05-22T22:47:51.366514"
+  },
+  {
+    "transaction_id": "e67ca8a6-2176-49ab-8cee-9bff59a37f56",
+    "user_id": "a92a575e-cfb6-4b16-a01a-69ec3ec6cf57",
+    "amount": 3462.79,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Keithbury",
+    "timestamp": "2026-05-22T22:47:51.868110"
+  },
+  {
+    "transaction_id": "bb06a5db-b58b-4333-b92c-1b1b7add7e97",
+    "user_id": "5e8a2c48-6b04-4961-8c5a-ac5efb807c9b",
+    "amount": 1996.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Christopher",
+    "timestamp": "2026-05-22T22:47:52.369550"
+  },
+  {
+    "transaction_id": "75515c15-7d94-4f53-95a2-311dcd910d3f",
+    "user_id": "15787a8e-3cbf-47de-9bdb-b5dd24fc7805",
+    "amount": 4597.53,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Jessicaview",
+    "timestamp": "2026-05-22T22:47:52.872340"
+  },
+  {
+    "transaction_id": "d0a7aa97-669d-4c8f-bd2e-11ec15e95605",
+    "user_id": "e3a36b4f-13d8-4f92-b01e-aafe222c1e85",
+    "amount": 5320.66,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Kingside",
+    "timestamp": "2026-05-22T22:47:53.373709"
+  }
+]

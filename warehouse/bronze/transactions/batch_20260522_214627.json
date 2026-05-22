@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1fb0dc7f-bdb5-46f8-9052-750e39e0bd1d",
+    "user_id": "a716e8db-6970-495d-b6ab-f149c2d0d98f",
+    "amount": 9054.47,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Anthonychester",
+    "timestamp": "2026-05-22T21:46:21.231002"
+  },
+  {
+    "transaction_id": "e8ba093c-ec4b-45af-bdf8-94e6503bd426",
+    "user_id": "3cb75973-bac5-468b-abbd-d79096dfd751",
+    "amount": 5928.95,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Morrisborough",
+    "timestamp": "2026-05-22T21:46:21.733873"
+  },
+  {
+    "transaction_id": "83318291-f661-43b7-b208-c75886b1c3b5",
+    "user_id": "1713920d-5402-479e-8c0c-fc2a140139fa",
+    "amount": 9200.94,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Blanchardchester",
+    "timestamp": "2026-05-22T21:46:22.236737"
+  },
+  {
+    "transaction_id": "5e4b2c79-7d78-4ffe-a0ca-2f0c11d3750e",
+    "user_id": "d14c756b-bf17-425a-ac8e-f8e65599f09a",
+    "amount": 3765.79,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jimenezville",
+    "timestamp": "2026-05-22T21:46:22.736237"
+  },
+  {
+    "transaction_id": "f6c9a18d-e724-4cc7-a7c2-62140cb1b733",
+    "user_id": "98fc146f-d7f4-4ffd-898b-af6bab4edccc",
+    "amount": 6675.31,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Billyport",
+    "timestamp": "2026-05-22T21:46:23.238940"
+  },
+  {
+    "transaction_id": "94516929-ed93-41bd-8a5b-4bc18599854e",
+    "user_id": "1c9b8f80-b245-41d6-ad6f-184396f041c5",
+    "amount": 7794.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Raymondburgh",
+    "timestamp": "2026-05-22T21:46:24.243518"
+  },
+  {
+    "transaction_id": "0ab21ac7-2987-4c43-b141-d6f7054d46a8",
+    "user_id": "cd80a9e3-9571-46f6-9f0c-97e6a6bc20ee",
+    "amount": 5557.39,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Maryhaven",
+    "timestamp": "2026-05-22T21:46:24.745692"
+  },
+  {
+    "transaction_id": "5d884163-a25d-4444-9159-8f338937de19",
+    "user_id": "9ce4f801-6c18-451b-85a7-755aadabd4a8",
+    "amount": 2285.97,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Hartchester",
+    "timestamp": "2026-05-22T21:46:25.749817"
+  },
+  {
+    "transaction_id": "6cc6ca28-e373-4a31-8bc4-55c6d1e5b9b8",
+    "user_id": "53ffae22-1020-4542-90a9-8cc8e229e739",
+    "amount": 916.57,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jeffreyside",
+    "timestamp": "2026-05-22T21:46:26.754032"
+  },
+  {
+    "transaction_id": "78e6daa1-66e4-4982-a922-7b517871d568",
+    "user_id": "80163b00-d8ca-4051-b4b4-e37e7e572e07",
+    "amount": 7584.69,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Derekton",
+    "timestamp": "2026-05-22T21:46:27.255484"
+  }
+]

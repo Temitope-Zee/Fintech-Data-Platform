@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fa0a8dc2-7db6-4c6c-a3b7-f131fe293731",
+    "user_id": "8f6db60c-2e63-412e-9495-2140bd3a9331",
+    "amount": 7016.82,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Markfort",
+    "timestamp": "2026-05-22T21:59:02.832250"
+  },
+  {
+    "transaction_id": "6c629a59-75de-4d4b-bc7e-255d9f30871e",
+    "user_id": "9cc8d34a-3b13-4555-bed6-ca782860a2ff",
+    "amount": 5067.19,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Willisbury",
+    "timestamp": "2026-05-22T21:59:03.334034"
+  },
+  {
+    "transaction_id": "c865c80c-b57b-4687-9c3b-e36240cf80fb",
+    "user_id": "ff61ba4d-ce73-4f07-9666-71302c0290ba",
+    "amount": 857.17,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Tammy",
+    "timestamp": "2026-05-22T21:59:03.836979"
+  },
+  {
+    "transaction_id": "ad776645-2709-4a0c-8842-8ca47d07b8cb",
+    "user_id": "22e1ebed-5d4a-438b-8d4c-409caa3a8ed0",
+    "amount": 7289.02,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Michaelberg",
+    "timestamp": "2026-05-22T21:59:04.338275"
+  },
+  {
+    "transaction_id": "a6a1dcce-7b14-4f19-8c90-5687604c366c",
+    "user_id": "aa4559a8-8f55-45d3-bf2e-b0de09f23e64",
+    "amount": 2796.44,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Connie",
+    "timestamp": "2026-05-22T21:59:04.839624"
+  },
+  {
+    "transaction_id": "e85decbd-54f1-4a49-8930-4c1c223a5888",
+    "user_id": "837f5223-b586-41c3-8922-da8112b02358",
+    "amount": 9490.13,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Collinsmouth",
+    "timestamp": "2026-05-22T21:59:05.341748"
+  },
+  {
+    "transaction_id": "fb98aeec-4805-49af-9772-bdacb3ee0e03",
+    "user_id": "02d82332-25a3-4b61-b3e0-621234013f35",
+    "amount": 5556.08,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Hollyberg",
+    "timestamp": "2026-05-22T21:59:05.843395"
+  },
+  {
+    "transaction_id": "9fc01c46-3712-435c-878e-13cc37e34851",
+    "user_id": "424130a3-b78b-43b2-abe1-a3384af5b139",
+    "amount": 2270.98,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Kelly",
+    "timestamp": "2026-05-22T21:59:06.848280"
+  },
+  {
+    "transaction_id": "d5f6b33a-583b-4a7c-83f9-382264878b4a",
+    "user_id": "fe8747a8-3d74-49f7-b248-d33edf778438",
+    "amount": 4158.63,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lancetown",
+    "timestamp": "2026-05-22T21:59:07.349305"
+  },
+  {
+    "transaction_id": "297d3fd5-42a5-428d-8971-c8596c47669f",
+    "user_id": "3fbabf7b-5287-488a-bd15-27059c760fe2",
+    "amount": 6331.36,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Caldwellport",
+    "timestamp": "2026-05-22T21:59:07.850801"
+  }
+]

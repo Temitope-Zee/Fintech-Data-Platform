@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f202cfc8-ffda-4733-bbf4-b2dc3c753f91",
+    "user_id": "844ed78e-591c-4f72-81bc-0b155d2d8915",
+    "amount": 3816.84,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Christopher",
+    "timestamp": "2026-05-22T22:07:30.395600"
+  },
+  {
+    "transaction_id": "56f2dbd3-2b3b-4b27-8fed-455cb38f00d1",
+    "user_id": "876f317c-9b17-4949-bcdf-042aa7a99691",
+    "amount": 1215.93,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Shannon",
+    "timestamp": "2026-05-22T22:07:31.399624"
+  },
+  {
+    "transaction_id": "95e7b4b2-2faf-4336-8063-9af1adc229c8",
+    "user_id": "d111af32-6942-456d-998a-ddae73849c95",
+    "amount": 8356.87,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Richard",
+    "timestamp": "2026-05-22T22:07:31.901243"
+  },
+  {
+    "transaction_id": "39997ca7-712f-497b-81d0-7b8131f2a081",
+    "user_id": "8c2430a4-81cb-482b-ac96-8cb0e3743f39",
+    "amount": 5414.82,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Sherryberg",
+    "timestamp": "2026-05-22T22:07:32.403293"
+  },
+  {
+    "transaction_id": "aa15038c-be18-435e-9e6d-3d153f72779a",
+    "user_id": "acd3faac-df5a-4799-84d0-fcea2d017a5e",
+    "amount": 2660.54,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Vazquezbury",
+    "timestamp": "2026-05-22T22:07:32.904931"
+  },
+  {
+    "transaction_id": "c0279449-5c6f-4cf0-b8e9-e48c8968108d",
+    "user_id": "d72ae7f5-32fa-485f-bbac-17eaec234949",
+    "amount": 8711.73,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Robin",
+    "timestamp": "2026-05-22T22:07:33.407754"
+  },
+  {
+    "transaction_id": "2f56fc4e-9b4c-4970-bb55-99a1e714f158",
+    "user_id": "fc266be4-be6c-4806-8829-8fe2de2e0c19",
+    "amount": 9585.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Johnland",
+    "timestamp": "2026-05-22T22:07:33.909074"
+  },
+  {
+    "transaction_id": "f7bf5a1e-db65-4568-9012-a27eeaf787ca",
+    "user_id": "21b84623-a73a-4323-a1e7-dd2bc7384f98",
+    "amount": 6562.68,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Gloverland",
+    "timestamp": "2026-05-22T22:07:34.414673"
+  },
+  {
+    "transaction_id": "c0f921ce-7b0d-444e-89df-7d3e80b07265",
+    "user_id": "8e1f21f8-45ff-4c5c-945d-e1960a2bb2df",
+    "amount": 1642.98,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Amyland",
+    "timestamp": "2026-05-22T22:07:34.916559"
+  },
+  {
+    "transaction_id": "38b9b912-4461-44ab-bf8b-e03657957b19",
+    "user_id": "daeabd61-3532-475c-9d8c-047e4b731a03",
+    "amount": 3372.33,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Nathan",
+    "timestamp": "2026-05-22T22:07:35.420185"
+  }
+]

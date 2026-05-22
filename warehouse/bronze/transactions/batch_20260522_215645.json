@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bd653d5b-cbef-4b71-85f0-71df1c198a9f",
+    "user_id": "c7891a2f-ce9f-4f80-a201-a029726cf771",
+    "amount": 216.62,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Scotthaven",
+    "timestamp": "2026-05-22T21:56:40.772780"
+  },
+  {
+    "transaction_id": "248572f3-01fd-45bd-8d65-04d97dd12861",
+    "user_id": "6686965d-bf8d-472b-aee5-df6727db2a32",
+    "amount": 1109.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Codyhaven",
+    "timestamp": "2026-05-22T21:56:41.274464"
+  },
+  {
+    "transaction_id": "f5c462c1-793e-4f6d-8ed7-b9aa6055d861",
+    "user_id": "adba27ac-1cc3-4b40-a2f2-bee8d10e9810",
+    "amount": 4739.38,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Staceytown",
+    "timestamp": "2026-05-22T21:56:41.775563"
+  },
+  {
+    "transaction_id": "7242c0e8-96f4-4687-a8df-3a86beb82996",
+    "user_id": "ba75158e-1e4b-4f1f-93cf-63bcee883ec4",
+    "amount": 7130.64,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Sean",
+    "timestamp": "2026-05-22T21:56:42.277754"
+  },
+  {
+    "transaction_id": "e19954d2-2c45-4702-b4a0-cf9a4cbb4ab4",
+    "user_id": "495f284a-e930-4a25-b131-000a6ddd259e",
+    "amount": 8870.1,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Meredith",
+    "timestamp": "2026-05-22T21:56:42.779162"
+  },
+  {
+    "transaction_id": "3b94d811-af0d-4bd0-b00d-9dc4a209bb87",
+    "user_id": "99e62d44-ef4b-4c72-a94b-08dac6316ca7",
+    "amount": 5666.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Allenfort",
+    "timestamp": "2026-05-22T21:56:43.280545"
+  },
+  {
+    "transaction_id": "060344d7-6a01-4828-8f68-aaa9af495386",
+    "user_id": "006c5e38-b4c5-47e4-b2cd-155c1ab5747a",
+    "amount": 1253.83,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Timothy",
+    "timestamp": "2026-05-22T21:56:43.781808"
+  },
+  {
+    "transaction_id": "0d86fb65-6f39-4016-97fa-848b5b777288",
+    "user_id": "bf580aee-c3ef-4f82-a59a-b52f9dc110cd",
+    "amount": 1799.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Michaelfort",
+    "timestamp": "2026-05-22T21:56:44.284785"
+  },
+  {
+    "transaction_id": "ce5fae3f-2fee-474f-a5b9-a6fd461f92f3",
+    "user_id": "fe098fb7-8cd7-4a9f-8d9d-068e31b2fc0b",
+    "amount": 9259.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Joshua",
+    "timestamp": "2026-05-22T21:56:44.786281"
+  },
+  {
+    "transaction_id": "77a12cc3-c01b-473e-8b34-d18f8b86aa1a",
+    "user_id": "700622bb-bf5a-464f-87fc-8319f2e019ab",
+    "amount": 2012.05,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Brooksview",
+    "timestamp": "2026-05-22T21:56:45.289520"
+  }
+]

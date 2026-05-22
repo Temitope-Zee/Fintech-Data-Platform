@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "02fbdc81-93f8-457f-9299-445272d58633",
+    "user_id": "e13dd9ef-5b23-42ff-881e-88f2a841636f",
+    "amount": 8964.33,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Scottland",
+    "timestamp": "2026-05-22T22:56:39.020500"
+  },
+  {
+    "transaction_id": "8a583b16-9b33-48db-997d-184f3d796692",
+    "user_id": "a57d33f9-99a1-4cf5-af4e-1bd22353e2ca",
+    "amount": 1197.03,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Melissaview",
+    "timestamp": "2026-05-22T22:56:39.523722"
+  },
+  {
+    "transaction_id": "d5a26de3-7e6c-4f37-acea-27827c270545",
+    "user_id": "a5dc4271-9794-4fe3-81ce-47a6399b1819",
+    "amount": 2625.79,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Kerryborough",
+    "timestamp": "2026-05-22T22:56:40.527575"
+  },
+  {
+    "transaction_id": "7614b688-eb59-4b98-a756-a88feb90ca1f",
+    "user_id": "853c620d-4e29-44e3-a756-778deec3af93",
+    "amount": 1850.15,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jameschester",
+    "timestamp": "2026-05-22T22:56:41.029890"
+  },
+  {
+    "transaction_id": "d57af045-d8de-4145-a343-7dde7c36d089",
+    "user_id": "c23c5393-3121-4ab4-8690-78a1813eb3b6",
+    "amount": 6224.31,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Marialand",
+    "timestamp": "2026-05-22T22:56:41.532098"
+  },
+  {
+    "transaction_id": "c3c8567c-8b6e-4889-b1cc-c1e78c96e05b",
+    "user_id": "388a168b-5fa3-4a73-9269-73d969894331",
+    "amount": 5302.2,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Johnsonbury",
+    "timestamp": "2026-05-22T22:56:42.033603"
+  },
+  {
+    "transaction_id": "1acdef57-6b29-430d-89c5-7968ec996942",
+    "user_id": "e863e058-1887-4582-b360-32e2b5163260",
+    "amount": 6249.48,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Margaretfurt",
+    "timestamp": "2026-05-22T22:56:42.535283"
+  },
+  {
+    "transaction_id": "6f8f05bc-aafd-40b3-96ba-a84bf19600fe",
+    "user_id": "c4f3740f-bc37-46da-92dd-df77fc837b8d",
+    "amount": 1212.63,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Ronald",
+    "timestamp": "2026-05-22T22:56:43.037346"
+  },
+  {
+    "transaction_id": "e566d27a-3f49-4672-860b-157830481901",
+    "user_id": "6dacba2a-692b-4b0e-bfbc-bd8b89ad8bb6",
+    "amount": 4060.5,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Kellyport",
+    "timestamp": "2026-05-22T22:56:43.541151"
+  },
+  {
+    "transaction_id": "0b8a7134-86d8-4a4f-aca3-22212ba7e823",
+    "user_id": "82f719d3-00e9-4201-abcd-28aee70f21cd",
+    "amount": 3156.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Donaldchester",
+    "timestamp": "2026-05-22T22:56:44.546749"
+  }
+]

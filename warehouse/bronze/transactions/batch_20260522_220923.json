@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ee5c7037-ec5c-45a5-b67e-79277192e8f3",
+    "user_id": "5733481e-90f7-4815-ae1c-7b6a7f0dadef",
+    "amount": 4481.84,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Andrewfurt",
+    "timestamp": "2026-05-22T22:09:17.325167"
+  },
+  {
+    "transaction_id": "0dbfc61e-6568-41f8-a485-1afc5c730fa1",
+    "user_id": "c0127cbe-d98b-44a6-b04c-1e964141c656",
+    "amount": 4314.19,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Fosterchester",
+    "timestamp": "2026-05-22T22:09:17.828046"
+  },
+  {
+    "transaction_id": "47201646-3a78-4032-b566-07de6c0b332e",
+    "user_id": "6710191f-ece5-4780-aadb-a2a2220aa6e0",
+    "amount": 7588.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Trevormouth",
+    "timestamp": "2026-05-22T22:09:18.329477"
+  },
+  {
+    "transaction_id": "558ae54f-cea9-4522-b640-3850702dda27",
+    "user_id": "f949ce9c-6dc7-46b6-bc3c-a2e9442405de",
+    "amount": 8099.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Cummingsborough",
+    "timestamp": "2026-05-22T22:09:19.333083"
+  },
+  {
+    "transaction_id": "8de0e70c-9a44-4afd-a0b8-8cde8d017897",
+    "user_id": "b2204e50-1d0a-4206-9fc0-d84587ba43b7",
+    "amount": 7936.4,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Elizabeth",
+    "timestamp": "2026-05-22T22:09:19.834502"
+  },
+  {
+    "transaction_id": "90698d6d-0275-4a0d-abc1-2d76e521f62a",
+    "user_id": "967a6a14-8bcd-4223-8fef-adaa8849fe00",
+    "amount": 4022.58,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Linda",
+    "timestamp": "2026-05-22T22:09:20.337992"
+  },
+  {
+    "transaction_id": "913ddeed-ae3b-4c6c-99f7-93e8042ecf8c",
+    "user_id": "d3425bd8-55d2-46d5-8823-096ab6f3464d",
+    "amount": 5406.99,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Katelynmouth",
+    "timestamp": "2026-05-22T22:09:21.344238"
+  },
+  {
+    "transaction_id": "f89b4171-4064-436c-b227-920ed443c79b",
+    "user_id": "a29b6205-212d-44f1-ab87-25989bc11802",
+    "amount": 1665.05,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Baileyborough",
+    "timestamp": "2026-05-22T22:09:21.846132"
+  },
+  {
+    "transaction_id": "39373908-004a-4227-a0e0-de713faddfd1",
+    "user_id": "c2598822-7e9d-407e-98ef-b28ae96e598d",
+    "amount": 9752.99,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Heather",
+    "timestamp": "2026-05-22T22:09:22.348022"
+  },
+  {
+    "transaction_id": "3cf04f68-6479-4ab3-94d8-e64e9a45b151",
+    "user_id": "1d7f974d-8a00-4b18-b48a-f414940dd526",
+    "amount": 3250.42,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Josechester",
+    "timestamp": "2026-05-22T22:09:23.350899"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "83f6fe96-4f54-4ffa-859f-ea7ada20e89d",
+    "user_id": "a52e3373-d77b-4288-b95c-e073055ff654",
+    "amount": 2376.36,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Brendastad",
+    "timestamp": "2026-05-22T22:44:11.460925"
+  },
+  {
+    "transaction_id": "2ec089e0-4243-47d7-a7f5-d2c27f744c1a",
+    "user_id": "4e94704c-e5ff-42cb-966a-1bd85e0d01f9",
+    "amount": 2493.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Charlesfurt",
+    "timestamp": "2026-05-22T22:44:12.465265"
+  },
+  {
+    "transaction_id": "1f066f89-3d27-4406-9a1d-faa916479d63",
+    "user_id": "66151554-2522-4fa8-b012-dd3cb6415d6f",
+    "amount": 452.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Carmenhaven",
+    "timestamp": "2026-05-22T22:44:13.469456"
+  },
+  {
+    "transaction_id": "6c2e894e-7fbd-495f-a627-3ecfc096f33c",
+    "user_id": "b1fc424f-ee03-445f-b1b4-ad33f715b841",
+    "amount": 1993.73,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Barbaramouth",
+    "timestamp": "2026-05-22T22:44:13.970916"
+  },
+  {
+    "transaction_id": "7725457a-8d5d-45d3-9754-fc814124d15c",
+    "user_id": "0abc78f3-2eb8-48b6-960e-be451dba4838",
+    "amount": 3248.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Briantown",
+    "timestamp": "2026-05-22T22:44:14.473453"
+  },
+  {
+    "transaction_id": "21e3e359-0ee7-472c-9375-d873baeb0be0",
+    "user_id": "6e8eba45-887f-44ab-9d36-330bca88361f",
+    "amount": 5861.98,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Ferrellfurt",
+    "timestamp": "2026-05-22T22:44:14.974691"
+  },
+  {
+    "transaction_id": "b0312200-8b05-48ad-98fa-00f1177e5971",
+    "user_id": "918f1fe5-b247-41fd-8b79-5248a76fd8a7",
+    "amount": 9646.3,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Katherine",
+    "timestamp": "2026-05-22T22:44:15.476945"
+  },
+  {
+    "transaction_id": "a7a624b3-4d51-4988-863d-cfe2bb6385cf",
+    "user_id": "4db9df75-36b2-4879-ab94-b0fb558c3df8",
+    "amount": 6372.06,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Sarah",
+    "timestamp": "2026-05-22T22:44:16.479872"
+  },
+  {
+    "transaction_id": "53ee4466-a8cb-439e-a16f-97156e322274",
+    "user_id": "d5a25d53-3f6f-4857-9a3b-40f30970438f",
+    "amount": 9461.89,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Wilsonchester",
+    "timestamp": "2026-05-22T22:44:16.981686"
+  },
+  {
+    "transaction_id": "e5a7d4fc-caba-4de6-9990-3ea45be15578",
+    "user_id": "8baf8ae0-4edb-48af-bd91-f13a9abd1918",
+    "amount": 7439.3,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lisahaven",
+    "timestamp": "2026-05-22T22:44:17.985637"
+  }
+]

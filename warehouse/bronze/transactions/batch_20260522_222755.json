@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "34cc8428-3881-4053-a03e-27ee205e64d4",
+    "user_id": "c61319ec-872e-4773-b8f9-e1345afe136f",
+    "amount": 8109.3,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake James",
+    "timestamp": "2026-05-22T22:27:49.793606"
+  },
+  {
+    "transaction_id": "4924da4f-1ea7-4bf0-b5c8-27c7a85df14e",
+    "user_id": "357f0914-8301-4862-8ecd-effe9879ea99",
+    "amount": 223.73,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Walter",
+    "timestamp": "2026-05-22T22:27:50.294811"
+  },
+  {
+    "transaction_id": "cbe9d3da-41b2-4221-806e-ee33ef040c75",
+    "user_id": "965243b5-2fe6-469c-a39a-cd6942163fca",
+    "amount": 3928.78,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Danieltown",
+    "timestamp": "2026-05-22T22:27:50.796012"
+  },
+  {
+    "transaction_id": "d0594d8a-c39e-40f3-88cb-a1980d3f2feb",
+    "user_id": "1769f411-cd29-4c3a-b4f2-5a99869709b5",
+    "amount": 8300.08,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Ronaldburgh",
+    "timestamp": "2026-05-22T22:27:51.298387"
+  },
+  {
+    "transaction_id": "02cac90f-d30b-45e0-82b9-349154af9362",
+    "user_id": "58373809-9187-4d23-a01b-6d21b3494c5d",
+    "amount": 1553.86,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Bradleyberg",
+    "timestamp": "2026-05-22T22:27:51.799883"
+  },
+  {
+    "transaction_id": "8e5a5b39-528f-479b-89c0-d065513a1ed9",
+    "user_id": "9f337bf0-67ea-429d-9dd7-4ed5b4004279",
+    "amount": 4815.89,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jimmyhaven",
+    "timestamp": "2026-05-22T22:27:52.303014"
+  },
+  {
+    "transaction_id": "88117119-0462-445f-bcf2-e68f9f80adcf",
+    "user_id": "ddc774b0-4c12-47fd-9b5b-52add5fdedad",
+    "amount": 8301.39,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Matthewtown",
+    "timestamp": "2026-05-22T22:27:53.307724"
+  },
+  {
+    "transaction_id": "263892ac-8123-4c3b-a89e-96c7df5c2fd3",
+    "user_id": "1bd1b2b8-8153-4977-9443-0510928e0d67",
+    "amount": 6569.15,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Newmanville",
+    "timestamp": "2026-05-22T22:27:54.815746"
+  },
+  {
+    "transaction_id": "be22f507-ceaa-4cad-a0e6-ae5b9cfda6e1",
+    "user_id": "f542dfee-16f2-44db-b7e9-880af153d88a",
+    "amount": 6605.99,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Velezshire",
+    "timestamp": "2026-05-22T22:27:55.316972"
+  },
+  {
+    "transaction_id": "bb9e4a00-cdca-44aa-8cee-b063b201090d",
+    "user_id": "09905f1c-0d63-4873-8a7a-4efdf6282f70",
+    "amount": 5329.92,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Emily",
+    "timestamp": "2026-05-22T22:27:55.818506"
+  }
+]

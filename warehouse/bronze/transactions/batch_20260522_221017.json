@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e66120fa-2d2a-4231-9ed7-79a3490901f3",
+    "user_id": "427e75f0-03d6-41a2-894a-d89b4cafdda0",
+    "amount": 6663.96,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Cannonbury",
+    "timestamp": "2026-05-22T22:10:12.555980"
+  },
+  {
+    "transaction_id": "f26ae76b-faba-4b88-a3d3-f333f0715b48",
+    "user_id": "97f682f0-3ca6-4b53-b466-5132ace8ed48",
+    "amount": 2036.75,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Georgeton",
+    "timestamp": "2026-05-22T22:10:13.058579"
+  },
+  {
+    "transaction_id": "2e2d5ddf-9c62-4556-b469-70ecc3889822",
+    "user_id": "1ee4e9e0-a391-45e6-9313-84068012f90d",
+    "amount": 9523.89,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Jonesside",
+    "timestamp": "2026-05-22T22:10:13.560926"
+  },
+  {
+    "transaction_id": "f5e88529-4958-48ea-8a0c-e78c4266ac95",
+    "user_id": "133988c9-2e6d-4acc-8a5f-92c6b09fa5b1",
+    "amount": 5867.51,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Jasonville",
+    "timestamp": "2026-05-22T22:10:14.062319"
+  },
+  {
+    "transaction_id": "5c0137c4-b640-4254-872f-ce71fd77664e",
+    "user_id": "0b1a6fda-4759-48c2-b434-ec4adb318c8a",
+    "amount": 7314.46,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Amyfort",
+    "timestamp": "2026-05-22T22:10:14.563787"
+  },
+  {
+    "transaction_id": "8300d88a-243a-4a5b-af86-3c9a58eea129",
+    "user_id": "db5406ff-67f5-4728-9f64-cac0e7deba62",
+    "amount": 6852.13,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Castilloport",
+    "timestamp": "2026-05-22T22:10:15.065014"
+  },
+  {
+    "transaction_id": "11190a50-5b11-4b84-a731-ab77acc3a525",
+    "user_id": "d25fdb3d-bdfb-4d04-a462-226b57ab32cd",
+    "amount": 4048.63,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Steven",
+    "timestamp": "2026-05-22T22:10:15.566137"
+  },
+  {
+    "transaction_id": "737cadfd-1000-47e7-9e04-81a22ad7015b",
+    "user_id": "0aa051c4-bbc2-43e2-afd1-ef982680d716",
+    "amount": 1672.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Masonborough",
+    "timestamp": "2026-05-22T22:10:16.067850"
+  },
+  {
+    "transaction_id": "5d2df621-c384-42e0-8724-1d3cf760a6c5",
+    "user_id": "f9c69bf7-2961-4353-91fe-850f20fdb50e",
+    "amount": 8448.98,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Pamelaport",
+    "timestamp": "2026-05-22T22:10:16.569186"
+  },
+  {
+    "transaction_id": "3c5b02c8-7d77-41ac-85f7-6b5d636d3cf2",
+    "user_id": "17bfb214-870c-4c2f-ba27-89470a020589",
+    "amount": 8816.5,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jacksonborough",
+    "timestamp": "2026-05-22T22:10:17.070514"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "46254487-a825-4262-84cc-e9696e714a0e",
+    "user_id": "fab22091-4e86-42ee-892f-b7e91f187a72",
+    "amount": 6128.24,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Maureenport",
+    "timestamp": "2026-05-22T22:43:38.338136"
+  },
+  {
+    "transaction_id": "9d8aaa76-af91-4a78-9601-8d7a1d1cf211",
+    "user_id": "7f1fdb55-de4a-4d6b-8ee4-6f7fcd82b930",
+    "amount": 8938.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Taylortown",
+    "timestamp": "2026-05-22T22:43:38.839026"
+  },
+  {
+    "transaction_id": "231d1576-22cf-4bce-a694-044a2e32f543",
+    "user_id": "7e776064-b6c3-4580-b3a2-e06bfdd05de3",
+    "amount": 3671.64,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jessicamouth",
+    "timestamp": "2026-05-22T22:43:39.840757"
+  },
+  {
+    "transaction_id": "2101455c-5151-4a7b-a6ed-de902bb498c6",
+    "user_id": "d9d5bb6d-a2ef-40ae-82df-a042439235fc",
+    "amount": 2302.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Lindseychester",
+    "timestamp": "2026-05-22T22:43:40.341583"
+  },
+  {
+    "transaction_id": "c5e03779-c2fb-482b-88a8-92ba97c57ec8",
+    "user_id": "aedafea2-7b8a-4387-aef3-69c89f54b976",
+    "amount": 1793.05,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Edwardberg",
+    "timestamp": "2026-05-22T22:43:40.843233"
+  },
+  {
+    "transaction_id": "e0d43b15-12e8-4474-ac3c-a7abcbf9577e",
+    "user_id": "26def5ea-a192-4691-979b-599846d06fc3",
+    "amount": 4104.44,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jessicahaven",
+    "timestamp": "2026-05-22T22:43:41.344931"
+  },
+  {
+    "transaction_id": "5495e73e-1173-44ad-9e02-19690388b8de",
+    "user_id": "c4cca5c6-79f1-481b-b990-7759ed0d088d",
+    "amount": 6518.61,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Edward",
+    "timestamp": "2026-05-22T22:43:41.847496"
+  },
+  {
+    "transaction_id": "2e0a209b-43db-4d87-8f2f-549c50b33f91",
+    "user_id": "a2343995-79f2-4a80-b2cb-779c4d71fe92",
+    "amount": 3572.47,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Kristen",
+    "timestamp": "2026-05-22T22:43:42.852453"
+  },
+  {
+    "transaction_id": "a207a743-3f97-4add-82de-4e0ff22dc623",
+    "user_id": "d1a6f15a-8cab-4a18-add4-418c60114d54",
+    "amount": 1092.52,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Lori",
+    "timestamp": "2026-05-22T22:43:43.353587"
+  },
+  {
+    "transaction_id": "a7fcd5c6-f2f2-4d24-9dd8-06cd3303abdb",
+    "user_id": "362bc240-b256-4700-9e63-73c598be68df",
+    "amount": 4677.2,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Bianca",
+    "timestamp": "2026-05-22T22:43:43.854634"
+  }
+]

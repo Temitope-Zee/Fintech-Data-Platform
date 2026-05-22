@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6018ce0e-ecf4-4335-b18d-a819a6931471",
+    "user_id": "b47c4b23-348a-4dff-9024-64335009d070",
+    "amount": 3075.51,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Skinnerhaven",
+    "timestamp": "2026-05-22T21:58:25.690493"
+  },
+  {
+    "transaction_id": "61f4d728-31ef-45ff-80d4-3dba74c0c7c0",
+    "user_id": "824626a5-5384-4318-8a17-d1a7717e965e",
+    "amount": 4273.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Romerohaven",
+    "timestamp": "2026-05-22T21:58:26.192347"
+  },
+  {
+    "transaction_id": "99141e34-b3ce-43ff-89b4-572182666296",
+    "user_id": "e39d1d7f-8afb-400e-9f2f-95f54c545e3a",
+    "amount": 3395.2,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Tammyside",
+    "timestamp": "2026-05-22T21:58:26.694028"
+  },
+  {
+    "transaction_id": "f4f9e036-5e45-4af3-b8a8-7c2eb45fb7d2",
+    "user_id": "3ae688c2-820b-47d8-8ea5-a39f9b43d95d",
+    "amount": 3563.24,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Joseside",
+    "timestamp": "2026-05-22T21:58:27.195482"
+  },
+  {
+    "transaction_id": "a98a24ab-e1d9-491f-80cc-321ae7e9a1c2",
+    "user_id": "37e61dff-4c6e-4349-9035-7b0858d0f07e",
+    "amount": 5106.86,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Lynnborough",
+    "timestamp": "2026-05-22T21:58:27.696993"
+  },
+  {
+    "transaction_id": "492cc320-8df0-4ed6-a794-dd83f6ac33f8",
+    "user_id": "843d005c-ab50-4822-a5a3-b3c5bb316cce",
+    "amount": 5524.26,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Emmaport",
+    "timestamp": "2026-05-22T21:58:28.198627"
+  },
+  {
+    "transaction_id": "7b0032e4-2adf-434d-84be-04dfec9d3a60",
+    "user_id": "14ee8467-f9c9-4899-98b2-13ed5a2a3be8",
+    "amount": 2587.29,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Nicolefort",
+    "timestamp": "2026-05-22T21:58:29.706366"
+  },
+  {
+    "transaction_id": "52eff129-3de7-4d6e-8b34-57701caf7208",
+    "user_id": "e5749c51-e5df-4c2c-ba81-ffff21cdce0f",
+    "amount": 5121.03,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Elizabethbury",
+    "timestamp": "2026-05-22T21:58:30.208144"
+  },
+  {
+    "transaction_id": "7bb8cc1f-7380-4ef5-928c-5d6e1a5b973e",
+    "user_id": "552a8d79-9c1a-4a44-b88c-7d7335f68710",
+    "amount": 8442.79,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Sonya",
+    "timestamp": "2026-05-22T21:58:31.211795"
+  },
+  {
+    "transaction_id": "92db96e8-9a4b-4137-8bd3-0992fd7939a7",
+    "user_id": "a4fe42c5-e728-4a56-a34d-a5389cc260dd",
+    "amount": 6560.23,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Andreaville",
+    "timestamp": "2026-05-22T21:58:31.713601"
+  }
+]

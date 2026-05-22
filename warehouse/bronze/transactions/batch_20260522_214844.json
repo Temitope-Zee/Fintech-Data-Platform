@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "de770e92-9e34-473a-a1be-74e4416f848b",
+    "user_id": "afa1d19c-7f49-4d6a-a14e-4bf4b7fd9b0d",
+    "amount": 9381.17,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Williamsfort",
+    "timestamp": "2026-05-22T21:48:39.296030"
+  },
+  {
+    "transaction_id": "7f5762cf-b6b0-45bb-a392-d82381a11297",
+    "user_id": "4ca27c5e-dbbf-4209-9a74-5165ab8da6f7",
+    "amount": 2987.09,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Alexander",
+    "timestamp": "2026-05-22T21:48:39.798921"
+  },
+  {
+    "transaction_id": "ddd79bf5-006c-46de-8532-1685654e5f43",
+    "user_id": "806f9a72-1079-4342-be2d-a35cd90133d9",
+    "amount": 9754.81,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Waltersbury",
+    "timestamp": "2026-05-22T21:48:40.302445"
+  },
+  {
+    "transaction_id": "15d274ed-326e-439b-9d6e-f6f748cece1a",
+    "user_id": "a3ec616e-f599-4aa0-9fc6-30b1b53620fa",
+    "amount": 4265.61,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Teresa",
+    "timestamp": "2026-05-22T21:48:40.803841"
+  },
+  {
+    "transaction_id": "9cb027a9-b31d-4e97-b8a7-fab9238328a7",
+    "user_id": "0da07278-39c1-40b2-bc42-f18413d0a2c3",
+    "amount": 1555.31,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Bauerborough",
+    "timestamp": "2026-05-22T21:48:41.807528"
+  },
+  {
+    "transaction_id": "cbbb14f2-4bfa-4ba5-9b84-c25cb20a7ae1",
+    "user_id": "85d87e9c-be07-4d76-86b0-221ad4b4977c",
+    "amount": 4687.86,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Brandy",
+    "timestamp": "2026-05-22T21:48:42.309504"
+  },
+  {
+    "transaction_id": "3e4b200c-1baf-4431-8ae6-471356c649af",
+    "user_id": "d53bdd7d-168f-4ee9-825e-60d4ff80dc6b",
+    "amount": 7597.32,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port William",
+    "timestamp": "2026-05-22T21:48:42.810948"
+  },
+  {
+    "transaction_id": "53cd7150-3ac4-4804-aa1d-c18c3e1f42d7",
+    "user_id": "749fe1bb-7983-442e-8c5c-b3a1bffc602a",
+    "amount": 5496.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Heidimouth",
+    "timestamp": "2026-05-22T21:48:43.312687"
+  },
+  {
+    "transaction_id": "40e3704d-5a57-4af7-93aa-be03c1ee3c9a",
+    "user_id": "1a6e23b7-9ab0-4f27-a49f-cb3e0adac59f",
+    "amount": 3589.57,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Scottville",
+    "timestamp": "2026-05-22T21:48:43.814647"
+  },
+  {
+    "transaction_id": "02db72da-a415-471b-8e0f-8bb4d41c5dad",
+    "user_id": "8dde761f-3fdd-4009-9197-bb72e5940e15",
+    "amount": 9193.59,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Kimville",
+    "timestamp": "2026-05-22T21:48:44.316313"
+  }
+]

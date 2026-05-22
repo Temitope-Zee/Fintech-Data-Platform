@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "81084998-330b-4e9a-be2e-c4b15122ad34",
+    "user_id": "e625cf47-00f3-4405-b732-6241f27a88d6",
+    "amount": 6709.02,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Porterport",
+    "timestamp": "2026-05-22T21:57:28.955820"
+  },
+  {
+    "transaction_id": "5f467c26-b872-41f4-b76e-ea00d3e51ea8",
+    "user_id": "54617182-71c8-4874-8fcc-ae80c5795279",
+    "amount": 9789.38,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Albert",
+    "timestamp": "2026-05-22T21:57:29.458934"
+  },
+  {
+    "transaction_id": "945c8e77-4b69-4b91-a1bf-4afccae04bfb",
+    "user_id": "a58f702f-0b01-47c3-b30d-5286efe3fc4e",
+    "amount": 87.48,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Timothyport",
+    "timestamp": "2026-05-22T21:57:29.963842"
+  },
+  {
+    "transaction_id": "9065ebc4-dd09-4240-a6ee-ee544ffc783b",
+    "user_id": "bec315d1-4e34-415d-b840-d136f27f95e8",
+    "amount": 6913.57,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Ashleeville",
+    "timestamp": "2026-05-22T21:57:30.465854"
+  },
+  {
+    "transaction_id": "05e1d518-e7df-4ef1-9042-36cecda788cd",
+    "user_id": "9e85c93e-7e0d-4f35-b97c-ec96bdee7a59",
+    "amount": 3514.53,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Carrieland",
+    "timestamp": "2026-05-22T21:57:30.968307"
+  },
+  {
+    "transaction_id": "3f3c5704-2901-4e04-bfa6-3031ff85e935",
+    "user_id": "bba7ec80-a4b0-4e94-adef-f2e941236aa6",
+    "amount": 1959.76,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Laurahaven",
+    "timestamp": "2026-05-22T21:57:31.471293"
+  },
+  {
+    "transaction_id": "2ebdfe56-c076-4763-a29e-936180caf4fb",
+    "user_id": "602c0d45-7b4f-4303-ac9b-98b3c01feae8",
+    "amount": 896.11,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kimtown",
+    "timestamp": "2026-05-22T21:57:31.974332"
+  },
+  {
+    "transaction_id": "e1f5e99c-7c87-4da1-b742-d30fcdf564f7",
+    "user_id": "85642328-8999-4419-a927-f13ee7ced2b6",
+    "amount": 5242.72,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Randolphside",
+    "timestamp": "2026-05-22T21:57:32.476045"
+  },
+  {
+    "transaction_id": "05b52465-28ad-42e1-a00c-43faf0de23f7",
+    "user_id": "f0f90f1b-ed35-41d5-8caf-0a1b2c142f18",
+    "amount": 3341.56,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Sanchezborough",
+    "timestamp": "2026-05-22T21:57:32.977919"
+  },
+  {
+    "transaction_id": "2f47c494-f822-44fc-b9b2-4935146f4dd4",
+    "user_id": "2feebe21-a4eb-4d38-b159-f7809095ba6c",
+    "amount": 7925.81,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Armstrongmouth",
+    "timestamp": "2026-05-22T21:57:33.480162"
+  }
+]

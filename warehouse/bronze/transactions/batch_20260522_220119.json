@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "341ed370-04ca-4400-9cec-e24c84c2579c",
+    "user_id": "d720e9d0-73e3-43c8-8a88-4228a8f90de6",
+    "amount": 8103.11,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Rodriguezhaven",
+    "timestamp": "2026-05-22T22:01:14.841340"
+  },
+  {
+    "transaction_id": "6219181a-69e2-4846-9650-ad94e58f2a2f",
+    "user_id": "2928f2c4-69b4-4859-b7e4-3a45f5bd9a96",
+    "amount": 7669.78,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Petersonview",
+    "timestamp": "2026-05-22T22:01:15.343271"
+  },
+  {
+    "transaction_id": "584cea1a-2280-426f-8add-c7eb818be0fd",
+    "user_id": "829a5fc6-a800-4956-b231-18ebd1562ed0",
+    "amount": 3644.39,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Garrettport",
+    "timestamp": "2026-05-22T22:01:15.844958"
+  },
+  {
+    "transaction_id": "f9d5953e-da76-4627-a822-06c6b64a6522",
+    "user_id": "435eeb8a-ed44-4c3b-bf1b-3fbdc0b45c59",
+    "amount": 9082.02,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Laurenmouth",
+    "timestamp": "2026-05-22T22:01:16.346976"
+  },
+  {
+    "transaction_id": "5f054e7e-88eb-41f8-9f67-83f83dcf97b1",
+    "user_id": "b1d02bfa-8eb0-4fdf-82ff-05ceffbff695",
+    "amount": 9182.39,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Zachary",
+    "timestamp": "2026-05-22T22:01:16.850029"
+  },
+  {
+    "transaction_id": "48a772d4-aa15-4a5c-a3cc-81487920694a",
+    "user_id": "d3d9db36-0928-4045-acc6-31fa1aa1266c",
+    "amount": 8422.11,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Danielborough",
+    "timestamp": "2026-05-22T22:01:17.351665"
+  },
+  {
+    "transaction_id": "47a1f69c-45bc-4fa4-86e0-c0a99fbc15dc",
+    "user_id": "c13b9d22-d302-416f-ad13-7a909d8cc4df",
+    "amount": 9336.88,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Cliffordhaven",
+    "timestamp": "2026-05-22T22:01:17.854661"
+  },
+  {
+    "transaction_id": "a1f4bc7a-67a0-407c-8a5c-dfd633fdc53a",
+    "user_id": "287f1152-b23d-4ee7-aa48-787bad0d5b60",
+    "amount": 9458.57,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Charles",
+    "timestamp": "2026-05-22T22:01:18.857838"
+  },
+  {
+    "transaction_id": "9107ea29-da92-48c4-a9ef-739a99adb505",
+    "user_id": "780d09a2-27d0-422b-b725-701a76cb6694",
+    "amount": 7099.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Michellefort",
+    "timestamp": "2026-05-22T22:01:19.359661"
+  },
+  {
+    "transaction_id": "587bf40f-e234-4d87-a21f-4a47fdfaae69",
+    "user_id": "c67d55e1-6cf9-40d9-aa66-c1686329721f",
+    "amount": 7789.82,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Stephen",
+    "timestamp": "2026-05-22T22:01:19.863001"
+  }
+]

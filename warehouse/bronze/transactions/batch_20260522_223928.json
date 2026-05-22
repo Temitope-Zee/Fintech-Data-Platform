@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "94286dd9-25b6-41d7-93f8-b5c81f414e88",
+    "user_id": "7eebad28-1c4b-45e4-901d-0a12de2e20e5",
+    "amount": 5928.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Joshuabury",
+    "timestamp": "2026-05-22T22:39:23.848525"
+  },
+  {
+    "transaction_id": "cd068b59-006e-4c9b-aafb-0384b02e0b25",
+    "user_id": "5d1ec9f2-38ce-40e8-b82f-5d8c89e45171",
+    "amount": 2967.48,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Bergerberg",
+    "timestamp": "2026-05-22T22:39:24.350103"
+  },
+  {
+    "transaction_id": "3ef1cddb-e10b-453d-b590-263e114c2a35",
+    "user_id": "74016f10-8929-42f1-89a1-881bfc83e6b8",
+    "amount": 9613.38,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Kayleeland",
+    "timestamp": "2026-05-22T22:39:24.851894"
+  },
+  {
+    "transaction_id": "8336f94f-1b03-4a8d-a0bc-4386a129ba36",
+    "user_id": "a525e927-91dd-45ed-9b1c-5c35db33d24f",
+    "amount": 383.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Kellyville",
+    "timestamp": "2026-05-22T22:39:25.353480"
+  },
+  {
+    "transaction_id": "1913c4ed-ad60-42d6-91d5-34107cb80af3",
+    "user_id": "b9b7ff2c-c06b-4c4a-bc16-a0f664bfc467",
+    "amount": 2588.54,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Rhondamouth",
+    "timestamp": "2026-05-22T22:39:25.855811"
+  },
+  {
+    "transaction_id": "8b3e16f4-5f5f-4cce-811d-a99dd8f473c5",
+    "user_id": "0f4dea05-eaf0-423f-a256-6a0a3266fa97",
+    "amount": 4700.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Kaufmanville",
+    "timestamp": "2026-05-22T22:39:26.357146"
+  },
+  {
+    "transaction_id": "28f1976a-1d34-441e-9cb8-d0a7b5fcbcbd",
+    "user_id": "62f0a496-bbf1-4289-a333-03bd55d3d098",
+    "amount": 5796.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Vincentmouth",
+    "timestamp": "2026-05-22T22:39:27.357811"
+  },
+  {
+    "transaction_id": "5e8081a7-0c29-4647-b471-96dea8667cc4",
+    "user_id": "9151cab2-45b0-479b-b203-ffedf0361d49",
+    "amount": 7551.85,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mistyton",
+    "timestamp": "2026-05-22T22:39:27.859230"
+  },
+  {
+    "transaction_id": "a137e508-9729-4837-bac3-7aee8a251886",
+    "user_id": "98165952-5be1-442d-b4ca-a3d38d044d97",
+    "amount": 8361.12,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Joshua",
+    "timestamp": "2026-05-22T22:39:28.360681"
+  },
+  {
+    "transaction_id": "24eedcbe-f477-49ee-a682-e7fba232c050",
+    "user_id": "1ec4a150-19c1-4347-be02-f91a13715b6b",
+    "amount": 6606.58,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Bakerland",
+    "timestamp": "2026-05-22T22:39:28.862002"
+  }
+]

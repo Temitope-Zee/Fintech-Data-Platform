@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4e7b2acc-3d52-4825-b75b-9fc71f9087c8",
+    "user_id": "c8f095b3-353f-4eaf-9e6f-d6858f3de648",
+    "amount": 6243.66,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Kimberlyland",
+    "timestamp": "2026-05-22T22:18:09.934759"
+  },
+  {
+    "transaction_id": "e2cb1c6f-3525-48a6-b2f1-fffd8950e193",
+    "user_id": "a7f85150-6609-45d9-b34d-2db61257cc60",
+    "amount": 9962.74,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Kenneth",
+    "timestamp": "2026-05-22T22:18:10.433455"
+  },
+  {
+    "transaction_id": "b652c23d-e701-4087-abac-822efd88956a",
+    "user_id": "1640c29f-4ff8-4eee-a48f-989fcb01a52a",
+    "amount": 8896.89,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Susan",
+    "timestamp": "2026-05-22T22:18:10.934938"
+  },
+  {
+    "transaction_id": "a8d7a3ad-4164-457a-93a3-91aaaae155a8",
+    "user_id": "ee9c72a9-c0c2-4018-8c29-d2602f9d9d24",
+    "amount": 6120.28,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Thompsonberg",
+    "timestamp": "2026-05-22T22:18:11.436695"
+  },
+  {
+    "transaction_id": "87885895-a086-4bd5-af44-716c46fcfedb",
+    "user_id": "538d3b44-4a0f-413f-a949-dfa14f477af7",
+    "amount": 5219.08,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Courtneymouth",
+    "timestamp": "2026-05-22T22:18:11.938552"
+  },
+  {
+    "transaction_id": "b1ebd729-9a7f-4443-8240-6648a94bb0a3",
+    "user_id": "71e83e05-9939-4b25-a934-5d4c2c1e1de1",
+    "amount": 2528.79,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Amyburgh",
+    "timestamp": "2026-05-22T22:18:12.441473"
+  },
+  {
+    "transaction_id": "7f0e7e34-865a-4141-b300-e086348dcf02",
+    "user_id": "5bfd6ed5-bc62-4a79-85e5-2e7333d84b4f",
+    "amount": 671.86,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Suzanneland",
+    "timestamp": "2026-05-22T22:18:12.943134"
+  },
+  {
+    "transaction_id": "ef8315bd-cb82-4f05-a3a5-9300daac2566",
+    "user_id": "60940888-021f-4fa0-8194-97431f32892f",
+    "amount": 1796.58,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Thomasmouth",
+    "timestamp": "2026-05-22T22:18:13.947650"
+  },
+  {
+    "transaction_id": "ef20f89a-f15d-45b9-bbff-eef3b94f2b0e",
+    "user_id": "035605d9-e1ba-41a3-af82-5fc12c9c8a15",
+    "amount": 6448.99,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Brettland",
+    "timestamp": "2026-05-22T22:18:14.450225"
+  },
+  {
+    "transaction_id": "711e4515-79f5-4554-800e-a9de56dec9c0",
+    "user_id": "19f232ea-5e70-4990-b3c5-eddc7d2df119",
+    "amount": 6587.38,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Paulburgh",
+    "timestamp": "2026-05-22T22:18:14.951782"
+  }
+]

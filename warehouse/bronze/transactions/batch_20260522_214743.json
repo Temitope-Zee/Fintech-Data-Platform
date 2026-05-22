@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "aad1c0bb-5387-42c3-94c9-1dea48c67e7c",
+    "user_id": "e2bc6c0a-677f-4a89-ab7c-8e1159212243",
+    "amount": 7146.52,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Howardland",
+    "timestamp": "2026-05-22T21:47:38.542524"
+  },
+  {
+    "transaction_id": "26899f56-32ec-41b5-bd86-55bd3a74043d",
+    "user_id": "0922e656-716a-4f79-848b-8280a417fd18",
+    "amount": 5854.52,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Ramirezside",
+    "timestamp": "2026-05-22T21:47:39.044472"
+  },
+  {
+    "transaction_id": "e277cb25-e0ae-46da-b382-b23d7a08f052",
+    "user_id": "76b16e6b-b5be-477b-8959-ef6bdae25bff",
+    "amount": 8254.69,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port John",
+    "timestamp": "2026-05-22T21:47:39.547360"
+  },
+  {
+    "transaction_id": "554c4e09-ce68-4e03-9dde-b53698eb2f98",
+    "user_id": "97b62f16-b69c-4739-a34c-c5d85b0018e0",
+    "amount": 9538.72,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Suzanne",
+    "timestamp": "2026-05-22T21:47:40.048883"
+  },
+  {
+    "transaction_id": "0958d935-8b94-42e5-b4f4-b08b7643adf1",
+    "user_id": "0e8e1936-1ee7-4f04-abce-96d524492d0c",
+    "amount": 2680.81,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Mariachester",
+    "timestamp": "2026-05-22T21:47:40.551570"
+  },
+  {
+    "transaction_id": "a421f52b-2ba5-43fe-8b3e-ac9566aaa690",
+    "user_id": "77e29b2f-4d77-425b-b4d1-e1766995da52",
+    "amount": 5753.42,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Samanthashire",
+    "timestamp": "2026-05-22T21:47:41.053415"
+  },
+  {
+    "transaction_id": "f7ad08d2-a1e5-42cf-a79b-ce37b02cf277",
+    "user_id": "2e2d36b4-7dd8-4407-97a9-ad5135975251",
+    "amount": 6733.18,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Barbarachester",
+    "timestamp": "2026-05-22T21:47:41.557901"
+  },
+  {
+    "transaction_id": "b2bcf7b6-589b-4dea-943d-01a51dc8cecf",
+    "user_id": "1a136b2c-4271-4bf9-817e-9ae396a68697",
+    "amount": 4451.51,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Vanessa",
+    "timestamp": "2026-05-22T21:47:42.060652"
+  },
+  {
+    "transaction_id": "b3175c43-1470-4195-a930-34eb8919a20a",
+    "user_id": "58080216-3b8e-449d-a2b7-68d7d6a07e6d",
+    "amount": 9911.87,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Jordan",
+    "timestamp": "2026-05-22T21:47:42.562838"
+  },
+  {
+    "transaction_id": "89337523-18a9-4090-a6f4-16f16f4f4c35",
+    "user_id": "5c12d7b4-23f0-41fb-9e46-e4e7dfb97c46",
+    "amount": 4875.51,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Keith",
+    "timestamp": "2026-05-22T21:47:43.566846"
+  }
+]

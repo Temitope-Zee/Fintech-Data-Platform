@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "97025cba-da80-49c7-85f0-bf0633516bfb",
+    "user_id": "22434908-f74f-47b0-bca5-1d022cea5608",
+    "amount": 8546.57,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Megantown",
+    "timestamp": "2026-05-22T21:56:51.816415"
+  },
+  {
+    "transaction_id": "ac7879a5-f272-4e06-9db0-17d5aec500c5",
+    "user_id": "cadfc7b4-59a7-4bfc-985b-a2b4870229cc",
+    "amount": 2817.63,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Kellyshire",
+    "timestamp": "2026-05-22T21:56:52.818836"
+  },
+  {
+    "transaction_id": "660837fd-ab93-4003-80b1-b078fe8b3fd1",
+    "user_id": "dbd2cadb-35b7-42d9-8821-3af9f08788d2",
+    "amount": 9507.96,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Smithport",
+    "timestamp": "2026-05-22T21:56:53.320475"
+  },
+  {
+    "transaction_id": "be48d9b4-020d-487f-8e3d-9ce7804f7cf7",
+    "user_id": "c4e159aa-a5bf-4ae9-a564-b47d0c12bade",
+    "amount": 7550.12,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Lynnmouth",
+    "timestamp": "2026-05-22T21:56:53.822016"
+  },
+  {
+    "transaction_id": "8c235214-79a4-4fa2-8c84-036c41da909d",
+    "user_id": "ae237147-80db-4c80-8f30-5be901303d5c",
+    "amount": 8494.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Thomaston",
+    "timestamp": "2026-05-22T21:56:54.325224"
+  },
+  {
+    "transaction_id": "8ed1d177-1cb1-4db5-9800-9da137c66bbe",
+    "user_id": "45ae85da-b10e-4a73-9af8-cd2dc6cd9fd9",
+    "amount": 9905.99,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Burtonfort",
+    "timestamp": "2026-05-22T21:56:54.826630"
+  },
+  {
+    "transaction_id": "aa17bdf3-1360-49c5-9807-1aa4f0e85d0b",
+    "user_id": "62cedd2f-18a9-42ca-8286-1546660429b8",
+    "amount": 3507.02,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Grayville",
+    "timestamp": "2026-05-22T21:56:55.327736"
+  },
+  {
+    "transaction_id": "94cce732-a40f-496c-bfd6-26da507bf249",
+    "user_id": "88f0042f-cfdd-4d40-9d53-99255151a56c",
+    "amount": 2924.43,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Lisa",
+    "timestamp": "2026-05-22T21:56:55.828890"
+  },
+  {
+    "transaction_id": "13528d41-274c-482a-8f0f-0b28c52a908d",
+    "user_id": "a218d03d-73d1-46dd-ab06-8d95865311dd",
+    "amount": 6980.94,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Angelmouth",
+    "timestamp": "2026-05-22T21:56:56.329983"
+  },
+  {
+    "transaction_id": "228bb173-f187-440d-8bcf-006f372c5e44",
+    "user_id": "cefb02b5-877e-471a-aa65-59f74f8b14d2",
+    "amount": 3352.76,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Wardshire",
+    "timestamp": "2026-05-22T21:56:56.831105"
+  }
+]

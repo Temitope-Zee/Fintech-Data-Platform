@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d5435570-97d5-4b2e-a79d-681e257b7473",
+    "user_id": "8558db50-9311-46bc-8d72-133d64a1d134",
+    "amount": 7105.5,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Marthaborough",
+    "timestamp": "2026-05-22T22:50:17.472386"
+  },
+  {
+    "transaction_id": "0f81784d-4e3b-4d41-b3cf-b6af44a43ec5",
+    "user_id": "25e4d980-97d8-450e-813d-5aa64a1d252d",
+    "amount": 7743.58,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Hallshire",
+    "timestamp": "2026-05-22T22:50:17.973630"
+  },
+  {
+    "transaction_id": "dd6d39b6-bcdd-4ffb-b959-f1e31703aa6f",
+    "user_id": "ca4c6bc8-5d24-4520-a412-dc81015632f2",
+    "amount": 8929.0,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Lisabury",
+    "timestamp": "2026-05-22T22:50:18.474880"
+  },
+  {
+    "transaction_id": "a0eae3c4-e5e5-4676-9f0e-dd81ad6b51ee",
+    "user_id": "cd8af62f-0cc6-4597-911a-220779300b9a",
+    "amount": 8599.35,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Patriciamouth",
+    "timestamp": "2026-05-22T22:50:18.977878"
+  },
+  {
+    "transaction_id": "c240a86e-4a1f-4782-9abf-e3feaa900796",
+    "user_id": "b17f162a-df59-4385-8c0b-02adaa084b35",
+    "amount": 6363.43,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Sherri",
+    "timestamp": "2026-05-22T22:50:19.479306"
+  },
+  {
+    "transaction_id": "ab58e2bd-ac06-4280-9341-f16dcd6bb1a9",
+    "user_id": "8fca638f-9407-438e-b9eb-e4fe646c5dad",
+    "amount": 6833.26,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Palmertown",
+    "timestamp": "2026-05-22T22:50:19.981106"
+  },
+  {
+    "transaction_id": "59bd6a6d-1886-4ca2-b9d2-cc7355146f27",
+    "user_id": "8c91c1ac-a9e1-4b7e-a56c-1e390e1937f5",
+    "amount": 1060.47,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Raymondville",
+    "timestamp": "2026-05-22T22:50:20.484595"
+  },
+  {
+    "transaction_id": "52d57c36-2674-4b43-b28c-f3dd018a39e8",
+    "user_id": "0b5f3c66-e659-4a94-896e-7d4724ece344",
+    "amount": 233.2,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Crystalton",
+    "timestamp": "2026-05-22T22:50:21.488010"
+  },
+  {
+    "transaction_id": "08133ee3-0681-420a-951e-b870548f19ba",
+    "user_id": "a8769efc-3da1-4053-a26c-dfa718f13101",
+    "amount": 6379.93,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Heatherchester",
+    "timestamp": "2026-05-22T22:50:21.992296"
+  },
+  {
+    "transaction_id": "5550b48b-c633-4ff1-87f4-e5c9fd71e84d",
+    "user_id": "41caa3d4-3c34-4207-a57c-2bb16cb11bfe",
+    "amount": 3921.05,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Davishaven",
+    "timestamp": "2026-05-22T22:50:22.494777"
+  }
+]

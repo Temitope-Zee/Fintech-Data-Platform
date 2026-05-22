@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fc5567a2-b9b6-4766-9d87-2008f70d45ba",
+    "user_id": "6dcc65b3-3069-4bd9-b291-12b02596f7ea",
+    "amount": 397.99,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Sarahland",
+    "timestamp": "2026-05-22T21:59:08.855256"
+  },
+  {
+    "transaction_id": "93383aa5-9486-4e19-bc7e-a52ec29abfde",
+    "user_id": "630dec11-399e-4b7a-a669-fd5d682c69ee",
+    "amount": 1054.93,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Aprilfort",
+    "timestamp": "2026-05-22T21:59:09.857770"
+  },
+  {
+    "transaction_id": "beca467a-e4ea-4986-b139-39c404c5ef03",
+    "user_id": "21579f3d-0019-4d56-bd0d-2bdcd97d06a8",
+    "amount": 3428.71,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Rebeccafurt",
+    "timestamp": "2026-05-22T21:59:10.357447"
+  },
+  {
+    "transaction_id": "b2071fad-1895-48be-8909-37ecb2ea065d",
+    "user_id": "bb847660-7591-420f-914f-92de26353173",
+    "amount": 3649.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Millerfort",
+    "timestamp": "2026-05-22T21:59:10.858902"
+  },
+  {
+    "transaction_id": "e6623738-3fa7-4053-829c-757a3f77da54",
+    "user_id": "50d3a84e-3dfb-4bf2-940f-0d2ae08fd63e",
+    "amount": 8825.26,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Bradleyborough",
+    "timestamp": "2026-05-22T21:59:11.864023"
+  },
+  {
+    "transaction_id": "689b4249-d096-4032-8f4c-909a3d09b557",
+    "user_id": "1dcb8255-2ee4-43fc-96db-e152d5ccb5a0",
+    "amount": 1006.27,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Shannonside",
+    "timestamp": "2026-05-22T21:59:12.867391"
+  },
+  {
+    "transaction_id": "d52e9ec4-8e1b-4369-86e5-14246c6e0ad4",
+    "user_id": "7783e5f9-65d8-4e06-b207-690ee9edd33a",
+    "amount": 3532.11,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Richardland",
+    "timestamp": "2026-05-22T21:59:13.368863"
+  },
+  {
+    "transaction_id": "fabea7ee-ed1e-42dd-9191-d2c2703a239f",
+    "user_id": "9f8eee01-2350-4c9b-a7a3-107fb13942fd",
+    "amount": 4345.41,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Davidland",
+    "timestamp": "2026-05-22T21:59:14.373937"
+  },
+  {
+    "transaction_id": "3ee188e5-1fa9-4c4f-9a75-d422bb011d69",
+    "user_id": "ff7867ff-9dca-4e08-b184-34519c84d905",
+    "amount": 1172.14,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Collinsborough",
+    "timestamp": "2026-05-22T21:59:14.876029"
+  },
+  {
+    "transaction_id": "f83dd384-8cca-4b77-91e0-d4f8d1f17a05",
+    "user_id": "9a9cedb6-db3e-41f1-82d6-79c8c3487744",
+    "amount": 1583.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Ramirezborough",
+    "timestamp": "2026-05-22T21:59:15.377708"
+  }
+]

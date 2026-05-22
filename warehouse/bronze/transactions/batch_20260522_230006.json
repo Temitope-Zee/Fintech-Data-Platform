@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a6b1768c-7ccf-4690-a383-1503a7ac9f7b",
+    "user_id": "8bd06ae9-3078-4f38-8a91-56b56e6b491c",
+    "amount": 2923.87,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Alicia",
+    "timestamp": "2026-05-22T23:00:01.279627"
+  },
+  {
+    "transaction_id": "3f4caa17-f908-452b-adc4-9b793fefd83c",
+    "user_id": "2c3c01d4-7363-4d26-8110-85a4c9300554",
+    "amount": 4363.73,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Aaron",
+    "timestamp": "2026-05-22T23:00:01.781348"
+  },
+  {
+    "transaction_id": "4153ae49-8a80-4e07-9930-b324f13bb990",
+    "user_id": "a11913b4-474d-450a-b651-a9db7a4c9395",
+    "amount": 6225.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Schwartzfort",
+    "timestamp": "2026-05-22T23:00:02.284243"
+  },
+  {
+    "transaction_id": "e3e6ebac-d318-4849-8aa9-12443eaa768a",
+    "user_id": "9e7a9069-64c4-49c7-8cbd-6bfbdd32e0df",
+    "amount": 2287.04,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Brittany",
+    "timestamp": "2026-05-22T23:00:02.786727"
+  },
+  {
+    "transaction_id": "1820b129-d05b-41c8-b560-1283893c05ff",
+    "user_id": "58808a10-d4fe-4636-962b-90cd8b00d3ae",
+    "amount": 227.76,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Nguyenborough",
+    "timestamp": "2026-05-22T23:00:03.289544"
+  },
+  {
+    "transaction_id": "fa620e10-8dfe-4af2-92a9-cc7915e8bcd6",
+    "user_id": "52511321-3da8-4cb2-b269-f6cf139b9637",
+    "amount": 3933.54,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Kevinchester",
+    "timestamp": "2026-05-22T23:00:03.792174"
+  },
+  {
+    "transaction_id": "870a1460-6004-45ef-b2e2-0f33d086fc7e",
+    "user_id": "18a71b41-5970-4307-935c-afa32e30902b",
+    "amount": 6994.45,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Tylerberg",
+    "timestamp": "2026-05-22T23:00:04.796880"
+  },
+  {
+    "transaction_id": "775c1f4b-b378-46ff-90b5-bf620f5050fd",
+    "user_id": "2a03748d-c07c-4db7-8da3-96c32c1db8d9",
+    "amount": 2524.25,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Katelynfurt",
+    "timestamp": "2026-05-22T23:00:05.298792"
+  },
+  {
+    "transaction_id": "c67e681f-312c-42d1-8ae5-c37a7b05a04f",
+    "user_id": "7ac667ce-99de-47a8-8cac-8822d0fdfcf5",
+    "amount": 1179.76,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jasontown",
+    "timestamp": "2026-05-22T23:00:05.800300"
+  },
+  {
+    "transaction_id": "0b3b190e-2a34-4f71-bee2-273bdc1f9715",
+    "user_id": "eebf198b-8727-421b-817b-73836a933b23",
+    "amount": 2698.34,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Cynthia",
+    "timestamp": "2026-05-22T23:00:06.302366"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4e643c63-3f49-49e5-86b5-0ad61c18b0fe",
+    "user_id": "8e35951b-1a1f-4ea3-8340-0a86fb29c59b",
+    "amount": 9803.66,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Brianchester",
+    "timestamp": "2026-05-22T21:49:42.037099"
+  },
+  {
+    "transaction_id": "dab2d6ce-9ef4-4a60-b0c2-bad10726644c",
+    "user_id": "2baaebbe-f7b8-4714-9ea7-133b82055409",
+    "amount": 3486.44,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Debra",
+    "timestamp": "2026-05-22T21:49:42.538515"
+  },
+  {
+    "transaction_id": "fed3143c-a690-4a58-bab3-692a65b68be7",
+    "user_id": "ca58ca2f-031b-453c-88d3-0336188bee39",
+    "amount": 6322.76,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Emilybury",
+    "timestamp": "2026-05-22T21:49:43.542480"
+  },
+  {
+    "transaction_id": "e79a607a-d8fb-4820-8d3b-8c7e974c5860",
+    "user_id": "b2fe0f7f-1abe-4d9b-a363-9cf6885e08ab",
+    "amount": 1728.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Freemanberg",
+    "timestamp": "2026-05-22T21:49:44.546138"
+  },
+  {
+    "transaction_id": "5d8f5f29-22b5-4806-bdd9-278beca15e8e",
+    "user_id": "f86a5192-b605-4ef3-8a56-28325e9fa514",
+    "amount": 314.27,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Christina",
+    "timestamp": "2026-05-22T21:49:45.047583"
+  },
+  {
+    "transaction_id": "291676f0-0b3e-416c-971f-3bf8d48e77e5",
+    "user_id": "248f95e2-29fb-48f7-beb4-b0f98811912d",
+    "amount": 3779.25,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Nicolemouth",
+    "timestamp": "2026-05-22T21:49:46.051954"
+  },
+  {
+    "transaction_id": "a2f0fe2b-70cd-4f28-a49f-8c1df55159b3",
+    "user_id": "4e150861-aa1f-40b7-9ecb-fba14c336f1d",
+    "amount": 5205.61,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Floresland",
+    "timestamp": "2026-05-22T21:49:46.553450"
+  },
+  {
+    "transaction_id": "17a928cf-0fd5-437c-b1bf-9e9323dd74ab",
+    "user_id": "5906cb5a-a2ea-4cca-a870-9beb63d43b1c",
+    "amount": 2528.03,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Michelle",
+    "timestamp": "2026-05-22T21:49:47.055014"
+  },
+  {
+    "transaction_id": "15e41dae-eb92-4df2-b175-2b368e41ecf1",
+    "user_id": "30390490-efa7-4c45-aad9-8fee6a8f1d16",
+    "amount": 1633.06,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Dominguezfurt",
+    "timestamp": "2026-05-22T21:49:47.557158"
+  },
+  {
+    "transaction_id": "4840c64c-f050-45fa-8e44-5b61c3f1d6e3",
+    "user_id": "9264ed63-bf36-4474-9e4a-585edb36c434",
+    "amount": 7696.51,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Williambury",
+    "timestamp": "2026-05-22T21:49:48.059530"
+  }
+]

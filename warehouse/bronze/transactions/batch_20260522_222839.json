@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "aa5aa85a-8284-4374-96c9-ed9eec4f2ab0",
+    "user_id": "827af623-504a-4e6f-8681-1bbec8148b35",
+    "amount": 6739.34,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Andersonville",
+    "timestamp": "2026-05-22T22:28:33.476257"
+  },
+  {
+    "transaction_id": "56c68b01-177b-40e1-a1d5-ed65fd0af514",
+    "user_id": "1f28a3f6-4565-4d6e-9243-be8aef0bb287",
+    "amount": 6679.44,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Aaron",
+    "timestamp": "2026-05-22T22:28:33.977987"
+  },
+  {
+    "transaction_id": "0b974846-8377-41fc-870b-c3337757ea94",
+    "user_id": "46722e53-34a1-4b30-8e47-e980885e9342",
+    "amount": 7195.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Loriview",
+    "timestamp": "2026-05-22T22:28:34.982039"
+  },
+  {
+    "transaction_id": "479be3c6-112c-447a-8075-2b7b7a9b8a96",
+    "user_id": "bba34b6b-fac1-4fa1-aa0c-cf19121cdf36",
+    "amount": 74.81,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Smithhaven",
+    "timestamp": "2026-05-22T22:28:35.485199"
+  },
+  {
+    "transaction_id": "f0e1f9b9-e7da-4ffe-94ba-6313d3e67632",
+    "user_id": "251bb871-b35e-41c2-b78b-2f10574b95df",
+    "amount": 4655.68,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Williamberg",
+    "timestamp": "2026-05-22T22:28:35.988164"
+  },
+  {
+    "transaction_id": "acdfac5d-3f9d-4702-bd30-a62dcc49b077",
+    "user_id": "6ba9c9f7-1a71-4543-8b76-867810efa2a8",
+    "amount": 3161.6,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Mullenburgh",
+    "timestamp": "2026-05-22T22:28:36.489906"
+  },
+  {
+    "transaction_id": "ccddc7da-4fb1-4e13-ba56-bfe11adfa83a",
+    "user_id": "e92aede1-bc2a-4165-9817-c31f2528a228",
+    "amount": 3433.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Jenniferchester",
+    "timestamp": "2026-05-22T22:28:37.493292"
+  },
+  {
+    "transaction_id": "3aac6cab-b947-4527-86d6-2d2657c95a9a",
+    "user_id": "ce4ec476-faad-4068-aaea-4d7b92b22fec",
+    "amount": 244.91,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Stephanie",
+    "timestamp": "2026-05-22T22:28:37.996057"
+  },
+  {
+    "transaction_id": "52f99f27-474d-47b3-813f-3558b3387cee",
+    "user_id": "489e71f8-0784-4e22-bb41-c80f69a24e37",
+    "amount": 1713.34,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Cabreraside",
+    "timestamp": "2026-05-22T22:28:38.499079"
+  },
+  {
+    "transaction_id": "922d12c1-8871-4e39-8bbe-94a2a8bb602f",
+    "user_id": "d3265c30-cf0b-4abe-b641-c521b0956170",
+    "amount": 9508.23,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Kaitlynchester",
+    "timestamp": "2026-05-22T22:28:39.000637"
+  }
+]

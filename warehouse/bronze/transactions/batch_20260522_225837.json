@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d971ff2b-3744-4bc0-89ba-67f2d5cbf0cd",
+    "user_id": "41dc7c8d-d5fe-4e8c-a921-326fd7c0ed05",
+    "amount": 5436.28,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Chad",
+    "timestamp": "2026-05-22T22:58:32.469545"
+  },
+  {
+    "transaction_id": "0d9d7487-23ea-43f4-8b6e-427beb85a2c7",
+    "user_id": "09a9d840-c47a-4868-b0d6-2b2d8aef1605",
+    "amount": 9931.8,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Karlville",
+    "timestamp": "2026-05-22T22:58:33.473041"
+  },
+  {
+    "transaction_id": "a66fc19f-6f92-4df2-aef5-e4a5d19b2d62",
+    "user_id": "8accceee-e31d-4b7c-b368-b78749a4ee92",
+    "amount": 98.71,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Amanda",
+    "timestamp": "2026-05-22T22:58:33.975921"
+  },
+  {
+    "transaction_id": "2f6536bd-d2bd-4ca8-b0eb-084ba2c7fd2d",
+    "user_id": "a326f0dc-1e69-4c3c-8fc9-5436cdf32898",
+    "amount": 9022.23,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Gallaghermouth",
+    "timestamp": "2026-05-22T22:58:34.478471"
+  },
+  {
+    "transaction_id": "b316cb63-37ae-475e-bd3a-c5d3cbb7b598",
+    "user_id": "ceb289d3-8be0-4073-9de8-af98334346d6",
+    "amount": 6550.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Fullerstad",
+    "timestamp": "2026-05-22T22:58:34.979537"
+  },
+  {
+    "transaction_id": "f14558bf-7fa8-4756-b173-37f32ad6005c",
+    "user_id": "3acf3fbf-78dd-425c-9c26-82ed694ec722",
+    "amount": 8843.45,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Amanda",
+    "timestamp": "2026-05-22T22:58:35.480654"
+  },
+  {
+    "transaction_id": "52011a80-b8a1-49b8-8ddf-69a9b0ce81f1",
+    "user_id": "0f3a90d9-160c-47dc-828b-0c4cae6ba089",
+    "amount": 5849.14,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Brettview",
+    "timestamp": "2026-05-22T22:58:36.483766"
+  },
+  {
+    "transaction_id": "ac599b14-125f-45df-a77c-85a823a1e69c",
+    "user_id": "e283e8c6-d7ec-4134-98d6-9faa1a7dacea",
+    "amount": 1407.83,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Shannontown",
+    "timestamp": "2026-05-22T22:58:36.985385"
+  },
+  {
+    "transaction_id": "380b0cb2-1fe0-49cd-b42f-4358da29aebe",
+    "user_id": "e427fa6d-5b19-4811-9784-8fa7c6868fed",
+    "amount": 1008.5,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Carlytown",
+    "timestamp": "2026-05-22T22:58:37.486707"
+  },
+  {
+    "transaction_id": "7de2b4a1-a281-4dbd-8ddb-3b7cc77f174a",
+    "user_id": "346c5262-7a39-4de7-8ad5-a5c0ebd40334",
+    "amount": 1578.34,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Ryanside",
+    "timestamp": "2026-05-22T22:58:37.988058"
+  }
+]

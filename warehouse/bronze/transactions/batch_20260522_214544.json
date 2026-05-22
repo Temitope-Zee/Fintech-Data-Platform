@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9e86796b-59b1-4aa8-b2dc-9a5cff47c820",
+    "user_id": "926735f2-4dbc-41a2-a818-8013a79093a1",
+    "amount": 6994.56,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Shawn",
+    "timestamp": "2026-05-22T21:45:39.560569"
+  },
+  {
+    "transaction_id": "d15e7b0d-b3c1-4e4f-90fe-ac8eb88e14e2",
+    "user_id": "8005d9af-24e0-4e3b-b6d6-2459accb50a1",
+    "amount": 8907.24,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Geraldton",
+    "timestamp": "2026-05-22T21:45:40.062193"
+  },
+  {
+    "transaction_id": "21bd54f9-e67b-41d9-815c-0c17301fe795",
+    "user_id": "2af3a6c8-a9a3-4e74-a7d8-8f88e1372804",
+    "amount": 2804.51,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Shawnbury",
+    "timestamp": "2026-05-22T21:45:40.563735"
+  },
+  {
+    "transaction_id": "2e86ae0c-51c8-44a1-95ef-c27354357483",
+    "user_id": "9a9c2d07-39ae-4cf9-9819-06aaabaf63fe",
+    "amount": 4132.89,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Patriciaberg",
+    "timestamp": "2026-05-22T21:45:41.066117"
+  },
+  {
+    "transaction_id": "a66c2271-702c-4332-a870-3b2a4e64162b",
+    "user_id": "fd86a90a-3b01-400e-bb00-e185b70c5d09",
+    "amount": 2553.0,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Oliverbury",
+    "timestamp": "2026-05-22T21:45:41.567933"
+  },
+  {
+    "transaction_id": "ecf148b9-2951-468a-9e65-12837fb7edfe",
+    "user_id": "15a5175f-6e7f-4851-812d-d60fc3d30e79",
+    "amount": 4440.44,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Phillipshire",
+    "timestamp": "2026-05-22T21:45:42.069800"
+  },
+  {
+    "transaction_id": "907f3021-6e85-4da0-93ec-7bf187e31f7c",
+    "user_id": "a1b837ae-44e3-4a8b-af4a-32c32375285b",
+    "amount": 6626.72,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Tammyview",
+    "timestamp": "2026-05-22T21:45:42.571178"
+  },
+  {
+    "transaction_id": "445565ea-0352-48dc-8773-941c256b15fb",
+    "user_id": "7da8838d-b313-4045-91cb-037d4361a517",
+    "amount": 252.39,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Aguilarville",
+    "timestamp": "2026-05-22T21:45:43.576189"
+  },
+  {
+    "transaction_id": "0f716c4e-a74b-4354-81d0-e6ae986c0979",
+    "user_id": "bca582f6-726f-43ac-8789-2e404505dbd4",
+    "amount": 6020.86,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Nelsonburgh",
+    "timestamp": "2026-05-22T21:45:44.077936"
+  },
+  {
+    "transaction_id": "2d588998-f7d8-4421-84e9-6c92cc603d67",
+    "user_id": "6b058aae-3684-4fd3-9201-27a6a5c4f33d",
+    "amount": 1055.05,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Amanda",
+    "timestamp": "2026-05-22T21:45:44.579742"
+  }
+]

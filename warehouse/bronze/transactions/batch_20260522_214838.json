@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a88ca528-3a74-4993-86a5-50e2db374514",
+    "user_id": "422a1196-5597-40b8-a582-191aa383e426",
+    "amount": 9661.12,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Crystalmouth",
+    "timestamp": "2026-05-22T21:48:33.272461"
+  },
+  {
+    "transaction_id": "bd9e0ff1-0c6d-4832-912d-3510e9d20b49",
+    "user_id": "4a72b63c-2003-47d5-af2a-9b21d4105e69",
+    "amount": 991.27,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Bryanberg",
+    "timestamp": "2026-05-22T21:48:33.775333"
+  },
+  {
+    "transaction_id": "3c4022b5-25df-4920-a8d3-77a4f15d445b",
+    "user_id": "ad1a62b6-7c0f-45e7-b613-b5b823cd728f",
+    "amount": 9270.76,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Davidfort",
+    "timestamp": "2026-05-22T21:48:34.278765"
+  },
+  {
+    "transaction_id": "8040561d-a5e2-4b9a-b166-bb296de2041b",
+    "user_id": "4415bbb9-1cf0-4b57-93f5-0123e4e84215",
+    "amount": 2784.69,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Vickichester",
+    "timestamp": "2026-05-22T21:48:34.780278"
+  },
+  {
+    "transaction_id": "03eaaa14-058c-401d-942f-7370b6b0d92a",
+    "user_id": "180ab22c-8bd5-47d8-89ae-185a6097d1f0",
+    "amount": 3804.76,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Bryantfurt",
+    "timestamp": "2026-05-22T21:48:35.281607"
+  },
+  {
+    "transaction_id": "53e68845-2825-4e80-b994-f937754e3bea",
+    "user_id": "4d12b35d-5a69-4d3a-9cbf-50a421f11e20",
+    "amount": 3385.23,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Sarah",
+    "timestamp": "2026-05-22T21:48:36.787230"
+  },
+  {
+    "transaction_id": "deb5dafc-2f3c-488d-aad5-4dca026c8541",
+    "user_id": "7bd2f981-e533-4588-ae5a-834896a6c920",
+    "amount": 5721.8,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Hartshire",
+    "timestamp": "2026-05-22T21:48:37.288801"
+  },
+  {
+    "transaction_id": "425f44d1-e270-4382-8187-c4fa4372a5c0",
+    "user_id": "7e1369a5-8f3c-4a02-9091-577f551ebfb9",
+    "amount": 154.02,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Robertfort",
+    "timestamp": "2026-05-22T21:48:37.791590"
+  },
+  {
+    "transaction_id": "59d414e4-aab2-495b-93af-924e2029fdcf",
+    "user_id": "f023ecf3-0bb8-4405-b1c3-2d2a94979931",
+    "amount": 3898.38,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Robertshire",
+    "timestamp": "2026-05-22T21:48:38.293352"
+  },
+  {
+    "transaction_id": "b62916e5-0ec6-49f4-b447-712ef2ed5d26",
+    "user_id": "9effd378-232f-4e0e-bb0f-57630cec4178",
+    "amount": 7700.37,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Schroederbury",
+    "timestamp": "2026-05-22T21:48:38.794742"
+  }
+]

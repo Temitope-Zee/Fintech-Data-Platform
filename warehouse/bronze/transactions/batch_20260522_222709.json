@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6219a4f8-8e1d-449a-a0e8-27b2db655b24",
+    "user_id": "f57af3e1-da45-4048-832a-b24ce5349937",
+    "amount": 6412.77,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Debbiechester",
+    "timestamp": "2026-05-22T22:27:04.106138"
+  },
+  {
+    "transaction_id": "4a49a97f-aa33-4a73-bd52-4c6e79ea9575",
+    "user_id": "01a0be59-12af-4867-87c2-58a928048aac",
+    "amount": 5854.04,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Tammyfurt",
+    "timestamp": "2026-05-22T22:27:04.608684"
+  },
+  {
+    "transaction_id": "658360b9-0ada-4539-8642-bdc065a69ec2",
+    "user_id": "21a7cc06-20ef-4356-88d7-b07f2c9e95fb",
+    "amount": 8136.95,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Christianview",
+    "timestamp": "2026-05-22T22:27:05.110060"
+  },
+  {
+    "transaction_id": "d74cfe66-d4b5-4d84-869d-a75a426218fb",
+    "user_id": "abc791cd-7cb6-40bf-b5cf-3e2ccb96dfd0",
+    "amount": 6875.03,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Williamtown",
+    "timestamp": "2026-05-22T22:27:06.113102"
+  },
+  {
+    "transaction_id": "abe4b653-f2a1-4abf-a052-850c6e4db4e9",
+    "user_id": "7390967f-564a-4207-a67e-5f9833af3edb",
+    "amount": 8706.49,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Tammystad",
+    "timestamp": "2026-05-22T22:27:06.614861"
+  },
+  {
+    "transaction_id": "d75a6fb6-cabe-4907-b5eb-ab25e621cae5",
+    "user_id": "29fcc545-6583-4d71-ad20-2cc532dc580a",
+    "amount": 747.4,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Tylerborough",
+    "timestamp": "2026-05-22T22:27:07.117514"
+  },
+  {
+    "transaction_id": "5c4a2040-6e99-4457-8b1f-41048612a1ab",
+    "user_id": "5779ee3a-e1b1-49f3-8732-80583be4cb7e",
+    "amount": 3565.98,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Willie",
+    "timestamp": "2026-05-22T22:27:07.620166"
+  },
+  {
+    "transaction_id": "1a7e71b9-f09b-4fb3-af0b-401961c9472c",
+    "user_id": "9202a331-639d-42cb-aa77-72b7852aedd7",
+    "amount": 9413.33,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Debraside",
+    "timestamp": "2026-05-22T22:27:08.122223"
+  },
+  {
+    "transaction_id": "56b47a18-c5f0-4633-854c-7a31bca9484a",
+    "user_id": "ea71fb33-9af7-4672-a6fe-27fd7e2ed624",
+    "amount": 16.64,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Hallfurt",
+    "timestamp": "2026-05-22T22:27:08.624283"
+  },
+  {
+    "transaction_id": "282ac590-d8b2-4af5-8770-99d9dd1c5ef4",
+    "user_id": "eec9bf4b-5998-4ba7-a0d0-21ee462b99a8",
+    "amount": 3858.6,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Dawn",
+    "timestamp": "2026-05-22T22:27:09.125485"
+  }
+]

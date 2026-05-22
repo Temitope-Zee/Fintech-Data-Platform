@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "42d08fdd-3899-490c-98c3-7217e1e12b3c",
+    "user_id": "b18ba748-2918-40cc-af3e-9af8221c8a0a",
+    "amount": 261.28,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Christopherstad",
+    "timestamp": "2026-05-22T22:39:29.364032"
+  },
+  {
+    "transaction_id": "4ffb6cf7-fbad-4035-a7f0-e899bd6d04ec",
+    "user_id": "d1b07c87-790a-40c8-a1b1-8a709adb2bb5",
+    "amount": 4892.2,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Maryburgh",
+    "timestamp": "2026-05-22T22:39:29.864964"
+  },
+  {
+    "transaction_id": "c7d7ac46-7b34-4e9b-a5e2-028db77820b2",
+    "user_id": "6e3df650-3f49-4254-ab42-6063ac390f5b",
+    "amount": 9625.75,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Haileyside",
+    "timestamp": "2026-05-22T22:39:30.367019"
+  },
+  {
+    "transaction_id": "3f44515a-11b4-4ec4-8b5d-93ca6dbe3a11",
+    "user_id": "5bfb3d54-aaea-4114-bf54-a96c3f7f470c",
+    "amount": 7785.97,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Tiffany",
+    "timestamp": "2026-05-22T22:39:30.869504"
+  },
+  {
+    "transaction_id": "fa3d1da5-1846-44ea-af5c-35e357bc27af",
+    "user_id": "4fde8e19-0c5e-40ee-a303-f022dcdc4bf6",
+    "amount": 1024.66,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Jordanburgh",
+    "timestamp": "2026-05-22T22:39:31.370590"
+  },
+  {
+    "transaction_id": "9ac0f821-a095-4020-b792-29e94c7f3c61",
+    "user_id": "2c2d54a4-3b92-485d-b7db-b78b592b6239",
+    "amount": 9690.65,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Warren",
+    "timestamp": "2026-05-22T22:39:31.871785"
+  },
+  {
+    "transaction_id": "c0d5c440-96f2-466c-bb3b-f0692f20b94e",
+    "user_id": "fc9e4d09-5146-4b3a-ac2b-cc9ad80f5c8c",
+    "amount": 202.97,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Holly",
+    "timestamp": "2026-05-22T22:39:32.372750"
+  },
+  {
+    "transaction_id": "4fdd65b9-bdeb-4f20-8b95-f41da4ac53f0",
+    "user_id": "290a28f1-ec8d-473e-8eec-bf89535ed831",
+    "amount": 9535.13,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Scottland",
+    "timestamp": "2026-05-22T22:39:32.873845"
+  },
+  {
+    "transaction_id": "16ac6ae7-0373-4d94-bb6b-0a302b79864b",
+    "user_id": "dd93ad6f-4eea-468a-b782-0c89caf62b18",
+    "amount": 2151.57,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Kevin",
+    "timestamp": "2026-05-22T22:39:33.375676"
+  },
+  {
+    "transaction_id": "219c9328-3c21-42be-808f-737885aa4a5e",
+    "user_id": "9e85ade4-dd97-4af7-9f3f-1faa064753d7",
+    "amount": 1788.13,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Danielle",
+    "timestamp": "2026-05-22T22:39:33.877465"
+  }
+]

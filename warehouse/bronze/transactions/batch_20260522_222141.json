@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1b7b85bc-6ac4-414c-8348-32ca0a46d99e",
+    "user_id": "e73cdf1b-c1cc-456b-aed7-a709875ddd27",
+    "amount": 5802.37,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Catherine",
+    "timestamp": "2026-05-22T22:21:36.796726"
+  },
+  {
+    "transaction_id": "1f1dc9ca-7051-4fb1-8ed9-984c6cd77411",
+    "user_id": "e724f2ac-9f48-42ab-8825-28ee2ad325a4",
+    "amount": 9819.25,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Davidmouth",
+    "timestamp": "2026-05-22T22:21:37.298361"
+  },
+  {
+    "transaction_id": "57cf9117-c472-4650-80bb-b1988634c57e",
+    "user_id": "aa7ee57a-5bd2-4c1b-9d0b-37ad66c1fa9a",
+    "amount": 389.15,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Whiteburgh",
+    "timestamp": "2026-05-22T22:21:37.800262"
+  },
+  {
+    "transaction_id": "48b78edb-62b7-45a6-ad68-ed3ab7e63847",
+    "user_id": "b1ab0f2e-ac9d-4f27-8cd5-7216b1b85390",
+    "amount": 6032.27,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Kristy",
+    "timestamp": "2026-05-22T22:21:38.302873"
+  },
+  {
+    "transaction_id": "ca75aa98-9abe-4a37-957e-84ab31a8f750",
+    "user_id": "2820afd9-2994-42fe-a9cb-1c85e47d722c",
+    "amount": 8180.08,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lopezview",
+    "timestamp": "2026-05-22T22:21:39.306460"
+  },
+  {
+    "transaction_id": "d0b097e0-1e42-41d0-ba45-df64b291ca0b",
+    "user_id": "b11ce38b-f9bb-4b36-86aa-51fca2468d01",
+    "amount": 8408.75,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Jennifer",
+    "timestamp": "2026-05-22T22:21:39.810942"
+  },
+  {
+    "transaction_id": "540c44b3-a914-408c-b5da-234697e0e2f0",
+    "user_id": "0eb41af0-8e76-4b6c-a1f0-d70fb4c9a040",
+    "amount": 4937.07,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Patrick",
+    "timestamp": "2026-05-22T22:21:40.308858"
+  },
+  {
+    "transaction_id": "52c151e9-e1c6-48a6-9a9e-2898450f8044",
+    "user_id": "cc5f698a-7b6d-48e8-971e-74a605b108e3",
+    "amount": 7514.36,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Anthony",
+    "timestamp": "2026-05-22T22:21:40.812774"
+  },
+  {
+    "transaction_id": "bf1fd8e6-c32c-4c7c-a87d-4cc6793840fd",
+    "user_id": "d6fa94e9-d273-4a39-bec8-f37135259981",
+    "amount": 5243.49,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Marieberg",
+    "timestamp": "2026-05-22T22:21:41.314316"
+  },
+  {
+    "transaction_id": "8d1a8c80-1c5c-4851-adbb-6e65fa1329ef",
+    "user_id": "3fe7b84d-59a7-4834-92fe-de8cb754408f",
+    "amount": 517.5,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Christopherville",
+    "timestamp": "2026-05-22T22:21:41.815694"
+  }
+]

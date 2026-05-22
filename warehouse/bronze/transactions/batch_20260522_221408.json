@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4943ae3a-ba44-417b-8a53-f0a546373a17",
+    "user_id": "804e292e-b6e4-46fa-889f-c2be46abf63b",
+    "amount": 5038.41,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Cynthiafurt",
+    "timestamp": "2026-05-22T22:14:03.431789"
+  },
+  {
+    "transaction_id": "f135c180-655f-426d-8b79-064fca1448a8",
+    "user_id": "83b5a71c-9142-4941-b5fb-307e9ec9c7b3",
+    "amount": 914.23,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Karenstad",
+    "timestamp": "2026-05-22T22:14:03.933569"
+  },
+  {
+    "transaction_id": "8c2e63dc-c1c7-4ddb-886b-f9188fe4c345",
+    "user_id": "0135fa98-7ee3-4e55-80af-d23f496afb2c",
+    "amount": 5980.72,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Natasha",
+    "timestamp": "2026-05-22T22:14:04.436092"
+  },
+  {
+    "transaction_id": "5a79a640-b2b2-40c7-a268-d3181f13f27d",
+    "user_id": "b607dde0-a3c8-4fa2-b474-cc0193c544f3",
+    "amount": 7154.19,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Alejandro",
+    "timestamp": "2026-05-22T22:14:04.938602"
+  },
+  {
+    "transaction_id": "bc3a1eea-7486-4e13-a659-3bfb9bbbdecb",
+    "user_id": "16d73720-ed48-4d99-9ed4-e2803b43d0b6",
+    "amount": 2239.25,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Annashire",
+    "timestamp": "2026-05-22T22:14:05.941798"
+  },
+  {
+    "transaction_id": "c1512624-9c4d-42f4-b0d5-96177c0959a0",
+    "user_id": "9cc9cf6f-1de7-4839-bc7d-97b0af21d97b",
+    "amount": 6202.91,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Dennisborough",
+    "timestamp": "2026-05-22T22:14:06.444314"
+  },
+  {
+    "transaction_id": "c52b7aa2-b7e0-4d68-bd90-b6e37a23cc17",
+    "user_id": "72c94f83-1ab8-41df-9aaf-528cc2ad755c",
+    "amount": 4155.02,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Suzanneland",
+    "timestamp": "2026-05-22T22:14:06.945964"
+  },
+  {
+    "transaction_id": "851f18bc-9413-4310-8089-81dbcede51a3",
+    "user_id": "a671219b-847f-40f6-8f4e-cdb046bd7933",
+    "amount": 5990.66,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Williamburgh",
+    "timestamp": "2026-05-22T22:14:07.447517"
+  },
+  {
+    "transaction_id": "499f49c7-e341-4a61-b7a3-5916525ac526",
+    "user_id": "c9929aa0-cc3e-4366-8ac0-8baa81982f6f",
+    "amount": 1404.48,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Amy",
+    "timestamp": "2026-05-22T22:14:08.451689"
+  },
+  {
+    "transaction_id": "6f806ce3-20f2-4bab-b5b2-4fea5efaac0e",
+    "user_id": "c1bbe6f4-3f13-4481-bf33-6c66cbcbcdb9",
+    "amount": 3273.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Edwardville",
+    "timestamp": "2026-05-22T22:14:08.953310"
+  }
+]

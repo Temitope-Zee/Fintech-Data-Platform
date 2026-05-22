@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "95fa10f8-c11e-4677-8e98-0a2ecbea70cb",
+    "user_id": "3557ba9c-93b6-4eb0-aef6-b46529241272",
+    "amount": 5631.26,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Matthewborough",
+    "timestamp": "2026-05-22T22:42:02.474575"
+  },
+  {
+    "transaction_id": "02906bbb-aec7-4797-a673-f9891fb13d6d",
+    "user_id": "75d2ea8c-1417-4491-b29c-b2fc495f02d2",
+    "amount": 7255.92,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Gonzalezborough",
+    "timestamp": "2026-05-22T22:42:02.976177"
+  },
+  {
+    "transaction_id": "a7587b0c-512f-4c17-9a78-4bf091430802",
+    "user_id": "c9b2245e-76e5-4351-8cd0-98dbee35ab1c",
+    "amount": 489.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Samanthaburgh",
+    "timestamp": "2026-05-22T22:42:03.477634"
+  },
+  {
+    "transaction_id": "c38c9b25-3f58-485a-8a8c-2ea67ad1de97",
+    "user_id": "0030c325-c871-48a3-8f69-9007cf42d5eb",
+    "amount": 2472.75,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South David",
+    "timestamp": "2026-05-22T22:42:03.979549"
+  },
+  {
+    "transaction_id": "07ff90b2-e92e-4a79-9cdf-affb1b8dd483",
+    "user_id": "4d095846-f444-4f58-9861-eedcbed5b730",
+    "amount": 7985.37,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Courtneyfurt",
+    "timestamp": "2026-05-22T22:42:04.481973"
+  },
+  {
+    "transaction_id": "e7293efd-36da-4e4e-bfbd-bba2d3c3e6cf",
+    "user_id": "345fd9dc-b2f8-461e-95b0-ba9d56ebb574",
+    "amount": 3828.11,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Turnerberg",
+    "timestamp": "2026-05-22T22:42:04.984953"
+  },
+  {
+    "transaction_id": "d213bb3c-d347-4a5d-ade5-78a54f6eab10",
+    "user_id": "e7afae8c-c72f-4ac6-8818-f2d0a4d179bf",
+    "amount": 1694.52,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Donnahaven",
+    "timestamp": "2026-05-22T22:42:05.486463"
+  },
+  {
+    "transaction_id": "951932d5-fad8-4cc8-a29e-1dd631002212",
+    "user_id": "b68674f7-49ba-4a3f-8a91-372cf427fd39",
+    "amount": 4444.53,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Katelyn",
+    "timestamp": "2026-05-22T22:42:05.988104"
+  },
+  {
+    "transaction_id": "743c0aee-6c5b-4e6d-b2ee-dc3fd3ef467d",
+    "user_id": "93e28abf-159c-425d-8efe-b4ee9feb74fe",
+    "amount": 6824.36,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Jameschester",
+    "timestamp": "2026-05-22T22:42:06.489590"
+  },
+  {
+    "transaction_id": "72312b0a-79a0-4422-86f6-c8cf490f4306",
+    "user_id": "4c11b7ae-1e42-4e55-9a84-3267c6e87c63",
+    "amount": 6374.65,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Sarahland",
+    "timestamp": "2026-05-22T22:42:08.496475"
+  }
+]

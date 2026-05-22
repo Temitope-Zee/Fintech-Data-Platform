@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e8b633ae-7bfc-4ff6-9c00-bfbd98c87884",
+    "user_id": "f3ec77c5-52fe-4cdf-8301-7ba649a9b858",
+    "amount": 4042.33,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Amy",
+    "timestamp": "2026-05-22T21:56:28.218239"
+  },
+  {
+    "transaction_id": "b5400878-1e26-403f-8b27-a6eaf3613ef4",
+    "user_id": "ae39d160-be6b-4402-a705-151c56529fce",
+    "amount": 1960.86,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Colinmouth",
+    "timestamp": "2026-05-22T21:56:28.720818"
+  },
+  {
+    "transaction_id": "4be3a713-d12b-426d-8249-398081c23e84",
+    "user_id": "6e9117b2-4f77-4a9e-98de-75d99f94460c",
+    "amount": 43.28,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Peter",
+    "timestamp": "2026-05-22T21:56:29.222098"
+  },
+  {
+    "transaction_id": "e5ce7f54-9158-4574-9cfa-101f3fe8aae0",
+    "user_id": "6649c86d-4e5a-4dc3-beac-c80f9647fb2c",
+    "amount": 7123.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Evelyn",
+    "timestamp": "2026-05-22T21:56:29.723416"
+  },
+  {
+    "transaction_id": "e056260a-df0c-4f85-92aa-6edcb54615c4",
+    "user_id": "257d0a49-c5fe-49ea-9005-771d70ca3e62",
+    "amount": 7521.89,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Paulaville",
+    "timestamp": "2026-05-22T21:56:30.226658"
+  },
+  {
+    "transaction_id": "7d9a9537-8f42-4e7b-a53b-3485c4080e9a",
+    "user_id": "f235808c-560e-4cf1-9a59-1e3313cbcf7c",
+    "amount": 6121.42,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Juliaburgh",
+    "timestamp": "2026-05-22T21:56:30.729453"
+  },
+  {
+    "transaction_id": "73873b9d-02d6-4c96-ad30-03e1bbd0f0b5",
+    "user_id": "f650c0c8-223c-47e3-9068-f522818bad17",
+    "amount": 9329.62,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Brianport",
+    "timestamp": "2026-05-22T21:56:31.232116"
+  },
+  {
+    "transaction_id": "fc3e0c0c-7f0d-4add-b55b-12288250e6d2",
+    "user_id": "ae68b767-0fe0-4a37-91fe-5a7388056efa",
+    "amount": 634.22,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Kellyville",
+    "timestamp": "2026-05-22T21:56:32.237287"
+  },
+  {
+    "transaction_id": "ff697b3d-f449-4bff-a238-261405f5f913",
+    "user_id": "77af2bcf-a96f-4cd7-9887-e51032b6c858",
+    "amount": 7898.38,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Adkinsview",
+    "timestamp": "2026-05-22T21:56:32.739851"
+  },
+  {
+    "transaction_id": "e10e6dbe-fa01-4a6c-b4a7-622cde55bf12",
+    "user_id": "f8e779d0-2ff8-4353-9b4e-045260a49c3f",
+    "amount": 4432.79,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Vegatown",
+    "timestamp": "2026-05-22T21:56:34.244435"
+  }
+]

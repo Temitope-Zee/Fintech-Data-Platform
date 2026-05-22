@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "67da5393-0f11-453e-950c-a5ea4af46bb9",
+    "user_id": "fdc78458-1304-416c-ae45-f08d48decb80",
+    "amount": 9821.71,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West John",
+    "timestamp": "2026-05-22T22:52:42.579725"
+  },
+  {
+    "transaction_id": "a7f65fb8-614d-442f-aa0f-e62e3556a24a",
+    "user_id": "ee205c7e-2e2b-49f7-9159-716ecbe3ee0c",
+    "amount": 9523.91,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Catherine",
+    "timestamp": "2026-05-22T22:52:43.085959"
+  },
+  {
+    "transaction_id": "f66393b9-2fa0-42fe-865e-74f13fd188e2",
+    "user_id": "b08fca68-1077-4352-a17a-f093b00af56b",
+    "amount": 7414.56,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Richard",
+    "timestamp": "2026-05-22T22:52:43.589024"
+  },
+  {
+    "transaction_id": "8662e4f1-b92c-47ac-88d9-6905b04b9c22",
+    "user_id": "142ef8bd-0069-4b32-9140-9ac23209aa8d",
+    "amount": 7878.92,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Michelleton",
+    "timestamp": "2026-05-22T22:52:44.091106"
+  },
+  {
+    "transaction_id": "f8cc0332-8c2d-4259-a7f8-b17225bcb4fe",
+    "user_id": "4f3e3acd-2036-48e3-a452-52e85f670396",
+    "amount": 4223.26,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Dave",
+    "timestamp": "2026-05-22T22:52:45.095690"
+  },
+  {
+    "transaction_id": "8165864a-f087-402b-aca1-e66461f9902d",
+    "user_id": "bfe5222f-9716-425f-a31e-5f5fbef90f7b",
+    "amount": 2440.1,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Destinymouth",
+    "timestamp": "2026-05-22T22:52:45.597101"
+  },
+  {
+    "transaction_id": "d2ff5d77-2814-462b-ac61-c5522ed4a53f",
+    "user_id": "fd730994-287e-44ae-9e06-d1740fc99ac7",
+    "amount": 2925.8,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Matthew",
+    "timestamp": "2026-05-22T22:52:46.100468"
+  },
+  {
+    "transaction_id": "9789f0ff-9809-486c-a348-fefc1c64e53b",
+    "user_id": "ee0bd538-b99d-40dd-a838-a6c49982c949",
+    "amount": 9048.55,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Donald",
+    "timestamp": "2026-05-22T22:52:47.107188"
+  },
+  {
+    "transaction_id": "64dfde99-47da-477f-a912-70383c3d8ccc",
+    "user_id": "f9137954-55ae-44ab-83fa-9364db758f28",
+    "amount": 1211.5,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Greenberg",
+    "timestamp": "2026-05-22T22:52:47.609092"
+  },
+  {
+    "transaction_id": "58635236-b905-42dc-b8a2-afc4ddace969",
+    "user_id": "e10aa666-5ada-4d5c-accc-bf5b76ce7b90",
+    "amount": 5609.85,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Leahland",
+    "timestamp": "2026-05-22T22:52:48.111554"
+  }
+]

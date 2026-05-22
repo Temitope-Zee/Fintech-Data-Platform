@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e305fc3d-0308-43d6-94cd-842c0fcb554c",
+    "user_id": "ed9b759b-1996-4ae2-bbd1-0557d21ba560",
+    "amount": 9121.03,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Courtneystad",
+    "timestamp": "2026-05-22T21:48:25.237207"
+  },
+  {
+    "transaction_id": "a0668289-d60b-46d6-ba9e-39780e02c620",
+    "user_id": "4302e0ba-4f54-4187-bdfd-0636886ec492",
+    "amount": 3996.54,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Petersborough",
+    "timestamp": "2026-05-22T21:48:25.739530"
+  },
+  {
+    "transaction_id": "c9810d2b-0671-480a-ac25-1cbf473113be",
+    "user_id": "90fd4057-dcc4-4fe0-9fe3-d990fa1df8d4",
+    "amount": 8615.66,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Millsview",
+    "timestamp": "2026-05-22T21:48:26.743572"
+  },
+  {
+    "transaction_id": "98438ce5-d838-430a-acfe-f008d03243e8",
+    "user_id": "beb7e163-f29a-4536-89d3-24e4ae761fae",
+    "amount": 467.86,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Dunnville",
+    "timestamp": "2026-05-22T21:48:27.245464"
+  },
+  {
+    "transaction_id": "3067686a-e341-4790-be72-02efd086ea45",
+    "user_id": "85c29079-f0fe-4160-8529-c0a55c6e170d",
+    "amount": 3153.49,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Nicholas",
+    "timestamp": "2026-05-22T21:48:27.748049"
+  },
+  {
+    "transaction_id": "ba459c47-8dbe-4fcd-8699-bed9baeca0fa",
+    "user_id": "5b488842-c98a-4277-9fd8-7433fc23f67d",
+    "amount": 1153.79,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Torresview",
+    "timestamp": "2026-05-22T21:48:28.249782"
+  },
+  {
+    "transaction_id": "330d5251-373e-4d77-b67f-cf31d0b2efb9",
+    "user_id": "127e82c2-7780-4e8b-ad77-218f54182ad6",
+    "amount": 3034.25,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jamesstad",
+    "timestamp": "2026-05-22T21:48:29.756074"
+  },
+  {
+    "transaction_id": "48b8af65-4530-4731-9451-a85c66b6052f",
+    "user_id": "655cc897-5e4f-4800-a627-7404dd02c3d1",
+    "amount": 3731.89,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Huffhaven",
+    "timestamp": "2026-05-22T21:48:30.257516"
+  },
+  {
+    "transaction_id": "dfa2bede-17a4-4c2c-b90f-b9b59d6b14ac",
+    "user_id": "db959fe9-e5fb-4b3b-acb7-9457cb541948",
+    "amount": 1055.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Gibsonchester",
+    "timestamp": "2026-05-22T21:48:31.764622"
+  },
+  {
+    "transaction_id": "8f9afa16-fdd4-429e-8be1-7d23d4288ca3",
+    "user_id": "e27c7ac7-c5e4-496b-8ca4-3c565c00f765",
+    "amount": 9701.54,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Christina",
+    "timestamp": "2026-05-22T21:48:32.267342"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "051ae71c-9aef-446e-a278-81676b26e8af",
+    "user_id": "6dfcc969-970d-4da1-aba5-2a236c7117b6",
+    "amount": 5877.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Stevenmouth",
+    "timestamp": "2026-05-22T22:23:16.218854"
+  },
+  {
+    "transaction_id": "b339efe3-dee7-4cee-8423-c0da9356c58c",
+    "user_id": "6fef5ff1-72c3-4ec1-a19e-28d2f4d5a744",
+    "amount": 7982.63,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Christopherfurt",
+    "timestamp": "2026-05-22T22:23:16.721380"
+  },
+  {
+    "transaction_id": "952351ee-679c-4e13-acde-0e6a00a41b23",
+    "user_id": "6b09e918-f5eb-46ae-8798-f0cb03add471",
+    "amount": 9219.92,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Salinasside",
+    "timestamp": "2026-05-22T22:23:17.224022"
+  },
+  {
+    "transaction_id": "44c15dd2-27c8-4b6a-8be6-ac9bd2beee99",
+    "user_id": "f87dcdec-e935-43e4-b026-763a549b84aa",
+    "amount": 4713.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Rowlandchester",
+    "timestamp": "2026-05-22T22:23:17.726908"
+  },
+  {
+    "transaction_id": "4418d708-3ce2-4aa3-a0ba-3f114663479f",
+    "user_id": "856e28bd-b8a3-4277-a5f3-1becf04e4aff",
+    "amount": 6696.16,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Steven",
+    "timestamp": "2026-05-22T22:23:18.229712"
+  },
+  {
+    "transaction_id": "56b5e79d-16d7-4f8b-be65-2d654d232781",
+    "user_id": "6334da84-26f4-4b06-986c-22fd0f7a3fa5",
+    "amount": 9186.36,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Samantha",
+    "timestamp": "2026-05-22T22:23:18.731383"
+  },
+  {
+    "transaction_id": "2be5ab95-f03f-41ab-b43b-1632ebc9f145",
+    "user_id": "6697c61d-62f3-4366-ae34-2250c44c760a",
+    "amount": 8936.97,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Meganbury",
+    "timestamp": "2026-05-22T22:23:19.736773"
+  },
+  {
+    "transaction_id": "7f7778e3-8d05-45cc-a7b8-366b1f4ce45b",
+    "user_id": "d25f6e8c-d4c3-48bb-b6b8-f42cc3a19f0d",
+    "amount": 6238.29,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Davidville",
+    "timestamp": "2026-05-22T22:23:21.242252"
+  },
+  {
+    "transaction_id": "6cd7be77-1e09-466a-8c91-7e1761b27d60",
+    "user_id": "2e1ebed0-f199-4fa8-beef-47ddd980bd93",
+    "amount": 8583.98,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Justinland",
+    "timestamp": "2026-05-22T22:23:21.744294"
+  },
+  {
+    "transaction_id": "550363fd-9282-43f0-8148-50d247da5d62",
+    "user_id": "1c14d4df-f424-4bbe-aa6a-9b7f26f75489",
+    "amount": 3585.21,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Benjaminmouth",
+    "timestamp": "2026-05-22T22:23:22.246149"
+  }
+]

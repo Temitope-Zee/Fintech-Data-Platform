@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c71da5ac-e510-44ce-abf9-89508ea19871",
+    "user_id": "9f8f2fa3-f81f-43ee-b64d-06c0707957b6",
+    "amount": 3092.0,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Jeremy",
+    "timestamp": "2026-05-22T22:26:50.555209"
+  },
+  {
+    "transaction_id": "37018aaa-7483-4a0b-bbca-508464a42e25",
+    "user_id": "2f754924-cb84-426a-9df7-b32357a7bbad",
+    "amount": 7918.83,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Jacquelineside",
+    "timestamp": "2026-05-22T22:26:51.056687"
+  },
+  {
+    "transaction_id": "b40bcf2f-fb84-4889-a477-fd5269140871",
+    "user_id": "506709b1-3087-4350-871c-fc677ffaded5",
+    "amount": 2818.32,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Thompsonport",
+    "timestamp": "2026-05-22T22:26:52.562889"
+  },
+  {
+    "transaction_id": "dda4ee6c-c1eb-4fc1-a04c-dba335e34390",
+    "user_id": "2c78402d-4578-4842-8d09-709cd059f43c",
+    "amount": 3090.28,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Housefort",
+    "timestamp": "2026-05-22T22:26:53.065812"
+  },
+  {
+    "transaction_id": "75f78db0-5cbf-41ea-a974-05f28f3fa3cf",
+    "user_id": "fa67e461-86d9-4de3-bedb-2bdaeb723d48",
+    "amount": 4065.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Donald",
+    "timestamp": "2026-05-22T22:26:54.069238"
+  },
+  {
+    "transaction_id": "b1ec4c81-40a2-4d9c-930f-2a7d4cf3693c",
+    "user_id": "448f5050-ea6a-432f-b7a1-2130424326d2",
+    "amount": 4874.49,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Alvaradoborough",
+    "timestamp": "2026-05-22T22:26:55.072050"
+  },
+  {
+    "transaction_id": "6a27a50b-718f-4564-87d9-282ad6e8e868",
+    "user_id": "f8b43dce-185b-4e3a-bd3a-629f0ae5381c",
+    "amount": 7957.93,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Kaitlyn",
+    "timestamp": "2026-05-22T22:26:55.573408"
+  },
+  {
+    "transaction_id": "1a6e8311-3786-4197-a210-5bad81503bc3",
+    "user_id": "f05995d2-1ca0-4570-a690-ef3428b6dddc",
+    "amount": 8923.61,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Matthewview",
+    "timestamp": "2026-05-22T22:26:56.578071"
+  },
+  {
+    "transaction_id": "77fe2bf1-c99b-48c4-8bff-e07ac5ac804a",
+    "user_id": "4a56c9ed-e6ac-46ae-9bb7-9baa74fe815c",
+    "amount": 5745.89,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Gregory",
+    "timestamp": "2026-05-22T22:26:57.079800"
+  },
+  {
+    "transaction_id": "c8729665-8283-47a9-812a-663c2cde36ce",
+    "user_id": "258fec45-274f-4d35-bb3e-797057e2431e",
+    "amount": 3459.68,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Francisco",
+    "timestamp": "2026-05-22T22:26:58.585392"
+  }
+]

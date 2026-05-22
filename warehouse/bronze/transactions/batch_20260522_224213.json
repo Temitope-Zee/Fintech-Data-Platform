@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "39043848-d930-4513-a07e-7627176445c5",
+    "user_id": "34e41ba9-b0a9-40db-ae91-044568291b93",
+    "amount": 954.58,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Elizabethmouth",
+    "timestamp": "2026-05-22T22:42:08.998200"
+  },
+  {
+    "transaction_id": "fd224923-7c06-42a6-954b-136f60d913ab",
+    "user_id": "4eb9a6c3-0527-4254-9fbb-cfcc785eb8e0",
+    "amount": 7661.13,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Johnside",
+    "timestamp": "2026-05-22T22:42:09.501899"
+  },
+  {
+    "transaction_id": "c798aa27-ba25-4e34-a575-389cd7a67ec5",
+    "user_id": "39ac3eb9-1507-4a26-b8e2-ff162c4c1b63",
+    "amount": 8095.7,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Laurenhaven",
+    "timestamp": "2026-05-22T22:42:10.004995"
+  },
+  {
+    "transaction_id": "26ab0116-07e5-4bdf-a468-3372a35c95a7",
+    "user_id": "b6d8b855-6f9e-48c5-8646-85982719dc87",
+    "amount": 3062.61,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Sarahstad",
+    "timestamp": "2026-05-22T22:42:10.507773"
+  },
+  {
+    "transaction_id": "2f3f9ea4-aeaa-49e1-a0c1-10ff528133cd",
+    "user_id": "7e28648b-ccd7-4717-b495-2a7d990e5aef",
+    "amount": 1442.97,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Johnathan",
+    "timestamp": "2026-05-22T22:42:11.009166"
+  },
+  {
+    "transaction_id": "6b30e187-9557-4340-8fea-8979932b98f2",
+    "user_id": "8d8968c6-2cba-41b9-afcf-0e9dc0f80f78",
+    "amount": 4048.32,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Paulaland",
+    "timestamp": "2026-05-22T22:42:11.511117"
+  },
+  {
+    "transaction_id": "7afedf07-1c2b-4252-aec2-fd56ee5cea02",
+    "user_id": "8a871c61-be69-451a-94a0-6cf74b106dd2",
+    "amount": 7105.51,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Charlesland",
+    "timestamp": "2026-05-22T22:42:12.012824"
+  },
+  {
+    "transaction_id": "4a5a9e4f-2227-4c89-9806-5e9e5162fc80",
+    "user_id": "19106b82-1a69-4d6d-a2eb-505b2db5d0ba",
+    "amount": 4475.71,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Robertbury",
+    "timestamp": "2026-05-22T22:42:12.514283"
+  },
+  {
+    "transaction_id": "4394b1da-9258-4f37-bdd9-e2c9af572b08",
+    "user_id": "41e54067-bb3f-4757-aa1c-1b03dfadcee5",
+    "amount": 2107.87,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Reginahaven",
+    "timestamp": "2026-05-22T22:42:13.017235"
+  },
+  {
+    "transaction_id": "7161ad36-662e-48de-b041-fd7a4c416a71",
+    "user_id": "8d7e6873-c564-4a14-a4cc-f83c26274812",
+    "amount": 55.82,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kylemouth",
+    "timestamp": "2026-05-22T22:42:13.520197"
+  }
+]

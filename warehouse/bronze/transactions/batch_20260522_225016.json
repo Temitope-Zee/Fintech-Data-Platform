@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "de0dfe90-66cf-4092-9a5f-cb61f8016f4f",
+    "user_id": "d5fda8e9-afed-4df1-bc5b-4332d8e51362",
+    "amount": 7955.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Zimmermanburgh",
+    "timestamp": "2026-05-22T22:50:12.445348"
+  },
+  {
+    "transaction_id": "ed7bac97-7c19-42ac-ab27-afb6e98320f1",
+    "user_id": "b55d8090-2063-485e-8db3-e725169c9670",
+    "amount": 6306.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Debra",
+    "timestamp": "2026-05-22T22:50:12.946922"
+  },
+  {
+    "transaction_id": "62d6ccf3-3f15-4dff-b0ad-0b13f23935ed",
+    "user_id": "bdf15a33-77d3-4273-a94a-b31508a2af5b",
+    "amount": 7813.12,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Hutchinsonshire",
+    "timestamp": "2026-05-22T22:50:13.450208"
+  },
+  {
+    "transaction_id": "cd942931-9acc-4a4f-847c-150bb2ae2d1d",
+    "user_id": "bd6580fd-55a8-44bb-8372-bece5c3720d8",
+    "amount": 9568.82,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Jennifer",
+    "timestamp": "2026-05-22T22:50:13.951696"
+  },
+  {
+    "transaction_id": "f7d75979-0554-430d-9670-d72d164679b7",
+    "user_id": "5ce7599c-93a6-4803-a5a7-b9da446f80ab",
+    "amount": 1406.61,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jenniferbury",
+    "timestamp": "2026-05-22T22:50:14.453380"
+  },
+  {
+    "transaction_id": "51fc47f7-2ba9-44f2-b9c2-da8ce0921ecf",
+    "user_id": "e6cff768-5a72-4ac1-aefa-9dfb64f5fb6a",
+    "amount": 9641.69,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Sparksbury",
+    "timestamp": "2026-05-22T22:50:14.956572"
+  },
+  {
+    "transaction_id": "aa32b8a5-0be3-41ad-88a8-c2450c96fcfd",
+    "user_id": "bd327caa-9164-4fad-a012-f198175e0c5b",
+    "amount": 3092.46,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Markport",
+    "timestamp": "2026-05-22T22:50:15.462418"
+  },
+  {
+    "transaction_id": "17f7626b-177f-41ad-8c39-2debd68a8e0b",
+    "user_id": "ad862a54-9782-4254-8d5d-a4b06085fbe4",
+    "amount": 3907.69,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Robertchester",
+    "timestamp": "2026-05-22T22:50:15.965546"
+  },
+  {
+    "transaction_id": "6c9d4a97-ca58-456c-a055-8d714e56d0de",
+    "user_id": "f5184029-c2e1-4c52-9c59-550f7b295141",
+    "amount": 4951.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Luke",
+    "timestamp": "2026-05-22T22:50:16.468315"
+  },
+  {
+    "transaction_id": "e3cd696f-5f21-431b-be5a-f560cde9e616",
+    "user_id": "ff9e36f7-a742-467a-9118-3510c994e2e5",
+    "amount": 3509.55,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Heatherside",
+    "timestamp": "2026-05-22T22:50:16.970278"
+  }
+]

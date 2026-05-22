@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "55dc23c4-e036-4257-bd73-d429b9feb634",
+    "user_id": "d25172a6-1cad-41be-b0cf-5c1d16743927",
+    "amount": 6944.16,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Heather",
+    "timestamp": "2026-05-22T22:40:38.633790"
+  },
+  {
+    "transaction_id": "db4610e7-d291-4d61-9adc-d2bf2eb8d4db",
+    "user_id": "91e1f638-d627-4ce6-a3e0-61df252b9213",
+    "amount": 7468.51,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Chadstad",
+    "timestamp": "2026-05-22T22:40:39.135781"
+  },
+  {
+    "transaction_id": "86ef4fa6-18b2-4004-9587-d51deb6e32d2",
+    "user_id": "79b7ecb6-a4b6-456b-96f8-c3e002064ab4",
+    "amount": 6238.55,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Wardfort",
+    "timestamp": "2026-05-22T22:40:39.637616"
+  },
+  {
+    "transaction_id": "c8900658-b778-4f39-9dc4-0ae20e26e7d9",
+    "user_id": "1336fc08-ecd3-48bf-bbab-0ca509be55e9",
+    "amount": 1770.27,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Sara",
+    "timestamp": "2026-05-22T22:40:40.140404"
+  },
+  {
+    "transaction_id": "0c425e09-6f0b-4b2f-84d0-6bd046d4f794",
+    "user_id": "db4bdf58-2625-4a4b-98c1-6cae1867a83e",
+    "amount": 6570.45,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Benjaminville",
+    "timestamp": "2026-05-22T22:40:40.642714"
+  },
+  {
+    "transaction_id": "38da81c0-6a9d-4823-908b-d3b38dca16e2",
+    "user_id": "6b8795f0-2425-48e9-b36e-2d71ca9a0e72",
+    "amount": 3941.52,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Shirleyton",
+    "timestamp": "2026-05-22T22:40:42.149324"
+  },
+  {
+    "transaction_id": "b180d04c-0d40-413d-a7c2-7744afa702b4",
+    "user_id": "00efad40-2f5a-4210-8680-2a8a73b99b04",
+    "amount": 5107.08,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Robertview",
+    "timestamp": "2026-05-22T22:40:42.650672"
+  },
+  {
+    "transaction_id": "b96e6afa-61df-46b4-a9d0-11b03243e928",
+    "user_id": "09e28bd6-13b5-40a5-8d70-72f69041bd13",
+    "amount": 6748.83,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Aliciatown",
+    "timestamp": "2026-05-22T22:40:43.152087"
+  },
+  {
+    "transaction_id": "f416b95f-08c5-4c65-936b-cd181d86750c",
+    "user_id": "e765003e-54c1-4fee-ab0c-fb717b298041",
+    "amount": 944.35,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Jillville",
+    "timestamp": "2026-05-22T22:40:43.654081"
+  },
+  {
+    "transaction_id": "1679d2a5-6cde-4e24-a323-331b22b15477",
+    "user_id": "948f26fc-5ad2-448b-aa99-cd0d4ae3dda7",
+    "amount": 3443.68,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Catherine",
+    "timestamp": "2026-05-22T22:40:44.155504"
+  }
+]

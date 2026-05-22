@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5e670522-5f91-4c4c-8059-2a31941d12f5",
+    "user_id": "e9bc2269-23e4-420c-8d1f-e9e6857c0740",
+    "amount": 3558.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Jeffreyhaven",
+    "timestamp": "2026-05-22T23:03:42.940620"
+  },
+  {
+    "transaction_id": "6bb5b2c8-c049-4fee-8f08-4fbd0f93a120",
+    "user_id": "0695c299-f873-45e7-a4a9-3f446566990c",
+    "amount": 2381.33,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Cheryl",
+    "timestamp": "2026-05-22T23:03:43.442861"
+  },
+  {
+    "transaction_id": "676b25e7-77a3-4b55-b108-4d63c1f6b7c9",
+    "user_id": "24915b7f-704e-4a57-9729-9d100e1f6874",
+    "amount": 7482.26,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Kevin",
+    "timestamp": "2026-05-22T23:03:43.944530"
+  },
+  {
+    "transaction_id": "810fd9f9-a5b6-4a9c-850a-6d765e65bce1",
+    "user_id": "fd5f7e43-a823-4480-b3d5-49f13eb0fa87",
+    "amount": 1855.08,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Ronaldburgh",
+    "timestamp": "2026-05-22T23:03:44.447561"
+  },
+  {
+    "transaction_id": "226f58b2-66d5-48e5-858a-d2ac721adce2",
+    "user_id": "82e478d8-34c9-420a-9f00-08a7df2737ca",
+    "amount": 1137.47,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Ruizmouth",
+    "timestamp": "2026-05-22T23:03:45.952919"
+  },
+  {
+    "transaction_id": "dfed050c-f18e-4cba-9a19-b4b02ddfd4a2",
+    "user_id": "d0c29879-3d29-4e47-a715-a6d96404d162",
+    "amount": 7849.88,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Alyssaborough",
+    "timestamp": "2026-05-22T23:03:46.454045"
+  },
+  {
+    "transaction_id": "af292f7b-2fb0-48f7-bf52-1a990d990961",
+    "user_id": "79663c1c-eb6e-403f-a628-ff0e37a1f465",
+    "amount": 8051.49,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Morganchester",
+    "timestamp": "2026-05-22T23:03:46.955131"
+  },
+  {
+    "transaction_id": "6387ba61-d0e4-454c-bf14-d6af305db836",
+    "user_id": "262cc655-a421-4955-a2ed-cb61851d3e9d",
+    "amount": 1923.08,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Theresabury",
+    "timestamp": "2026-05-22T23:03:47.956844"
+  },
+  {
+    "transaction_id": "ac684103-8417-472e-8387-5d0c5fc41767",
+    "user_id": "8d395c26-ea06-4f7c-a36c-ec391b49cf55",
+    "amount": 2715.0,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Dariusbury",
+    "timestamp": "2026-05-22T23:03:48.457685"
+  },
+  {
+    "transaction_id": "881f48a7-846a-407d-b74f-ce55285cfff3",
+    "user_id": "0ca537fe-19cb-4fc2-8167-fe54900e4aea",
+    "amount": 5111.62,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Christopherburgh",
+    "timestamp": "2026-05-22T23:03:48.958594"
+  }
+]

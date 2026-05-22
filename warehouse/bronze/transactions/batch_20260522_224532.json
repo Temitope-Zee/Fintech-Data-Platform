@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0629c891-2851-488c-abf4-3e8fde1e4b3c",
+    "user_id": "eb6ab12f-645e-405a-a2f6-b106acced57e",
+    "amount": 7025.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Shannontown",
+    "timestamp": "2026-05-22T22:45:27.257662"
+  },
+  {
+    "transaction_id": "42d969bb-1c55-43e2-9612-1a24cf9ff07c",
+    "user_id": "ec2c0d3b-1448-4de2-ba5f-ec2f069803a9",
+    "amount": 5985.17,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Doughertyfort",
+    "timestamp": "2026-05-22T22:45:27.758905"
+  },
+  {
+    "transaction_id": "cc24ccda-3e8c-4f1a-ac14-e97995c7667d",
+    "user_id": "2e1a0454-a15e-4746-8e80-865ff5d89824",
+    "amount": 2210.59,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Richardsberg",
+    "timestamp": "2026-05-22T22:45:28.260772"
+  },
+  {
+    "transaction_id": "e30484fc-6a41-4f34-a9b6-1854b1f702ba",
+    "user_id": "ac68df53-4690-4234-aeff-a2a2210b0a5c",
+    "amount": 6251.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Joshuaborough",
+    "timestamp": "2026-05-22T22:45:28.762871"
+  },
+  {
+    "transaction_id": "070c2d7a-c4ce-4c67-9a1d-5f93727e1a8b",
+    "user_id": "1a9959dc-4c44-4caf-af4c-12aa8fc4274d",
+    "amount": 6540.24,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Daniellemouth",
+    "timestamp": "2026-05-22T22:45:29.265767"
+  },
+  {
+    "transaction_id": "babc79c3-651c-4cbf-8ca5-4dc92f04573d",
+    "user_id": "bdd39e77-299d-4e9a-b8ac-0a2f2a926c13",
+    "amount": 3394.08,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Delgadoport",
+    "timestamp": "2026-05-22T22:45:30.270175"
+  },
+  {
+    "transaction_id": "ac3d138a-7a06-43b0-90b4-5005beafe52c",
+    "user_id": "1975d7b5-4a3d-4670-b5cd-49792592eacb",
+    "amount": 3842.47,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lunafurt",
+    "timestamp": "2026-05-22T22:45:30.771996"
+  },
+  {
+    "transaction_id": "9dbbd548-e02e-4dc6-954f-63704b590ace",
+    "user_id": "dfac0fa8-f3d5-44de-a4ae-ede1046479a8",
+    "amount": 1455.14,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Matthewside",
+    "timestamp": "2026-05-22T22:45:31.273553"
+  },
+  {
+    "transaction_id": "e5f8837c-965a-47b0-a4df-4cfc3061a900",
+    "user_id": "a3f633e8-f51c-4e30-9ae6-868cbaafdf25",
+    "amount": 235.47,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Tinaville",
+    "timestamp": "2026-05-22T22:45:31.775638"
+  },
+  {
+    "transaction_id": "55cf97a2-67f5-479c-8b93-77274a940813",
+    "user_id": "ab2498fa-acc0-43a9-98e6-b36c141bf476",
+    "amount": 1181.89,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New John",
+    "timestamp": "2026-05-22T22:45:32.277793"
+  }
+]

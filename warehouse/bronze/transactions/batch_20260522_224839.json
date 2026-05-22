@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "da75b502-c483-427c-895e-4d35b9e1ee3e",
+    "user_id": "68c2b65e-4be6-4a0b-ac44-24d87d2eb00a",
+    "amount": 6172.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Christian",
+    "timestamp": "2026-05-22T22:48:34.511874"
+  },
+  {
+    "transaction_id": "054e36cd-ecc0-455f-8988-c4cacdbdcd86",
+    "user_id": "ea377654-5964-44b5-8238-3030b1a2bf98",
+    "amount": 7084.95,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Sharonfurt",
+    "timestamp": "2026-05-22T22:48:35.014609"
+  },
+  {
+    "transaction_id": "70cb9707-3891-48af-84df-9d183d1c4ab0",
+    "user_id": "6cb1151b-622e-4bba-9299-0be2b05aeb88",
+    "amount": 2264.58,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Watsonland",
+    "timestamp": "2026-05-22T22:48:35.516201"
+  },
+  {
+    "transaction_id": "c40926b9-d2ad-48c9-83a8-37db894030e6",
+    "user_id": "51faaee3-bfab-4303-8097-df82d85ca336",
+    "amount": 7988.31,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Larry",
+    "timestamp": "2026-05-22T22:48:36.520087"
+  },
+  {
+    "transaction_id": "167537e9-af11-46c0-a3d8-5f5833fed18a",
+    "user_id": "92db48c6-f88e-4f9e-b6d6-39277a1eb80a",
+    "amount": 9239.87,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Timothyton",
+    "timestamp": "2026-05-22T22:48:37.021566"
+  },
+  {
+    "transaction_id": "6af5b9ac-84b3-4788-9592-58f5d343a638",
+    "user_id": "8217b75e-ceb8-4be3-8a8e-42c173daeba3",
+    "amount": 5146.18,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Clarkburgh",
+    "timestamp": "2026-05-22T22:48:37.523188"
+  },
+  {
+    "transaction_id": "a2c0d06a-d80f-4499-982f-317208ebefa1",
+    "user_id": "ec8fe5ca-cc8d-4c9b-a0ce-6e3d86741af1",
+    "amount": 6947.07,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Danielfort",
+    "timestamp": "2026-05-22T22:48:38.025856"
+  },
+  {
+    "transaction_id": "4aae37cd-ad1b-4afa-b1ae-8d512cbae431",
+    "user_id": "e6d4ae9e-92c8-49a3-8766-f95c7da1f70a",
+    "amount": 8161.28,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Jessicaburgh",
+    "timestamp": "2026-05-22T22:48:38.528650"
+  },
+  {
+    "transaction_id": "28652c7f-1f77-4cdd-a3b6-c2f8d4625d62",
+    "user_id": "5f082167-7efb-4c78-aca5-194bcfbf04ff",
+    "amount": 1432.37,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Jordanport",
+    "timestamp": "2026-05-22T22:48:39.030463"
+  },
+  {
+    "transaction_id": "281e525e-1a66-42a0-92ef-7cec1e71b7b7",
+    "user_id": "39673751-b00d-4f02-93a1-db8df6d49d91",
+    "amount": 9185.07,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Wendyland",
+    "timestamp": "2026-05-22T22:48:39.533385"
+  }
+]

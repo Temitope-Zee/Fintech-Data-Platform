@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5a390837-0ce2-4b39-8d82-499b88931e82",
+    "user_id": "c26fdf30-a698-472d-883e-1987ce7d091b",
+    "amount": 6362.03,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Lauraville",
+    "timestamp": "2026-05-22T23:03:06.310004"
+  },
+  {
+    "transaction_id": "867fe9d9-bff5-4fa9-b262-f5b77166ee6f",
+    "user_id": "4815a1d3-47a5-46ef-a0db-476c807032c3",
+    "amount": 2148.15,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Nathanmouth",
+    "timestamp": "2026-05-22T23:03:06.812995"
+  },
+  {
+    "transaction_id": "396206bb-644d-44e1-92bd-fde0b4110f0a",
+    "user_id": "4a0b67e7-9751-45a7-912d-179b0d2f62af",
+    "amount": 3695.7,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Brandonton",
+    "timestamp": "2026-05-22T23:03:07.314872"
+  },
+  {
+    "transaction_id": "2d5f8b94-8ff3-4393-8a3b-4137394a1193",
+    "user_id": "14c46629-4af8-42a6-a337-7fac25c2294d",
+    "amount": 2023.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Davidport",
+    "timestamp": "2026-05-22T23:03:07.816724"
+  },
+  {
+    "transaction_id": "9cdf9473-0d66-43a5-9ef6-01fb422d926a",
+    "user_id": "2f479a92-31a9-4a1c-9e85-6c4d1c4c4c62",
+    "amount": 1925.54,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Bellchester",
+    "timestamp": "2026-05-22T23:03:08.318081"
+  },
+  {
+    "transaction_id": "29d84c52-8ef3-470c-9bb5-d81d3f2d7be1",
+    "user_id": "5da63615-44e6-49db-a416-586407e47d2b",
+    "amount": 8762.38,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Danielfurt",
+    "timestamp": "2026-05-22T23:03:09.821517"
+  },
+  {
+    "transaction_id": "d64f45a9-4845-40e0-91f2-1ceb8ceaf0d3",
+    "user_id": "0c3957bc-95ee-41e2-a89d-fd1a5f665943",
+    "amount": 9203.5,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Jasontown",
+    "timestamp": "2026-05-22T23:03:10.322822"
+  },
+  {
+    "transaction_id": "3cdb0257-594b-44af-935e-b0524518082f",
+    "user_id": "97e059a1-6e44-49a2-88b6-0cd9871a57c1",
+    "amount": 7837.31,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Hintontown",
+    "timestamp": "2026-05-22T23:03:10.824703"
+  },
+  {
+    "transaction_id": "3c6c22c1-1717-4257-bc67-b4fc02aebb8c",
+    "user_id": "947e4135-2671-490a-8527-c2497c2d5eec",
+    "amount": 4318.45,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Paulaburgh",
+    "timestamp": "2026-05-22T23:03:11.828532"
+  },
+  {
+    "transaction_id": "41a4a652-f2ba-4441-b8f0-b616d454f946",
+    "user_id": "44c4fcc7-361e-4c66-86e6-7c5583a9bb3e",
+    "amount": 1843.79,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Zachary",
+    "timestamp": "2026-05-22T23:03:12.329834"
+  }
+]

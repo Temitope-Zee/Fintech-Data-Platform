@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5d81e07e-05de-4955-b910-941c8272267e",
+    "user_id": "4eb9878e-481c-4d2e-a84b-4806a961db62",
+    "amount": 5988.92,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Palmerview",
+    "timestamp": "2026-05-22T22:47:42.830174"
+  },
+  {
+    "transaction_id": "458043c2-bff6-4803-9882-69caf4e34aa4",
+    "user_id": "55d309d3-340b-4197-aeab-c3213d5ea058",
+    "amount": 6775.32,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Morganfort",
+    "timestamp": "2026-05-22T22:47:43.332187"
+  },
+  {
+    "transaction_id": "b71cf282-e982-46e8-bc44-45e82fc61af5",
+    "user_id": "3b5c1a11-d895-4ea2-935b-3ef0be241b90",
+    "amount": 166.66,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Williambury",
+    "timestamp": "2026-05-22T22:47:43.834601"
+  },
+  {
+    "transaction_id": "a5d70af7-86bf-42db-863f-7a66f8e838f3",
+    "user_id": "fd6b51c2-cca3-4c8a-8bcc-b6631bd5fd07",
+    "amount": 4638.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Sabrinastad",
+    "timestamp": "2026-05-22T22:47:44.337520"
+  },
+  {
+    "transaction_id": "7d3ef972-bc68-4e69-869c-3ee81da7472f",
+    "user_id": "42e1a184-a810-4a68-9cee-43c9cfc220f8",
+    "amount": 3057.85,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Douglasborough",
+    "timestamp": "2026-05-22T22:47:44.840543"
+  },
+  {
+    "transaction_id": "5dae8a00-2795-4374-aa22-9ca4135f17f7",
+    "user_id": "1d50a2d4-410f-4d20-b2b5-af3f0011d6c4",
+    "amount": 8887.62,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Allenside",
+    "timestamp": "2026-05-22T22:47:45.846510"
+  },
+  {
+    "transaction_id": "90d74153-c1c4-4f5d-bd55-65e4d83bb43c",
+    "user_id": "ce5fa440-cbe0-460c-9cd5-8b44028bba1b",
+    "amount": 1941.12,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michaelbury",
+    "timestamp": "2026-05-22T22:47:46.348403"
+  },
+  {
+    "transaction_id": "6c275451-a42c-446e-88e3-9bd508ee7aff",
+    "user_id": "60e1118f-eb2c-4dce-891a-f477d8694363",
+    "amount": 2218.94,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Baileyborough",
+    "timestamp": "2026-05-22T22:47:46.850371"
+  },
+  {
+    "transaction_id": "caaace2d-4b00-45b1-ba66-46923d59cc82",
+    "user_id": "d7281b24-41a2-4540-8e3a-dc68f94945fe",
+    "amount": 4621.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Reneeton",
+    "timestamp": "2026-05-22T22:47:47.854357"
+  },
+  {
+    "transaction_id": "ff7487ca-b45f-4a41-8b0d-f5d02a1a725f",
+    "user_id": "4382c32a-92e1-4bf1-b28a-b0c2fccf1517",
+    "amount": 6729.84,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Marilynton",
+    "timestamp": "2026-05-22T22:47:48.356660"
+  }
+]

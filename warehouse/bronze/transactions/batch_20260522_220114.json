@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "49b40183-865c-4b02-b51d-9df63086e101",
+    "user_id": "011203bc-3a06-42a1-a3cd-2506ef06b11c",
+    "amount": 8410.08,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Hayley",
+    "timestamp": "2026-05-22T22:01:09.822913"
+  },
+  {
+    "transaction_id": "2289827d-7df8-408d-bb44-ed32012821ae",
+    "user_id": "19d7a5f0-f892-403f-9302-b2a544f26cb8",
+    "amount": 1282.05,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Jessicaburgh",
+    "timestamp": "2026-05-22T22:01:10.321656"
+  },
+  {
+    "transaction_id": "0096a8f2-d5b1-4c6b-ad28-186107b5c4d6",
+    "user_id": "e31cf9c9-7e26-4daf-a4a0-b94430723e7b",
+    "amount": 3788.2,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Brian",
+    "timestamp": "2026-05-22T22:01:10.824438"
+  },
+  {
+    "transaction_id": "5662e3b4-9134-4ea0-91b2-96ef0312d5f4",
+    "user_id": "040ed42a-28cd-459a-af77-e6dcda32658b",
+    "amount": 6929.44,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Nancybury",
+    "timestamp": "2026-05-22T22:01:11.325976"
+  },
+  {
+    "transaction_id": "10981401-691d-4579-9026-fed88cb2db99",
+    "user_id": "98512dbc-eb2c-45f3-87d2-1a966dd2df97",
+    "amount": 8697.65,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Cynthialand",
+    "timestamp": "2026-05-22T22:01:11.827188"
+  },
+  {
+    "transaction_id": "75356e5c-23bd-4107-8b95-f4848b765d52",
+    "user_id": "4febeb6d-05c8-47b1-bd8d-0adacc998fc0",
+    "amount": 5294.02,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Wagnerstad",
+    "timestamp": "2026-05-22T22:01:12.329518"
+  },
+  {
+    "transaction_id": "d14381da-bd3d-426f-a7e2-f55b16b8ada7",
+    "user_id": "b91bd16a-eeb1-4be0-bd55-8f87fd8e4424",
+    "amount": 102.67,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Jaclyn",
+    "timestamp": "2026-05-22T22:01:12.832518"
+  },
+  {
+    "transaction_id": "8394b9ae-898b-4c3a-b618-b367bcbc0816",
+    "user_id": "071f73f3-7555-4af6-b634-049831d2acb7",
+    "amount": 3801.43,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Kristina",
+    "timestamp": "2026-05-22T22:01:13.335102"
+  },
+  {
+    "transaction_id": "d20b1212-9b70-4e1c-a5dc-3812518f0402",
+    "user_id": "cca86532-cdaf-4754-9a46-15d3c609c8ca",
+    "amount": 9416.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Josephberg",
+    "timestamp": "2026-05-22T22:01:13.836579"
+  },
+  {
+    "transaction_id": "81a7aa76-ac83-4405-8c5d-f478a559ec9b",
+    "user_id": "99793471-3b8f-403d-bc9b-58ba4e1535d5",
+    "amount": 3699.44,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Stacyhaven",
+    "timestamp": "2026-05-22T22:01:14.339041"
+  }
+]

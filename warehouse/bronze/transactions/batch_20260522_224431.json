@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "af08e155-5a17-45a0-a005-79a026402f30",
+    "user_id": "0ea93cbb-c2a7-4c26-940a-c7522f5f184f",
+    "amount": 6914.8,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Matthew",
+    "timestamp": "2026-05-22T22:44:26.519382"
+  },
+  {
+    "transaction_id": "1f127b80-d282-46da-ac4d-a7bf1a5bb8d0",
+    "user_id": "7650e176-f80c-46d9-ba5a-943b1d6c0ee1",
+    "amount": 2120.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Steve",
+    "timestamp": "2026-05-22T22:44:27.019294"
+  },
+  {
+    "transaction_id": "867f9126-80df-4b18-bc1c-a9a95e2d2924",
+    "user_id": "bc7ace88-37a6-4e48-a0cb-0e46bd7326d6",
+    "amount": 7621.31,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Charles",
+    "timestamp": "2026-05-22T22:44:27.521357"
+  },
+  {
+    "transaction_id": "6cbf8a8d-8c52-4785-b478-06778876ab3f",
+    "user_id": "abe1c0f8-2511-4cd6-ac35-8f0ca939d689",
+    "amount": 6963.26,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Sarah",
+    "timestamp": "2026-05-22T22:44:28.023343"
+  },
+  {
+    "transaction_id": "fcbfd836-86c7-4ea4-aa07-6d43136c5411",
+    "user_id": "21cf31fb-e25b-4800-b440-7b45f9d63b7f",
+    "amount": 9993.35,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Angelachester",
+    "timestamp": "2026-05-22T22:44:28.524782"
+  },
+  {
+    "transaction_id": "a889be65-8664-4466-a3b8-137b7baf399d",
+    "user_id": "9f2affa1-a768-423c-9b0b-d55d6c22d9c0",
+    "amount": 3531.62,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Hunter",
+    "timestamp": "2026-05-22T22:44:29.026934"
+  },
+  {
+    "transaction_id": "7fe85371-1855-4125-8b24-7e822fa67aa6",
+    "user_id": "e26633b8-0bb9-4426-a244-47c35c0f1f92",
+    "amount": 1517.08,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Bentonland",
+    "timestamp": "2026-05-22T22:44:29.528873"
+  },
+  {
+    "transaction_id": "75f660a4-4dd0-465d-a58a-b96286e2d1de",
+    "user_id": "1717d097-fb9d-4db0-8c8d-43e08a579629",
+    "amount": 6439.44,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Michelleborough",
+    "timestamp": "2026-05-22T22:44:30.030605"
+  },
+  {
+    "transaction_id": "da60bcde-00a8-4598-b921-e2561a60f0d9",
+    "user_id": "3b6dcae1-5b3e-46d5-aff6-52a90edb0f9c",
+    "amount": 9838.57,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Laurieview",
+    "timestamp": "2026-05-22T22:44:30.532358"
+  },
+  {
+    "transaction_id": "d785ce19-76cc-45a5-bd7e-589c5c11900b",
+    "user_id": "b0b4f30b-7e6b-4529-852b-abb388be261b",
+    "amount": 1996.64,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Samanthaville",
+    "timestamp": "2026-05-22T22:44:31.033684"
+  }
+]

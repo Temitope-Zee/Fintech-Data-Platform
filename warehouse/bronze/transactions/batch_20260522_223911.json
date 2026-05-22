@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "16a04c41-3961-4dc6-bfdc-323b31027349",
+    "user_id": "cf8b3edd-bca6-4159-a726-7c430884ad41",
+    "amount": 1915.51,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Angela",
+    "timestamp": "2026-05-22T22:31:20.200361"
+  },
+  {
+    "transaction_id": "a208cd9d-f770-40a6-8692-d13680d85ba5",
+    "user_id": "63c68c26-1258-49ca-8150-00d072f0740c",
+    "amount": 4321.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Juan",
+    "timestamp": "2026-05-22T22:31:20.703145"
+  },
+  {
+    "transaction_id": "5de496b6-8bd0-4802-8c68-3a3f73966ca8",
+    "user_id": "ee63806a-c29a-4a97-93eb-8d0076236d6b",
+    "amount": 6523.67,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Amberburgh",
+    "timestamp": "2026-05-22T22:39:07.788234"
+  },
+  {
+    "transaction_id": "fba63093-1a99-4f13-a2e3-5ad9b49daa63",
+    "user_id": "8059ff5d-aa24-48f5-9cc7-e729da978302",
+    "amount": 2883.13,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Millerport",
+    "timestamp": "2026-05-22T22:39:08.790886"
+  },
+  {
+    "transaction_id": "bcd7688c-8332-4b43-acf9-b369fe43e188",
+    "user_id": "5b72e713-b7d2-459e-af30-f7faa5d9ae31",
+    "amount": 8505.39,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Bakermouth",
+    "timestamp": "2026-05-22T22:39:09.292086"
+  },
+  {
+    "transaction_id": "f4e20323-03cb-43bd-9e14-f8da38bff30b",
+    "user_id": "fea5e34c-4b38-4213-8d23-436857b23a4f",
+    "amount": 263.0,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Deborahhaven",
+    "timestamp": "2026-05-22T22:39:09.793075"
+  },
+  {
+    "transaction_id": "01876030-df64-488e-ab39-00b993ee58f9",
+    "user_id": "af5e0e9a-c43b-4b08-a53c-bc4e6d38b833",
+    "amount": 2862.02,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Kimshire",
+    "timestamp": "2026-05-22T22:39:10.294186"
+  },
+  {
+    "transaction_id": "7e3ba51e-3755-44fb-9930-f81adb357286",
+    "user_id": "040d2d89-e598-457d-9d9b-4f908e548071",
+    "amount": 3770.95,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Ashleyshire",
+    "timestamp": "2026-05-22T22:39:10.795512"
+  },
+  {
+    "transaction_id": "686b16c7-11df-40ae-b063-fdfea055d3d1",
+    "user_id": "85609ddf-2665-4dcc-bbd7-5d706a931485",
+    "amount": 9037.62,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Francoberg",
+    "timestamp": "2026-05-22T22:39:11.296705"
+  },
+  {
+    "transaction_id": "2571d4df-31f1-4e79-a96a-58b45631f96c",
+    "user_id": "ceda0f50-e09b-4199-b489-815c56879f70",
+    "amount": 7419.56,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Michaelside",
+    "timestamp": "2026-05-22T22:39:11.797383"
+  }
+]

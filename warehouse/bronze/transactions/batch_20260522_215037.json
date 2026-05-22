@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "76ae9963-717a-4547-ab10-6d2038d4963f",
+    "user_id": "5b85cf64-02c3-4127-8b5c-644088bd3892",
+    "amount": 8967.62,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port John",
+    "timestamp": "2026-05-22T21:50:32.216444"
+  },
+  {
+    "transaction_id": "8e9f27cd-8289-4eb8-b6e3-bca3b667e989",
+    "user_id": "1a48b053-fc15-4fad-b4b6-a2e54107379e",
+    "amount": 7587.16,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Bettyville",
+    "timestamp": "2026-05-22T21:50:32.718516"
+  },
+  {
+    "transaction_id": "516bd39e-dc21-4c4e-b58c-2dd2c7767eb3",
+    "user_id": "3f61bf03-0960-464f-b49d-e54eeabbf895",
+    "amount": 2053.01,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Franciscoburgh",
+    "timestamp": "2026-05-22T21:50:33.220154"
+  },
+  {
+    "transaction_id": "f1872041-e975-438a-8128-90b3a300d259",
+    "user_id": "b68de3c0-a07f-4cef-b7cc-e4d450c41b2f",
+    "amount": 4016.78,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Shelley",
+    "timestamp": "2026-05-22T21:50:33.721115"
+  },
+  {
+    "transaction_id": "3c1e4420-f408-45eb-a05e-ee39755437c1",
+    "user_id": "b302f255-53a6-4bec-a7e8-8394ae9fe127",
+    "amount": 250.37,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Walterburgh",
+    "timestamp": "2026-05-22T21:50:34.222471"
+  },
+  {
+    "transaction_id": "b4e3a14b-44f3-49a4-be8a-116913efbfd8",
+    "user_id": "19c94236-34f4-4072-a1af-ae2b14fb4a2e",
+    "amount": 5441.58,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Terrence",
+    "timestamp": "2026-05-22T21:50:34.724211"
+  },
+  {
+    "transaction_id": "8e64d328-a39f-4098-93cb-6cb8cda4111d",
+    "user_id": "33d88cbf-911e-41cd-b8ad-74f5242e805f",
+    "amount": 4247.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Osbornchester",
+    "timestamp": "2026-05-22T21:50:35.225478"
+  },
+  {
+    "transaction_id": "9850b5a1-a007-4697-9a5f-5cf786b514b1",
+    "user_id": "de3b3f6c-76b3-49a6-af38-b398567e4599",
+    "amount": 8852.57,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Haysland",
+    "timestamp": "2026-05-22T21:50:35.726707"
+  },
+  {
+    "transaction_id": "ee131b42-3e97-4811-9d1f-1e131c0ffe83",
+    "user_id": "0cbb2d59-0402-417e-a805-b123cc30383b",
+    "amount": 5353.22,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Nancybury",
+    "timestamp": "2026-05-22T21:50:36.728722"
+  },
+  {
+    "transaction_id": "b5a0eb55-722b-4665-ae3e-13f94015198a",
+    "user_id": "5226ad89-bc2b-4799-b81e-ee207a16f50b",
+    "amount": 4524.85,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Cynthiastad",
+    "timestamp": "2026-05-22T21:50:37.229868"
+  }
+]

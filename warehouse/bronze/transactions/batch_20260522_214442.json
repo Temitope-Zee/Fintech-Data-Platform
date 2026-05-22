@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "59c9f032-9ecb-4a68-b20d-58516f8637a4",
+    "user_id": "0242139e-dc30-469b-8aee-6df7240d60c5",
+    "amount": 2622.48,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Brianmouth",
+    "timestamp": "2026-05-22T21:44:37.274191"
+  },
+  {
+    "transaction_id": "601ad152-8baf-4a45-bfc7-a5ba8ab569a8",
+    "user_id": "dc68eafd-2beb-427c-8e2a-8a7c396bcbff",
+    "amount": 765.64,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Mariaville",
+    "timestamp": "2026-05-22T21:44:37.779396"
+  },
+  {
+    "transaction_id": "a21d7b3f-e272-4ef5-813b-935885fe0d8e",
+    "user_id": "42b12186-eeaf-4581-9c6f-f3236f552003",
+    "amount": 7117.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Brett",
+    "timestamp": "2026-05-22T21:44:38.281068"
+  },
+  {
+    "transaction_id": "1c927bc1-220e-487e-9d74-6467698ed2d3",
+    "user_id": "2ae1c4b1-0e9e-4bf5-9e34-49b985a72981",
+    "amount": 1271.43,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Brianmouth",
+    "timestamp": "2026-05-22T21:44:39.286144"
+  },
+  {
+    "transaction_id": "eae8a805-5167-4cc8-aff8-b25fb6758730",
+    "user_id": "df7e1e1e-fd62-49a2-a8bb-94ccc0bb9e1f",
+    "amount": 115.98,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Haleyburgh",
+    "timestamp": "2026-05-22T21:44:39.788319"
+  },
+  {
+    "transaction_id": "792c9c40-8281-4638-873f-bdcf0ea51e40",
+    "user_id": "abeab7cd-adc1-4972-8b70-3d3abd0fc445",
+    "amount": 7636.88,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Freemanview",
+    "timestamp": "2026-05-22T21:44:40.290875"
+  },
+  {
+    "transaction_id": "ee83b271-0526-40a6-aa37-f8220a74516d",
+    "user_id": "26576fce-3fc9-4349-a1ec-aca533e6c7cf",
+    "amount": 73.4,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Emily",
+    "timestamp": "2026-05-22T21:44:40.792634"
+  },
+  {
+    "transaction_id": "ab798d12-5951-454d-aa8c-73c42084ac72",
+    "user_id": "bfa9ff22-4c03-47b0-b5ef-cf0526a04933",
+    "amount": 769.33,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Brandiburgh",
+    "timestamp": "2026-05-22T21:44:41.294192"
+  },
+  {
+    "transaction_id": "e422512e-2cb6-4cc2-b3ea-609257a1753a",
+    "user_id": "6a26a495-5d98-4b5e-a2b9-fa4d4c229068",
+    "amount": 1977.16,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Susanfort",
+    "timestamp": "2026-05-22T21:44:41.796854"
+  },
+  {
+    "transaction_id": "51699d6b-8eb5-4608-ac50-e812fa81bb36",
+    "user_id": "34ffc5bd-2eee-4b6d-b7ef-6a9df542eea5",
+    "amount": 4958.87,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Brownberg",
+    "timestamp": "2026-05-22T21:44:42.801371"
+  }
+]

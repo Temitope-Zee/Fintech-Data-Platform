@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b7cb2809-85fe-405c-af0d-58f6025567b3",
+    "user_id": "32550675-12ac-498e-85c6-0c90cae1ee70",
+    "amount": 118.32,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Angelamouth",
+    "timestamp": "2026-05-22T22:18:21.980474"
+  },
+  {
+    "transaction_id": "4c96cd7a-999c-47c2-99bb-01828c8f27cf",
+    "user_id": "6e46f838-5098-4661-8c0a-4c21d69bdfbf",
+    "amount": 2317.77,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Michael",
+    "timestamp": "2026-05-22T22:18:22.481861"
+  },
+  {
+    "transaction_id": "ac361eb5-51ef-44d4-8029-5deb598ca62c",
+    "user_id": "c4b84bc4-a468-4417-8519-ed90779ed820",
+    "amount": 4587.06,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Michael",
+    "timestamp": "2026-05-22T22:18:22.983287"
+  },
+  {
+    "transaction_id": "ba87652d-5174-4164-a1cd-305351d91dc6",
+    "user_id": "964fa078-29a5-467f-bde7-2cbcbcee0db9",
+    "amount": 7039.47,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Jeremiahfort",
+    "timestamp": "2026-05-22T22:18:23.484810"
+  },
+  {
+    "transaction_id": "96a59f12-e1db-41e8-8651-c144e4aca8ca",
+    "user_id": "9c76e53f-b667-4b83-8b8a-f0d9dcc38c4b",
+    "amount": 9120.09,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Danielside",
+    "timestamp": "2026-05-22T22:18:23.988154"
+  },
+  {
+    "transaction_id": "b5e57e14-f2f0-4b89-b7c6-5c49b7a7f426",
+    "user_id": "ebc3914a-1c16-4f8a-b455-93d8ea29ecf7",
+    "amount": 2674.19,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Aaronstad",
+    "timestamp": "2026-05-22T22:18:24.993426"
+  },
+  {
+    "transaction_id": "261b340a-f159-4efe-956c-924e7a5cc431",
+    "user_id": "99891fd7-2b1a-4484-a6b3-9e826bda87e3",
+    "amount": 6000.72,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Hannah",
+    "timestamp": "2026-05-22T22:18:25.495837"
+  },
+  {
+    "transaction_id": "d19a2b12-c256-42d0-bfe6-a9f9560cc9bf",
+    "user_id": "d4103b98-ac07-407f-a01b-5ef15a7c3e96",
+    "amount": 7359.79,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Laurenberg",
+    "timestamp": "2026-05-22T22:18:25.997138"
+  },
+  {
+    "transaction_id": "8e40172e-c880-4341-b878-7e88c8245d71",
+    "user_id": "0d444d97-8f4a-4870-ba33-4b2150d54c7e",
+    "amount": 3589.67,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Brooke",
+    "timestamp": "2026-05-22T22:18:26.500067"
+  },
+  {
+    "transaction_id": "4354c144-0067-4bf0-8278-247a921dbe98",
+    "user_id": "cc74e7d1-e1c7-42dd-9b54-d3445951559c",
+    "amount": 346.33,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Larsontown",
+    "timestamp": "2026-05-22T22:18:27.003088"
+  }
+]

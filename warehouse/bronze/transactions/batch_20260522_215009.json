@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a10cdeee-5d87-45f9-965c-ad40e4389e81",
+    "user_id": "d39282ff-a552-4cc8-a145-e44722d92596",
+    "amount": 3896.05,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Velazquezmouth",
+    "timestamp": "2026-05-22T21:50:03.115096"
+  },
+  {
+    "transaction_id": "24691b95-eb13-48eb-9bc0-e54e1f21187c",
+    "user_id": "66e7ffb0-f9e1-415d-afb0-6066dbf8df18",
+    "amount": 7912.17,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Sarahton",
+    "timestamp": "2026-05-22T21:50:03.616685"
+  },
+  {
+    "transaction_id": "90771a42-a064-49c6-8578-4ca2d6493575",
+    "user_id": "e00f86ea-b4b3-447f-a6f4-d9d7556490bb",
+    "amount": 7401.03,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Stephen",
+    "timestamp": "2026-05-22T21:50:04.118624"
+  },
+  {
+    "transaction_id": "62426553-eb33-48c0-b3d3-e927a4b40f10",
+    "user_id": "8800f22d-a7ee-42c1-9e6d-5b1b28a17c95",
+    "amount": 6716.23,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Lawrence",
+    "timestamp": "2026-05-22T21:50:04.620207"
+  },
+  {
+    "transaction_id": "ccf84f06-151d-4a76-b0a1-bc0e19afa47a",
+    "user_id": "e3d6beb0-6684-4446-be6c-36ed9ebd885f",
+    "amount": 2391.08,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Angelaberg",
+    "timestamp": "2026-05-22T21:50:05.121804"
+  },
+  {
+    "transaction_id": "53d25fe6-55f3-4339-bf76-014074179759",
+    "user_id": "211cd5bd-fbda-486a-bc8d-fb461586d3fd",
+    "amount": 7088.23,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Makaylaburgh",
+    "timestamp": "2026-05-22T21:50:05.624083"
+  },
+  {
+    "transaction_id": "f1105c8b-7806-4305-89fc-358785bad8f8",
+    "user_id": "444509fb-efcc-472d-90dc-949beb7a4666",
+    "amount": 7840.2,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Caitlin",
+    "timestamp": "2026-05-22T21:50:06.126812"
+  },
+  {
+    "transaction_id": "4d320217-3c23-443c-bc28-e3844837e8ba",
+    "user_id": "b356540f-3878-43a8-9a5d-20ca1986756e",
+    "amount": 3327.89,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Courtney",
+    "timestamp": "2026-05-22T21:50:07.129811"
+  },
+  {
+    "transaction_id": "90dea100-a287-464e-91b7-0515c3866194",
+    "user_id": "051ac577-5711-4ca8-aba6-54e459383107",
+    "amount": 7292.4,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Martinton",
+    "timestamp": "2026-05-22T21:50:07.631600"
+  },
+  {
+    "transaction_id": "c0c83afd-a3df-4175-abca-080fa2390615",
+    "user_id": "b1744b73-a723-4ac6-8634-cd2c15ce1a4c",
+    "amount": 1769.54,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Mariamouth",
+    "timestamp": "2026-05-22T21:50:09.138907"
+  }
+]

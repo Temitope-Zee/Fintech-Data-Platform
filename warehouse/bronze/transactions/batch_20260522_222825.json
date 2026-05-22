@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c2d6f181-b7b6-4eb0-b660-051c56539e27",
+    "user_id": "85bf740e-b04f-4686-98e2-a4bda208127c",
+    "amount": 3191.17,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Stephensonhaven",
+    "timestamp": "2026-05-22T22:28:21.428557"
+  },
+  {
+    "transaction_id": "3ea36a00-934c-4f9e-b3b7-514206b679ee",
+    "user_id": "ceac7d29-03cc-4b81-9037-fbf3e34ab066",
+    "amount": 9860.18,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Triciastad",
+    "timestamp": "2026-05-22T22:28:21.930369"
+  },
+  {
+    "transaction_id": "ca96540a-29ae-4500-a18c-d0f9c6c025df",
+    "user_id": "eb3bf4ef-cd21-42d5-8868-2c0f875e67d6",
+    "amount": 8937.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Sherryberg",
+    "timestamp": "2026-05-22T22:28:22.432163"
+  },
+  {
+    "transaction_id": "a924c25b-89fd-4f31-a02d-cdd8b57a7970",
+    "user_id": "0b28f55b-75a1-4a65-b690-f596da0fe78f",
+    "amount": 350.88,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Gabrielaton",
+    "timestamp": "2026-05-22T22:28:22.933601"
+  },
+  {
+    "transaction_id": "7f0e5741-0059-4b6e-a314-33b0a4070b4a",
+    "user_id": "9ce22eb1-45ca-4a86-af1b-13ed969ccdc7",
+    "amount": 9895.37,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Johnville",
+    "timestamp": "2026-05-22T22:28:23.434892"
+  },
+  {
+    "transaction_id": "d436c3e4-a0d1-4384-8368-a1a527bbe1cd",
+    "user_id": "bfd1852b-171d-4e29-ba96-1ef9c0f2de2f",
+    "amount": 9591.93,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Rachelview",
+    "timestamp": "2026-05-22T22:28:23.937925"
+  },
+  {
+    "transaction_id": "c99661a8-d9a4-45f0-b2eb-a04ba6e2fa15",
+    "user_id": "2eef847a-4747-485a-acff-a9713d429ac9",
+    "amount": 2876.09,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Joshuashire",
+    "timestamp": "2026-05-22T22:28:24.439319"
+  },
+  {
+    "transaction_id": "3bc51b65-bdbb-4215-94a6-503064c88b69",
+    "user_id": "af8b2ee4-5f78-49f6-a6e5-6fa8fd1406a9",
+    "amount": 7811.66,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Marcus",
+    "timestamp": "2026-05-22T22:28:24.941192"
+  },
+  {
+    "transaction_id": "ca2b16ee-cd2c-42e2-9334-bc876b0f9aff",
+    "user_id": "f4d2510e-72d2-4e89-9a64-e4d962888d6d",
+    "amount": 7707.41,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Thomasberg",
+    "timestamp": "2026-05-22T22:28:25.443507"
+  },
+  {
+    "transaction_id": "3e04f493-4caf-4aa0-81a4-211b0fcd69c0",
+    "user_id": "0fc68b44-e050-4381-ab9c-3e793a1ebe78",
+    "amount": 5372.63,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brianstad",
+    "timestamp": "2026-05-22T22:28:25.945167"
+  }
+]

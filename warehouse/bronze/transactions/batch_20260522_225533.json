@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "69b89277-7d34-4b35-af34-bd25824a93db",
+    "user_id": "904177b2-578b-4f50-baab-290cabd3f009",
+    "amount": 5166.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Andreamouth",
+    "timestamp": "2026-05-22T22:55:28.754659"
+  },
+  {
+    "transaction_id": "97a7b5b0-4b45-4131-ae03-2a05f56a98bb",
+    "user_id": "c5e7049d-11c3-4de9-99c7-062fc550c8f0",
+    "amount": 8592.76,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Rebeccastad",
+    "timestamp": "2026-05-22T22:55:29.256544"
+  },
+  {
+    "transaction_id": "49215d6a-5660-492c-ab73-e0324407b23c",
+    "user_id": "2fa23a5e-1b03-41c8-9155-7f98557c5dec",
+    "amount": 8257.59,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Donald",
+    "timestamp": "2026-05-22T22:55:30.259493"
+  },
+  {
+    "transaction_id": "a1dcd31a-3858-4512-a19e-c05852e306f2",
+    "user_id": "71f3cf81-1f06-4a98-ae4c-963e880c39c0",
+    "amount": 1029.02,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Wadeton",
+    "timestamp": "2026-05-22T22:55:30.762574"
+  },
+  {
+    "transaction_id": "db5196b3-bdc0-4e98-bb3a-df58555a6f19",
+    "user_id": "1335cbd9-4379-4bd1-9cfb-202dc2cfd3bf",
+    "amount": 1171.67,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Thomas",
+    "timestamp": "2026-05-22T22:55:31.264433"
+  },
+  {
+    "transaction_id": "a817e876-ef4b-4e7b-aed2-c6af50af5fc2",
+    "user_id": "9a909487-6aea-454a-9779-d0c17659e4f9",
+    "amount": 3537.63,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Vaughnville",
+    "timestamp": "2026-05-22T22:55:31.766677"
+  },
+  {
+    "transaction_id": "bf8eb4f1-a579-4681-bc58-4275aefa291b",
+    "user_id": "6b009d75-2e9b-4caf-accb-63502bcef702",
+    "amount": 9466.16,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Katherinestad",
+    "timestamp": "2026-05-22T22:55:32.268603"
+  },
+  {
+    "transaction_id": "03fd65d9-c4ed-4b76-af62-399b6607e408",
+    "user_id": "97300623-edc8-4100-9b20-e1eadbd0b4cf",
+    "amount": 7733.28,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Lauriestad",
+    "timestamp": "2026-05-22T22:55:32.769771"
+  },
+  {
+    "transaction_id": "715a206f-ddaa-459a-80d9-41de3419172c",
+    "user_id": "65da0e8f-0931-4e93-ba99-ff0f7bd42daf",
+    "amount": 1877.02,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Teresaville",
+    "timestamp": "2026-05-22T22:55:33.271041"
+  },
+  {
+    "transaction_id": "fcf12c9a-5604-4fbb-bcdb-82cd64380209",
+    "user_id": "02abaaa5-c507-4ec3-bbdc-821cd429368d",
+    "amount": 7832.01,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Matthewview",
+    "timestamp": "2026-05-22T22:55:33.772685"
+  }
+]

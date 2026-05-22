@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "be3bf4ae-8fa1-4f39-8bd6-51a44a1776d2",
+    "user_id": "c492b064-1822-4ce4-a118-d7b5bc2a278b",
+    "amount": 5005.09,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Gonzalezfort",
+    "timestamp": "2026-05-22T22:28:02.853042"
+  },
+  {
+    "transaction_id": "18516212-5746-4158-ad1f-71e9cc705144",
+    "user_id": "10c58f6f-1c7c-4a3e-ab7d-633b71cae99d",
+    "amount": 3999.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Arnoldbury",
+    "timestamp": "2026-05-22T22:28:03.354650"
+  },
+  {
+    "transaction_id": "4d52ba38-d043-4657-9d1b-23f4ef63da45",
+    "user_id": "0cf88ff9-f560-4fb2-a8d7-b69549038098",
+    "amount": 5743.55,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Tanyashire",
+    "timestamp": "2026-05-22T22:28:04.360173"
+  },
+  {
+    "transaction_id": "6087dbbf-55e1-41c3-903f-2cf3c9223ca6",
+    "user_id": "dc21ad6c-d22c-4d95-9085-641099a4b007",
+    "amount": 5713.56,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Pamelabury",
+    "timestamp": "2026-05-22T22:28:04.861618"
+  },
+  {
+    "transaction_id": "8f02491f-0ee9-477e-8bcf-b6f26768bcde",
+    "user_id": "de4aa15f-9e71-49a4-b6e0-422b247d2484",
+    "amount": 6119.14,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Frankshire",
+    "timestamp": "2026-05-22T22:28:05.362965"
+  },
+  {
+    "transaction_id": "0989dbce-c29b-4dcc-9695-48b7073fb67a",
+    "user_id": "65333f39-208a-4ea4-9a4e-c6763873bf3a",
+    "amount": 1833.35,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Christopherview",
+    "timestamp": "2026-05-22T22:28:06.366827"
+  },
+  {
+    "transaction_id": "9f15add1-7697-41c9-8f7a-315d9a44db40",
+    "user_id": "65803c37-a33b-4a3c-9b68-09c494dd649a",
+    "amount": 2657.4,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Ruizfurt",
+    "timestamp": "2026-05-22T22:28:06.869649"
+  },
+  {
+    "transaction_id": "37f00751-150e-45ab-a931-a5154484977d",
+    "user_id": "87469c5d-12e0-4e7e-a078-8c714ad925cc",
+    "amount": 7629.05,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North John",
+    "timestamp": "2026-05-22T22:28:07.371217"
+  },
+  {
+    "transaction_id": "378332ed-d8da-4771-a0ac-3cff7897fd40",
+    "user_id": "1ae3eb4e-3c3d-4301-9faf-9ddd6694ba6d",
+    "amount": 4616.43,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Debra",
+    "timestamp": "2026-05-22T22:28:07.873909"
+  },
+  {
+    "transaction_id": "ca288b90-98d8-4d7a-ad3b-a1ff172dd6e1",
+    "user_id": "fd77c12d-1b6e-445f-b127-b2c52493b902",
+    "amount": 2578.74,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Christina",
+    "timestamp": "2026-05-22T22:28:08.878167"
+  }
+]

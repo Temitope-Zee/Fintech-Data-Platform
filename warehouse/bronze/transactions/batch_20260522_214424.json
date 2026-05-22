@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a00f8b64-3fdc-404c-a5c3-d9af648f1faa",
+    "user_id": "21734ccf-19de-42b4-9956-ea972e9122e5",
+    "amount": 1861.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Jessica",
+    "timestamp": "2026-05-22T21:44:19.183488"
+  },
+  {
+    "transaction_id": "09909380-1511-4f2c-b4da-71cdd4e0564f",
+    "user_id": "888a4b5a-be40-4647-8581-4d92887b2255",
+    "amount": 3283.44,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Anthonyton",
+    "timestamp": "2026-05-22T21:44:19.685038"
+  },
+  {
+    "transaction_id": "05e7a52f-964e-4d94-98c2-3355c603742c",
+    "user_id": "a9895831-c31a-47a4-9a5b-9237a94ae1e8",
+    "amount": 3576.57,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Bretthaven",
+    "timestamp": "2026-05-22T21:44:20.690835"
+  },
+  {
+    "transaction_id": "65fd1ad5-4c30-493b-9566-ab241986fa5d",
+    "user_id": "b3635b17-bdfc-4954-abe2-629bfd1c021f",
+    "amount": 7840.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Hollowayside",
+    "timestamp": "2026-05-22T21:44:21.194196"
+  },
+  {
+    "transaction_id": "4cb444ee-0775-4395-9f52-71bf3ad258e9",
+    "user_id": "94c63899-eaa0-4a1f-9927-a2eb5c44a4c3",
+    "amount": 3432.9,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Garyton",
+    "timestamp": "2026-05-22T21:44:21.697119"
+  },
+  {
+    "transaction_id": "055d7ec3-edea-436e-86cd-b7c75a054562",
+    "user_id": "2878259c-e1b5-47aa-b5af-a572257c1a0e",
+    "amount": 8997.66,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Meltonton",
+    "timestamp": "2026-05-22T21:44:22.198578"
+  },
+  {
+    "transaction_id": "47c575f6-3c07-49ef-8333-658ced2888a5",
+    "user_id": "18fd522e-de27-4c2a-94b0-6edacc5d7cd0",
+    "amount": 8767.02,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stevenborough",
+    "timestamp": "2026-05-22T21:44:22.697587"
+  },
+  {
+    "transaction_id": "612907b0-064f-416c-8bfe-3a2554b83ae5",
+    "user_id": "279c26af-5f81-4418-ae3f-ad08b9b5a873",
+    "amount": 5431.62,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Jenniferhaven",
+    "timestamp": "2026-05-22T21:44:23.200530"
+  },
+  {
+    "transaction_id": "6a7649bf-b8c9-4543-905c-c6485c5995a0",
+    "user_id": "a1103a91-cdb9-4cb1-8e9d-f4f1f64ada46",
+    "amount": 9277.44,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Jackieberg",
+    "timestamp": "2026-05-22T21:44:23.703314"
+  },
+  {
+    "transaction_id": "e492b40b-81c2-48db-bcb9-9262c0ec0626",
+    "user_id": "9b72c2cf-cfa9-4b22-a96d-9075252f16ef",
+    "amount": 3394.34,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Amandaland",
+    "timestamp": "2026-05-22T21:44:24.205954"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "60ac13d3-3eba-4e17-be45-031521c0f32f",
+    "user_id": "f1428e0a-88b4-430a-b164-e97e630d2ecd",
+    "amount": 7428.23,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Erin",
+    "timestamp": "2026-05-22T22:51:43.339488"
+  },
+  {
+    "transaction_id": "1d953257-c8a5-4721-9d11-9b940c4cf063",
+    "user_id": "65d048a8-9f78-4207-a66f-e9e2a722b0f9",
+    "amount": 6551.29,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Karenberg",
+    "timestamp": "2026-05-22T22:51:44.342034"
+  },
+  {
+    "transaction_id": "9371a3a0-84ef-4c13-9fc1-b4c139d29a65",
+    "user_id": "d912da0b-6ab7-4983-a0a1-607e3d9fbab7",
+    "amount": 6421.0,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Nancyview",
+    "timestamp": "2026-05-22T22:51:44.843240"
+  },
+  {
+    "transaction_id": "ace10b99-6143-4e99-880f-b9ba63eea1ef",
+    "user_id": "e0cc792c-a508-4f33-9ba7-f3f27cfdc5ab",
+    "amount": 9058.77,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Austinville",
+    "timestamp": "2026-05-22T22:51:45.345729"
+  },
+  {
+    "transaction_id": "7f69dee9-e05f-412a-bc26-7fa5d7a46a7c",
+    "user_id": "e4df9157-eaec-48e0-afee-127db4255e2e",
+    "amount": 3975.63,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Kyle",
+    "timestamp": "2026-05-22T22:51:45.848437"
+  },
+  {
+    "transaction_id": "7e6f2a01-4433-4581-9502-de0cf8aac259",
+    "user_id": "1190ff6c-2b97-4779-8e6b-8491a2b75df5",
+    "amount": 3717.06,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Lanceshire",
+    "timestamp": "2026-05-22T22:51:46.851877"
+  },
+  {
+    "transaction_id": "661bf39f-ef1c-4a05-8d8a-fb93c01c8219",
+    "user_id": "cf1f52f0-f68a-414f-8356-e80dc9475b08",
+    "amount": 8195.81,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Michaelshire",
+    "timestamp": "2026-05-22T22:51:47.353719"
+  },
+  {
+    "transaction_id": "a99c71ca-f4c4-4f4a-86fc-9823f1775aef",
+    "user_id": "1812cab3-8317-4302-97e1-5102bcc12fe6",
+    "amount": 8121.42,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Miguelside",
+    "timestamp": "2026-05-22T22:51:47.855289"
+  },
+  {
+    "transaction_id": "be1e9228-261f-430d-9097-2d6fdf1740c3",
+    "user_id": "357d216b-87a3-419d-875a-d36e1848eee2",
+    "amount": 7157.54,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Stoneville",
+    "timestamp": "2026-05-22T22:51:48.358963"
+  },
+  {
+    "transaction_id": "a4397486-bcc6-4282-90bd-599b9776eb4f",
+    "user_id": "328884a6-12e8-4420-825c-d80c7dd096ae",
+    "amount": 793.82,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Bradyton",
+    "timestamp": "2026-05-22T22:51:48.860531"
+  }
+]

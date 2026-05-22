@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "738ec950-9862-481b-9b59-bfb34cd4e719",
+    "user_id": "1c040a9b-c920-4f55-bb6c-0dcc41d3a2e6",
+    "amount": 203.55,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Adamchester",
+    "timestamp": "2026-05-22T22:46:27.515523"
+  },
+  {
+    "transaction_id": "c573e7d7-e11e-4ce9-8afc-0654835688f7",
+    "user_id": "5b29247e-f6b9-4622-b46a-c0f577bdb3ac",
+    "amount": 6901.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Williamport",
+    "timestamp": "2026-05-22T22:46:28.521441"
+  },
+  {
+    "transaction_id": "47b16a4a-d129-4f89-bf11-1e6d6634ca44",
+    "user_id": "7b9a1d0a-4ca7-4ca7-a716-841221d3702d",
+    "amount": 217.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jacquelineside",
+    "timestamp": "2026-05-22T22:46:29.527099"
+  },
+  {
+    "transaction_id": "ac5a1d15-8abc-44dc-9ba8-6c86de3015f0",
+    "user_id": "4ea8cf15-e9ca-403d-bbaa-a1dac7f7f990",
+    "amount": 2573.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lyonsborough",
+    "timestamp": "2026-05-22T22:46:30.028417"
+  },
+  {
+    "transaction_id": "af2b0445-1060-412c-b75a-a45de909cf85",
+    "user_id": "2ce1ddf3-996f-4aec-b471-9c5a5717368a",
+    "amount": 9816.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Michaelfort",
+    "timestamp": "2026-05-22T22:46:30.529676"
+  },
+  {
+    "transaction_id": "4ab85393-d72b-4668-83b2-e3dfd29f80df",
+    "user_id": "0fd603db-93c9-49be-bf83-62910d55d2f1",
+    "amount": 3301.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Brittanyport",
+    "timestamp": "2026-05-22T22:46:31.032627"
+  },
+  {
+    "transaction_id": "ad59aab1-c156-4300-9f3b-05fa347d3c4b",
+    "user_id": "d6084d09-e770-4d0d-bb7b-182b421dbf47",
+    "amount": 171.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Sallytown",
+    "timestamp": "2026-05-22T22:46:32.038153"
+  },
+  {
+    "transaction_id": "08e1113b-83ea-4859-afa4-398d2f82fe4c",
+    "user_id": "315204f6-d0b7-4bd0-b80b-0121253f2ea7",
+    "amount": 2637.64,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Dustinview",
+    "timestamp": "2026-05-22T22:46:33.042683"
+  },
+  {
+    "transaction_id": "73a95729-3db9-4425-93c4-ed33a170fe5d",
+    "user_id": "4c2da7f6-0ae7-4a90-b4e8-a164614995d4",
+    "amount": 2534.91,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Anthonymouth",
+    "timestamp": "2026-05-22T22:46:34.046670"
+  },
+  {
+    "transaction_id": "f652d813-cda4-4aa7-bafc-50a3b4c2b03c",
+    "user_id": "a1b2202f-251a-4d30-8fe4-a37b215998ad",
+    "amount": 1555.96,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Audreytown",
+    "timestamp": "2026-05-22T22:46:35.050298"
+  }
+]

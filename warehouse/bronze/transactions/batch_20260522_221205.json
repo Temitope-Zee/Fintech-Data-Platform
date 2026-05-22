@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ac036197-fe82-408d-838a-61024511169f",
+    "user_id": "8a7383f2-31b8-4669-95db-68902bf5dcbd",
+    "amount": 6614.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Williamland",
+    "timestamp": "2026-05-22T22:12:00.957056"
+  },
+  {
+    "transaction_id": "faa29d01-7775-4fec-959f-e3dbb522b35f",
+    "user_id": "9a8259b7-eeca-4443-ba2a-c52b6345b321",
+    "amount": 1096.82,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Garciaton",
+    "timestamp": "2026-05-22T22:12:01.459016"
+  },
+  {
+    "transaction_id": "27d0124f-615a-4ab7-9ec4-dfaa781685d5",
+    "user_id": "d7a0b66c-cc4e-4a95-b077-18a4a551c52e",
+    "amount": 7136.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Danielberg",
+    "timestamp": "2026-05-22T22:12:01.960706"
+  },
+  {
+    "transaction_id": "03faf15d-256b-40d4-b446-4887265f830f",
+    "user_id": "701423c3-13a1-461d-a71f-0e391ce9532a",
+    "amount": 809.21,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Benjaminstad",
+    "timestamp": "2026-05-22T22:12:02.462210"
+  },
+  {
+    "transaction_id": "ed75cb0d-8428-4169-8a34-60b194415c4d",
+    "user_id": "0155b199-8ce1-4ebb-a8ee-ee5a347ed130",
+    "amount": 9225.2,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Susanburgh",
+    "timestamp": "2026-05-22T22:12:03.466693"
+  },
+  {
+    "transaction_id": "fe595b52-d866-472d-a9ce-0eb1bb0bc94c",
+    "user_id": "b610082a-45fb-4832-b303-96de34753bce",
+    "amount": 4635.23,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Andrew",
+    "timestamp": "2026-05-22T22:12:03.967957"
+  },
+  {
+    "transaction_id": "04053cc6-14d4-4642-a293-0e7ce5a1e78c",
+    "user_id": "61404669-fdb2-49b3-ad00-5545d7bf7446",
+    "amount": 4581.93,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Juanton",
+    "timestamp": "2026-05-22T22:12:04.469262"
+  },
+  {
+    "transaction_id": "ef4e9518-eeb5-4309-8eac-318a18e1ff19",
+    "user_id": "d09ec811-9efc-4b26-8b1e-bc2ab112cbae",
+    "amount": 6111.03,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Daniel",
+    "timestamp": "2026-05-22T22:12:04.971633"
+  },
+  {
+    "transaction_id": "fdaa105e-f4bc-402e-b3d2-7e6e9761aec0",
+    "user_id": "52addecd-c83c-42c6-b6f3-16de654d3ce9",
+    "amount": 6260.62,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Gutierrezton",
+    "timestamp": "2026-05-22T22:12:05.473464"
+  },
+  {
+    "transaction_id": "359f7552-be5c-4c0c-a9fb-90e5c04429a3",
+    "user_id": "19438897-0a25-426d-8a46-da954f9628f9",
+    "amount": 8961.41,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Youngfort",
+    "timestamp": "2026-05-22T22:12:05.974824"
+  }
+]

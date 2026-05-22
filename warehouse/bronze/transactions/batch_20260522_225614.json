@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d373f596-e658-46ed-9daf-dd2d3e6903ef",
+    "user_id": "fcdf4657-821b-4588-87b2-1261f695f8f4",
+    "amount": 2413.07,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Sarahberg",
+    "timestamp": "2026-05-22T22:56:09.915532"
+  },
+  {
+    "transaction_id": "a21835cf-5d0a-46dd-88ed-bbecf21d90ef",
+    "user_id": "553975d9-8e4d-4aa9-af34-52d6b79758e2",
+    "amount": 154.52,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Derrickbury",
+    "timestamp": "2026-05-22T22:56:10.416851"
+  },
+  {
+    "transaction_id": "4ac041c3-1c84-4513-8c9f-8491eb3df4f6",
+    "user_id": "aac77dcc-2392-488b-922a-67cdad4b1e49",
+    "amount": 4573.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Mathewsshire",
+    "timestamp": "2026-05-22T22:56:10.918434"
+  },
+  {
+    "transaction_id": "4d3efbda-d87b-4fb5-b0ba-ccf74fee0af3",
+    "user_id": "461bcbb4-9c56-4ac6-87ac-65b22b20140c",
+    "amount": 3793.76,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West John",
+    "timestamp": "2026-05-22T22:56:11.419818"
+  },
+  {
+    "transaction_id": "fd60671b-7ed8-4c11-b2a3-a70af3708513",
+    "user_id": "dcc0e73e-995e-40c5-9726-21c57785983a",
+    "amount": 3294.44,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Riley",
+    "timestamp": "2026-05-22T22:56:11.921128"
+  },
+  {
+    "transaction_id": "9867caf8-ac2a-4910-aa3f-bce7ce7da482",
+    "user_id": "e61297b7-eed1-4f41-bfca-ca6d249850de",
+    "amount": 7943.83,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Ballardstad",
+    "timestamp": "2026-05-22T22:56:12.422543"
+  },
+  {
+    "transaction_id": "05bdb098-a4cf-4f61-8a40-2ad5cefb4452",
+    "user_id": "9aa38128-6aed-4767-8724-70468ecaab0d",
+    "amount": 8981.28,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Wardfurt",
+    "timestamp": "2026-05-22T22:56:12.923762"
+  },
+  {
+    "transaction_id": "14dfbbbc-97d3-47d0-8f09-4356cca5649a",
+    "user_id": "fa3b6c54-e316-4121-bca6-cba39eefe1fa",
+    "amount": 2354.52,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Summersshire",
+    "timestamp": "2026-05-22T22:56:13.928187"
+  },
+  {
+    "transaction_id": "a2f05af3-0ead-4cbd-a09f-8e09c08161b2",
+    "user_id": "423518b6-5586-48c3-bf81-bdd2eb2c95ee",
+    "amount": 6218.49,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Sherry",
+    "timestamp": "2026-05-22T22:56:14.431146"
+  },
+  {
+    "transaction_id": "d27c70f3-508b-40e8-83f7-4492f36b6255",
+    "user_id": "5c4b4049-76ba-4e31-ac0d-de1bd23fbcbc",
+    "amount": 5312.62,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Devinchester",
+    "timestamp": "2026-05-22T22:56:14.933720"
+  }
+]

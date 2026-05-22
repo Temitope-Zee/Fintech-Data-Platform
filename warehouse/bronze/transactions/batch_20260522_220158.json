@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6fe3cdb7-4e1d-4238-bdd1-ebf505e49f38",
+    "user_id": "e7fc7380-7b34-454e-967d-cb6d2a66b1a8",
+    "amount": 1841.55,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Summerschester",
+    "timestamp": "2026-05-22T22:01:52.483357"
+  },
+  {
+    "transaction_id": "2da76a64-8fec-4897-914e-8f416a195639",
+    "user_id": "1865f8b2-3233-49e9-8c5d-befe27699ba0",
+    "amount": 6233.91,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Martinezport",
+    "timestamp": "2026-05-22T22:01:52.984613"
+  },
+  {
+    "transaction_id": "1e07d483-a846-4e70-8b95-8f42dea958e5",
+    "user_id": "50779f61-38ea-4c2c-bb21-2f0bab6fe2a4",
+    "amount": 6116.1,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Danielport",
+    "timestamp": "2026-05-22T22:01:53.988126"
+  },
+  {
+    "transaction_id": "9785a33e-8e13-4e5c-a81b-1ef5d1d69919",
+    "user_id": "abe6a00f-783f-4208-b845-04f7b16646b9",
+    "amount": 8521.85,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Markborough",
+    "timestamp": "2026-05-22T22:01:54.490379"
+  },
+  {
+    "transaction_id": "e09f2d72-7f33-43eb-a76b-b22916b317d8",
+    "user_id": "c31a9d39-b524-4a29-809c-2bcfdd7fd227",
+    "amount": 8679.39,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Grantstad",
+    "timestamp": "2026-05-22T22:01:54.992221"
+  },
+  {
+    "transaction_id": "1ecc634a-f24f-43b7-85c6-0cc1b44424ed",
+    "user_id": "225ec8d7-1102-4e69-ac77-3c52eb42abdc",
+    "amount": 7702.09,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Wolfview",
+    "timestamp": "2026-05-22T22:01:55.493622"
+  },
+  {
+    "transaction_id": "c1900ef1-b2e6-4e85-8e8a-3c3020b73060",
+    "user_id": "b9afcca2-d128-426e-b61e-57b7f39eef89",
+    "amount": 750.59,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mitchellbury",
+    "timestamp": "2026-05-22T22:01:55.995193"
+  },
+  {
+    "transaction_id": "41f28306-18df-4712-b708-d32c62001352",
+    "user_id": "5f857ab8-aeca-4579-951f-649ccc87c549",
+    "amount": 2104.47,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Seanside",
+    "timestamp": "2026-05-22T22:01:56.496801"
+  },
+  {
+    "transaction_id": "727e1e4b-a9b2-4170-b997-9febb3f38d31",
+    "user_id": "c97f17d8-d8cf-4ec9-a23e-c782fadc54a7",
+    "amount": 3369.94,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Whitehaven",
+    "timestamp": "2026-05-22T22:01:56.998224"
+  },
+  {
+    "transaction_id": "ad45b161-dc93-448c-b29e-bd4ba6b14071",
+    "user_id": "6e2eee4f-f19a-41db-a66c-f60f4c54466d",
+    "amount": 7564.63,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gibsonchester",
+    "timestamp": "2026-05-22T22:01:58.014742"
+  }
+]

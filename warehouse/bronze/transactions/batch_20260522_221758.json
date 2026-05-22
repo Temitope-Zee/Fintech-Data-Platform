@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "428f569e-b249-4f89-8a05-c78e8976a5ef",
+    "user_id": "4d493608-8d12-41eb-b359-59b2e06c8451",
+    "amount": 7610.87,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North William",
+    "timestamp": "2026-05-22T22:17:53.866373"
+  },
+  {
+    "transaction_id": "9e3a91d5-e4ee-48e9-a1f5-abb2dbc97a98",
+    "user_id": "faef4e35-e404-46c2-9a02-794ce55ddb45",
+    "amount": 969.19,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jessicastad",
+    "timestamp": "2026-05-22T22:17:54.369219"
+  },
+  {
+    "transaction_id": "f80d012b-ba0d-4db6-8e59-b905550318ae",
+    "user_id": "22656ce3-7ef9-471c-ad4e-c3943a77489f",
+    "amount": 2948.69,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Pooleborough",
+    "timestamp": "2026-05-22T22:17:55.373286"
+  },
+  {
+    "transaction_id": "07c178b1-46c0-4dda-8434-4c2420312eae",
+    "user_id": "d830cc2b-0f1d-4935-a283-e64853707636",
+    "amount": 4685.45,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Kathleen",
+    "timestamp": "2026-05-22T22:17:55.874512"
+  },
+  {
+    "transaction_id": "6cbe34c2-52c8-4ef7-8ff2-0a39c83fd5c1",
+    "user_id": "2463f4d9-8b96-48ee-921d-668ecf268427",
+    "amount": 4287.15,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Gary",
+    "timestamp": "2026-05-22T22:17:56.377135"
+  },
+  {
+    "transaction_id": "df55e693-ff81-423c-b1bb-18633961d3d4",
+    "user_id": "55972b3b-49ba-4e70-898f-dc1a22f0b548",
+    "amount": 8596.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Courtneyside",
+    "timestamp": "2026-05-22T22:17:56.880676"
+  },
+  {
+    "transaction_id": "d5c1a13f-957b-46c9-9606-5a9b4e40ca34",
+    "user_id": "80b01e47-e780-4f95-953b-430069abf459",
+    "amount": 4895.33,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Andersonview",
+    "timestamp": "2026-05-22T22:17:57.382376"
+  },
+  {
+    "transaction_id": "c95f2cff-b69a-4b33-a819-dd41985bf5cd",
+    "user_id": "a179a89f-4826-4820-bdbb-6623583f072d",
+    "amount": 511.26,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Cummingsville",
+    "timestamp": "2026-05-22T22:17:57.885606"
+  },
+  {
+    "transaction_id": "551b98d6-04b7-4a16-a058-4e8c263c10ac",
+    "user_id": "200f05b5-850b-45c0-aa7e-18c2ba64adab",
+    "amount": 3179.38,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Deanburgh",
+    "timestamp": "2026-05-22T22:17:58.387501"
+  },
+  {
+    "transaction_id": "3188a04c-8277-4bbb-baf9-ad830291f376",
+    "user_id": "c1bacf0b-f93d-41c7-804d-8283b31ac4fd",
+    "amount": 4255.81,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Michaelview",
+    "timestamp": "2026-05-22T22:17:58.889291"
+  }
+]

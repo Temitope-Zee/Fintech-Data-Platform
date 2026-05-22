@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ec7b6901-bfd7-46a2-8ed0-e18c802ef828",
+    "user_id": "6751cf74-24e4-41b3-bbcb-4288f6a2cd71",
+    "amount": 4318.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East James",
+    "timestamp": "2026-05-22T22:56:31.490523"
+  },
+  {
+    "transaction_id": "bc0d38f0-2bdb-40d4-ab13-2bbbc8df2ada",
+    "user_id": "aff362fb-4f09-4b32-82db-bb6397f26038",
+    "amount": 2036.48,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Kurtbury",
+    "timestamp": "2026-05-22T22:56:31.991853"
+  },
+  {
+    "transaction_id": "da9188a4-b691-4cf5-a147-23b6a7ff52cf",
+    "user_id": "52c5ab19-6e9e-4d42-9f6a-3c3a735b7a78",
+    "amount": 9747.27,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Ramirezmouth",
+    "timestamp": "2026-05-22T22:56:32.996116"
+  },
+  {
+    "transaction_id": "6784335e-209f-4066-b315-9767dbce75d8",
+    "user_id": "b04033d7-0f3a-4bd5-bf9b-eb27c4d845a5",
+    "amount": 6816.55,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Cynthiaview",
+    "timestamp": "2026-05-22T22:56:33.497528"
+  },
+  {
+    "transaction_id": "aff106ca-1f83-4801-a1ea-2fd216ff99ff",
+    "user_id": "807c94fb-9448-4b31-a57a-587c40cfafc4",
+    "amount": 6115.32,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Amandachester",
+    "timestamp": "2026-05-22T22:56:33.999890"
+  },
+  {
+    "transaction_id": "0ca5852e-ece6-49f5-afee-90832493821e",
+    "user_id": "ee4b3620-6662-46ff-918b-8cf93a857a3e",
+    "amount": 5689.07,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Sharonchester",
+    "timestamp": "2026-05-22T22:56:34.502882"
+  },
+  {
+    "transaction_id": "ea818f45-f2d3-4539-b810-c7cf1853841c",
+    "user_id": "4e7bb7ea-047c-497c-8628-3203693d8ee1",
+    "amount": 1733.85,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Karen",
+    "timestamp": "2026-05-22T22:56:35.508186"
+  },
+  {
+    "transaction_id": "cdd7b77d-681f-4ed0-9608-418cdb2dd04a",
+    "user_id": "80e2491c-0199-4d3b-bf3a-469e18484614",
+    "amount": 5544.49,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mooreport",
+    "timestamp": "2026-05-22T22:56:36.009645"
+  },
+  {
+    "transaction_id": "00c0f12d-24a6-4d55-906f-4e5c1aaaaa3b",
+    "user_id": "f8e810e5-3e2a-4c98-905e-21b272224e4a",
+    "amount": 9617.41,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Anne",
+    "timestamp": "2026-05-22T22:56:36.510835"
+  },
+  {
+    "transaction_id": "7e1c0c16-5e49-428a-a3cd-347a5f0b4d4e",
+    "user_id": "15ceaab7-bc3a-44ab-baaf-aca51b9e8413",
+    "amount": 9346.19,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New John",
+    "timestamp": "2026-05-22T22:56:38.518893"
+  }
+]

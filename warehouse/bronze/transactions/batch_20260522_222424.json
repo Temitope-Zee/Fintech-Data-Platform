@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "81ac04ce-05b4-489b-ad9b-0f1285e41e79",
+    "user_id": "21bf6226-db02-4a3e-8b57-c82387f0bc0c",
+    "amount": 2094.53,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Lauren",
+    "timestamp": "2026-05-22T22:24:18.488803"
+  },
+  {
+    "transaction_id": "aca4662c-291d-4a39-8cc9-bf9cfcd3d4d0",
+    "user_id": "98a00a3a-cfc6-488e-b68c-1e71777c8650",
+    "amount": 9365.68,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Samuelfort",
+    "timestamp": "2026-05-22T22:24:18.990532"
+  },
+  {
+    "transaction_id": "4dcd9814-114a-4ea8-9fe2-b899d2843ff2",
+    "user_id": "d0ca562a-980b-4601-b659-eaa02001a592",
+    "amount": 896.32,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Kevin",
+    "timestamp": "2026-05-22T22:24:19.493408"
+  },
+  {
+    "transaction_id": "912588c1-3f45-462b-bab4-0769c757df25",
+    "user_id": "d5c21708-3dfb-4dca-a3d7-4a66752c7fb3",
+    "amount": 2705.18,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New David",
+    "timestamp": "2026-05-22T22:24:19.995140"
+  },
+  {
+    "transaction_id": "1f492f65-857e-4f1c-aa07-4ebe5cb39394",
+    "user_id": "bcd2909f-3792-4efe-b518-95f1693d8a94",
+    "amount": 9873.19,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Vincentside",
+    "timestamp": "2026-05-22T22:24:20.496595"
+  },
+  {
+    "transaction_id": "76b28cec-99ab-4cab-b6f5-84d5fb6aed5b",
+    "user_id": "0c2733be-42af-4822-9180-88271027af4f",
+    "amount": 6621.6,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T22:24:21.498990"
+  },
+  {
+    "transaction_id": "174c6839-b12c-4448-b116-1ca6d693a349",
+    "user_id": "430328c4-e823-4f17-b657-530f3be95457",
+    "amount": 9315.01,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Haleburgh",
+    "timestamp": "2026-05-22T22:24:22.000846"
+  },
+  {
+    "transaction_id": "0a3190cd-cdc8-4ffe-932b-5f9f62112d0f",
+    "user_id": "2ce4d5ce-977a-44c7-82e0-56e77c09d855",
+    "amount": 8274.42,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Michaelside",
+    "timestamp": "2026-05-22T22:24:22.502156"
+  },
+  {
+    "transaction_id": "448aaa1a-1c19-4c77-a1bf-e838e370c8cd",
+    "user_id": "eea17e8a-265e-46f7-b250-f89e5f8c521c",
+    "amount": 8496.72,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Graystad",
+    "timestamp": "2026-05-22T22:24:23.004065"
+  },
+  {
+    "transaction_id": "2674ab9b-f3a9-4b6b-91aa-847b81ff484c",
+    "user_id": "561daec6-e250-4614-9e36-9cd6aa5c1743",
+    "amount": 1012.93,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Clarkview",
+    "timestamp": "2026-05-22T22:24:24.509703"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6a48d6e3-5667-4a39-b6bb-ffcb90d75564",
+    "user_id": "f11dc4f7-8468-4810-a04e-f1eea53e5b78",
+    "amount": 4945.4,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Jacobside",
+    "timestamp": "2026-05-22T22:51:18.736876"
+  },
+  {
+    "transaction_id": "b92eabd4-0960-47ae-b9e6-475991f6d2f6",
+    "user_id": "7f47c263-d09a-4d35-ab90-a2ca2edb200f",
+    "amount": 9988.56,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Gloria",
+    "timestamp": "2026-05-22T22:51:19.238911"
+  },
+  {
+    "transaction_id": "fa64fa49-43ca-4016-bdc8-036daeb84ab0",
+    "user_id": "d4294222-f980-4f6b-9872-531a258b01cf",
+    "amount": 2244.86,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Vasquezbury",
+    "timestamp": "2026-05-22T22:51:19.740559"
+  },
+  {
+    "transaction_id": "a9f247b2-a184-4197-aba3-20146e1a8616",
+    "user_id": "b4cc4a06-f4be-43df-8366-e3a4ff378ebf",
+    "amount": 487.98,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Randall",
+    "timestamp": "2026-05-22T22:51:20.243988"
+  },
+  {
+    "transaction_id": "931882d2-0051-4cfd-b7a7-a4b96e46971d",
+    "user_id": "34d14ddf-c23a-4d29-b11c-ec44390a198d",
+    "amount": 5842.28,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Patelchester",
+    "timestamp": "2026-05-22T22:51:20.746617"
+  },
+  {
+    "transaction_id": "7e290b4c-bc4b-4605-8ede-307a32bbb496",
+    "user_id": "97e1c3f8-0b99-4b85-a3a1-0dc4f3ee12dc",
+    "amount": 5620.37,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Eileenport",
+    "timestamp": "2026-05-22T22:51:21.247829"
+  },
+  {
+    "transaction_id": "2922a625-e729-45d0-8019-35d622f02a23",
+    "user_id": "56628e52-6c58-4f19-9a9b-b52c49cac88a",
+    "amount": 1117.93,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Markfurt",
+    "timestamp": "2026-05-22T22:51:21.749403"
+  },
+  {
+    "transaction_id": "11e47e0e-b9f5-4a6a-aa9a-dd320ea07556",
+    "user_id": "b22e4230-eaaf-471a-b124-833fc2eec5c2",
+    "amount": 2675.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Ryanside",
+    "timestamp": "2026-05-22T22:51:22.251982"
+  },
+  {
+    "transaction_id": "86885e02-fb7a-4354-befd-405f57a28218",
+    "user_id": "9a3459ea-e9e7-49a8-acc7-52461ab38d27",
+    "amount": 4445.29,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Monica",
+    "timestamp": "2026-05-22T22:51:22.755244"
+  },
+  {
+    "transaction_id": "7e87c283-d3a9-42af-9239-fb35a5156338",
+    "user_id": "7a2ef30f-df78-4ed3-af71-f13371607fa1",
+    "amount": 396.18,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Deanberg",
+    "timestamp": "2026-05-22T22:51:23.761168"
+  }
+]

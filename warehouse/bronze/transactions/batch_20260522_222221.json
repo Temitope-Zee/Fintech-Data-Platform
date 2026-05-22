@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "88b438c9-4a81-452b-ac5f-fa8a615143c4",
+    "user_id": "c3bbe4d4-8cf7-4dcd-a5bb-9c70ed3077c1",
+    "amount": 6538.94,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Stephen",
+    "timestamp": "2026-05-22T22:22:15.959306"
+  },
+  {
+    "transaction_id": "fef78252-ec27-426a-bb0b-a9cde0f009da",
+    "user_id": "69381076-4f7a-4f6f-91a0-2264dae5cc09",
+    "amount": 8399.4,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jennifershire",
+    "timestamp": "2026-05-22T22:22:16.963775"
+  },
+  {
+    "transaction_id": "56d113a9-9a82-4a1a-92ac-2083086edf6e",
+    "user_id": "e6bcdeab-ad74-473f-b5ca-d0ee7ae4e1b4",
+    "amount": 7713.94,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Lindsay",
+    "timestamp": "2026-05-22T22:22:17.465809"
+  },
+  {
+    "transaction_id": "33bdae1d-694a-497c-93c5-6d94f66f4b97",
+    "user_id": "2d189d3f-16fe-458d-82a6-794656fc3f4f",
+    "amount": 3804.45,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Davischester",
+    "timestamp": "2026-05-22T22:22:17.968139"
+  },
+  {
+    "transaction_id": "f8ca337e-0478-47e6-925f-1b517baa5b38",
+    "user_id": "1c2050e0-8427-4a04-9a72-4bc5fece7b26",
+    "amount": 4073.64,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Brittany",
+    "timestamp": "2026-05-22T22:22:18.469282"
+  },
+  {
+    "transaction_id": "26d97fad-40a6-434c-8801-05fcbddfa8b6",
+    "user_id": "864c2227-ea06-41df-b38f-8fa98072688e",
+    "amount": 3992.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Rebecca",
+    "timestamp": "2026-05-22T22:22:18.971440"
+  },
+  {
+    "transaction_id": "749380bf-befe-4031-a40a-9153b84fbf5e",
+    "user_id": "faaafa3c-0bae-4026-a076-12ea94974ac0",
+    "amount": 3494.06,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Gregory",
+    "timestamp": "2026-05-22T22:22:19.976049"
+  },
+  {
+    "transaction_id": "a46875a7-e724-4b28-893c-fff52ad5c862",
+    "user_id": "3283bcf3-7176-445c-abf7-bb2be0bc5fae",
+    "amount": 5343.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Trevor",
+    "timestamp": "2026-05-22T22:22:20.478620"
+  },
+  {
+    "transaction_id": "de2df6c8-3973-41c8-bbaa-5815cd253709",
+    "user_id": "488a3c19-2c38-4bf7-845b-a25f94bc658a",
+    "amount": 945.08,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Wilcoxmouth",
+    "timestamp": "2026-05-22T22:22:20.980418"
+  },
+  {
+    "transaction_id": "0b8033c4-2c4c-4ef8-84a4-6344521ab668",
+    "user_id": "4822ae26-5cea-40ec-92b2-b10a0fb9d2c0",
+    "amount": 8859.09,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Ginafort",
+    "timestamp": "2026-05-22T22:22:21.483981"
+  }
+]

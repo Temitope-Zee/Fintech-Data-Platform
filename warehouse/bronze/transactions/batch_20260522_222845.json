@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "24506ca5-2c3b-4212-8f84-7d4283007581",
+    "user_id": "d78904ef-93d7-4588-ab39-311bddb88d04",
+    "amount": 4834.27,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Kennethmouth",
+    "timestamp": "2026-05-22T22:28:39.503373"
+  },
+  {
+    "transaction_id": "bf2ae332-0364-4c92-aa97-0a4f7c986a66",
+    "user_id": "9ddd2971-86e7-4baa-97de-45b31180887b",
+    "amount": 8152.94,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Matthewberg",
+    "timestamp": "2026-05-22T22:28:40.007443"
+  },
+  {
+    "transaction_id": "d5cee90a-da64-455b-b5da-680bc8da63d7",
+    "user_id": "c0edefb7-1b69-451f-b318-3e81c0b0cb47",
+    "amount": 5028.77,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Michaelfurt",
+    "timestamp": "2026-05-22T22:28:40.503402"
+  },
+  {
+    "transaction_id": "10bfc441-4c1d-45b4-a5d1-05962e2bb687",
+    "user_id": "979a1935-ea27-4c4d-ab99-2be277e67d64",
+    "amount": 2000.05,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Jonathanfurt",
+    "timestamp": "2026-05-22T22:28:41.008512"
+  },
+  {
+    "transaction_id": "5585c5e6-104b-473a-9085-8751cde8357d",
+    "user_id": "a188caac-8a41-44fc-a667-d89caa5afb35",
+    "amount": 2314.06,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Peggy",
+    "timestamp": "2026-05-22T22:28:42.012032"
+  },
+  {
+    "transaction_id": "6de5f050-f566-4cfe-9f25-6286e0fa7bc0",
+    "user_id": "feed4661-9adb-4160-8ee8-e5acfab65ee9",
+    "amount": 6643.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Erichaven",
+    "timestamp": "2026-05-22T22:28:42.513495"
+  },
+  {
+    "transaction_id": "994852fd-31a6-4b06-b5b3-4723e6f68edb",
+    "user_id": "85b3e8cc-df5c-4145-90f1-1cde1f5c59cf",
+    "amount": 6335.27,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Kennethtown",
+    "timestamp": "2026-05-22T22:28:43.518798"
+  },
+  {
+    "transaction_id": "aa4a8b5d-85b5-47ec-aa31-c2f97fb65cd9",
+    "user_id": "f4b40604-ae11-4662-932a-73e28b1d3ea1",
+    "amount": 1035.48,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Jonathan",
+    "timestamp": "2026-05-22T22:28:44.020198"
+  },
+  {
+    "transaction_id": "6a1ad14a-1426-407b-9523-36ffc70597fd",
+    "user_id": "2839a29c-d340-4fb9-b6d8-a3f18d3e0345",
+    "amount": 6386.42,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Douglaschester",
+    "timestamp": "2026-05-22T22:28:44.522685"
+  },
+  {
+    "transaction_id": "b53ecd27-1aa9-498e-84b8-89760d9d1a7d",
+    "user_id": "a363cf4e-3cc5-4aba-8e0b-9170fa70e159",
+    "amount": 9928.63,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Mikeport",
+    "timestamp": "2026-05-22T22:28:45.025965"
+  }
+]

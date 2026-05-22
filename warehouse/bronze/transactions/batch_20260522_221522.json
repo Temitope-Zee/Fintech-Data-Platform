@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9747771d-bd3b-4d2f-b981-e2c8cc2c1936",
+    "user_id": "d03047ae-075a-4f76-9787-64f1e1ee0b4e",
+    "amount": 2154.15,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Karen",
+    "timestamp": "2026-05-22T22:15:16.730707"
+  },
+  {
+    "transaction_id": "3518181d-4268-4973-92d0-952ce4c63228",
+    "user_id": "8a3a0aab-d5dd-471b-8124-6644784c81d5",
+    "amount": 1066.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Elizabeth",
+    "timestamp": "2026-05-22T22:15:17.233210"
+  },
+  {
+    "transaction_id": "ff8f030d-5720-4a55-9b33-579eb9fd12f2",
+    "user_id": "a42a6ec9-c2c5-4d57-8a77-0765aeba8711",
+    "amount": 432.72,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Brendafort",
+    "timestamp": "2026-05-22T22:15:17.734175"
+  },
+  {
+    "transaction_id": "d5272c1b-0e7e-4975-8bed-85c8680f2413",
+    "user_id": "1716ee0f-3154-468d-b5bd-9a8b6acc6793",
+    "amount": 1861.1,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Rodneychester",
+    "timestamp": "2026-05-22T22:15:18.235417"
+  },
+  {
+    "transaction_id": "d08f3b13-a82b-4f28-9567-fc26f8b0439a",
+    "user_id": "885d738b-1ec4-4c2c-929e-0827e3f267e7",
+    "amount": 8674.0,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Gregoryport",
+    "timestamp": "2026-05-22T22:15:18.738221"
+  },
+  {
+    "transaction_id": "db353db8-c5eb-450b-b89f-5ba0aa4f8527",
+    "user_id": "09745029-7b33-4f62-bfa7-adbbe3486c80",
+    "amount": 7367.46,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Ruizburgh",
+    "timestamp": "2026-05-22T22:15:19.239515"
+  },
+  {
+    "transaction_id": "a79b9f07-4f76-48f7-8f6a-3a519e1d7182",
+    "user_id": "fa6c7ee1-615d-4351-a173-cc38b4c9e2f3",
+    "amount": 1535.75,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Justinside",
+    "timestamp": "2026-05-22T22:15:19.742116"
+  },
+  {
+    "transaction_id": "0f3204d8-3a24-4ba5-ab2c-2d994de6c41a",
+    "user_id": "b2070a84-f815-4090-bb34-d55f5bf6fcf7",
+    "amount": 9964.0,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Caseyland",
+    "timestamp": "2026-05-22T22:15:20.746757"
+  },
+  {
+    "transaction_id": "766d334a-4a5e-4436-b7a4-b75f1a2e14a4",
+    "user_id": "33db1064-1ad2-4e95-bc02-f401589ea32b",
+    "amount": 9605.83,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Palmerfort",
+    "timestamp": "2026-05-22T22:15:21.249630"
+  },
+  {
+    "transaction_id": "ebb2632b-54f1-40e0-a226-f2d80d9252eb",
+    "user_id": "89181917-dae1-42c4-8756-2bce0a9fc715",
+    "amount": 1154.96,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Davidmouth",
+    "timestamp": "2026-05-22T22:15:22.252036"
+  }
+]

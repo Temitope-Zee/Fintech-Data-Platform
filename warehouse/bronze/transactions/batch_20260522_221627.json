@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "78af9e03-f2bc-4c1b-bdc3-274116e085aa",
+    "user_id": "4f74aff3-0328-4d7a-b411-e67c989d24ab",
+    "amount": 5213.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Paige",
+    "timestamp": "2026-05-22T22:16:21.499332"
+  },
+  {
+    "transaction_id": "d26f439c-821c-4a6f-a073-88f5de1ca448",
+    "user_id": "65a28dd9-69c4-4db6-9871-62d1b7d40c60",
+    "amount": 2679.13,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Mary",
+    "timestamp": "2026-05-22T22:16:22.001266"
+  },
+  {
+    "transaction_id": "26cc6afe-1282-4aef-87bf-594f8d3c294c",
+    "user_id": "d5491774-be00-4f62-9ccd-960f32480e09",
+    "amount": 4184.31,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Jacobsmouth",
+    "timestamp": "2026-05-22T22:16:22.502471"
+  },
+  {
+    "transaction_id": "cef29557-beaa-42b1-846b-bfb27b010115",
+    "user_id": "fbd68205-3463-4ea4-baeb-b5fb7ccddd88",
+    "amount": 8324.83,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Jonathanmouth",
+    "timestamp": "2026-05-22T22:16:23.505662"
+  },
+  {
+    "transaction_id": "cb0cccdc-394b-4896-a4ef-1a797f24625c",
+    "user_id": "158a6cdf-59e1-4911-8810-fd1f24046986",
+    "amount": 7355.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Sloanhaven",
+    "timestamp": "2026-05-22T22:16:24.007406"
+  },
+  {
+    "transaction_id": "904d90c6-7c8f-408f-9f92-5289f6e8dff0",
+    "user_id": "724df09a-655f-43a2-88ca-473ea46319b9",
+    "amount": 8294.07,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Paula",
+    "timestamp": "2026-05-22T22:16:24.509506"
+  },
+  {
+    "transaction_id": "fb33ac2e-b4fb-4ba3-909a-a83c3dc89350",
+    "user_id": "015691a4-ecec-47dc-8ebb-858d60c0ab63",
+    "amount": 1513.68,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Nicholasbury",
+    "timestamp": "2026-05-22T22:16:25.512334"
+  },
+  {
+    "transaction_id": "73e09106-2438-4c41-b802-ff5818d6a67a",
+    "user_id": "b84909ed-0725-4d6d-9f89-2224f365a057",
+    "amount": 7541.69,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Jay",
+    "timestamp": "2026-05-22T22:16:26.013932"
+  },
+  {
+    "transaction_id": "339a4eda-2350-41ba-a1fb-e011eca41775",
+    "user_id": "6af5ebc0-6da0-46de-beb3-0a37e2d2cd3f",
+    "amount": 8036.04,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Alyssamouth",
+    "timestamp": "2026-05-22T22:16:26.515612"
+  },
+  {
+    "transaction_id": "9d867574-fdd5-4ec8-8411-efcc3eb4cefc",
+    "user_id": "064b5daa-3af8-4319-bd0f-2aa8d4e8b477",
+    "amount": 2307.05,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Angelastad",
+    "timestamp": "2026-05-22T22:16:27.017105"
+  }
+]

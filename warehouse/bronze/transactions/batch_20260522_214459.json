@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "60698066-d401-46a2-8d13-4d836601393c",
+    "user_id": "c52f9365-e883-4e38-98b9-ee04f3359285",
+    "amount": 5730.23,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Suzanne",
+    "timestamp": "2026-05-22T21:44:54.859799"
+  },
+  {
+    "transaction_id": "3c13e91a-7334-41d6-895e-d7b1b2ba569d",
+    "user_id": "dacf43b3-36cb-4522-9139-c4a802f64a8e",
+    "amount": 8298.44,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Claudiamouth",
+    "timestamp": "2026-05-22T21:44:55.361464"
+  },
+  {
+    "transaction_id": "3a512a9b-fcce-4315-92b3-74efea05ea45",
+    "user_id": "f7fed4b4-7c74-49e8-b5b0-6af5a263f20d",
+    "amount": 5586.51,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Mariastad",
+    "timestamp": "2026-05-22T21:44:55.863001"
+  },
+  {
+    "transaction_id": "bf060aa6-a46b-4e02-91da-0f93b912271a",
+    "user_id": "8aa69a41-8c08-4b9a-b1f2-4eb329ee5f42",
+    "amount": 886.87,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Brianview",
+    "timestamp": "2026-05-22T21:44:56.364517"
+  },
+  {
+    "transaction_id": "db205e28-5bdc-4c2f-9168-47642756d487",
+    "user_id": "1ab852d7-b3b6-4eab-99ab-451c3e4ca45b",
+    "amount": 2346.77,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Aaron",
+    "timestamp": "2026-05-22T21:44:56.867126"
+  },
+  {
+    "transaction_id": "47fb78d1-88b3-4a7d-910f-3f817bcb9eef",
+    "user_id": "894503da-4a91-41a6-acab-3803acf2f26f",
+    "amount": 2334.51,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Nicholas",
+    "timestamp": "2026-05-22T21:44:57.873669"
+  },
+  {
+    "transaction_id": "dfb78dbc-0a60-46d8-9230-2709fb31baea",
+    "user_id": "a66e0351-4b42-4c45-867e-1a1f8d5bc648",
+    "amount": 9399.18,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Karenport",
+    "timestamp": "2026-05-22T21:44:58.375505"
+  },
+  {
+    "transaction_id": "0ff71e24-4527-4095-be25-2ebd2f3a027e",
+    "user_id": "3881b290-4d36-4e3a-a075-b67b29b15aae",
+    "amount": 4830.77,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Johnsonville",
+    "timestamp": "2026-05-22T21:44:58.877690"
+  },
+  {
+    "transaction_id": "9717050d-6e6e-484a-8a65-6556d4650610",
+    "user_id": "4537756c-c2d0-47b1-be52-0606ba61eaee",
+    "amount": 1953.36,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Adamsville",
+    "timestamp": "2026-05-22T21:44:59.379248"
+  },
+  {
+    "transaction_id": "4c223aa3-f048-4402-9db1-26acbab297f9",
+    "user_id": "88acb996-434b-47f7-a1a9-b94d4918283e",
+    "amount": 7512.29,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Perezborough",
+    "timestamp": "2026-05-22T21:44:59.882416"
+  }
+]

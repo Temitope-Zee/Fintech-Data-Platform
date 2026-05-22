@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "635f3917-6024-4bf7-a615-d7407b065b92",
+    "user_id": "601ac757-d824-403e-aea1-11e31d976d8e",
+    "amount": 9361.06,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Michaelbury",
+    "timestamp": "2026-05-22T21:49:48.561149"
+  },
+  {
+    "transaction_id": "f666187e-5b33-4125-a78b-4944083cea2d",
+    "user_id": "714c3df4-a019-4489-bea6-684abc4ea122",
+    "amount": 2273.54,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Stacieview",
+    "timestamp": "2026-05-22T21:49:49.062449"
+  },
+  {
+    "transaction_id": "f458ba7e-4553-455d-bac5-ebe84ae16cf9",
+    "user_id": "2374d0a3-45a1-4988-998c-ee70e9e3d46a",
+    "amount": 4311.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Briggschester",
+    "timestamp": "2026-05-22T21:49:50.066684"
+  },
+  {
+    "transaction_id": "9dc380da-7ac9-4892-8602-3c40044ee3d2",
+    "user_id": "2a003a8f-82ba-4041-8d80-121528528000",
+    "amount": 823.09,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Chad",
+    "timestamp": "2026-05-22T21:49:51.071641"
+  },
+  {
+    "transaction_id": "065826e7-c02c-418b-94ce-6408190b3ac0",
+    "user_id": "7f5fad48-e762-4afb-a041-b157d87f7517",
+    "amount": 3727.68,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Josephfort",
+    "timestamp": "2026-05-22T21:49:51.573407"
+  },
+  {
+    "transaction_id": "6d405f2f-b767-4fee-8488-512fcb8cd543",
+    "user_id": "0e96a4f4-9270-4c30-9c1a-c033aba73897",
+    "amount": 9834.8,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Josephbury",
+    "timestamp": "2026-05-22T21:49:52.576256"
+  },
+  {
+    "transaction_id": "ea53acfa-4cba-4cbc-b77d-80b6a8009948",
+    "user_id": "7b6400d8-08a0-47fb-bf32-ce4ddee8be24",
+    "amount": 8678.56,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Larrystad",
+    "timestamp": "2026-05-22T21:49:53.577699"
+  },
+  {
+    "transaction_id": "39283c1b-c70f-45d5-83a5-e09b93e57b54",
+    "user_id": "c1031003-61df-432a-bdeb-4a36730b4cdb",
+    "amount": 861.36,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Payneborough",
+    "timestamp": "2026-05-22T21:49:54.079022"
+  },
+  {
+    "transaction_id": "a1665524-ddfd-4fd9-96a8-761021919998",
+    "user_id": "de2f9b4f-0991-4d27-81cf-01a6b0d75bf0",
+    "amount": 710.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Greenshire",
+    "timestamp": "2026-05-22T21:49:54.580380"
+  },
+  {
+    "transaction_id": "e3687be5-922c-4ffc-b678-b21ea85ab366",
+    "user_id": "b26827b6-4a6c-4abc-b28a-93431ddb34d0",
+    "amount": 7221.4,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lisafurt",
+    "timestamp": "2026-05-22T21:49:55.082837"
+  }
+]

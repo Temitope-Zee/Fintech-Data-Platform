@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bbfc9f9c-c75a-4939-8b79-136441993693",
+    "user_id": "2e9304d5-c488-4565-81d3-4c1cb219090b",
+    "amount": 1219.43,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Charlesport",
+    "timestamp": "2026-05-22T22:01:33.915021"
+  },
+  {
+    "transaction_id": "8a771890-ade1-4ad0-a418-89c6df778b4e",
+    "user_id": "4c55172a-1629-4624-aae0-e59203a57fc7",
+    "amount": 5656.11,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Jerryburgh",
+    "timestamp": "2026-05-22T22:01:34.418381"
+  },
+  {
+    "transaction_id": "9dab8eb1-2d16-49c6-9c26-14672d0913ef",
+    "user_id": "e6fade4d-6a07-4c64-b3bb-e201572db512",
+    "amount": 6732.73,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Robert",
+    "timestamp": "2026-05-22T22:01:34.921165"
+  },
+  {
+    "transaction_id": "e542dd49-e62c-46e5-9424-66ecdb9ba934",
+    "user_id": "c055072e-d779-4e0d-9c1c-c85ae657c578",
+    "amount": 5222.56,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Elizabethton",
+    "timestamp": "2026-05-22T22:01:35.928289"
+  },
+  {
+    "transaction_id": "9164d9e8-955a-49a9-81e7-a14f23989272",
+    "user_id": "2010eb81-4fd7-494a-b425-e8cc2ee94efa",
+    "amount": 3156.59,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Barryfurt",
+    "timestamp": "2026-05-22T22:01:36.430466"
+  },
+  {
+    "transaction_id": "c9911033-ba87-4d17-91fc-1cea593b5061",
+    "user_id": "c7b9d8e1-0ca2-4894-9a43-5428070f8eae",
+    "amount": 510.57,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Patrick",
+    "timestamp": "2026-05-22T22:01:36.932795"
+  },
+  {
+    "transaction_id": "bb4a8bbb-f8d4-4caf-8f0c-b46c163c19a9",
+    "user_id": "8f77764e-358e-494f-931b-6e43ce274472",
+    "amount": 3768.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stevensbury",
+    "timestamp": "2026-05-22T22:01:37.434058"
+  },
+  {
+    "transaction_id": "dada3e42-0561-4202-9033-57eed45c6838",
+    "user_id": "eb507569-1e08-4b0e-972a-8ea1eb3e29c6",
+    "amount": 8412.65,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Kimberlyport",
+    "timestamp": "2026-05-22T22:01:38.438319"
+  },
+  {
+    "transaction_id": "61a56368-678e-4878-9365-b5a7031f4e82",
+    "user_id": "4a981230-2479-42ef-9621-89f1734c9ed2",
+    "amount": 9306.6,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lisaport",
+    "timestamp": "2026-05-22T22:01:39.441539"
+  },
+  {
+    "transaction_id": "6ade1443-0f89-4e12-9cf4-77f0bade053a",
+    "user_id": "02706fa3-26ec-4063-8c9d-247e6856aef2",
+    "amount": 4950.17,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Benjaminborough",
+    "timestamp": "2026-05-22T22:01:39.942875"
+  }
+]

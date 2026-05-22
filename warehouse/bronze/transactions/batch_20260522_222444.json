@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8a408954-44a3-4469-a634-af0b9b157f37",
+    "user_id": "01008636-3141-4fdb-bf98-73e85b9c68aa",
+    "amount": 5702.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Edwardchester",
+    "timestamp": "2026-05-22T22:24:38.563900"
+  },
+  {
+    "transaction_id": "9f8597c6-451f-4e9a-87ba-8d499705be6b",
+    "user_id": "7691b2ee-27bf-495e-840c-9d2a86eece7f",
+    "amount": 8694.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gibbsbury",
+    "timestamp": "2026-05-22T22:24:39.569212"
+  },
+  {
+    "transaction_id": "ac379a05-674e-48a9-a6a1-d93aa0d3044a",
+    "user_id": "d735ffaf-0d55-4a8b-b5f5-faa6628b45ab",
+    "amount": 6538.25,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Villanuevaburgh",
+    "timestamp": "2026-05-22T22:24:40.571999"
+  },
+  {
+    "transaction_id": "0fba4648-e4f4-48ef-b7f8-0771c1b77902",
+    "user_id": "dae37bbd-b329-4e03-b66c-d63c09fafdcb",
+    "amount": 191.11,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Guzmantown",
+    "timestamp": "2026-05-22T22:24:41.073647"
+  },
+  {
+    "transaction_id": "5c54cb16-378b-4ae6-a445-09dde088fa33",
+    "user_id": "3ba5205f-77e6-4985-be44-6efdecf2b6a2",
+    "amount": 8955.66,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Ericmouth",
+    "timestamp": "2026-05-22T22:24:41.575931"
+  },
+  {
+    "transaction_id": "da4d13a8-0b38-41ab-a3ef-2ee2e9318387",
+    "user_id": "1d335e01-17f3-4df8-a382-15ecf42cd81d",
+    "amount": 2584.65,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Stephanie",
+    "timestamp": "2026-05-22T22:24:42.077224"
+  },
+  {
+    "transaction_id": "9fd6c7c6-a410-4380-bfc6-98c08081969a",
+    "user_id": "29a7116a-ac4c-46d5-a250-969a289ed5a0",
+    "amount": 3235.89,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Allisonhaven",
+    "timestamp": "2026-05-22T22:24:42.580914"
+  },
+  {
+    "transaction_id": "f5074bdd-10d3-4f1f-9a8c-5b2bed063144",
+    "user_id": "c408fcc2-c42a-4e18-a37f-29d4cabd3196",
+    "amount": 1227.97,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Whitneyborough",
+    "timestamp": "2026-05-22T22:24:43.586422"
+  },
+  {
+    "transaction_id": "bf90adf7-d05c-4b38-8efd-eee220c7d553",
+    "user_id": "b40806c4-cd1c-4e1d-929f-7590032037fe",
+    "amount": 2470.15,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Tracyport",
+    "timestamp": "2026-05-22T22:24:44.088325"
+  },
+  {
+    "transaction_id": "6e6b12d3-0c71-44ef-92db-380d0c44b652",
+    "user_id": "467e6c6c-f011-4cf0-b9d3-33c6895608f6",
+    "amount": 8266.75,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mandyfort",
+    "timestamp": "2026-05-22T22:24:44.589497"
+  }
+]

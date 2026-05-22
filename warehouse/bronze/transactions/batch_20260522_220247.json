@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ea5f492a-55ae-4faf-8dbf-16a512cf1238",
+    "user_id": "bfb28b4a-ce78-4d32-b024-69b8abefa805",
+    "amount": 4281.15,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Kennethmouth",
+    "timestamp": "2026-05-22T22:02:42.712802"
+  },
+  {
+    "transaction_id": "481c9976-004a-4a78-9cdc-c09e4b2d6d61",
+    "user_id": "be2322cc-f057-448b-b3e0-e0d94d50251c",
+    "amount": 1475.39,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Scott",
+    "timestamp": "2026-05-22T22:02:43.716704"
+  },
+  {
+    "transaction_id": "e695df28-32c7-4f26-aa83-5500f7565c10",
+    "user_id": "a025e636-dc34-43dc-8060-0806732eecca",
+    "amount": 5576.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Danielmouth",
+    "timestamp": "2026-05-22T22:02:44.218193"
+  },
+  {
+    "transaction_id": "c1140527-eae8-495f-885f-87d476f6e4d9",
+    "user_id": "c0979969-2c76-4c68-9177-99fb6da98cfe",
+    "amount": 3938.01,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Kevintown",
+    "timestamp": "2026-05-22T22:02:44.719674"
+  },
+  {
+    "transaction_id": "de43f834-a4aa-4e1a-8c97-5db319675665",
+    "user_id": "2b409352-9e2c-4066-83e1-fb42e9e0b5f1",
+    "amount": 6839.77,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Lauraside",
+    "timestamp": "2026-05-22T22:02:45.224259"
+  },
+  {
+    "transaction_id": "9210e8a7-b11c-4330-a7e5-c30e607fde8c",
+    "user_id": "dfe1324a-7b92-49c2-968c-6110d824d359",
+    "amount": 569.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Claire",
+    "timestamp": "2026-05-22T22:02:45.726407"
+  },
+  {
+    "transaction_id": "34b42b6a-2b75-4a96-baeb-7d684d502ead",
+    "user_id": "c668fdb3-f1ea-437a-acfd-0201e2395cd5",
+    "amount": 2709.13,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Alecton",
+    "timestamp": "2026-05-22T22:02:46.227762"
+  },
+  {
+    "transaction_id": "995712cf-d676-482f-bfca-9f3b970e9cfc",
+    "user_id": "467faf39-dfc9-4b53-96ab-56ad59abcbf1",
+    "amount": 2235.86,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Oconnorfurt",
+    "timestamp": "2026-05-22T22:02:46.729706"
+  },
+  {
+    "transaction_id": "ad9cc94d-234b-43c8-b75c-b915472a0869",
+    "user_id": "cba28e21-356b-4e92-ac60-5834e50150b1",
+    "amount": 4800.28,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Steven",
+    "timestamp": "2026-05-22T22:02:47.231903"
+  },
+  {
+    "transaction_id": "bdd3898e-15d7-4132-b8be-e45754650e8f",
+    "user_id": "d106351a-f2b0-40f5-a49f-79083f45b522",
+    "amount": 6430.59,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Laurieborough",
+    "timestamp": "2026-05-22T22:02:47.733527"
+  }
+]

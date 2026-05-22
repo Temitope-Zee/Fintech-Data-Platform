@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "238c1964-548e-485a-ae86-1e2aa5bb67fa",
+    "user_id": "8fb15867-b96e-472c-a3b9-3f95c95c4ab5",
+    "amount": 8380.12,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Brandifurt",
+    "timestamp": "2026-05-22T22:21:47.337230"
+  },
+  {
+    "transaction_id": "6a220036-d8e0-47bb-8228-a2e7f526a89c",
+    "user_id": "a28c5a85-b6fb-4afa-a216-98a28ae99d45",
+    "amount": 8799.69,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Kristymouth",
+    "timestamp": "2026-05-22T22:21:48.340009"
+  },
+  {
+    "transaction_id": "dc45d159-d666-4b79-bd42-58a198d78256",
+    "user_id": "58be457c-e199-4cc4-a2ef-a95d5c1e0aa9",
+    "amount": 6866.07,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Brandon",
+    "timestamp": "2026-05-22T22:21:48.841836"
+  },
+  {
+    "transaction_id": "1ff63506-7a6b-4178-ae99-67993ae7e126",
+    "user_id": "c4bfdfcc-ace4-4e2d-9c99-6326c3970817",
+    "amount": 7762.93,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Rodriguezville",
+    "timestamp": "2026-05-22T22:21:49.846700"
+  },
+  {
+    "transaction_id": "da030265-a436-4cad-b434-bf0969f8d48c",
+    "user_id": "8756cc5a-ae9c-452c-ac78-1b012f9906a7",
+    "amount": 9520.23,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Amanda",
+    "timestamp": "2026-05-22T22:21:50.348223"
+  },
+  {
+    "transaction_id": "293e9eff-296f-433e-9f08-98965a8b4922",
+    "user_id": "452cecc9-30a1-4cb4-a216-8f4797fbecd4",
+    "amount": 4281.72,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Myersborough",
+    "timestamp": "2026-05-22T22:21:51.353469"
+  },
+  {
+    "transaction_id": "091a0a76-49a2-4228-ac51-71e88d1ac91b",
+    "user_id": "c81f07c5-ed72-4682-91f1-4efc6c60b1a4",
+    "amount": 2090.14,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jocelynborough",
+    "timestamp": "2026-05-22T22:21:51.854865"
+  },
+  {
+    "transaction_id": "a0e77e3b-603a-42df-b808-4bdbe2c1f483",
+    "user_id": "ff7ddeab-556a-47bb-b458-db881ab2ae23",
+    "amount": 3606.58,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Sarahhaven",
+    "timestamp": "2026-05-22T22:21:52.356468"
+  },
+  {
+    "transaction_id": "37d1a599-37a9-4ad1-9b1d-1d466f27d144",
+    "user_id": "cac4de85-d704-4cf7-8f10-534dff26366e",
+    "amount": 3371.84,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Joshua",
+    "timestamp": "2026-05-22T22:21:52.859345"
+  },
+  {
+    "transaction_id": "f59afbae-8dbe-4408-88ed-52f2121149f6",
+    "user_id": "917fc757-788e-4287-93a0-1a6ad1d517cb",
+    "amount": 1126.44,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Kristin",
+    "timestamp": "2026-05-22T22:21:53.360785"
+  }
+]

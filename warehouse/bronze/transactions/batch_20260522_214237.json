@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dc98d4d9-0318-4caa-9786-c28caacbd9c4",
+    "user_id": "7ba0ce31-1bf7-43e8-8935-2f6b64dd6b9a",
+    "amount": 739.88,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Johnton",
+    "timestamp": "2026-05-22T21:42:31.747155"
+  },
+  {
+    "transaction_id": "e2e56bc9-8081-4731-be73-d3e5257d873b",
+    "user_id": "78166e44-b065-4aa0-b911-93ae2eefb642",
+    "amount": 8778.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Andrewport",
+    "timestamp": "2026-05-22T21:42:32.248726"
+  },
+  {
+    "transaction_id": "052bd610-0bfd-4f55-9982-77f63c75fbae",
+    "user_id": "8ee0ba8b-e02e-4afd-aaa0-29b05cc9941a",
+    "amount": 1363.76,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Jonathanport",
+    "timestamp": "2026-05-22T21:42:32.751044"
+  },
+  {
+    "transaction_id": "16dae786-6290-457a-b56a-673b03c96c58",
+    "user_id": "60fc9c0b-ce88-470b-82fb-e5009e33da4a",
+    "amount": 8917.5,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Leeburgh",
+    "timestamp": "2026-05-22T21:42:33.253842"
+  },
+  {
+    "transaction_id": "00bce777-d623-4138-9541-2fe27f5a1abe",
+    "user_id": "68a9e82f-2222-418d-ab8c-203e923417bf",
+    "amount": 5403.21,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Marymouth",
+    "timestamp": "2026-05-22T21:42:33.755525"
+  },
+  {
+    "transaction_id": "5f018c27-2334-47a5-8ff1-1d0c7d832e99",
+    "user_id": "9979b5d5-0e9f-49c9-9c4f-2ee38de7cf45",
+    "amount": 5202.62,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Allen",
+    "timestamp": "2026-05-22T21:42:34.758477"
+  },
+  {
+    "transaction_id": "9e37d5eb-16d0-4c8c-b4b5-89a14748f141",
+    "user_id": "804c06fa-6dac-4277-ad4a-ddc9f06e321b",
+    "amount": 3350.96,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Benjaminborough",
+    "timestamp": "2026-05-22T21:42:35.259623"
+  },
+  {
+    "transaction_id": "72c0a891-d139-43b0-b80a-124f8fcaf966",
+    "user_id": "9ac51fee-fbef-4e8a-a804-273f1387a53d",
+    "amount": 3657.55,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Joseville",
+    "timestamp": "2026-05-22T21:42:36.263960"
+  },
+  {
+    "transaction_id": "d2b7050e-04b5-44ca-85a1-16b570c296ad",
+    "user_id": "1d59c6a1-705e-4e4a-9d5c-8507541f61ca",
+    "amount": 495.7,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Stacyport",
+    "timestamp": "2026-05-22T21:42:36.765857"
+  },
+  {
+    "transaction_id": "1e05c5ae-c3d7-4922-9f59-a54330deef1d",
+    "user_id": "5544dd10-f79a-408c-b0dc-b3e5f3f4b2a8",
+    "amount": 518.28,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Garciabury",
+    "timestamp": "2026-05-22T21:42:37.269426"
+  }
+]

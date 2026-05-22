@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "55507680-cc10-428b-b48e-cb58be3b6c0e",
+    "user_id": "f118dffe-8721-4a7c-b919-ee5110bf6ccb",
+    "amount": 592.76,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stephanieville",
+    "timestamp": "2026-05-22T22:13:52.395415"
+  },
+  {
+    "transaction_id": "a0a9c1bb-3051-47a1-896f-fc4e09a372ed",
+    "user_id": "0d305169-449c-4716-b77c-de15f4fc6dcd",
+    "amount": 2474.59,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Christopher",
+    "timestamp": "2026-05-22T22:13:52.897711"
+  },
+  {
+    "transaction_id": "8336baa4-4fb9-47fe-8e37-0179e277a9fc",
+    "user_id": "555c1049-ff16-4ffe-8e31-ff8766c94604",
+    "amount": 9124.53,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Nancyfurt",
+    "timestamp": "2026-05-22T22:13:53.399041"
+  },
+  {
+    "transaction_id": "6842cf02-611d-4525-b0a3-9ea633e0f1b6",
+    "user_id": "23806078-3243-45ad-83ea-bd6f34706a96",
+    "amount": 7296.12,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Michaelview",
+    "timestamp": "2026-05-22T22:13:53.900865"
+  },
+  {
+    "transaction_id": "daa11137-f6b8-486f-b666-4c323763be3d",
+    "user_id": "503ebf80-fa9d-4749-b7a4-2d87e52d325c",
+    "amount": 7196.96,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Russellside",
+    "timestamp": "2026-05-22T22:13:54.903909"
+  },
+  {
+    "transaction_id": "58212f00-5280-4d53-9800-1da8b45dded4",
+    "user_id": "452834b0-323f-448e-a5fd-b2b36b9f48c4",
+    "amount": 6823.77,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Scottburgh",
+    "timestamp": "2026-05-22T22:13:55.405557"
+  },
+  {
+    "transaction_id": "1cecc5ce-49c9-48b3-a4c5-ff9cda5e48d0",
+    "user_id": "b270f49e-3ab8-45d6-ac0b-a6b80c948c18",
+    "amount": 8842.12,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Allisonshire",
+    "timestamp": "2026-05-22T22:13:55.907000"
+  },
+  {
+    "transaction_id": "f63342f4-150a-4c30-8310-556e4549e922",
+    "user_id": "89c72fa3-a1ab-4a4a-b66e-1e8d54f91a16",
+    "amount": 5012.84,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Johnsonside",
+    "timestamp": "2026-05-22T22:13:56.910391"
+  },
+  {
+    "transaction_id": "939ab891-f677-4e1f-a953-a824a8421677",
+    "user_id": "bc37056d-f369-4acb-9d79-107361e99c00",
+    "amount": 9344.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South William",
+    "timestamp": "2026-05-22T22:13:57.412174"
+  },
+  {
+    "transaction_id": "a37f527b-23ec-4ea6-8acc-4e8a3e7d2dea",
+    "user_id": "6383c58f-1c74-435f-94c2-ac30673bc748",
+    "amount": 3629.4,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Chadside",
+    "timestamp": "2026-05-22T22:13:57.913541"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ff4d33e7-ae76-4039-b875-6d2440e56b26",
+    "user_id": "31cac086-d9c7-45dc-8b5c-bb81205d2bcc",
+    "amount": 3384.91,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Peter",
+    "timestamp": "2026-05-22T22:00:51.756478"
+  },
+  {
+    "transaction_id": "ca544ddb-9681-4998-b83f-f1461cc43cb5",
+    "user_id": "663fb019-5295-4f9c-a051-0be17f5febd6",
+    "amount": 1167.09,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lindamouth",
+    "timestamp": "2026-05-22T22:00:52.258078"
+  },
+  {
+    "transaction_id": "e6b767e5-1a20-40be-ab8a-2f10824ac255",
+    "user_id": "cf0ceb62-e45d-4bd9-9294-95998c91680f",
+    "amount": 6860.55,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Brianna",
+    "timestamp": "2026-05-22T22:00:52.761034"
+  },
+  {
+    "transaction_id": "80842f32-f0e8-4a26-a6d7-38623d3e5672",
+    "user_id": "7fc5e2c4-e14b-4bb5-9851-cb8678b3c543",
+    "amount": 4660.76,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Edward",
+    "timestamp": "2026-05-22T22:00:54.267207"
+  },
+  {
+    "transaction_id": "4395fb8f-3f57-4d1b-a0d4-9d8f00bebf56",
+    "user_id": "ca17dad8-7fa4-4a7a-a3c5-24481f5cc56b",
+    "amount": 3599.52,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Hernandeztown",
+    "timestamp": "2026-05-22T22:00:54.769316"
+  },
+  {
+    "transaction_id": "beef8079-e1c1-43ae-b845-1584b5baa472",
+    "user_id": "3d5e281d-d02b-446f-8f38-8480347c38ee",
+    "amount": 1342.47,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Penabury",
+    "timestamp": "2026-05-22T22:00:55.270879"
+  },
+  {
+    "transaction_id": "896ba60d-9782-411a-8892-62e5fd5e28bf",
+    "user_id": "d938f8a8-f9e9-4bc8-ae38-a337be4550ed",
+    "amount": 954.3,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Leslietown",
+    "timestamp": "2026-05-22T22:00:55.772574"
+  },
+  {
+    "transaction_id": "836373c7-c75c-4bf9-ba83-6bfeb3398491",
+    "user_id": "94ba97f6-fb59-4256-a26e-a34cd8fb2ba9",
+    "amount": 2847.47,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Paulhaven",
+    "timestamp": "2026-05-22T22:00:56.275382"
+  },
+  {
+    "transaction_id": "b8d58089-1c6d-4473-aaca-4a3978336a7d",
+    "user_id": "29870921-5b06-4f85-8aea-471bab4619fb",
+    "amount": 1616.61,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Hallview",
+    "timestamp": "2026-05-22T22:00:57.278141"
+  },
+  {
+    "transaction_id": "716f23d1-62bf-46d4-b130-da80349fdab5",
+    "user_id": "c8336953-9187-4083-969b-c5f64e78d86e",
+    "amount": 682.04,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Debbie",
+    "timestamp": "2026-05-22T22:00:57.779664"
+  }
+]

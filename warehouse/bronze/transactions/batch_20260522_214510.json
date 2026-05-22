@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "940f15f8-f09f-48a1-9912-e906ffa51601",
+    "user_id": "53b6a6b2-8255-4836-b559-0f21309c542f",
+    "amount": 3471.52,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Kevinmouth",
+    "timestamp": "2026-05-22T21:45:05.413915"
+  },
+  {
+    "transaction_id": "bc72edd6-090a-40d3-ad47-90a3780820e7",
+    "user_id": "aa615219-e892-445b-82a6-f0d5bd523d3b",
+    "amount": 5573.85,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Adrian",
+    "timestamp": "2026-05-22T21:45:05.915432"
+  },
+  {
+    "transaction_id": "77278d83-10d4-4d78-b637-e0474c1f4e47",
+    "user_id": "d67a727e-6979-403d-bdfd-594e421939cd",
+    "amount": 4356.73,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Colleen",
+    "timestamp": "2026-05-22T21:45:06.418580"
+  },
+  {
+    "transaction_id": "a956be2f-1255-41ed-aeb5-4358a3df8191",
+    "user_id": "c94a6202-5903-4d6f-a11c-f1b215098214",
+    "amount": 8720.59,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Joyceport",
+    "timestamp": "2026-05-22T21:45:07.423216"
+  },
+  {
+    "transaction_id": "afb1fbe6-c1aa-4527-b643-a68b09bb2efd",
+    "user_id": "91b2c676-0ca9-4b05-ba3a-8d1521f416c1",
+    "amount": 2943.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Blake",
+    "timestamp": "2026-05-22T21:45:07.925326"
+  },
+  {
+    "transaction_id": "a6513933-068f-401e-b557-3fded1e88235",
+    "user_id": "f86e899b-1d28-4c49-9943-befb69aa648d",
+    "amount": 4902.5,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Rhonda",
+    "timestamp": "2026-05-22T21:45:08.426885"
+  },
+  {
+    "transaction_id": "a97bbe70-cb16-48a3-8859-0cec9aa67277",
+    "user_id": "65c5eaa8-fcdf-43a6-a674-6afa217dfc63",
+    "amount": 8010.78,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Davidport",
+    "timestamp": "2026-05-22T21:45:08.928468"
+  },
+  {
+    "transaction_id": "4ef9e68b-e3e1-4f11-80b6-2e83e3ce5c3a",
+    "user_id": "1448a6ba-9d7f-427e-8671-8158f36a2447",
+    "amount": 8870.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Sarahville",
+    "timestamp": "2026-05-22T21:45:09.431403"
+  },
+  {
+    "transaction_id": "da1e1e3c-8b04-4921-b081-9ef93b44a4c2",
+    "user_id": "1eb449c2-4579-4d3e-ae27-93ef88938da0",
+    "amount": 5578.53,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Thomas",
+    "timestamp": "2026-05-22T21:45:09.932710"
+  },
+  {
+    "transaction_id": "eaf550aa-42bc-4bcb-b352-01a7798567c3",
+    "user_id": "e701f39f-917e-4062-9f7a-710c2f2da505",
+    "amount": 661.74,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Martinstad",
+    "timestamp": "2026-05-22T21:45:10.434151"
+  }
+]

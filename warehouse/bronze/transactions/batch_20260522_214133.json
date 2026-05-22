@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9f195ec4-21f0-4a85-a3b4-8b4fce22d8d5",
+    "user_id": "fa381c1e-191f-4ba8-a48c-d4ffaa6b4111",
+    "amount": 3430.18,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South John",
+    "timestamp": "2026-05-22T21:41:29.000435"
+  },
+  {
+    "transaction_id": "73b4fd85-4bf8-47d2-a552-a4de87120cad",
+    "user_id": "b359c4ef-f7df-4bbf-88ec-5723c51924a2",
+    "amount": 5737.9,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Nathanton",
+    "timestamp": "2026-05-22T21:41:29.502751"
+  },
+  {
+    "transaction_id": "328d1158-7df0-4f89-b93f-3506b21f007b",
+    "user_id": "6f9dc081-683e-41d5-9e9f-fdb5ce2be766",
+    "amount": 2887.34,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Christopherborough",
+    "timestamp": "2026-05-22T21:41:30.005550"
+  },
+  {
+    "transaction_id": "5bb499cb-ec20-42c6-bc20-da8cd180c433",
+    "user_id": "a82d903d-d7c4-44ff-9782-5deead856163",
+    "amount": 9529.95,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Chad",
+    "timestamp": "2026-05-22T21:41:30.511015"
+  },
+  {
+    "transaction_id": "a2f24d3b-b671-4977-82af-4b5ba8a79775",
+    "user_id": "39595b27-b593-4228-a2f2-206799509cb5",
+    "amount": 4121.17,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Peterchester",
+    "timestamp": "2026-05-22T21:41:31.012881"
+  },
+  {
+    "transaction_id": "c1675d0b-479e-407d-be9c-2a4c8851e1d2",
+    "user_id": "ab57144d-6dfe-423f-a04b-7ec201528ec4",
+    "amount": 9655.35,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Julie",
+    "timestamp": "2026-05-22T21:41:31.516802"
+  },
+  {
+    "transaction_id": "e81333c9-1cdb-401a-b429-499a9c60c911",
+    "user_id": "51fd6478-1955-482c-8040-72bacae59850",
+    "amount": 273.61,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Stephaniebury",
+    "timestamp": "2026-05-22T21:41:32.018662"
+  },
+  {
+    "transaction_id": "8271819c-02ac-4f46-a478-d0712b02bdca",
+    "user_id": "b1f50b77-2d5e-4daf-aeb7-175c8b8910fe",
+    "amount": 474.94,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Thomashaven",
+    "timestamp": "2026-05-22T21:41:32.520261"
+  },
+  {
+    "transaction_id": "1d1f5445-afc9-441b-b1f2-0c346f1506e1",
+    "user_id": "8bdaeccc-27c7-44bf-9329-6b3999d786a7",
+    "amount": 4938.57,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jonesburgh",
+    "timestamp": "2026-05-22T21:41:33.022824"
+  },
+  {
+    "transaction_id": "e4b7ec54-da6c-4cac-ae3d-39a23efdcf19",
+    "user_id": "e0b92aed-2e9f-4086-93c1-d1e171dd6fdf",
+    "amount": 2239.58,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Moniqueview",
+    "timestamp": "2026-05-22T21:41:33.525672"
+  }
+]

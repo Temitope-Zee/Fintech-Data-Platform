@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3e0dd49b-5427-42ae-8478-50ee333c2340",
+    "user_id": "9166d810-9354-484a-aeff-033ec4b37225",
+    "amount": 7011.71,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Christopherstad",
+    "timestamp": "2026-05-22T22:04:49.254296"
+  },
+  {
+    "transaction_id": "1a34935b-d337-416c-9117-aa871364be56",
+    "user_id": "ecd73a24-b8b7-43e7-a36b-4a5852aab9de",
+    "amount": 5156.82,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Carolton",
+    "timestamp": "2026-05-22T22:04:49.755804"
+  },
+  {
+    "transaction_id": "34639c6b-3f9e-4de7-9aab-6daa407f4c72",
+    "user_id": "aebb0b96-ccb2-41c6-9a2a-10fd25fd59e6",
+    "amount": 1728.65,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Jacobbury",
+    "timestamp": "2026-05-22T22:04:50.759564"
+  },
+  {
+    "transaction_id": "5de7d27c-c9ee-46cf-b381-d56bf75552f4",
+    "user_id": "2d314690-b984-4723-8e9a-d924d4d80544",
+    "amount": 1030.48,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Gonzalezfurt",
+    "timestamp": "2026-05-22T22:04:51.261622"
+  },
+  {
+    "transaction_id": "8981d369-c9e2-4646-b591-ac0cb41f2840",
+    "user_id": "1be7af27-a1be-4cdc-817e-04f7ff3410a0",
+    "amount": 8086.0,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Fritzshire",
+    "timestamp": "2026-05-22T22:04:51.765053"
+  },
+  {
+    "transaction_id": "3072f42a-c239-4ade-818f-fec83036c1f5",
+    "user_id": "bf8b719e-d6b5-4711-b54c-dd6dd643c68d",
+    "amount": 9380.01,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Scottshire",
+    "timestamp": "2026-05-22T22:04:52.267818"
+  },
+  {
+    "transaction_id": "86fa023f-9694-4fd9-bfc1-18f69c9539b8",
+    "user_id": "c7c09c81-716b-41ed-9a28-7b2ffde27cfc",
+    "amount": 2754.99,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Lisaborough",
+    "timestamp": "2026-05-22T22:04:52.769426"
+  },
+  {
+    "transaction_id": "f1d6147c-9706-4bed-9c9a-c9d9b58f3ba5",
+    "user_id": "908aed14-6ea6-42c6-9f9b-cb35b4d0695e",
+    "amount": 4453.31,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Singletonfort",
+    "timestamp": "2026-05-22T22:04:53.270678"
+  },
+  {
+    "transaction_id": "0f3dda7d-7b2b-4ed5-88ce-3055d6dcb736",
+    "user_id": "66b672fc-64d7-4b29-b1ee-eb107249e16b",
+    "amount": 9446.56,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Elizabethchester",
+    "timestamp": "2026-05-22T22:04:53.772709"
+  },
+  {
+    "transaction_id": "b048fa35-03a1-490b-8c16-14fdf51ec06d",
+    "user_id": "01f01b25-1ef2-4f88-8bd5-d8b9347813b7",
+    "amount": 3780.22,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Randymouth",
+    "timestamp": "2026-05-22T22:04:54.274611"
+  }
+]

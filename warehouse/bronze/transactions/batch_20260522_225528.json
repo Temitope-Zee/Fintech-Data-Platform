@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "51a75f65-5bce-41c2-bdbd-c8ffb935eecb",
+    "user_id": "1653e44d-baed-40cd-9749-246e26242bb1",
+    "amount": 8029.26,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Shannontown",
+    "timestamp": "2026-05-22T22:55:22.729356"
+  },
+  {
+    "transaction_id": "0104b1e2-db02-4e39-93bf-88e8788a604f",
+    "user_id": "fe6a07d9-626e-4ece-b0cd-a1703bcde6c3",
+    "amount": 6179.69,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Chrisborough",
+    "timestamp": "2026-05-22T22:55:23.230874"
+  },
+  {
+    "transaction_id": "bd801957-9ac5-487d-8781-78fa7017be89",
+    "user_id": "e1631ea0-3875-45ee-a2eb-fe2579eaf421",
+    "amount": 1056.39,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Melissatown",
+    "timestamp": "2026-05-22T22:55:23.732287"
+  },
+  {
+    "transaction_id": "a90d4a6f-4f66-450d-bde3-f4ce22b983b5",
+    "user_id": "f1b1c8d5-59d3-49a7-8cb9-e07443552d72",
+    "amount": 9725.09,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Davidport",
+    "timestamp": "2026-05-22T22:55:24.233786"
+  },
+  {
+    "transaction_id": "b44a4e0b-223b-4aab-b0af-f7f416f0b0c9",
+    "user_id": "6e0dfc86-ac91-43b4-b72a-4864d8b42d24",
+    "amount": 5524.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Michael",
+    "timestamp": "2026-05-22T22:55:24.735713"
+  },
+  {
+    "transaction_id": "8d34b395-62e2-470d-a565-9699b3e7051d",
+    "user_id": "c01aaf23-50b3-4923-8469-661a8fbad9bf",
+    "amount": 4764.54,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Martinborough",
+    "timestamp": "2026-05-22T22:55:25.237763"
+  },
+  {
+    "transaction_id": "f2d321ff-f5a6-4186-81c6-85f2cfade667",
+    "user_id": "be7589fd-7d5e-483f-b1da-fdb1b3454508",
+    "amount": 5387.3,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Cameronberg",
+    "timestamp": "2026-05-22T22:55:26.246412"
+  },
+  {
+    "transaction_id": "f461d0b2-e6ab-4eda-84ee-ad23babf73c9",
+    "user_id": "81ab6f17-42fc-48ae-9688-ed0a5356e1e4",
+    "amount": 3096.58,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Charlesmouth",
+    "timestamp": "2026-05-22T22:55:26.749108"
+  },
+  {
+    "transaction_id": "df8c8e59-7452-40fb-bcab-be6dbbfc6518",
+    "user_id": "df5d812e-654f-4ba4-a412-08a3b30c61be",
+    "amount": 6490.43,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Chapmanfort",
+    "timestamp": "2026-05-22T22:55:27.247644"
+  },
+  {
+    "transaction_id": "40599f88-fd08-4f31-afec-ca954dcc160c",
+    "user_id": "75737a90-759b-45e0-9839-e41f281ceec7",
+    "amount": 8323.71,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Youngbury",
+    "timestamp": "2026-05-22T22:55:28.252848"
+  }
+]

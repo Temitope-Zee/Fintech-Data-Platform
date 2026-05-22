@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "12de1274-b089-4255-b127-b5b8c0ba5597",
+    "user_id": "e2bb9fed-7855-44da-a9be-157364917285",
+    "amount": 952.54,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Christopherside",
+    "timestamp": "2026-05-22T22:09:28.872480"
+  },
+  {
+    "transaction_id": "35628fa8-f37d-4a2d-a345-4a5a17e47b0a",
+    "user_id": "391b8fae-42fc-4bdf-aa4f-d5bc3d4d015d",
+    "amount": 6725.54,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Alexstad",
+    "timestamp": "2026-05-22T22:09:29.375406"
+  },
+  {
+    "transaction_id": "50319a33-8b1c-4efa-8733-eee2c011f2b5",
+    "user_id": "d6d91bd6-7c03-44e2-b5fe-47b37dbeb531",
+    "amount": 7889.22,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North George",
+    "timestamp": "2026-05-22T22:09:30.380248"
+  },
+  {
+    "transaction_id": "dbd8280f-cdea-4714-94e0-55a28e549d3f",
+    "user_id": "ff041431-f9b5-4075-9740-0dd07b7bf571",
+    "amount": 5176.84,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Sandrabury",
+    "timestamp": "2026-05-22T22:09:30.881639"
+  },
+  {
+    "transaction_id": "7e921060-8a5e-4153-8de3-a595f0dd82fa",
+    "user_id": "4310688f-1c50-4e0e-839f-0a4ca88fd920",
+    "amount": 2862.84,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Gregorychester",
+    "timestamp": "2026-05-22T22:09:31.383200"
+  },
+  {
+    "transaction_id": "d75bee8f-aaa1-489b-8773-30a580518db8",
+    "user_id": "f5534a71-ffca-431f-862e-be5f4137a523",
+    "amount": 9843.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stephanieside",
+    "timestamp": "2026-05-22T22:09:31.884859"
+  },
+  {
+    "transaction_id": "c883e825-fcc6-4b1b-a04b-08374dc9369c",
+    "user_id": "0d9673f3-1cd2-4133-926a-d70584ebeef6",
+    "amount": 7447.5,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Shawnchester",
+    "timestamp": "2026-05-22T22:09:32.386416"
+  },
+  {
+    "transaction_id": "e123691a-eb55-4ff6-8523-0cdffc738d01",
+    "user_id": "36b3656f-77e8-4b3e-9644-048f923eae22",
+    "amount": 5796.97,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Jacobchester",
+    "timestamp": "2026-05-22T22:09:32.888901"
+  },
+  {
+    "transaction_id": "22057ca3-b73c-4a7a-b482-fa14447ea963",
+    "user_id": "7217f65d-2711-4cb5-ac39-7f59bc4fa735",
+    "amount": 4835.19,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Rileyfurt",
+    "timestamp": "2026-05-22T22:09:33.390661"
+  },
+  {
+    "transaction_id": "208e7381-505a-486d-a3d9-4a7702a9dd8e",
+    "user_id": "9b874eed-0e55-4c1a-a6c3-feebd855cdca",
+    "amount": 3099.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Annatown",
+    "timestamp": "2026-05-22T22:09:34.393949"
+  }
+]

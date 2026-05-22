@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d15a5c7d-ac73-4a77-b57e-60a3a3a062a8",
+    "user_id": "3820260c-82bc-4975-b19c-6c6a3b4f85b4",
+    "amount": 4634.06,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Richardfurt",
+    "timestamp": "2026-05-22T22:41:33.851817"
+  },
+  {
+    "transaction_id": "51c57c7e-6422-4e16-a2ed-b4233ffa5fd6",
+    "user_id": "a65ac9c7-5096-4b02-a062-386826687fef",
+    "amount": 3754.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Kellymouth",
+    "timestamp": "2026-05-22T22:41:34.353525"
+  },
+  {
+    "transaction_id": "a50a89b3-a001-482e-bd1a-86b27d73772a",
+    "user_id": "2e477712-8f1e-47b9-a53c-8ea06469c7a5",
+    "amount": 6014.41,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Crystalshire",
+    "timestamp": "2026-05-22T22:41:34.858046"
+  },
+  {
+    "transaction_id": "8cd14778-3fbc-40bd-9e05-3224f86354bd",
+    "user_id": "a89b25df-6dc0-4ef1-bf36-2e6cf538b361",
+    "amount": 3123.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Kaylaborough",
+    "timestamp": "2026-05-22T22:41:35.361780"
+  },
+  {
+    "transaction_id": "b6f29f83-bcc5-4be5-8bf2-3a8bbcd3bfe2",
+    "user_id": "4556f4e3-dbbd-4475-80c9-a2ec4cd61388",
+    "amount": 8678.6,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Mark",
+    "timestamp": "2026-05-22T22:41:35.866662"
+  },
+  {
+    "transaction_id": "6be9b04e-2e14-40da-a51a-3d5974db5cd7",
+    "user_id": "d6486b82-0324-4e97-9f15-2120945eaa26",
+    "amount": 3756.76,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Williamview",
+    "timestamp": "2026-05-22T22:41:36.368290"
+  },
+  {
+    "transaction_id": "98c1bf13-7c45-4579-b4b4-385f352952b7",
+    "user_id": "f654c963-aff7-4d0e-9a26-ba80ef17cae9",
+    "amount": 607.55,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Williamschester",
+    "timestamp": "2026-05-22T22:41:36.869790"
+  },
+  {
+    "transaction_id": "dee0e21c-f5a2-4bac-9d87-5845c5e843b2",
+    "user_id": "66af29ad-06aa-4607-abe0-5e6180313e9c",
+    "amount": 4126.05,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kennedyland",
+    "timestamp": "2026-05-22T22:41:37.373079"
+  },
+  {
+    "transaction_id": "e05b392a-28ba-47a4-927b-e6189dac0991",
+    "user_id": "28cb9bf0-18d2-4018-bdba-369e2f8ea2d9",
+    "amount": 5507.78,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Markhaven",
+    "timestamp": "2026-05-22T22:41:37.875455"
+  },
+  {
+    "transaction_id": "1c85a385-25ff-498e-a283-4edb77e9380d",
+    "user_id": "92092904-c1e7-4f13-b6f8-6b40a1cd7451",
+    "amount": 3537.02,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Jennaside",
+    "timestamp": "2026-05-22T22:41:38.377195"
+  }
+]

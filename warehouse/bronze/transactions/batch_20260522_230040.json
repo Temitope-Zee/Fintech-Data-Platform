@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4cd93d47-feda-469f-9c91-fd3d31d5063a",
+    "user_id": "058f6fcd-984b-42ec-9b18-1004a08ae5ee",
+    "amount": 2474.03,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Vargastown",
+    "timestamp": "2026-05-22T23:00:35.916144"
+  },
+  {
+    "transaction_id": "51c45678-6507-44c9-bc76-b9d0ead7428b",
+    "user_id": "552d593f-01af-4f96-97d5-c1e8cd55dd1a",
+    "amount": 8935.86,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Angelabury",
+    "timestamp": "2026-05-22T23:00:36.417697"
+  },
+  {
+    "transaction_id": "edcdc9ec-de40-48e0-bebc-4de798d2831d",
+    "user_id": "6c4a765b-23ae-4968-a88e-4801008ea575",
+    "amount": 1585.17,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Larry",
+    "timestamp": "2026-05-22T23:00:36.920534"
+  },
+  {
+    "transaction_id": "23650796-2bb8-4591-8ed3-f884d7b33d1c",
+    "user_id": "50c5b8ea-f060-461e-b53f-e0dd1c192ae1",
+    "amount": 9537.63,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Andrewberg",
+    "timestamp": "2026-05-22T23:00:37.421799"
+  },
+  {
+    "transaction_id": "ea5b06ba-d828-4dab-96fe-c327a05d4aa8",
+    "user_id": "718f5942-acf2-40fb-8734-0199a5c93d01",
+    "amount": 5912.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Richard",
+    "timestamp": "2026-05-22T23:00:37.924786"
+  },
+  {
+    "transaction_id": "a22fb383-efdd-4a7b-9360-c7a7fd2afc04",
+    "user_id": "bbd63786-bb9e-4ac4-97d0-dddd750d4322",
+    "amount": 3372.45,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Jeffery",
+    "timestamp": "2026-05-22T23:00:38.426140"
+  },
+  {
+    "transaction_id": "e5d8e5c6-da62-4fe3-88d9-09087eaf4c0b",
+    "user_id": "e6a7037e-342d-4822-ab92-b18389870316",
+    "amount": 9529.85,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Apriltown",
+    "timestamp": "2026-05-22T23:00:38.927368"
+  },
+  {
+    "transaction_id": "56eaaaa1-37b4-47ec-969c-36b839015539",
+    "user_id": "bac14f51-a8dd-42da-98d5-a1510d6a88b8",
+    "amount": 7697.78,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Williamsport",
+    "timestamp": "2026-05-22T23:00:39.932745"
+  },
+  {
+    "transaction_id": "c879ee55-0ea6-4aa0-8b2a-ab2e50b6ef08",
+    "user_id": "580896b3-5513-459f-b5fa-540d48e6c3d3",
+    "amount": 4548.51,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Susan",
+    "timestamp": "2026-05-22T23:00:40.434162"
+  },
+  {
+    "transaction_id": "c4c50a84-28e2-4d50-a70d-19c77000b974",
+    "user_id": "e69e4c98-87ae-4b2b-9e21-b9e216e637d6",
+    "amount": 4036.9,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Brandi",
+    "timestamp": "2026-05-22T23:00:40.935749"
+  }
+]

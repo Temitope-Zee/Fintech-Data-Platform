@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b668c875-844e-4243-a4f5-9cbad7b84b04",
+    "user_id": "7071be27-5a0a-43e3-ae94-449a726f7b90",
+    "amount": 4720.59,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Austinmouth",
+    "timestamp": "2026-05-22T22:43:56.401018"
+  },
+  {
+    "transaction_id": "6ed7a54e-98e5-40ff-ab82-9bd65daedf90",
+    "user_id": "0e6e1179-ae84-44fa-ae35-16b3706ed440",
+    "amount": 6306.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Sara",
+    "timestamp": "2026-05-22T22:43:56.902620"
+  },
+  {
+    "transaction_id": "d1cba7ff-a41c-4df5-8fb1-2447e3814623",
+    "user_id": "de4c87ea-99bc-490e-ab38-59e4768c9c8f",
+    "amount": 2260.9,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Donnamouth",
+    "timestamp": "2026-05-22T22:43:57.401532"
+  },
+  {
+    "transaction_id": "58ce007d-3f86-4869-919e-08e5c4b5949e",
+    "user_id": "a8b3949c-1f1d-4d94-8faa-377a2afae051",
+    "amount": 5234.72,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Tammyshire",
+    "timestamp": "2026-05-22T22:43:57.903386"
+  },
+  {
+    "transaction_id": "92baca27-7876-44e3-815c-8de1213e6994",
+    "user_id": "3c4582e5-0164-45d9-aee7-a58d3412d714",
+    "amount": 7448.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Jacob",
+    "timestamp": "2026-05-22T22:43:58.404718"
+  },
+  {
+    "transaction_id": "265c62b1-5488-40c5-b05e-93fede411ed8",
+    "user_id": "88fbb64b-6f60-4c6d-b017-b5c73e141c6b",
+    "amount": 4867.96,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Stacy",
+    "timestamp": "2026-05-22T22:43:58.906620"
+  },
+  {
+    "transaction_id": "c307be79-2f6e-4410-884d-ae338eaefeb3",
+    "user_id": "9ce1900b-d993-40b6-b4df-61b08b2df90a",
+    "amount": 9868.35,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Thomasside",
+    "timestamp": "2026-05-22T22:43:59.408735"
+  },
+  {
+    "transaction_id": "d70f3151-f5f9-40a6-8ce0-ad90328e60f4",
+    "user_id": "33f38843-b44f-4805-90a4-e91ed044bc7a",
+    "amount": 5238.29,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Kristintown",
+    "timestamp": "2026-05-22T22:43:59.912133"
+  },
+  {
+    "transaction_id": "addce46e-5e7a-43ea-9560-9208b07b0a19",
+    "user_id": "80e5a25b-610a-4bb0-a48e-6a25749cf9ef",
+    "amount": 3412.28,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Brandon",
+    "timestamp": "2026-05-22T22:44:00.413811"
+  },
+  {
+    "transaction_id": "81e04893-5e28-4b44-b993-577119b95092",
+    "user_id": "46b6f1ac-3971-4b7f-886b-baa64c586715",
+    "amount": 3051.18,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Linda",
+    "timestamp": "2026-05-22T22:44:00.916479"
+  }
+]

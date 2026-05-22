@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "21e3609b-3ffc-4906-8e43-28f32493bc55",
+    "user_id": "7ecc9ddc-96c6-4942-8c4b-4266d005aa99",
+    "amount": 8141.47,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Andrew",
+    "timestamp": "2026-05-22T22:54:03.938132"
+  },
+  {
+    "transaction_id": "01161e1b-a982-423c-9546-d6b68754a234",
+    "user_id": "fd00c078-1528-4302-a61d-4459920a4c5e",
+    "amount": 9721.4,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Stephenfort",
+    "timestamp": "2026-05-22T22:54:04.440979"
+  },
+  {
+    "transaction_id": "5ec9885b-80c4-4646-86e0-0deeb3bd99dd",
+    "user_id": "1b1b57cd-b7b1-4813-b3fe-95f44e035f40",
+    "amount": 8041.24,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Angela",
+    "timestamp": "2026-05-22T22:54:04.942453"
+  },
+  {
+    "transaction_id": "9a2bd71e-e87f-4d8c-b6d5-586ededb7a99",
+    "user_id": "adc5e2e7-f581-4147-95e9-048cb8223cb8",
+    "amount": 9054.99,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Richard",
+    "timestamp": "2026-05-22T22:54:05.444864"
+  },
+  {
+    "transaction_id": "d1100a80-aea1-40f7-8c07-b36f58615935",
+    "user_id": "ccc9ef06-b7cd-4cd3-9550-3d4cf577b528",
+    "amount": 7043.45,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Jessicastad",
+    "timestamp": "2026-05-22T22:54:05.946121"
+  },
+  {
+    "transaction_id": "d9d0e77b-040f-48cd-8f5a-420a48327b64",
+    "user_id": "185fe4a7-2a1a-4faa-86bf-5d65a8d857e2",
+    "amount": 1065.94,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Marybury",
+    "timestamp": "2026-05-22T22:54:06.447894"
+  },
+  {
+    "transaction_id": "b5c5f7f7-f86b-4180-a03a-bf3f0ebe8615",
+    "user_id": "97247e54-6851-49ac-ac38-6f3d8ceff5b1",
+    "amount": 9308.16,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Vanessaport",
+    "timestamp": "2026-05-22T22:54:06.949242"
+  },
+  {
+    "transaction_id": "3f761ba4-fa7d-492b-a5a5-14ac1a235b91",
+    "user_id": "5943981c-00b1-4fec-a817-f658812fcabf",
+    "amount": 7417.52,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Devinville",
+    "timestamp": "2026-05-22T22:54:07.453030"
+  },
+  {
+    "transaction_id": "4c146e6f-3b29-43d4-859b-1e273585d4cb",
+    "user_id": "64e4052a-14b8-4fbd-9ef6-9203d1121fea",
+    "amount": 1364.64,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Jessicashire",
+    "timestamp": "2026-05-22T22:54:07.954274"
+  },
+  {
+    "transaction_id": "763efd7d-728a-4714-b947-6d943fc59347",
+    "user_id": "1e6a6daa-364f-45ba-8252-c69fb06b1544",
+    "amount": 4431.5,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Burchchester",
+    "timestamp": "2026-05-22T22:54:08.455473"
+  }
+]

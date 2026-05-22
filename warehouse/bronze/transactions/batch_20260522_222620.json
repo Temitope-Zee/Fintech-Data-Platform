@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "054c418b-5cc9-4346-ba42-877d5bcadf7c",
+    "user_id": "9b0b91d0-db31-4643-9718-e39844710867",
+    "amount": 89.93,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Laurastad",
+    "timestamp": "2026-05-22T22:26:15.914469"
+  },
+  {
+    "transaction_id": "9963f2a5-3601-46e4-8cac-c1e1560af0ff",
+    "user_id": "e259d494-ba4a-4823-97c1-84b037e40d63",
+    "amount": 9616.89,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Waltonport",
+    "timestamp": "2026-05-22T22:26:16.415765"
+  },
+  {
+    "transaction_id": "a94b59c1-a1a6-440b-903a-3c603b409fb2",
+    "user_id": "ecd0b186-c343-40c0-8f1b-9f2648e94eb9",
+    "amount": 4774.22,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Brooke",
+    "timestamp": "2026-05-22T22:26:16.917063"
+  },
+  {
+    "transaction_id": "da217c17-4069-4428-8aeb-74386beeb9ae",
+    "user_id": "1b7b444f-f4c9-4b9f-ace1-86177bb0e5df",
+    "amount": 5775.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Jaredchester",
+    "timestamp": "2026-05-22T22:26:17.921475"
+  },
+  {
+    "transaction_id": "909ba941-23b9-4354-83b0-fb948a9291d4",
+    "user_id": "0bd9f972-cd87-409e-a85a-efea3cd867cb",
+    "amount": 5649.29,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Joanview",
+    "timestamp": "2026-05-22T22:26:18.424840"
+  },
+  {
+    "transaction_id": "fccf48d1-7b43-45bf-b501-7532cf7bcb8f",
+    "user_id": "ea34a0b3-55c4-4791-8b4c-d7aac0df5c35",
+    "amount": 1.27,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Lisa",
+    "timestamp": "2026-05-22T22:26:18.926783"
+  },
+  {
+    "transaction_id": "4bf086ff-6a79-4ab6-9ccc-48d7fea3f831",
+    "user_id": "e5b1e8b5-5199-4aa9-8e14-fb1df6a113aa",
+    "amount": 9244.54,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Debra",
+    "timestamp": "2026-05-22T22:26:19.428171"
+  },
+  {
+    "transaction_id": "5835d111-1e4f-4581-b4fc-292618111e5f",
+    "user_id": "0335ff12-2ba0-4442-a4f4-17f6b94a8799",
+    "amount": 6547.53,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Johnsonchester",
+    "timestamp": "2026-05-22T22:26:19.931815"
+  },
+  {
+    "transaction_id": "ac8e95a5-c6ff-42f1-bc7e-5bda9f4e59dc",
+    "user_id": "804b44f3-0587-4b64-957a-5d244a713782",
+    "amount": 1617.21,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Aprilstad",
+    "timestamp": "2026-05-22T22:26:20.434997"
+  },
+  {
+    "transaction_id": "25ef6701-96fa-4f32-a73f-946a378838a8",
+    "user_id": "cc798955-9bca-4411-a869-99dec86491b6",
+    "amount": 139.09,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Carla",
+    "timestamp": "2026-05-22T22:26:20.936653"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0293c7c5-25ba-4249-a398-fbd6acab721f",
+    "user_id": "344380b0-a65d-4a00-b645-6fdd93a9320e",
+    "amount": 8722.64,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Joelmouth",
+    "timestamp": "2026-05-22T22:59:21.639267"
+  },
+  {
+    "transaction_id": "80d4e32a-13de-4d51-a612-d5fda05a59d1",
+    "user_id": "ef395835-011d-4f92-8207-a95c5753983f",
+    "amount": 2008.14,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Barnestown",
+    "timestamp": "2026-05-22T22:59:22.140849"
+  },
+  {
+    "transaction_id": "f3c14bfd-570c-4e3e-a1e8-6121e03e4645",
+    "user_id": "daaaf31d-b990-4d13-b71d-2337c96a241c",
+    "amount": 2002.45,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Webershire",
+    "timestamp": "2026-05-22T22:59:22.643544"
+  },
+  {
+    "transaction_id": "84775dda-ec9d-4e10-b32b-884c6cca109e",
+    "user_id": "c1a3db4a-c47c-453a-82ed-080de4d28d5b",
+    "amount": 8422.71,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Dannystad",
+    "timestamp": "2026-05-22T22:59:23.145627"
+  },
+  {
+    "transaction_id": "8ae80975-7de1-4744-b5e3-c895dc430a5b",
+    "user_id": "18772d6a-f063-4050-bc49-be3b0218995b",
+    "amount": 165.65,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Payneland",
+    "timestamp": "2026-05-22T22:59:23.647550"
+  },
+  {
+    "transaction_id": "f27affb1-2502-44a2-a10a-24199fc756e3",
+    "user_id": "acc63277-0e4a-466f-9de3-6f0f098f48b7",
+    "amount": 608.73,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Hollybury",
+    "timestamp": "2026-05-22T22:59:24.149935"
+  },
+  {
+    "transaction_id": "2abcdd35-9442-45a6-b0d6-bf578af1e4df",
+    "user_id": "a55fecd8-ca46-4574-bf9e-f63c3932d4b9",
+    "amount": 8783.61,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Amber",
+    "timestamp": "2026-05-22T22:59:24.651443"
+  },
+  {
+    "transaction_id": "6e125ca4-8d84-4cc2-ba0f-8087f1d40218",
+    "user_id": "0310ecf1-1217-4f29-a80c-2518b2b5e3a2",
+    "amount": 983.65,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Fitzgeraldville",
+    "timestamp": "2026-05-22T22:59:25.153216"
+  },
+  {
+    "transaction_id": "02a10a88-4aaf-422f-96da-1992f7aa0d9a",
+    "user_id": "11cf9b1f-f960-4b2b-beb4-187359c4ae46",
+    "amount": 8611.72,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Joyce",
+    "timestamp": "2026-05-22T22:59:25.657006"
+  },
+  {
+    "transaction_id": "b6d929fc-ae39-4861-b737-713f1b0b78c1",
+    "user_id": "bfc82583-d0e8-440b-943b-cdf07d921a3f",
+    "amount": 6359.98,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Gilbertstad",
+    "timestamp": "2026-05-22T22:59:26.159829"
+  }
+]

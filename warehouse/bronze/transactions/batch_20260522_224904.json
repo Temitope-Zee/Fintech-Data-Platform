@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "edf32700-d8a2-4345-8726-09bede097f20",
+    "user_id": "56f60a80-7ca9-4419-ab18-78965d89c624",
+    "amount": 4399.94,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Tracyton",
+    "timestamp": "2026-05-22T22:48:57.606295"
+  },
+  {
+    "transaction_id": "9c0ead0e-064f-4a30-ae7f-1b11885b0f6b",
+    "user_id": "d73c23a1-8fd9-4ec9-9455-2540a982fb55",
+    "amount": 8205.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Valerie",
+    "timestamp": "2026-05-22T22:48:58.109212"
+  },
+  {
+    "transaction_id": "0ac62981-0e37-4b1c-bcf1-8995b404c56f",
+    "user_id": "0b134423-9f26-4f9c-b26d-6386a66c3c34",
+    "amount": 8348.39,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Gregoryville",
+    "timestamp": "2026-05-22T22:48:58.611970"
+  },
+  {
+    "transaction_id": "a214f83a-9ddd-4273-9be6-9317a6352963",
+    "user_id": "047e1386-3f51-4d5d-bc96-cba918cffb24",
+    "amount": 9225.21,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Williamshire",
+    "timestamp": "2026-05-22T22:48:59.114641"
+  },
+  {
+    "transaction_id": "c66ad541-eeae-4acb-9694-8e82b8f88c19",
+    "user_id": "93f24165-8c52-4037-803e-a3a8adf5bb72",
+    "amount": 9966.41,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Audreychester",
+    "timestamp": "2026-05-22T22:48:59.617617"
+  },
+  {
+    "transaction_id": "a3c654de-05e9-4a0f-b314-35fd2dc51193",
+    "user_id": "c3311924-a289-443f-bedb-6f446309e654",
+    "amount": 4972.92,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Heatherbury",
+    "timestamp": "2026-05-22T22:49:00.120509"
+  },
+  {
+    "transaction_id": "855b193c-f3c1-4001-85cb-a897748f81fc",
+    "user_id": "34ec01dd-7125-40e1-8080-8c92325ce61f",
+    "amount": 6387.78,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Turnerton",
+    "timestamp": "2026-05-22T22:49:01.125365"
+  },
+  {
+    "transaction_id": "155d3f05-f6aa-4ab1-a5ce-74a0fc1a694c",
+    "user_id": "ac588254-6c6f-4af1-92c7-cd98a0c2a180",
+    "amount": 9073.23,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Allisontown",
+    "timestamp": "2026-05-22T22:49:02.631813"
+  },
+  {
+    "transaction_id": "d9a6c1af-5f9d-494d-8be9-81a0383224d4",
+    "user_id": "688f0aaa-9e2d-4cad-9ba4-2a7ed0c965bf",
+    "amount": 4489.97,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Michaelborough",
+    "timestamp": "2026-05-22T22:49:03.134175"
+  },
+  {
+    "transaction_id": "a4b6eadf-9ea8-4f3f-8de9-e7f7461c7a84",
+    "user_id": "033580d4-115c-4e71-ba82-1076ef2129bf",
+    "amount": 2228.69,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Elizabethmouth",
+    "timestamp": "2026-05-22T22:49:04.137545"
+  }
+]

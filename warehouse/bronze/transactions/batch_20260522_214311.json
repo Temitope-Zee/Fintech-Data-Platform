@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "41d75621-c1a3-48d0-b7f5-3ec431567d6b",
+    "user_id": "e8d48547-bf02-4f4e-8913-e6c25ee89f4a",
+    "amount": 7343.29,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Richardview",
+    "timestamp": "2026-05-22T21:43:06.885611"
+  },
+  {
+    "transaction_id": "6e7d7843-0747-4d17-a699-36b4c755e64f",
+    "user_id": "da1ec0de-1b26-4f10-831b-bb21396c38cd",
+    "amount": 4982.67,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mannland",
+    "timestamp": "2026-05-22T21:43:07.386845"
+  },
+  {
+    "transaction_id": "084a06d0-5e36-4546-90d5-5e84f93cc78a",
+    "user_id": "2a1adcf7-2f33-4c11-9f8e-331bade213a0",
+    "amount": 8602.77,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Alexanderhaven",
+    "timestamp": "2026-05-22T21:43:07.887727"
+  },
+  {
+    "transaction_id": "0280bb88-9ba0-4d43-969d-0953ab7c9469",
+    "user_id": "f18648f9-5c09-4a76-869f-b4436821ded8",
+    "amount": 7680.17,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Davidfurt",
+    "timestamp": "2026-05-22T21:43:08.389946"
+  },
+  {
+    "transaction_id": "fd9820fa-df42-472e-bca2-b4f6e7376c65",
+    "user_id": "0b1d3870-3346-4f83-962d-4b1de7c60fe8",
+    "amount": 6790.32,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Ricebury",
+    "timestamp": "2026-05-22T21:43:08.893151"
+  },
+  {
+    "transaction_id": "d49629f0-69c0-49d4-8027-6281264af175",
+    "user_id": "f171fdc9-9812-4a0b-9715-ff0764a1dc12",
+    "amount": 6073.23,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Ann",
+    "timestamp": "2026-05-22T21:43:09.898768"
+  },
+  {
+    "transaction_id": "e418f792-fa92-445d-a5ca-b4b241ad3231",
+    "user_id": "5a7215ef-0040-4aee-92e6-80429545c309",
+    "amount": 2187.39,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Miranda",
+    "timestamp": "2026-05-22T21:43:10.401649"
+  },
+  {
+    "transaction_id": "9495358a-5738-461c-9839-70f4065a9099",
+    "user_id": "c2ee365d-58d0-4bcc-bd80-0b1995ba8dcf",
+    "amount": 6603.57,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Maddoxhaven",
+    "timestamp": "2026-05-22T21:43:10.905565"
+  },
+  {
+    "transaction_id": "9ab595ff-2f9e-49d7-bd57-e0607fa4b770",
+    "user_id": "83978d1e-3cf2-4be6-8639-4793bb609e97",
+    "amount": 3647.61,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Youngland",
+    "timestamp": "2026-05-22T21:43:11.407187"
+  },
+  {
+    "transaction_id": "4aec89da-f39e-4e4f-81ca-80a39069a83b",
+    "user_id": "4af9c9f7-3ee1-4858-af9a-51d906447bfa",
+    "amount": 463.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Gregoryport",
+    "timestamp": "2026-05-22T21:43:11.910446"
+  }
+]

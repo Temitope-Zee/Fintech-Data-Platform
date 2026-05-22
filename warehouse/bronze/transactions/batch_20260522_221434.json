@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d71e958c-32cc-4bd1-8bc4-54368cf93f34",
+    "user_id": "cec67f03-8ffd-41fa-a23b-cd26799e8dba",
+    "amount": 2549.74,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Christopherbury",
+    "timestamp": "2026-05-22T22:14:28.535886"
+  },
+  {
+    "transaction_id": "8c2974f7-aed0-4de6-b267-77ffb7e69028",
+    "user_id": "bd4b6c09-fe44-4a3b-9667-408d171dbc60",
+    "amount": 6816.66,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Stevenville",
+    "timestamp": "2026-05-22T22:14:29.041559"
+  },
+  {
+    "transaction_id": "1bdf9fc6-0fe3-4f77-aa05-dcd6a5d43852",
+    "user_id": "1bf089d2-2db2-4694-8134-ba5bfe2d39ad",
+    "amount": 2988.63,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Jacksonton",
+    "timestamp": "2026-05-22T22:14:29.544501"
+  },
+  {
+    "transaction_id": "30add8f6-5edb-43ef-9759-77ec363ffc38",
+    "user_id": "f91e5921-6d7d-4925-9ccd-7b33c439ac3d",
+    "amount": 5986.24,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Alexa",
+    "timestamp": "2026-05-22T22:14:30.049106"
+  },
+  {
+    "transaction_id": "be05438b-60a7-4f77-9d0c-e85af36e05ac",
+    "user_id": "2481945c-4879-4419-b703-3d7d683178fb",
+    "amount": 9444.24,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Grantfurt",
+    "timestamp": "2026-05-22T22:14:30.552053"
+  },
+  {
+    "transaction_id": "cb1f930d-deb5-4106-982c-633755126008",
+    "user_id": "81642299-b0c8-4379-a847-847799f45a3c",
+    "amount": 4769.81,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Gerald",
+    "timestamp": "2026-05-22T22:14:31.557002"
+  },
+  {
+    "transaction_id": "6184598b-aade-4109-abab-a708fc360116",
+    "user_id": "5d1e3b32-2546-4d47-b753-3c3d5d40a457",
+    "amount": 2381.79,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port William",
+    "timestamp": "2026-05-22T22:14:32.059415"
+  },
+  {
+    "transaction_id": "898ef1be-82d8-469b-84c9-74933bbd4171",
+    "user_id": "fa9f2e07-f99f-423a-b9bb-4f41bf8d27b5",
+    "amount": 2273.08,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Nancy",
+    "timestamp": "2026-05-22T22:14:32.560777"
+  },
+  {
+    "transaction_id": "d3fae265-9c2f-42f2-819f-76fe7c868dc1",
+    "user_id": "fabc6052-e432-4a1c-9497-df7040708993",
+    "amount": 6383.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Annestad",
+    "timestamp": "2026-05-22T22:14:33.566456"
+  },
+  {
+    "transaction_id": "80988cff-a371-41d0-9088-52f9d52bdf73",
+    "user_id": "7b49f882-c4a7-4a1c-bd81-5e66018e1257",
+    "amount": 9626.03,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Jamesfurt",
+    "timestamp": "2026-05-22T22:14:34.067784"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6f4abf91-f891-44da-9945-a923060da021",
+    "user_id": "7bc1cfb0-1a05-4811-8a58-d3a065311a0a",
+    "amount": 9510.26,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Scotttown",
+    "timestamp": "2026-05-22T21:46:05.165657"
+  },
+  {
+    "transaction_id": "9410ad9a-f742-48ef-902b-28a32826f0a2",
+    "user_id": "b4261dec-1211-4a63-a649-87075d9ccc12",
+    "amount": 5051.01,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kylefurt",
+    "timestamp": "2026-05-22T21:46:05.667055"
+  },
+  {
+    "transaction_id": "4ea5d48a-cd92-401a-af8f-f4c4ffba8f2a",
+    "user_id": "9f47f225-e6e4-46b8-acc3-2e1ec5c061d3",
+    "amount": 8924.73,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Walkermouth",
+    "timestamp": "2026-05-22T21:46:06.169388"
+  },
+  {
+    "transaction_id": "c04c72ea-2962-4f3f-a88e-5623bf32274d",
+    "user_id": "0087f17e-f21f-4042-8fa8-29bb2788d798",
+    "amount": 588.09,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Stephanieton",
+    "timestamp": "2026-05-22T21:46:06.672167"
+  },
+  {
+    "transaction_id": "484af1ce-95d6-40c5-93d2-cea0fdf09681",
+    "user_id": "ada7a36b-4d74-4e0e-81ea-7cb82a691cd3",
+    "amount": 9920.11,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Heatherchester",
+    "timestamp": "2026-05-22T21:46:07.174472"
+  },
+  {
+    "transaction_id": "88c0bbf1-9588-4ebb-94e9-5bc1bcaf4f18",
+    "user_id": "fad21233-fa04-4fae-89a1-f4208fa3f880",
+    "amount": 698.48,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Joshuamouth",
+    "timestamp": "2026-05-22T21:46:07.676951"
+  },
+  {
+    "transaction_id": "fbbdbbb1-09b2-4514-9fd0-7a860eed5281",
+    "user_id": "3f6d2e33-199a-421e-b4bf-6f6a00841b9f",
+    "amount": 2981.49,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Brianshire",
+    "timestamp": "2026-05-22T21:46:08.180326"
+  },
+  {
+    "transaction_id": "d4bc75a9-57be-4e0b-bf54-3a0991ae0eb0",
+    "user_id": "4fb3eec2-ef36-4bda-9f6e-ed3bf1c379de",
+    "amount": 4598.36,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-22T21:46:08.682605"
+  },
+  {
+    "transaction_id": "6e99b5c8-2685-4bac-9bd1-60b4c285f710",
+    "user_id": "8e106e23-3ba5-46a2-9d8b-bd13b39304cd",
+    "amount": 5623.03,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Brittanyberg",
+    "timestamp": "2026-05-22T21:46:09.185026"
+  },
+  {
+    "transaction_id": "d5697533-6e7c-41fd-bd16-2038b50a4ece",
+    "user_id": "40b06f89-7b29-4813-8d98-6b89c1477f7b",
+    "amount": 1111.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Glennview",
+    "timestamp": "2026-05-22T21:46:09.686630"
+  }
+]

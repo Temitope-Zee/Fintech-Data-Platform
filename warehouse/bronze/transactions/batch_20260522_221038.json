@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0ae2f1ee-6e3b-42e5-9119-8002350b524e",
+    "user_id": "d5bd1b1d-bae9-4dec-9b0f-027012119588",
+    "amount": 4301.33,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Nicolemouth",
+    "timestamp": "2026-05-22T22:10:34.134897"
+  },
+  {
+    "transaction_id": "3a1b8582-934c-40da-bcc7-8b2cd57170c5",
+    "user_id": "446048bf-7904-47f9-8186-84130503e11d",
+    "amount": 1465.65,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Robertsland",
+    "timestamp": "2026-05-22T22:10:34.637596"
+  },
+  {
+    "transaction_id": "279cfd82-e783-4eb9-8e5a-d80661f12716",
+    "user_id": "69163262-832b-4477-b9ad-604605cbf6cc",
+    "amount": 6909.71,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Randallview",
+    "timestamp": "2026-05-22T22:10:35.138963"
+  },
+  {
+    "transaction_id": "42ce7b47-ed3d-462e-8fe6-a196b822968a",
+    "user_id": "d563dcbd-a4ea-4572-8a2a-004324ddb29e",
+    "amount": 4397.81,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Shortfort",
+    "timestamp": "2026-05-22T22:10:35.642092"
+  },
+  {
+    "transaction_id": "7f47d7b4-2b99-4cbf-a6f1-e75d1992015e",
+    "user_id": "103fd036-9d99-45ac-8e36-0d560545c8db",
+    "amount": 7907.34,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Loriville",
+    "timestamp": "2026-05-22T22:10:36.143678"
+  },
+  {
+    "transaction_id": "67b0418a-057e-4a37-a27e-ec5f50cc0941",
+    "user_id": "27fdfc76-54ff-4cf0-8caf-f45088830306",
+    "amount": 7420.57,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Kyle",
+    "timestamp": "2026-05-22T22:10:36.646686"
+  },
+  {
+    "transaction_id": "debf654f-2373-461e-ad32-0f17cd991b8f",
+    "user_id": "c2ef15dd-2de0-4498-980c-6b591354f8ef",
+    "amount": 6446.76,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Tina",
+    "timestamp": "2026-05-22T22:10:37.148210"
+  },
+  {
+    "transaction_id": "1f14380a-eae1-4588-963e-a30a002a445a",
+    "user_id": "a588803c-4c0c-4b73-b04a-7e8a8ccfe8da",
+    "amount": 6504.35,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Alexaburgh",
+    "timestamp": "2026-05-22T22:10:37.651285"
+  },
+  {
+    "transaction_id": "ba3bb460-571a-4eeb-b8c1-423111819997",
+    "user_id": "066653df-d9d2-4212-b07b-30f59a58a0e6",
+    "amount": 4781.3,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Paulchester",
+    "timestamp": "2026-05-22T22:10:38.152885"
+  },
+  {
+    "transaction_id": "28d703eb-c04c-4b4c-ad42-dc5908a1551f",
+    "user_id": "c71f88a1-4633-4ea1-b496-e54d1aa02ca0",
+    "amount": 7267.79,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Caitlinborough",
+    "timestamp": "2026-05-22T22:10:38.654734"
+  }
+]

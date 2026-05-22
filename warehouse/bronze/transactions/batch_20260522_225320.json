@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "250a1715-e514-4e80-a458-cd8c8c2fbe18",
+    "user_id": "4404362d-3025-4107-b7e6-0e241d09d88e",
+    "amount": 2091.37,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Kristenton",
+    "timestamp": "2026-05-22T22:53:13.725276"
+  },
+  {
+    "transaction_id": "75689d5b-5502-404a-811d-62c2691e8c05",
+    "user_id": "21f9ed03-0c40-4faa-b57f-3a887aa53a20",
+    "amount": 527.43,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Davidstad",
+    "timestamp": "2026-05-22T22:53:14.227738"
+  },
+  {
+    "transaction_id": "4ee3e189-832a-4d91-829d-6dbb341fc47e",
+    "user_id": "d803d263-4bde-4b5e-bcbd-1aee558432af",
+    "amount": 3453.16,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Andreaview",
+    "timestamp": "2026-05-22T22:53:15.740372"
+  },
+  {
+    "transaction_id": "cd34353d-e6b8-4313-b825-40eb5dde648a",
+    "user_id": "0020d0f3-f735-4ede-a71a-ebadd2589b71",
+    "amount": 9673.54,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Marymouth",
+    "timestamp": "2026-05-22T22:53:16.744437"
+  },
+  {
+    "transaction_id": "9f6ad99b-edd1-4541-b553-7c9fee18b105",
+    "user_id": "fb7ccc68-41e0-4497-81b4-eda04dd4dba4",
+    "amount": 3675.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Hollyport",
+    "timestamp": "2026-05-22T22:53:17.246143"
+  },
+  {
+    "transaction_id": "f0d69864-1599-455d-a966-cdd33f1788e1",
+    "user_id": "513943c2-8263-49e0-8ee9-fdc14467d0f8",
+    "amount": 4895.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Jamesview",
+    "timestamp": "2026-05-22T22:53:17.747612"
+  },
+  {
+    "transaction_id": "bf593592-e6fd-455d-8ee6-b6d36662fe8d",
+    "user_id": "164111db-af0e-4c27-9404-02ccda67e490",
+    "amount": 7927.69,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Mary",
+    "timestamp": "2026-05-22T22:53:18.248664"
+  },
+  {
+    "transaction_id": "0283b71a-38dd-4339-a25e-894faf0d6cac",
+    "user_id": "85ee5fe6-c66e-44ab-879b-881643823f63",
+    "amount": 5058.52,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Philliptown",
+    "timestamp": "2026-05-22T22:53:19.252068"
+  },
+  {
+    "transaction_id": "58b8398f-b7cf-448a-b33a-8a253d55a269",
+    "user_id": "ab8a381f-76b5-4428-a036-94db5fea0265",
+    "amount": 9188.77,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Olsenshire",
+    "timestamp": "2026-05-22T22:53:19.755597"
+  },
+  {
+    "transaction_id": "32864e13-e27f-4855-90ef-088cb5ec2ff8",
+    "user_id": "d6b49890-d2c0-47da-98ae-03c5b5efa187",
+    "amount": 9976.1,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lisafort",
+    "timestamp": "2026-05-22T22:53:20.257065"
+  }
+]

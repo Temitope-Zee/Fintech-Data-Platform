@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "415ffde7-4112-42a4-8524-c430de87c913",
+    "user_id": "d32c61ce-7503-4a1d-aa8a-5f535123fc6b",
+    "amount": 8321.3,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Omarside",
+    "timestamp": "2026-05-22T22:19:07.165283"
+  },
+  {
+    "transaction_id": "c9799c1a-1f57-4088-bd96-fe3c7bc91cb9",
+    "user_id": "eafa6241-e767-4cf9-b72a-b3047a09381d",
+    "amount": 4400.77,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Howardfurt",
+    "timestamp": "2026-05-22T22:19:07.666837"
+  },
+  {
+    "transaction_id": "9bfacf7c-a4a9-4353-aca0-005d42e5384d",
+    "user_id": "3dbb1864-4641-429e-991d-6e0e17b7251e",
+    "amount": 4931.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Traceyshire",
+    "timestamp": "2026-05-22T22:19:08.168175"
+  },
+  {
+    "transaction_id": "af6b8c39-0ca7-48f9-9b47-f8d118c0abd5",
+    "user_id": "497ac393-d7d7-4573-a222-4d3d6a1d51c6",
+    "amount": 4895.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michaelton",
+    "timestamp": "2026-05-22T22:19:08.669476"
+  },
+  {
+    "transaction_id": "9a621440-1f27-4104-a757-6303bcc30507",
+    "user_id": "ece829b2-edb8-45a3-bbd0-8bc675d73cf3",
+    "amount": 9408.94,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Sherryshire",
+    "timestamp": "2026-05-22T22:19:09.172500"
+  },
+  {
+    "transaction_id": "b7ad03d0-ea54-4026-a78e-014b6cd647eb",
+    "user_id": "c9b3b910-6826-4a1d-a8d0-1d6468d584c3",
+    "amount": 6180.96,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Jenniferport",
+    "timestamp": "2026-05-22T22:19:09.675354"
+  },
+  {
+    "transaction_id": "5032c928-6608-40cb-8f2f-d348f8ec8fbc",
+    "user_id": "9af63256-730c-4be7-9779-13066123fdc2",
+    "amount": 9272.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Kruegerview",
+    "timestamp": "2026-05-22T22:19:10.178299"
+  },
+  {
+    "transaction_id": "de4970e8-d9d3-4223-a83f-6273788c357f",
+    "user_id": "0c4f3d2f-adaa-4710-99d9-add464664990",
+    "amount": 4487.22,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Peter",
+    "timestamp": "2026-05-22T22:19:10.676608"
+  },
+  {
+    "transaction_id": "9151221a-f3ee-4dd6-ae81-d406d7b62d21",
+    "user_id": "730da60a-d12f-4a11-9035-1be8d7798b41",
+    "amount": 1685.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Garnerland",
+    "timestamp": "2026-05-22T22:19:11.178627"
+  },
+  {
+    "transaction_id": "96b00e85-58eb-468a-a203-c509c39b355d",
+    "user_id": "c3e051c7-7f50-4563-8971-8267dd2f1dbb",
+    "amount": 5345.4,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Belindaton",
+    "timestamp": "2026-05-22T22:19:12.182834"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4c1845a3-a78d-4e00-8028-980c693005cb",
+    "user_id": "b7a52561-4ac8-4af7-a05b-15db63dae5a2",
+    "amount": 8999.04,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Noah",
+    "timestamp": "2026-05-22T22:59:14.613031"
+  },
+  {
+    "transaction_id": "2babe911-4e77-48dc-a6c8-813b5a415473",
+    "user_id": "3b88c0eb-8a87-4665-819d-d63f5621dfb4",
+    "amount": 8781.53,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Maria",
+    "timestamp": "2026-05-22T22:59:15.114307"
+  },
+  {
+    "transaction_id": "7829b2e0-d5e0-4b2e-9bf5-712366292e2a",
+    "user_id": "091ecea5-7bb6-4b8e-87bd-672576d8f19b",
+    "amount": 1978.37,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nicoletown",
+    "timestamp": "2026-05-22T22:59:16.117323"
+  },
+  {
+    "transaction_id": "ce1d6feb-0c8f-4eba-bfaa-b14fc7431516",
+    "user_id": "ab3d838c-85fb-4583-992f-6a4955f935c8",
+    "amount": 2287.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Morenoport",
+    "timestamp": "2026-05-22T22:59:16.618741"
+  },
+  {
+    "transaction_id": "b7fa5193-40ab-4198-84a0-1f272feefc60",
+    "user_id": "f7a394ac-311e-43d7-976b-ff5016a1b770",
+    "amount": 581.96,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Cynthiaborough",
+    "timestamp": "2026-05-22T22:59:17.624741"
+  },
+  {
+    "transaction_id": "8ada31ba-d434-469e-bda8-718db1f4c233",
+    "user_id": "a3b8b104-da4d-469c-9012-974b9473a3b1",
+    "amount": 6815.83,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Brittanystad",
+    "timestamp": "2026-05-22T22:59:18.125954"
+  },
+  {
+    "transaction_id": "0916d8b2-5dd3-4d4f-ac16-cf9f19d69b44",
+    "user_id": "25593b08-9b62-48de-a372-59477e2accef",
+    "amount": 1441.84,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Juan",
+    "timestamp": "2026-05-22T22:59:18.627009"
+  },
+  {
+    "transaction_id": "19811b79-746e-4daa-9a3f-a8c4ec36a9cf",
+    "user_id": "e17556b4-d2ed-4d29-8ee4-86448368666c",
+    "amount": 551.65,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Riosside",
+    "timestamp": "2026-05-22T22:59:19.631605"
+  },
+  {
+    "transaction_id": "bcacf27e-3eda-42bf-af42-91f8e30ed44d",
+    "user_id": "499f5a67-17ca-4cc0-825a-44668ce5402e",
+    "amount": 4820.05,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Pierceborough",
+    "timestamp": "2026-05-22T22:59:20.634796"
+  },
+  {
+    "transaction_id": "2cb0944f-d2d5-442e-97e7-9ccc1438b8a9",
+    "user_id": "89d2de90-8199-40b2-80af-3437967be032",
+    "amount": 76.65,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Greerton",
+    "timestamp": "2026-05-22T22:59:21.136499"
+  }
+]

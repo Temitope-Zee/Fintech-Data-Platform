@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0cf3ff15-7e31-4290-a819-94292f916106",
+    "user_id": "8e993a0d-6982-42b9-aab7-c8606fd8ad4e",
+    "amount": 6252.61,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Garciamouth",
+    "timestamp": "2026-05-22T22:08:34.167602"
+  },
+  {
+    "transaction_id": "984aa0ad-3cee-4dbb-ae4d-9265cf5fad09",
+    "user_id": "272632b2-4b82-433d-907e-2f94c66d1355",
+    "amount": 5052.39,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jennifershire",
+    "timestamp": "2026-05-22T22:08:34.669960"
+  },
+  {
+    "transaction_id": "63716d16-d581-4b90-9646-5e43fcffe705",
+    "user_id": "5c904946-fe45-408b-9cb9-4b4121e2a49c",
+    "amount": 8988.72,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jacobsbury",
+    "timestamp": "2026-05-22T22:08:35.171395"
+  },
+  {
+    "transaction_id": "eb494cb4-93fc-431f-be7d-239aab143f3e",
+    "user_id": "643b1bfa-d087-4980-aec0-33a18414616c",
+    "amount": 7000.94,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Amy",
+    "timestamp": "2026-05-22T22:08:35.672935"
+  },
+  {
+    "transaction_id": "18b38f31-8c28-4fd7-8ec6-570da92ef1be",
+    "user_id": "3bbac5f6-a927-446f-a81b-13a6a40926bf",
+    "amount": 8165.78,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Charles",
+    "timestamp": "2026-05-22T22:08:36.178203"
+  },
+  {
+    "transaction_id": "6d9183cd-003d-489c-80ad-323b0eb35a6c",
+    "user_id": "7d50fcc1-bb87-4290-b490-9408ce61e96f",
+    "amount": 1676.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Brandonstad",
+    "timestamp": "2026-05-22T22:08:36.679561"
+  },
+  {
+    "transaction_id": "d2475d9f-d61b-4fdf-b0f5-7deb47bff45c",
+    "user_id": "faae9c45-2069-4357-89e4-761e35ed8588",
+    "amount": 6469.39,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jamesland",
+    "timestamp": "2026-05-22T22:08:37.182492"
+  },
+  {
+    "transaction_id": "ddc1afce-9b45-44fb-b3bc-3667aab90f97",
+    "user_id": "3a1d9f48-6598-477f-a7cd-8f28d26a1040",
+    "amount": 78.27,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Kennethville",
+    "timestamp": "2026-05-22T22:08:37.683970"
+  },
+  {
+    "transaction_id": "dd40b819-df71-4413-abb0-165e3574b807",
+    "user_id": "fab64b34-2674-48e0-9154-b8d3338b8af6",
+    "amount": 5649.1,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Pamela",
+    "timestamp": "2026-05-22T22:08:38.186558"
+  },
+  {
+    "transaction_id": "7c77cee1-950b-4562-bd36-89ff93b6f191",
+    "user_id": "e5ebce65-9e15-4a3c-9e1a-17059cfebca7",
+    "amount": 7107.68,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Costamouth",
+    "timestamp": "2026-05-22T22:08:38.688186"
+  }
+]

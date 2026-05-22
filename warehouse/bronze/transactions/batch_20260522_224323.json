@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3c033b0f-87db-47de-a626-ba5d6b45c60e",
+    "user_id": "fd5a0f4c-37c0-4dad-a8ad-eb17507837b8",
+    "amount": 2195.77,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Erica",
+    "timestamp": "2026-05-22T22:43:18.767850"
+  },
+  {
+    "transaction_id": "6baef7eb-7d03-47e2-a70c-456c0ec6437f",
+    "user_id": "f0e5983f-3050-4e27-ad5c-7238673a11ca",
+    "amount": 9125.17,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Michaelburgh",
+    "timestamp": "2026-05-22T22:43:19.271230"
+  },
+  {
+    "transaction_id": "73a379ce-da5b-4b37-b28d-792644c30919",
+    "user_id": "abb2132a-3d99-48bc-882c-c3c7cf7f08fb",
+    "amount": 9583.67,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Andrewville",
+    "timestamp": "2026-05-22T22:43:19.773203"
+  },
+  {
+    "transaction_id": "379bb3a2-5819-4116-a9a7-41401592fa9a",
+    "user_id": "48b9acb8-489b-42f1-a271-77c47299d5b4",
+    "amount": 6510.71,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Mendozaborough",
+    "timestamp": "2026-05-22T22:43:20.274645"
+  },
+  {
+    "transaction_id": "c5b70818-ba48-4277-9f53-1cbbe929f3b9",
+    "user_id": "576c692f-f0bd-4ba5-b303-6fc92087b984",
+    "amount": 4634.08,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Gordonshire",
+    "timestamp": "2026-05-22T22:43:20.776100"
+  },
+  {
+    "transaction_id": "e5dcab21-bb8c-490b-8846-98c3594dd5fe",
+    "user_id": "399ab985-fc09-4bbf-a7c5-0512ad0d7eba",
+    "amount": 5199.26,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Beckmouth",
+    "timestamp": "2026-05-22T22:43:21.277675"
+  },
+  {
+    "transaction_id": "0ff6ebdf-e335-450c-a37b-d595b62a7ed2",
+    "user_id": "0bcdf5a0-3ffc-491b-a74c-9daeb0f762d7",
+    "amount": 2049.88,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Porterbury",
+    "timestamp": "2026-05-22T22:43:21.779245"
+  },
+  {
+    "transaction_id": "922bb860-f0ea-44cd-8293-c40858b6b5f6",
+    "user_id": "3666a0fe-9317-4ab3-8a39-f359a634a627",
+    "amount": 8658.41,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Miguelburgh",
+    "timestamp": "2026-05-22T22:43:22.281102"
+  },
+  {
+    "transaction_id": "182f43b7-abeb-41cd-9b4c-87d1ee2557ae",
+    "user_id": "9a5eaa51-d63c-4038-8e07-793fba6513f0",
+    "amount": 6064.15,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Mark",
+    "timestamp": "2026-05-22T22:43:22.783828"
+  },
+  {
+    "transaction_id": "8555216f-104c-42c3-b307-20457e4b6968",
+    "user_id": "fb27deb0-d542-4afc-9566-7e526ef666e0",
+    "amount": 493.02,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Smithview",
+    "timestamp": "2026-05-22T22:43:23.285690"
+  }
+]

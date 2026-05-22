@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dd3516b1-5791-474f-a280-1845f6b6ad75",
+    "user_id": "696c7439-5062-4442-97b5-a376e74062a1",
+    "amount": 6725.68,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Kellyland",
+    "timestamp": "2026-05-22T21:42:37.772093"
+  },
+  {
+    "transaction_id": "9b437361-f078-4ca2-b762-a6da6dd76335",
+    "user_id": "7e36dded-f6b9-4103-a28f-6dd07fd4d8cb",
+    "amount": 5561.93,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Zachary",
+    "timestamp": "2026-05-22T21:42:38.273576"
+  },
+  {
+    "transaction_id": "8c911cb9-ce10-4f3d-b90e-e6a4f42d2008",
+    "user_id": "9afb50b5-f614-4e28-bf7a-ac52748cc44f",
+    "amount": 9249.43,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Hallfurt",
+    "timestamp": "2026-05-22T21:42:38.775073"
+  },
+  {
+    "transaction_id": "bab3e055-b4bb-48a5-940b-f99d83bfdc35",
+    "user_id": "db3f8afe-8a0e-4f14-ab96-c3ba77c2d9ed",
+    "amount": 2081.8,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Barryburgh",
+    "timestamp": "2026-05-22T21:42:39.277707"
+  },
+  {
+    "transaction_id": "a9bed03b-98a7-47e0-b6c0-ce757a568c58",
+    "user_id": "dbe30d8b-c91a-4fa3-80a9-d3a181c18cc5",
+    "amount": 4406.81,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Charlesburgh",
+    "timestamp": "2026-05-22T21:42:39.779088"
+  },
+  {
+    "transaction_id": "7f16c0fd-860c-4346-b570-98a1c99261de",
+    "user_id": "6ced332e-4cd1-4d34-80bb-571dcdea2347",
+    "amount": 6667.66,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Jamesfurt",
+    "timestamp": "2026-05-22T21:42:40.281617"
+  },
+  {
+    "transaction_id": "eef69ef5-7f37-40ad-8e11-aa2356d01616",
+    "user_id": "ef8ee60f-960d-4031-9af9-3d060b8bb425",
+    "amount": 217.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Davidchester",
+    "timestamp": "2026-05-22T21:42:40.782933"
+  },
+  {
+    "transaction_id": "39b4a439-380b-4312-a6f1-bf33d30a2d2d",
+    "user_id": "8404ca29-ce00-4e65-986b-b24ff4cd08c7",
+    "amount": 7768.17,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Barbaratown",
+    "timestamp": "2026-05-22T21:42:41.785754"
+  },
+  {
+    "transaction_id": "6cb4db99-c3f2-411f-ac9a-a3e973dd08d7",
+    "user_id": "099fa295-14ac-4cd7-891a-ed4b300196a5",
+    "amount": 1014.87,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Alexandraburgh",
+    "timestamp": "2026-05-22T21:42:42.287976"
+  },
+  {
+    "transaction_id": "b66960b1-902e-4e74-805c-2de87159c05b",
+    "user_id": "ec6d6c5d-960c-434a-b087-75316207acd3",
+    "amount": 746.61,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Keithfurt",
+    "timestamp": "2026-05-22T21:42:42.790753"
+  }
+]

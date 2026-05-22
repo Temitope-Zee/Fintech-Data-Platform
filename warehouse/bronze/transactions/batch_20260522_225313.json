@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "329e519a-ab6c-4149-ab87-e40c25617670",
+    "user_id": "e8eadf2b-1eab-4b43-a9c8-e515e74b40e9",
+    "amount": 7469.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Juliebury",
+    "timestamp": "2026-05-22T22:53:07.192286"
+  },
+  {
+    "transaction_id": "70fc5ea7-6f34-416f-94c0-b32c6a3c393e",
+    "user_id": "9418081b-415c-4a01-92e2-095d1f644cd8",
+    "amount": 5122.1,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Maureentown",
+    "timestamp": "2026-05-22T22:53:08.195391"
+  },
+  {
+    "transaction_id": "e79dbce1-ea14-4286-aa55-7375c07fb903",
+    "user_id": "d1353c20-c6c3-462c-a872-968872d0ec17",
+    "amount": 3353.88,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Melissabury",
+    "timestamp": "2026-05-22T22:53:08.696646"
+  },
+  {
+    "transaction_id": "ce0936e0-e58a-47bf-a62b-edd673284072",
+    "user_id": "20783caa-a3d7-4b93-b114-1bf1ded8f3c0",
+    "amount": 1153.16,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Ashley",
+    "timestamp": "2026-05-22T22:53:09.200031"
+  },
+  {
+    "transaction_id": "20503eda-7ceb-46f2-ac8b-ce6bb488a99b",
+    "user_id": "ef47415c-bf35-46a4-8fe6-696c70fda752",
+    "amount": 3603.32,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Courtneyport",
+    "timestamp": "2026-05-22T22:53:09.702806"
+  },
+  {
+    "transaction_id": "4aae77b7-f235-4c42-9092-7a6cb92523ae",
+    "user_id": "b3b19d5f-9592-4cb9-825e-9de1fc06ff3b",
+    "amount": 2084.76,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Stephaniestad",
+    "timestamp": "2026-05-22T22:53:10.205472"
+  },
+  {
+    "transaction_id": "432f73a1-3605-46f9-9560-09509aa44eb4",
+    "user_id": "4a097117-c74f-4c27-998c-d3e5dbf25d37",
+    "amount": 4264.84,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Meganburgh",
+    "timestamp": "2026-05-22T22:53:10.706945"
+  },
+  {
+    "transaction_id": "1312b947-0486-4a73-80d0-1234c2309661",
+    "user_id": "e581ff19-9e25-46e1-bb08-f154a91c0065",
+    "amount": 5050.29,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Danielborough",
+    "timestamp": "2026-05-22T22:53:11.710978"
+  },
+  {
+    "transaction_id": "ad73d27a-edf1-4845-af8c-6078e471a3b7",
+    "user_id": "a9ae1c8c-4bcc-490b-a8d7-1344090d5270",
+    "amount": 6765.14,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Shannonshire",
+    "timestamp": "2026-05-22T22:53:12.213898"
+  },
+  {
+    "transaction_id": "34cc1a9a-916e-46ee-b47a-0a9e8fde25b3",
+    "user_id": "144d957d-8c57-46d5-a80b-93725507ec9d",
+    "amount": 2470.03,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Donald",
+    "timestamp": "2026-05-22T22:53:13.219087"
+  }
+]

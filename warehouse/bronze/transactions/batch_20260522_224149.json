@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9c9d8611-33f2-4301-8839-f35f15819825",
+    "user_id": "20200357-19ba-4bcc-9e5e-4adbb80a6fe9",
+    "amount": 7171.97,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Bruceshire",
+    "timestamp": "2026-05-22T22:41:44.404538"
+  },
+  {
+    "transaction_id": "4ee9b295-da92-4293-aa3c-15eece1ec3f8",
+    "user_id": "09bfeca7-4ff1-4244-81bf-d99668da0e4f",
+    "amount": 6906.15,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Olsonville",
+    "timestamp": "2026-05-22T22:41:44.906500"
+  },
+  {
+    "transaction_id": "0ab8ef49-84e7-4367-8b74-82914511b1f5",
+    "user_id": "3de2f8e8-4950-4ff5-8959-16065acd6328",
+    "amount": 735.41,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Debra",
+    "timestamp": "2026-05-22T22:41:45.408330"
+  },
+  {
+    "transaction_id": "77834032-8c84-4b5f-ab06-46ca1c3657cd",
+    "user_id": "59badf9e-596a-473f-a759-2e062dd30c41",
+    "amount": 372.8,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Laurie",
+    "timestamp": "2026-05-22T22:41:45.909822"
+  },
+  {
+    "transaction_id": "f9b22d55-f07b-4d4a-9311-0a087f3752b3",
+    "user_id": "fbad7b05-b003-4935-bcd5-21d58f39cc63",
+    "amount": 8844.8,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Kevinview",
+    "timestamp": "2026-05-22T22:41:46.413106"
+  },
+  {
+    "transaction_id": "a622e4ea-0cb1-407c-9fc6-8214b3a252d6",
+    "user_id": "3f2a9ebd-6681-4099-875c-6ddae57d631b",
+    "amount": 239.11,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Michele",
+    "timestamp": "2026-05-22T22:41:47.417335"
+  },
+  {
+    "transaction_id": "0483e327-6a06-46e0-a61d-281e4cc7c7d1",
+    "user_id": "8ca83cda-5041-4489-a8ae-7de640ee1327",
+    "amount": 7147.72,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Morrisfort",
+    "timestamp": "2026-05-22T22:41:47.919330"
+  },
+  {
+    "transaction_id": "141e64b4-ae90-4499-864d-7c2a61b922a8",
+    "user_id": "3415d012-9c3e-4c5c-b9ab-5a9c35d29e54",
+    "amount": 7298.28,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Donnachester",
+    "timestamp": "2026-05-22T22:41:48.420994"
+  },
+  {
+    "transaction_id": "fac3dc3b-567d-465a-96ff-079f4647b64b",
+    "user_id": "6e371721-5ab1-477b-b6c2-f473a93c2e2f",
+    "amount": 4865.32,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Paul",
+    "timestamp": "2026-05-22T22:41:48.923942"
+  },
+  {
+    "transaction_id": "301c892f-a961-49df-bd9b-36d772ff3cde",
+    "user_id": "e60e2ab7-fb3f-472a-9dc1-40c676345305",
+    "amount": 5762.58,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Michaelberg",
+    "timestamp": "2026-05-22T22:41:49.425510"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "44701015-8941-406f-a999-5b1442675455",
+    "user_id": "9dbe93f7-9342-4d3f-a513-b4d5e4c7d45b",
+    "amount": 3921.64,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Henryview",
+    "timestamp": "2026-05-22T22:15:29.781171"
+  },
+  {
+    "transaction_id": "ce9e6858-69a5-4c3c-a155-e241526c5e4f",
+    "user_id": "0c29c9f5-c97c-4f95-bdce-6b20fd484837",
+    "amount": 4548.98,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Jason",
+    "timestamp": "2026-05-22T22:15:30.283055"
+  },
+  {
+    "transaction_id": "0b7b06ea-72d3-4232-80f0-a91c31fc25fc",
+    "user_id": "fb40de8e-4ec5-40c6-85ca-2bec8b2123cb",
+    "amount": 3373.09,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Laura",
+    "timestamp": "2026-05-22T22:15:30.784557"
+  },
+  {
+    "transaction_id": "34fb50c5-da90-4816-bd01-a1e82a0964f9",
+    "user_id": "0805b291-c87a-4d3d-985c-ae6312c00f1b",
+    "amount": 5911.05,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Matthewbury",
+    "timestamp": "2026-05-22T22:15:31.286147"
+  },
+  {
+    "transaction_id": "faf186d2-9456-4496-bd07-3a7dc8bd6d20",
+    "user_id": "8558de54-16f1-4c76-8714-4feb36daa854",
+    "amount": 1899.28,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Williamstad",
+    "timestamp": "2026-05-22T22:15:31.788325"
+  },
+  {
+    "transaction_id": "f52e38a2-9bf7-47aa-8c0d-603d32f0a535",
+    "user_id": "a5545fc3-0ea7-4b6d-b07a-e220ee58f378",
+    "amount": 1559.88,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Josephview",
+    "timestamp": "2026-05-22T22:15:32.290184"
+  },
+  {
+    "transaction_id": "339ed7d1-a8c1-459c-93c0-645681537244",
+    "user_id": "32828e6c-cdfb-443a-8240-ff0ac85cc536",
+    "amount": 4972.07,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Joshua",
+    "timestamp": "2026-05-22T22:15:32.792987"
+  },
+  {
+    "transaction_id": "1e00afd4-e94b-4b84-9351-08a95bed7def",
+    "user_id": "3e9e7ab7-e769-44ca-85d6-5d97054d73b8",
+    "amount": 106.84,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Jameston",
+    "timestamp": "2026-05-22T22:15:33.295963"
+  },
+  {
+    "transaction_id": "d6acee31-a725-43e8-91dd-5cc43457227a",
+    "user_id": "d0047941-b691-403a-ba40-b4b785a123c3",
+    "amount": 6351.36,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Erica",
+    "timestamp": "2026-05-22T22:15:33.798988"
+  },
+  {
+    "transaction_id": "f6228483-d270-4d89-81c8-3efe7135622c",
+    "user_id": "3d4df91b-73ed-4afb-aaf2-991a287baf66",
+    "amount": 9686.22,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Rebeccachester",
+    "timestamp": "2026-05-22T22:15:34.301807"
+  }
+]

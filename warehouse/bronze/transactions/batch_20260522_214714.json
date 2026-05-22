@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c73cf440-7a94-45f2-b861-69510b0b611b",
+    "user_id": "ac9f287a-1d98-42ed-8eb3-a08db339af99",
+    "amount": 6915.14,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jessicatown",
+    "timestamp": "2026-05-22T21:47:09.931021"
+  },
+  {
+    "transaction_id": "b0ee9d42-f760-401f-868b-e9a6a749595e",
+    "user_id": "0a414c2c-c549-4276-aeb5-166156d150d0",
+    "amount": 8141.38,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Casey",
+    "timestamp": "2026-05-22T21:47:10.432161"
+  },
+  {
+    "transaction_id": "001a831c-9b27-49c1-930e-fcbbe1ea6f16",
+    "user_id": "b4658cea-d26b-4d74-8c5e-5593242a3214",
+    "amount": 2472.61,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West John",
+    "timestamp": "2026-05-22T21:47:10.933268"
+  },
+  {
+    "transaction_id": "9c41d546-8c81-4f22-bebc-dccf8ffbc703",
+    "user_id": "8db30e05-d00d-47ad-82da-090722c4a3d4",
+    "amount": 4893.82,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Crosbymouth",
+    "timestamp": "2026-05-22T21:47:11.437652"
+  },
+  {
+    "transaction_id": "c4f3a36b-987e-43d8-8512-9d7458354e21",
+    "user_id": "75790f62-1d0a-4356-b0fe-b3fd68cb333e",
+    "amount": 5695.58,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Donaldview",
+    "timestamp": "2026-05-22T21:47:11.939655"
+  },
+  {
+    "transaction_id": "8de73190-86ad-4688-a4bb-fc3870a24ac7",
+    "user_id": "933f2c89-676a-4a00-9a67-b68808695a03",
+    "amount": 972.05,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Larryview",
+    "timestamp": "2026-05-22T21:47:12.441156"
+  },
+  {
+    "transaction_id": "41f7f138-b46a-4c0f-be8b-ad80282029b9",
+    "user_id": "353209cf-3c5e-4d45-ade4-f631de76b427",
+    "amount": 8721.46,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Brownchester",
+    "timestamp": "2026-05-22T21:47:12.943074"
+  },
+  {
+    "transaction_id": "0a44a1e2-bf82-4d7f-853a-53b52b542765",
+    "user_id": "03113579-ad14-460b-bf35-5f6f7b630708",
+    "amount": 9495.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Katie",
+    "timestamp": "2026-05-22T21:47:13.444779"
+  },
+  {
+    "transaction_id": "2ae54d8d-7a36-4f24-b939-11f8ee6be2d0",
+    "user_id": "f876b8b9-63b2-4b00-b2da-74512c69efe0",
+    "amount": 8974.99,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Jeffersonview",
+    "timestamp": "2026-05-22T21:47:14.447474"
+  },
+  {
+    "transaction_id": "c44d2356-988c-4a78-bdcf-5e8ad4b639b9",
+    "user_id": "57757088-f575-4da4-bc8f-3913e68b4b49",
+    "amount": 3884.47,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Tiffanyport",
+    "timestamp": "2026-05-22T21:47:14.948710"
+  }
+]

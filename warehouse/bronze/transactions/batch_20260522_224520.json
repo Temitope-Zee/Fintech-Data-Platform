@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d15d71de-e0c4-4abd-bea5-ed823c30f4b5",
+    "user_id": "2657a3c0-52cf-46bc-bb49-85e9684b5282",
+    "amount": 5316.17,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Jameschester",
+    "timestamp": "2026-05-22T22:45:15.209604"
+  },
+  {
+    "transaction_id": "a7a7d825-0e40-4878-876d-51c43de76807",
+    "user_id": "8a72ea43-7402-49f2-83ac-2046fd3b2a60",
+    "amount": 1302.55,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Josephville",
+    "timestamp": "2026-05-22T22:45:15.711187"
+  },
+  {
+    "transaction_id": "3523b615-1eaa-46bb-b9a8-7eebc72eccb2",
+    "user_id": "83e21e17-55a7-49a4-9360-4b3f8f4bce2e",
+    "amount": 8297.97,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Judith",
+    "timestamp": "2026-05-22T22:45:16.214231"
+  },
+  {
+    "transaction_id": "2af745d6-9013-499a-840f-f21af98a5b03",
+    "user_id": "475a7fd0-3583-441b-9555-93f100530b3f",
+    "amount": 1813.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Fisherburgh",
+    "timestamp": "2026-05-22T22:45:16.717367"
+  },
+  {
+    "transaction_id": "6582ef17-f6c2-475d-b56a-1c0ab00df6d1",
+    "user_id": "e1b411cd-daaf-46cc-89b8-7aea8bd6f4db",
+    "amount": 4758.79,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Tannerborough",
+    "timestamp": "2026-05-22T22:45:18.223428"
+  },
+  {
+    "transaction_id": "58341675-2a3e-42aa-a13e-4d2bf6cb57b0",
+    "user_id": "83818db5-d5d8-40e3-85c4-a7bf29e65d58",
+    "amount": 5715.32,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Robert",
+    "timestamp": "2026-05-22T22:45:18.725953"
+  },
+  {
+    "transaction_id": "28acfee1-e19c-4897-8703-e22a1e6771f6",
+    "user_id": "94e660ac-8c0c-45d9-965f-4b768d8d08a0",
+    "amount": 3274.77,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Leachburgh",
+    "timestamp": "2026-05-22T22:45:19.227902"
+  },
+  {
+    "transaction_id": "645f8604-e69c-4f5a-b397-82da3786b6c2",
+    "user_id": "953338d4-f028-437c-8c62-081cf3ae58e3",
+    "amount": 8048.07,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Lisashire",
+    "timestamp": "2026-05-22T22:45:19.729763"
+  },
+  {
+    "transaction_id": "9852dfda-7d64-4c52-b7bb-2877341acc15",
+    "user_id": "326dfdc6-8a73-4b31-8389-be8580d512f1",
+    "amount": 6472.4,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Cordovamouth",
+    "timestamp": "2026-05-22T22:45:20.231444"
+  },
+  {
+    "transaction_id": "13badf09-404a-4d71-bcd3-f67ffd4646d1",
+    "user_id": "0a54cbb7-5947-4903-adf6-a9960bf0ad8a",
+    "amount": 3448.2,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Barry",
+    "timestamp": "2026-05-22T22:45:20.734303"
+  }
+]

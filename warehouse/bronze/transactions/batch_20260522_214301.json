@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "59636150-4a3a-4b46-81c5-41cb83c0ee67",
+    "user_id": "d8b075c6-0511-4473-a207-c3bd430fcb2e",
+    "amount": 9690.43,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Jenniferberg",
+    "timestamp": "2026-05-22T21:42:55.337065"
+  },
+  {
+    "transaction_id": "454aa19c-2c72-4a51-b4df-bbcbbc5d97e8",
+    "user_id": "369f360a-7238-42e4-a3e1-351c3d428d8f",
+    "amount": 7716.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Jordanland",
+    "timestamp": "2026-05-22T21:42:56.341387"
+  },
+  {
+    "transaction_id": "6bd0a704-2e54-47db-a9bd-0cf907124368",
+    "user_id": "f6c6e3c4-6c74-4f67-9ba5-4d2e65038efc",
+    "amount": 3950.46,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Seanton",
+    "timestamp": "2026-05-22T21:42:57.846642"
+  },
+  {
+    "transaction_id": "b51aa4b8-1a79-4a53-866a-7c5f8b830878",
+    "user_id": "397a41a1-7e5c-46b1-bcc7-58eb3b3456b3",
+    "amount": 2817.79,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Lawrencemouth",
+    "timestamp": "2026-05-22T21:42:58.349291"
+  },
+  {
+    "transaction_id": "1b6bb524-4104-4610-9b6e-71f29b89228d",
+    "user_id": "f028bebb-1c28-4c8f-b0e0-e50175cb0360",
+    "amount": 2357.58,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Melissaton",
+    "timestamp": "2026-05-22T21:42:58.850816"
+  },
+  {
+    "transaction_id": "2cba4eab-4daf-420e-8744-d14534a24d16",
+    "user_id": "fe870231-7c2a-49c9-b30f-eb83c7844399",
+    "amount": 6748.79,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Lesliechester",
+    "timestamp": "2026-05-22T21:42:59.352478"
+  },
+  {
+    "transaction_id": "683a8076-3178-414b-a39d-5ece2ffab7b3",
+    "user_id": "eec23d10-789e-40b1-9474-58a3439eee2f",
+    "amount": 2585.5,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Brianna",
+    "timestamp": "2026-05-22T21:42:59.853974"
+  },
+  {
+    "transaction_id": "b52f3dc4-efaa-46d9-8d28-1ddfa17a22d3",
+    "user_id": "e5b40640-34e5-4f0a-925b-f4d31b314c84",
+    "amount": 5916.4,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Ronald",
+    "timestamp": "2026-05-22T21:43:00.356686"
+  },
+  {
+    "transaction_id": "e2416997-a462-411a-85fb-75052e312e5f",
+    "user_id": "9a2451c9-4fd8-4e62-be0e-230e969f0089",
+    "amount": 3117.21,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Timothy",
+    "timestamp": "2026-05-22T21:43:00.859725"
+  },
+  {
+    "transaction_id": "247b426e-9fe6-4771-91be-4da6caa255e6",
+    "user_id": "f9889f79-04f9-4448-b800-a97c9e9367c8",
+    "amount": 5178.77,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wilsonberg",
+    "timestamp": "2026-05-22T21:43:01.362646"
+  }
+]

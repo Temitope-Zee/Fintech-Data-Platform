@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eb4937a1-6ea6-405d-8e8a-ca1e0d0c0e91",
+    "user_id": "729b3d8f-8182-4a74-9bb8-fa6a8bf985fb",
+    "amount": 8872.0,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Brianport",
+    "timestamp": "2026-05-22T22:48:40.035953"
+  },
+  {
+    "transaction_id": "3028f22d-071a-4103-815b-d73ee0a92738",
+    "user_id": "639afd09-1d34-4577-9e77-98f6af8e6c96",
+    "amount": 8866.94,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Gillespieton",
+    "timestamp": "2026-05-22T22:48:40.538071"
+  },
+  {
+    "transaction_id": "6628fbbe-8ce4-4ab2-9559-5cae79d7a4f6",
+    "user_id": "62cff8b3-5db3-4654-9af7-c5dfd930d0fd",
+    "amount": 9623.63,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Kaylashire",
+    "timestamp": "2026-05-22T22:48:41.039485"
+  },
+  {
+    "transaction_id": "6dbc3acc-e15a-45bb-a6e6-aabc80ca580f",
+    "user_id": "1c83e7bf-1f30-4e97-95b1-2e4f646c932b",
+    "amount": 2088.06,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Mcdowellberg",
+    "timestamp": "2026-05-22T22:48:42.043681"
+  },
+  {
+    "transaction_id": "f8814cfc-a2a3-47a8-9120-ce38f007c3f2",
+    "user_id": "e5d76cbb-9956-4103-9dd6-8d29e702d2b4",
+    "amount": 238.54,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Danielle",
+    "timestamp": "2026-05-22T22:48:42.546284"
+  },
+  {
+    "transaction_id": "13cd9ae1-805d-49a5-983f-eaa0b67b564e",
+    "user_id": "c226a1c2-cee1-4dda-91c4-8e59a9eac744",
+    "amount": 4715.8,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Williamburgh",
+    "timestamp": "2026-05-22T22:48:43.047693"
+  },
+  {
+    "transaction_id": "5cb2c024-22a2-4c1d-8a4d-4bdfc81fea6d",
+    "user_id": "6066b455-8260-4349-a550-6b19ecf6e565",
+    "amount": 9782.43,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Elizabethberg",
+    "timestamp": "2026-05-22T22:48:44.051747"
+  },
+  {
+    "transaction_id": "14c917c2-a44e-4483-aef7-c87fc33eabfd",
+    "user_id": "694763d8-c73a-4e4f-a106-3cd4af6021f1",
+    "amount": 995.7,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Herrerashire",
+    "timestamp": "2026-05-22T22:48:44.553615"
+  },
+  {
+    "transaction_id": "b28a0b9b-962d-41bd-980b-fc5581a88bf5",
+    "user_id": "cf70507f-633b-46f2-b410-f5d89dff4466",
+    "amount": 7425.5,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Smallberg",
+    "timestamp": "2026-05-22T22:48:45.557908"
+  },
+  {
+    "transaction_id": "df04786d-5633-41eb-bc7f-66b136835f64",
+    "user_id": "5547d6a1-c6f0-40ee-894b-65a02e192cfa",
+    "amount": 7653.33,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Millerburgh",
+    "timestamp": "2026-05-22T22:48:46.059494"
+  }
+]

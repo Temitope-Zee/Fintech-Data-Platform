@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f93b5726-a876-4962-a6f2-1490afbd057f",
+    "user_id": "46697f23-0daa-4132-9585-3f670e3da7e4",
+    "amount": 9646.29,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Jordanborough",
+    "timestamp": "2026-05-22T22:53:38.344719"
+  },
+  {
+    "transaction_id": "955ad8af-8782-4fa7-a0d8-659c6f15c63b",
+    "user_id": "80e4a91e-048f-4d85-9f42-62e3affd8197",
+    "amount": 7856.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Michaelfurt",
+    "timestamp": "2026-05-22T22:53:38.848054"
+  },
+  {
+    "transaction_id": "4f6a37f4-f302-41a4-aa1d-ed61827e4101",
+    "user_id": "2e054b8f-7d04-4236-963c-98035a723f11",
+    "amount": 2842.46,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Herbertshire",
+    "timestamp": "2026-05-22T22:53:39.853071"
+  },
+  {
+    "transaction_id": "0cc7c117-6a53-4a3a-854b-90706995ec6e",
+    "user_id": "fb78f609-eec0-460d-89b4-3272ccb8ca46",
+    "amount": 9564.3,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Whitneymouth",
+    "timestamp": "2026-05-22T22:53:40.354616"
+  },
+  {
+    "transaction_id": "312c1bec-742e-413c-9b33-47ee43d5ace8",
+    "user_id": "c419d961-8bb2-4c9b-8968-b2a090ddffc7",
+    "amount": 1956.91,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Scottville",
+    "timestamp": "2026-05-22T22:53:40.856264"
+  },
+  {
+    "transaction_id": "2290cefa-21e0-4c70-8e5a-42a8aa682f2f",
+    "user_id": "d32d9781-e7d2-4fb3-9dce-b77589322e25",
+    "amount": 6903.9,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jaredland",
+    "timestamp": "2026-05-22T22:53:41.357731"
+  },
+  {
+    "transaction_id": "71ce2b24-9d24-4a79-a63d-213d33a0caa3",
+    "user_id": "fb968cd0-7dcf-4fbe-9b50-124875f19493",
+    "amount": 6595.23,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Powellburgh",
+    "timestamp": "2026-05-22T22:53:41.859081"
+  },
+  {
+    "transaction_id": "e93f12bc-63e5-4929-acc2-793297fcad68",
+    "user_id": "cb60f52a-cb9d-4515-aed5-ad21756850ac",
+    "amount": 9711.76,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Danielville",
+    "timestamp": "2026-05-22T22:53:42.360261"
+  },
+  {
+    "transaction_id": "e9b306e2-d8ad-40a5-890e-3b455e7b4a0f",
+    "user_id": "a07a17b2-55b4-43bb-b0cf-aa34f082bff8",
+    "amount": 8588.27,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Jenniferhaven",
+    "timestamp": "2026-05-22T22:53:42.861749"
+  },
+  {
+    "transaction_id": "bafcf9f5-5875-441f-a93c-0663765fe34d",
+    "user_id": "8c2bef4c-9d49-4325-87e0-5694508b8536",
+    "amount": 1584.54,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Wernermouth",
+    "timestamp": "2026-05-22T22:53:43.364971"
+  }
+]

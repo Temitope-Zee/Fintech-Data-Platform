@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "53995780-d4d3-4d4e-bfe5-4f7aae066b66",
+    "user_id": "779a6602-c266-4d99-b22a-ee70be56b247",
+    "amount": 534.95,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Kimberlyside",
+    "timestamp": "2026-05-22T22:12:23.543289"
+  },
+  {
+    "transaction_id": "1233d1a5-c9e4-480b-8d99-1075951a9b96",
+    "user_id": "678728d9-acb2-409e-be8d-6d5fce98d363",
+    "amount": 4393.63,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Sandraland",
+    "timestamp": "2026-05-22T22:12:24.045001"
+  },
+  {
+    "transaction_id": "46d6c6d0-4462-4494-9a19-f3364d1c975f",
+    "user_id": "7d4b278e-ef0f-488f-9957-b8d9539bd8d0",
+    "amount": 9648.3,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Keithton",
+    "timestamp": "2026-05-22T22:12:24.547935"
+  },
+  {
+    "transaction_id": "1a7ca157-718e-47de-8a49-e3c6aeaef12d",
+    "user_id": "ebc86570-b33b-4296-9bf3-5a5cbc0b26c2",
+    "amount": 4560.55,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Connieburgh",
+    "timestamp": "2026-05-22T22:12:25.049550"
+  },
+  {
+    "transaction_id": "2b0e92a0-bfd3-414e-b47e-27147a21e425",
+    "user_id": "2a1d4d5c-1570-4a7a-ba60-72e21bd54ca9",
+    "amount": 6005.97,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Chelsea",
+    "timestamp": "2026-05-22T22:12:25.551252"
+  },
+  {
+    "transaction_id": "f22b302d-c1e3-432b-93b2-7eaf42f47373",
+    "user_id": "0aacef1a-f32c-47e5-a528-4c8f49f2e110",
+    "amount": 3750.47,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Stevenstad",
+    "timestamp": "2026-05-22T22:12:26.053040"
+  },
+  {
+    "transaction_id": "87492b6b-0639-4127-903f-b019a9080931",
+    "user_id": "a231c36c-91b6-4bb5-8c89-f32036558832",
+    "amount": 8552.9,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Luke",
+    "timestamp": "2026-05-22T22:12:27.057214"
+  },
+  {
+    "transaction_id": "4b15f1ef-2039-4522-bf59-540c6bd11d7a",
+    "user_id": "79071a9d-595b-4eb4-ad72-58798bd04635",
+    "amount": 8581.82,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Sherylland",
+    "timestamp": "2026-05-22T22:12:27.558680"
+  },
+  {
+    "transaction_id": "b914cf2d-bb35-477b-b8fc-c61b73bbd6ab",
+    "user_id": "e82255db-6400-4636-8182-1074a66ef30d",
+    "amount": 9285.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Dustinhaven",
+    "timestamp": "2026-05-22T22:12:28.061907"
+  },
+  {
+    "transaction_id": "79dad333-f2a9-4deb-9923-1244f075c63a",
+    "user_id": "5707f9b7-a8f8-4eaf-8873-4114731c091e",
+    "amount": 9049.03,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Williamsville",
+    "timestamp": "2026-05-22T22:12:28.563446"
+  }
+]

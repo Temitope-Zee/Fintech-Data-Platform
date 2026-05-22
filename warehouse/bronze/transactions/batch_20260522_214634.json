@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "74d91766-5889-46f8-a750-ec3e5dbabd40",
+    "user_id": "75753d39-74e3-4c01-b54d-280d4dd54860",
+    "amount": 303.14,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Sierra",
+    "timestamp": "2026-05-22T21:46:28.258491"
+  },
+  {
+    "transaction_id": "3bfb0d98-9b0c-4890-b385-04db2e4fadfb",
+    "user_id": "40b791ed-8a27-4ee7-be86-7cd16d8d650d",
+    "amount": 2639.88,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Randall",
+    "timestamp": "2026-05-22T21:46:28.761591"
+  },
+  {
+    "transaction_id": "7410ba7e-11a4-4e13-9714-9acca975fd35",
+    "user_id": "5ab9def4-9a09-42f2-a47c-ffffc41730e9",
+    "amount": 6622.98,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Thomas",
+    "timestamp": "2026-05-22T21:46:29.267874"
+  },
+  {
+    "transaction_id": "5b2a652e-5c04-41e1-8e20-74d09f5a1633",
+    "user_id": "2608fb81-2888-4c11-a09c-377682035177",
+    "amount": 8384.09,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Madisonfurt",
+    "timestamp": "2026-05-22T21:46:30.272119"
+  },
+  {
+    "transaction_id": "36eceffb-14fd-44ed-a4c5-38c5490c5598",
+    "user_id": "7698d11e-440d-4d10-8822-5fc8bd3d4ba5",
+    "amount": 5138.67,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Garyshire",
+    "timestamp": "2026-05-22T21:46:30.773852"
+  },
+  {
+    "transaction_id": "53f4edfa-805c-4e9d-9aef-e7403ad98f47",
+    "user_id": "602bdeb7-aff7-4a31-8305-33ab75f4e065",
+    "amount": 8105.01,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Bryanberg",
+    "timestamp": "2026-05-22T21:46:31.277099"
+  },
+  {
+    "transaction_id": "65ec07fc-1bea-4f48-93a8-5d3016e50c70",
+    "user_id": "a437739b-1bea-4149-95f1-e04fdc2b41a3",
+    "amount": 6317.77,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Melissa",
+    "timestamp": "2026-05-22T21:46:32.281413"
+  },
+  {
+    "transaction_id": "031673e2-e716-44f2-989f-d211d841be68",
+    "user_id": "2365bdae-4953-4cc6-b59f-7a4cf8634598",
+    "amount": 8465.29,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Brianland",
+    "timestamp": "2026-05-22T21:46:32.784070"
+  },
+  {
+    "transaction_id": "69cf7759-8de3-4bcc-98f4-0adc215dce77",
+    "user_id": "41720f0e-8a36-4109-b487-53937ef06063",
+    "amount": 7806.18,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Michelleside",
+    "timestamp": "2026-05-22T21:46:33.788542"
+  },
+  {
+    "transaction_id": "bafe2be7-0aeb-4f5d-88eb-78e17d842812",
+    "user_id": "5cc2958f-71cc-477b-80ec-464d9f40a742",
+    "amount": 1935.69,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Rachelton",
+    "timestamp": "2026-05-22T21:46:34.290697"
+  }
+]

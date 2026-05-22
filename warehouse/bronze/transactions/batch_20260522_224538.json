@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "39d24766-c5e4-4e68-9030-2aaccd0ec582",
+    "user_id": "1bebd958-98d2-4069-b08d-a76e076b48fb",
+    "amount": 7548.09,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Stephaniechester",
+    "timestamp": "2026-05-22T22:45:32.779347"
+  },
+  {
+    "transaction_id": "b9b0bbb0-fd2e-42f4-942e-98053784d0d1",
+    "user_id": "d918ddfe-fcf3-4c7d-8dc1-780ad92aceb4",
+    "amount": 3496.74,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Lisa",
+    "timestamp": "2026-05-22T22:45:33.281974"
+  },
+  {
+    "transaction_id": "1f832905-f7c3-4398-a21d-d305329dcf43",
+    "user_id": "d70beb27-78c1-4a2d-954b-1aeb8b0f2e4a",
+    "amount": 1854.08,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Rodriguezview",
+    "timestamp": "2026-05-22T22:45:33.783417"
+  },
+  {
+    "transaction_id": "362beea6-0ece-4b5d-89e4-f752b8f5af31",
+    "user_id": "503ebb2e-449e-4930-8e33-faba7095e437",
+    "amount": 2905.71,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Riveratown",
+    "timestamp": "2026-05-22T22:45:34.786834"
+  },
+  {
+    "transaction_id": "1cce6937-a4be-45fb-ab6c-dce2f152a02f",
+    "user_id": "2ed84fec-3691-442c-a714-53c010b205ff",
+    "amount": 6502.14,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Leslie",
+    "timestamp": "2026-05-22T22:45:35.289717"
+  },
+  {
+    "transaction_id": "de6886c4-4905-4b27-9032-0ff70a27f49b",
+    "user_id": "5cb8923d-e71a-4c43-bf5a-c753d91b378d",
+    "amount": 5453.17,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Joshuashire",
+    "timestamp": "2026-05-22T22:45:35.792121"
+  },
+  {
+    "transaction_id": "b73e7e52-71bd-4938-a99c-5decb4e94cb0",
+    "user_id": "514a9d65-7688-4078-8baa-c577f10947a6",
+    "amount": 6896.03,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Laura",
+    "timestamp": "2026-05-22T22:45:36.295295"
+  },
+  {
+    "transaction_id": "639776f6-1305-48ad-a8f7-44d48d5726b2",
+    "user_id": "e4b007b8-c542-4b91-a47e-d330763941e0",
+    "amount": 4223.99,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Jenniferborough",
+    "timestamp": "2026-05-22T22:45:37.300792"
+  },
+  {
+    "transaction_id": "1bb334a2-dc14-4396-ad88-75dfa9713f46",
+    "user_id": "431ad8ee-53a4-4017-a78c-e2643e00b039",
+    "amount": 4148.11,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ericksonville",
+    "timestamp": "2026-05-22T22:45:38.304099"
+  },
+  {
+    "transaction_id": "f07973ed-f30b-4a90-941a-31a39639865d",
+    "user_id": "c35355aa-0321-44c2-b7a3-ccbbd7b5ca86",
+    "amount": 1123.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Paul",
+    "timestamp": "2026-05-22T22:45:38.805499"
+  }
+]

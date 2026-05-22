@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3e87c98d-2c66-47d7-89e5-96d89a3eca01",
+    "user_id": "2f6585de-c98f-40fb-9d06-1cc81b2b2e92",
+    "amount": 9294.37,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Renee",
+    "timestamp": "2026-05-22T21:49:56.587767"
+  },
+  {
+    "transaction_id": "1ea43fdb-cf75-4fbd-828a-d3d4d4798eba",
+    "user_id": "ff5ccafe-8d76-4c48-b618-00d7e62decad",
+    "amount": 177.86,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Pamelahaven",
+    "timestamp": "2026-05-22T21:49:57.090705"
+  },
+  {
+    "transaction_id": "3f894898-4cf4-4bf2-848e-84e9c366e5e6",
+    "user_id": "3186f3b4-77e4-4d0c-b586-17543bd392e1",
+    "amount": 7470.6,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Josephshire",
+    "timestamp": "2026-05-22T21:49:57.592273"
+  },
+  {
+    "transaction_id": "16ba27d6-f76e-4545-ae69-1ab176efcca0",
+    "user_id": "e6c1b108-c83f-49ad-bc30-6ddbf7bee44e",
+    "amount": 1717.06,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Josephfort",
+    "timestamp": "2026-05-22T21:49:59.099527"
+  },
+  {
+    "transaction_id": "ccbcb5c5-79e9-4d64-9853-5354c5903bde",
+    "user_id": "c6f85e54-06db-4a66-86af-22c1a137ed0f",
+    "amount": 7960.01,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Wallaceport",
+    "timestamp": "2026-05-22T21:49:59.602157"
+  },
+  {
+    "transaction_id": "ed6ff887-cd91-415a-b354-e48b94c188c3",
+    "user_id": "f47357d0-8da2-4df9-9818-5cc49a315bd4",
+    "amount": 4259.71,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Caitlinshire",
+    "timestamp": "2026-05-22T21:50:00.103872"
+  },
+  {
+    "transaction_id": "c37c8a9a-673a-401a-bd21-2d79b0abf262",
+    "user_id": "473c3ab2-e0a4-47fb-af22-b6035890be41",
+    "amount": 4169.05,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Patriciaberg",
+    "timestamp": "2026-05-22T21:50:01.108404"
+  },
+  {
+    "transaction_id": "d4c24679-c908-457d-b2d7-a0d037153da1",
+    "user_id": "710aeed1-e2a1-433d-abd9-2739507ec344",
+    "amount": 4970.06,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Monica",
+    "timestamp": "2026-05-22T21:50:01.610754"
+  },
+  {
+    "transaction_id": "e4006044-fd52-4c98-a268-857cc59e1759",
+    "user_id": "02fc7f4c-d997-490c-bf39-9d50d8c20049",
+    "amount": 121.03,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Christopherside",
+    "timestamp": "2026-05-22T21:50:02.112074"
+  },
+  {
+    "transaction_id": "506391f3-9f0a-4072-9495-3bf9dd0d9117",
+    "user_id": "c36379b3-101c-470a-a30d-1a2ed6df3e6c",
+    "amount": 9179.49,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lewisborough",
+    "timestamp": "2026-05-22T21:50:02.613571"
+  }
+]

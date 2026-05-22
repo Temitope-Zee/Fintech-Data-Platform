@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a1b362da-e557-433f-81fc-3ecb9e388b86",
+    "user_id": "40961500-ce67-4d33-afeb-5cce27bb35d7",
+    "amount": 3269.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Duranbury",
+    "timestamp": "2026-05-22T22:08:18.093031"
+  },
+  {
+    "transaction_id": "74928960-8579-4ad4-a944-d92569599e0a",
+    "user_id": "1d5369d1-4fb2-4a34-b08d-cc967353b0f2",
+    "amount": 7804.9,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Monroeport",
+    "timestamp": "2026-05-22T22:08:18.596231"
+  },
+  {
+    "transaction_id": "682d56ef-56ef-4812-95f8-dc61b10e96cb",
+    "user_id": "ccbdf019-31ac-4b51-9943-9205d05a3903",
+    "amount": 1227.46,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Russellbury",
+    "timestamp": "2026-05-22T22:08:19.098171"
+  },
+  {
+    "transaction_id": "6e696054-b24a-423c-ab47-4292aa39558e",
+    "user_id": "a02af995-fb34-4a69-a7d5-21a266d41ddd",
+    "amount": 5798.63,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Johnview",
+    "timestamp": "2026-05-22T22:08:19.600046"
+  },
+  {
+    "transaction_id": "bd2c8ad6-3193-4f5a-88d2-6d90a676fd05",
+    "user_id": "c0e33d74-3b8d-4d4c-b8ea-edcb1a9a77d3",
+    "amount": 6288.94,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Heather",
+    "timestamp": "2026-05-22T22:08:20.103858"
+  },
+  {
+    "transaction_id": "f66b0cbb-1901-4f4a-b01a-7aa02b9302ff",
+    "user_id": "13ab740c-8cfa-443e-8a4a-73f05461bd01",
+    "amount": 723.56,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Brownborough",
+    "timestamp": "2026-05-22T22:08:20.605370"
+  },
+  {
+    "transaction_id": "b1b9bfc2-9e70-4c8f-831d-b80d47cf0488",
+    "user_id": "af2c2315-79cd-47ec-b93d-51a1d440ea8d",
+    "amount": 416.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Shanefurt",
+    "timestamp": "2026-05-22T22:08:21.106684"
+  },
+  {
+    "transaction_id": "a57d7c0c-02ba-43b8-92bf-1ab167fe1992",
+    "user_id": "da5843de-ebdb-4961-a08a-82977ba327a0",
+    "amount": 1375.8,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Kathleenborough",
+    "timestamp": "2026-05-22T22:08:21.609560"
+  },
+  {
+    "transaction_id": "ddaf24b1-86ea-4e43-9782-ae145b5b97fd",
+    "user_id": "653ab022-1ab4-404e-92a4-d67c52c56475",
+    "amount": 1681.74,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Kelly",
+    "timestamp": "2026-05-22T22:08:22.111059"
+  },
+  {
+    "transaction_id": "ed528c62-22c4-4c93-a4e9-0369c0832999",
+    "user_id": "7dcc705f-382f-49b1-90c6-0778cb1ef29a",
+    "amount": 8585.3,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Harpermouth",
+    "timestamp": "2026-05-22T22:08:22.613307"
+  }
+]

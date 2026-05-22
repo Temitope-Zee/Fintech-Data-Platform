@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "51e05e97-9bb4-43c4-8670-b4e841153be8",
+    "user_id": "f111ac9e-8f52-4ff1-9514-2a2f626b68e4",
+    "amount": 9047.64,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Cynthia",
+    "timestamp": "2026-05-22T22:56:21.455480"
+  },
+  {
+    "transaction_id": "3a98f717-230b-4979-b130-411d6b40db43",
+    "user_id": "7bd7e41b-a53b-4aff-bb30-3a4d4726fb4a",
+    "amount": 5218.13,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Judy",
+    "timestamp": "2026-05-22T22:56:21.956991"
+  },
+  {
+    "transaction_id": "d2617ce3-d669-4a13-99a0-b739f2a7d051",
+    "user_id": "783058ea-d540-40b5-8dec-57667c64ac35",
+    "amount": 1339.54,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Walkerberg",
+    "timestamp": "2026-05-22T22:56:22.458791"
+  },
+  {
+    "transaction_id": "eb13c98f-5eb1-4b9e-9e40-61cbb862d970",
+    "user_id": "eccd8d6b-dc8c-4d8d-8cfb-375d6a86308c",
+    "amount": 9105.08,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Charlesfort",
+    "timestamp": "2026-05-22T22:56:22.962041"
+  },
+  {
+    "transaction_id": "cddd45a0-fd33-4df8-ab70-f42544772c99",
+    "user_id": "149c351f-4ff6-47f0-9103-a1fe362a9ace",
+    "amount": 9236.09,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Hughesside",
+    "timestamp": "2026-05-22T22:56:23.463269"
+  },
+  {
+    "transaction_id": "adb941d5-07ec-49a3-bb51-e314a613e8b2",
+    "user_id": "0cbfe57d-4acd-44c0-84ea-aea4fab1382a",
+    "amount": 2500.58,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kaylafort",
+    "timestamp": "2026-05-22T22:56:23.965639"
+  },
+  {
+    "transaction_id": "7ed6a07b-61bd-45f3-a330-6e4186d41faf",
+    "user_id": "66b76a81-5ad3-4340-a17f-2a83b2324dd5",
+    "amount": 781.13,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Hendersonstad",
+    "timestamp": "2026-05-22T22:56:24.466865"
+  },
+  {
+    "transaction_id": "4e55626d-76e2-40c3-95b2-f6492ad13ca9",
+    "user_id": "563de355-0f2e-431f-9643-bbbc0dca4b2a",
+    "amount": 1221.87,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Micheleberg",
+    "timestamp": "2026-05-22T22:56:24.968872"
+  },
+  {
+    "transaction_id": "f2188220-9963-44d5-ad90-ede3d303b62d",
+    "user_id": "ae5b1e1b-cc86-4c46-9b18-73c748736f79",
+    "amount": 1658.04,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Cardenasshire",
+    "timestamp": "2026-05-22T22:56:25.470233"
+  },
+  {
+    "transaction_id": "16b5b4b9-1993-457c-8162-c51493eb92bd",
+    "user_id": "608cd1e2-a8f7-45d7-9ce8-b4b362161648",
+    "amount": 7906.82,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ivanport",
+    "timestamp": "2026-05-22T22:56:25.971989"
+  }
+]

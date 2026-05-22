@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5c18339c-eaff-4ddc-a289-adcc385f18ff",
+    "user_id": "f154e99a-b012-49ec-a5c7-e9f10d4310ef",
+    "amount": 9111.3,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Courtney",
+    "timestamp": "2026-05-22T22:59:38.706923"
+  },
+  {
+    "transaction_id": "5e7671f2-15a6-4d70-9a50-77d3df191412",
+    "user_id": "192d06e4-5f04-4859-aedd-3dbb464153df",
+    "amount": 4226.76,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Jeremyborough",
+    "timestamp": "2026-05-22T22:59:39.209637"
+  },
+  {
+    "transaction_id": "35ce5110-f3a3-4487-b9a7-7ccef232530b",
+    "user_id": "99c8ae8b-d5ef-4893-8066-27bb3a7a41c4",
+    "amount": 6838.45,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Greg",
+    "timestamp": "2026-05-22T22:59:39.712028"
+  },
+  {
+    "transaction_id": "95863955-e62f-4bac-a664-5e52768cd9a7",
+    "user_id": "2257ba28-c0ff-42d1-8cd0-cbb77f2d3cc3",
+    "amount": 2540.95,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Evansport",
+    "timestamp": "2026-05-22T22:59:40.212821"
+  },
+  {
+    "transaction_id": "cf2e7ab6-e036-4f8d-8127-6b5014dd9e21",
+    "user_id": "fb4fbcba-ecbd-4aa9-b49b-6de010585d5d",
+    "amount": 1264.73,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Christopher",
+    "timestamp": "2026-05-22T22:59:40.714025"
+  },
+  {
+    "transaction_id": "792b9005-1c5e-42f3-a90b-829d62a6e948",
+    "user_id": "3f9a03c4-0da8-4a31-b329-dff88f69bee6",
+    "amount": 3239.5,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Velazquezview",
+    "timestamp": "2026-05-22T22:59:41.215783"
+  },
+  {
+    "transaction_id": "8295f1d7-3350-4970-bcea-ae2991e5aa8d",
+    "user_id": "310b4756-07e6-401d-b969-b7757768c973",
+    "amount": 8811.46,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Burgessmouth",
+    "timestamp": "2026-05-22T22:59:41.716801"
+  },
+  {
+    "transaction_id": "a2f47976-ebff-4817-a5e2-e2288ca59de0",
+    "user_id": "cef6c653-9010-46ca-a3a8-b898a4915efa",
+    "amount": 5826.8,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Beverlytown",
+    "timestamp": "2026-05-22T22:59:42.719552"
+  },
+  {
+    "transaction_id": "7f31042a-6f7a-4079-b7e7-4361d5f5be98",
+    "user_id": "8e90d008-37ff-4e06-b343-e32113600151",
+    "amount": 4166.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Staceyburgh",
+    "timestamp": "2026-05-22T22:59:43.721494"
+  },
+  {
+    "transaction_id": "0cea092f-00e2-490e-9b05-8464a05c9345",
+    "user_id": "7316e778-ca6b-42ed-a938-f76ed1c0f31b",
+    "amount": 1036.02,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Melissamouth",
+    "timestamp": "2026-05-22T22:59:44.222823"
+  }
+]

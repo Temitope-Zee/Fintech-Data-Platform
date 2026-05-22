@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bcfa505d-eddd-4675-8339-26f6a0a24d2c",
+    "user_id": "42c69396-4b51-4644-81f2-7a8897eb1f93",
+    "amount": 6832.73,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Smallfort",
+    "timestamp": "2026-05-22T22:04:54.776297"
+  },
+  {
+    "transaction_id": "fd37108a-6e90-4112-88b0-1bd4e6dbbed1",
+    "user_id": "59cd82f3-d0e8-4766-803d-93c2fc59c66e",
+    "amount": 9735.98,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Loriberg",
+    "timestamp": "2026-05-22T22:04:55.277830"
+  },
+  {
+    "transaction_id": "a92c66d7-89b4-44d6-ba47-c705821ec8ac",
+    "user_id": "32dc2856-2f2e-4f2c-b79f-e998e0fd5002",
+    "amount": 9265.03,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Mark",
+    "timestamp": "2026-05-22T22:04:55.780889"
+  },
+  {
+    "transaction_id": "6b324e66-a56b-4c13-b3a6-b9bbf70c5654",
+    "user_id": "6e7ef7fe-737b-4961-b986-f813e65ae722",
+    "amount": 406.05,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Robin",
+    "timestamp": "2026-05-22T22:04:56.283637"
+  },
+  {
+    "transaction_id": "92f2b29a-0538-42af-a8d1-b64ea4534efc",
+    "user_id": "0d759195-4035-4f0a-a6d9-43e8c795aa00",
+    "amount": 4678.21,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Seanberg",
+    "timestamp": "2026-05-22T22:04:57.287452"
+  },
+  {
+    "transaction_id": "c65644bb-5ddd-4ddb-8ab9-5c422da2fdc0",
+    "user_id": "c7140cf1-d3f7-442e-80ce-99f2b80690d2",
+    "amount": 4946.54,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Larry",
+    "timestamp": "2026-05-22T22:04:57.788962"
+  },
+  {
+    "transaction_id": "72c341d0-653a-489f-b531-8c2d4f75d41c",
+    "user_id": "0e5ed842-8cd2-4eb4-b5e4-7d1d9411d9a1",
+    "amount": 9103.36,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Sydney",
+    "timestamp": "2026-05-22T22:04:58.290478"
+  },
+  {
+    "transaction_id": "84731834-a25b-4a0b-8d6c-e2339d594c11",
+    "user_id": "adabc977-5a04-430f-8014-f5d35c571096",
+    "amount": 7659.78,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ryanburgh",
+    "timestamp": "2026-05-22T22:04:58.792662"
+  },
+  {
+    "transaction_id": "35434e55-9ac5-4aaf-8666-3e0c02a7a8b8",
+    "user_id": "72190c17-f9b9-49dd-944c-5250addde48a",
+    "amount": 8569.06,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Amyfurt",
+    "timestamp": "2026-05-22T22:04:59.797608"
+  },
+  {
+    "transaction_id": "3bf3dc36-51e4-4455-b595-8ba862754bcf",
+    "user_id": "b6af3d0b-6956-47ab-90d6-a7d29e4c0ca5",
+    "amount": 249.0,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Weaverland",
+    "timestamp": "2026-05-22T22:05:00.802341"
+  }
+]

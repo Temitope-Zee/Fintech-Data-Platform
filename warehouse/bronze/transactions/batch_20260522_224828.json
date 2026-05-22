@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4fef09c1-9fac-47a5-a95e-8029436696df",
+    "user_id": "ce186dc8-f151-4a69-a12c-5e59cefed8bc",
+    "amount": 5451.32,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Marshallmouth",
+    "timestamp": "2026-05-22T22:48:22.973820"
+  },
+  {
+    "transaction_id": "ecb63d84-7cf2-4569-82a8-ecfde48a1f04",
+    "user_id": "7ef9bebf-a8e6-41cf-8f29-b13873f5c871",
+    "amount": 9934.98,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Travismouth",
+    "timestamp": "2026-05-22T22:48:23.976936"
+  },
+  {
+    "transaction_id": "31a26db9-8e0b-47db-870e-7fac18a5e916",
+    "user_id": "48ee2859-ceb1-4623-9b81-9a5dce0c95bf",
+    "amount": 1389.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Fritzside",
+    "timestamp": "2026-05-22T22:48:24.477845"
+  },
+  {
+    "transaction_id": "597bb208-257c-4d75-9553-960bc06ebd66",
+    "user_id": "b4bfd17e-05e8-4cae-a8a6-7f4f7cd17434",
+    "amount": 892.29,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Nataliefort",
+    "timestamp": "2026-05-22T22:48:24.980477"
+  },
+  {
+    "transaction_id": "d52a3d5b-419a-4c4d-b29c-94a48ddeac39",
+    "user_id": "2fc94973-f074-4989-823c-5442f046548a",
+    "amount": 8432.42,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Michellehaven",
+    "timestamp": "2026-05-22T22:48:25.481556"
+  },
+  {
+    "transaction_id": "398b415c-ffd4-466a-a01b-2cbcb2356dbd",
+    "user_id": "6400fe58-6eb3-4ef9-aecd-c6697352ee76",
+    "amount": 2960.16,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nicoletown",
+    "timestamp": "2026-05-22T22:48:25.982646"
+  },
+  {
+    "transaction_id": "ce419958-4a24-42f6-92fd-6aedd0fced04",
+    "user_id": "3ce22683-dfd6-472e-be51-9cd82b25ad7a",
+    "amount": 6167.96,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Craneshire",
+    "timestamp": "2026-05-22T22:48:26.485654"
+  },
+  {
+    "transaction_id": "a5369138-ff71-423f-be57-0c57ea30c41f",
+    "user_id": "67454407-2635-47ec-8561-237b9c9dc273",
+    "amount": 7906.24,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Julieview",
+    "timestamp": "2026-05-22T22:48:27.486746"
+  },
+  {
+    "transaction_id": "efebfd4a-6ba1-4313-9395-c9b53cd0ef3a",
+    "user_id": "ced75232-d976-4054-aa19-efc00342f70c",
+    "amount": 3481.87,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Stephen",
+    "timestamp": "2026-05-22T22:48:27.987939"
+  },
+  {
+    "transaction_id": "73771db9-c17a-4909-b4de-2a898bded79f",
+    "user_id": "a9a011d2-5767-4225-b662-fee6bac1609d",
+    "amount": 4923.63,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Elizabethtown",
+    "timestamp": "2026-05-22T22:48:28.489665"
+  }
+]

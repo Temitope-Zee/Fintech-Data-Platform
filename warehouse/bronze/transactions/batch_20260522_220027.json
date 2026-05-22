@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "54aa2723-8831-46be-865e-b57f82c0fe81",
+    "user_id": "0574a37c-971c-43a0-9051-fb11de344212",
+    "amount": 3273.54,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Adammouth",
+    "timestamp": "2026-05-22T22:00:22.651641"
+  },
+  {
+    "transaction_id": "5813321a-9a87-4e37-8239-303dd58a3cef",
+    "user_id": "8d91c985-522b-4c83-b684-a9ab9339c885",
+    "amount": 702.05,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Helentown",
+    "timestamp": "2026-05-22T22:00:23.153139"
+  },
+  {
+    "transaction_id": "6eb61598-b058-43b3-bb3b-076b57f7aaf0",
+    "user_id": "8b991b89-5246-462c-acd4-9ad847928da7",
+    "amount": 248.41,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Michaelland",
+    "timestamp": "2026-05-22T22:00:24.157826"
+  },
+  {
+    "transaction_id": "ca7bef10-4184-4d3e-b4b5-4bacbbd7dd6e",
+    "user_id": "8408db9b-8b0a-4f05-bdd2-661882eb8e97",
+    "amount": 1973.97,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North James",
+    "timestamp": "2026-05-22T22:00:24.660698"
+  },
+  {
+    "transaction_id": "355b3c48-18fd-4266-a1d9-d47e63ce47b6",
+    "user_id": "953df9e4-d3e9-4118-92f6-fa52b1f894c3",
+    "amount": 9377.8,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Wadeton",
+    "timestamp": "2026-05-22T22:00:25.161910"
+  },
+  {
+    "transaction_id": "a1214583-6d4b-4f1f-b804-0e9f18e2eafd",
+    "user_id": "c11e815c-2741-4618-8b54-21319746c5c3",
+    "amount": 3293.47,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Travismouth",
+    "timestamp": "2026-05-22T22:00:25.663133"
+  },
+  {
+    "transaction_id": "07e21cea-0936-451d-a396-ddabdcb60c0d",
+    "user_id": "30380a24-4cf8-4fda-abca-e32ae4b91d86",
+    "amount": 8891.75,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Kennethmouth",
+    "timestamp": "2026-05-22T22:00:26.164633"
+  },
+  {
+    "transaction_id": "1e0ee794-ee5c-4ef1-91c5-bdffd0cbe743",
+    "user_id": "b1d5b52a-192c-4cc0-b562-077a754ad740",
+    "amount": 3623.62,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Benjaminborough",
+    "timestamp": "2026-05-22T22:00:26.666339"
+  },
+  {
+    "transaction_id": "f94e902c-e200-46c0-84bc-7f5f20106bd6",
+    "user_id": "85e1c8e9-1064-4339-a6ae-18a37d92ae68",
+    "amount": 8588.75,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Autumnbury",
+    "timestamp": "2026-05-22T22:00:27.168995"
+  },
+  {
+    "transaction_id": "bff3d958-6fca-4a35-970d-f7ec85c1ca4b",
+    "user_id": "7290cac7-0a19-4e6d-a220-87567ee8fb60",
+    "amount": 5005.23,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Davidchester",
+    "timestamp": "2026-05-22T22:00:27.670671"
+  }
+]

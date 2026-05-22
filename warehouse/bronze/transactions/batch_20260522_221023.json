@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d354aead-0819-498b-87e0-07d683c3d6b8",
+    "user_id": "132ab05d-6225-41e7-a7fe-9d287708147a",
+    "amount": 1404.76,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Mikeland",
+    "timestamp": "2026-05-22T22:10:17.573102"
+  },
+  {
+    "transaction_id": "06fdb33f-1cd2-464c-bcf0-e25673d381cd",
+    "user_id": "3106dc55-6333-4815-a8a3-1b3db4579dd8",
+    "amount": 2203.9,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nelsonside",
+    "timestamp": "2026-05-22T22:10:18.074216"
+  },
+  {
+    "transaction_id": "941e1005-3141-4be1-8e0d-22f94a08cbc7",
+    "user_id": "5c37d2e9-facb-4d03-aae6-fcc7c30f1e18",
+    "amount": 2873.7,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Paulburgh",
+    "timestamp": "2026-05-22T22:10:18.576731"
+  },
+  {
+    "transaction_id": "cfe0d51b-e945-49f9-86fb-ab13a103b31e",
+    "user_id": "559907f6-1449-4ab9-8f11-902f5bea5de8",
+    "amount": 1379.92,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Karen",
+    "timestamp": "2026-05-22T22:10:19.078161"
+  },
+  {
+    "transaction_id": "7e476bc8-af74-4f4e-83f5-1c439b606f9b",
+    "user_id": "c5387c3e-bc7f-4607-8a45-5962fc3a596e",
+    "amount": 104.65,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Josephport",
+    "timestamp": "2026-05-22T22:10:20.081672"
+  },
+  {
+    "transaction_id": "aebc2c05-5c44-401f-9d2f-f2b85f0f8db0",
+    "user_id": "d4478119-1281-4192-8006-1459686b28e4",
+    "amount": 4364.43,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Nolanborough",
+    "timestamp": "2026-05-22T22:10:20.582834"
+  },
+  {
+    "transaction_id": "f652f075-9ca5-4bf9-9fbf-9af4edb20bfb",
+    "user_id": "8cad695a-1b59-4cc6-8c3c-25f410a6add8",
+    "amount": 4485.33,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Johnborough",
+    "timestamp": "2026-05-22T22:10:21.083925"
+  },
+  {
+    "transaction_id": "ea4f3cb8-7caa-45b9-a660-8bb8aca6942a",
+    "user_id": "e2041370-d707-483d-a963-f1f2dca6d46a",
+    "amount": 3226.53,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Stephenland",
+    "timestamp": "2026-05-22T22:10:21.584926"
+  },
+  {
+    "transaction_id": "8b4bbe3e-2629-4ef2-a7a1-195619cb1db4",
+    "user_id": "9d4583cc-c36e-4f0e-8f00-e3527c7bd3d4",
+    "amount": 7522.48,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Jamesstad",
+    "timestamp": "2026-05-22T22:10:22.086739"
+  },
+  {
+    "transaction_id": "135b4b23-712e-49e1-9a65-dcfba6d8d6a3",
+    "user_id": "9fe28def-b5c2-4f69-aff6-2114a5bfcd16",
+    "amount": 4591.23,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Kelli",
+    "timestamp": "2026-05-22T22:10:23.089769"
+  }
+]

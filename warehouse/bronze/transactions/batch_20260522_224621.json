@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "70290393-2e63-4de5-9dc1-0e3d4335f39a",
+    "user_id": "8eabe34d-26fa-4605-9bd4-03b3d31500f4",
+    "amount": 599.8,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Adam",
+    "timestamp": "2026-05-22T22:46:16.977519"
+  },
+  {
+    "transaction_id": "ecb32be9-b7f2-418c-978b-300e61c08806",
+    "user_id": "99936e65-9814-483a-bffb-4c30c93af6a5",
+    "amount": 9704.97,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Ryanberg",
+    "timestamp": "2026-05-22T22:46:17.480113"
+  },
+  {
+    "transaction_id": "e2cac031-a1d2-4bae-9d70-91441aca8c8b",
+    "user_id": "b13c4693-d0e1-4537-a126-d3de6d7853f8",
+    "amount": 6014.81,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lozanomouth",
+    "timestamp": "2026-05-22T22:46:17.981250"
+  },
+  {
+    "transaction_id": "fa0622fc-f4bc-43ef-830b-19626c9901b3",
+    "user_id": "d96c182e-d30d-4721-bd3f-07572fe35838",
+    "amount": 9202.95,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Josephburgh",
+    "timestamp": "2026-05-22T22:46:18.483235"
+  },
+  {
+    "transaction_id": "7bae7c87-0f04-409f-ba72-457cc6bae37f",
+    "user_id": "2c19d4c7-749a-4164-8211-d013d4b422f0",
+    "amount": 6615.78,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Nicole",
+    "timestamp": "2026-05-22T22:46:18.984770"
+  },
+  {
+    "transaction_id": "9ece8eda-9a77-4f6f-ad31-1930a30767dc",
+    "user_id": "31d6ee6d-8368-4dba-bba5-504c9feb9b68",
+    "amount": 6671.04,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Mark",
+    "timestamp": "2026-05-22T22:46:19.488151"
+  },
+  {
+    "transaction_id": "ac0db7f6-6f34-4713-857d-2d5c67cc0549",
+    "user_id": "7d434403-765c-4361-97e6-0d004e9c1a7d",
+    "amount": 9186.35,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Johnburgh",
+    "timestamp": "2026-05-22T22:46:19.989438"
+  },
+  {
+    "transaction_id": "9b667807-44d8-45b7-9dd5-7cefb44e5e64",
+    "user_id": "b937480c-746a-4469-a476-334450d5e39c",
+    "amount": 9679.43,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Millermouth",
+    "timestamp": "2026-05-22T22:46:20.490722"
+  },
+  {
+    "transaction_id": "add2357d-8fec-4101-a992-b2927a8d34dc",
+    "user_id": "34d7400f-4be3-41ab-a7cb-cb045f28708f",
+    "amount": 1155.47,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Josephmouth",
+    "timestamp": "2026-05-22T22:46:20.992163"
+  },
+  {
+    "transaction_id": "7809f29e-fd20-4ab8-8938-74bfe65f4d4e",
+    "user_id": "393dd488-a853-4728-80bb-1ba08c5c6fa2",
+    "amount": 294.28,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Pamelaton",
+    "timestamp": "2026-05-22T22:46:21.493737"
+  }
+]

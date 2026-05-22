@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b0bc6a64-6da5-4ee3-b1e8-f9821320f919",
+    "user_id": "fce8d33e-ada8-467f-b328-62d757339a0d",
+    "amount": 3944.36,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Amandaport",
+    "timestamp": "2026-05-22T21:45:22.484147"
+  },
+  {
+    "transaction_id": "0bc4d7c7-0ef1-47b6-81ae-1b8c068b4dd3",
+    "user_id": "94a02cc7-cbd3-4dd9-a929-ea479f7e3648",
+    "amount": 5101.08,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Amystad",
+    "timestamp": "2026-05-22T21:45:22.984614"
+  },
+  {
+    "transaction_id": "046a2cc5-9871-4196-8875-080b4f425f5a",
+    "user_id": "ed6f4d1e-98ae-4bc7-9bfd-7d82e4e528da",
+    "amount": 6636.29,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Ramirezside",
+    "timestamp": "2026-05-22T21:45:23.485992"
+  },
+  {
+    "transaction_id": "4070f47d-e6a0-4317-8f4a-449c25614663",
+    "user_id": "c8b6384e-4aa7-4a1c-918c-be12afdc96d5",
+    "amount": 161.01,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Christinaton",
+    "timestamp": "2026-05-22T21:45:23.987890"
+  },
+  {
+    "transaction_id": "db3b3d6c-0f72-4abd-a2ec-25a0cd5985bb",
+    "user_id": "6eced9e0-91df-4b01-9d41-4c368377ea16",
+    "amount": 3124.97,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Thomas",
+    "timestamp": "2026-05-22T21:45:24.489237"
+  },
+  {
+    "transaction_id": "78fb25de-f34b-4014-b5d4-1634a5953563",
+    "user_id": "c6b96184-fddb-4266-835e-9a39fb1a14c1",
+    "amount": 7084.31,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Margaretberg",
+    "timestamp": "2026-05-22T21:45:24.992227"
+  },
+  {
+    "transaction_id": "3b2d2f66-e854-4e36-9842-7a3065239082",
+    "user_id": "5fed3d72-4b78-4c08-a4a7-1deb1bc0dcb3",
+    "amount": 9901.91,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Erika",
+    "timestamp": "2026-05-22T21:45:25.495187"
+  },
+  {
+    "transaction_id": "a806d94a-aa46-4b68-888e-7b3274ba834c",
+    "user_id": "c41aedec-d28a-417d-a566-98903dedcd16",
+    "amount": 2469.62,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Baxterside",
+    "timestamp": "2026-05-22T21:45:25.997377"
+  },
+  {
+    "transaction_id": "06ee8fa3-8d52-40ae-8599-c1604ae7209d",
+    "user_id": "0ae6fc5e-394c-461a-95f8-f398491b8707",
+    "amount": 894.21,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Dianaland",
+    "timestamp": "2026-05-22T21:45:26.500570"
+  },
+  {
+    "transaction_id": "6613a544-3b56-4871-9d40-92bfb5ba6797",
+    "user_id": "d7439bce-6a04-4380-a78a-c2773b0a9079",
+    "amount": 5206.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Zacharyfort",
+    "timestamp": "2026-05-22T21:45:27.505295"
+  }
+]

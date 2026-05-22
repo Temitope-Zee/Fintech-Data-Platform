@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d85e21d-fa91-4aa9-8aa0-a9efcb8aee39",
+    "user_id": "ede0aac0-2909-4b2e-9f0e-573d5841aef7",
+    "amount": 8920.1,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Martha",
+    "timestamp": "2026-05-22T21:48:51.343132"
+  },
+  {
+    "transaction_id": "7fd311ff-d4ac-4e90-93a8-22d3dcea1d4b",
+    "user_id": "68beff0b-1d0c-436d-88d1-c6b38ae88e9f",
+    "amount": 5653.52,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Victorville",
+    "timestamp": "2026-05-22T21:48:51.844642"
+  },
+  {
+    "transaction_id": "006f7b6f-3af4-4217-b6ff-14b9ca0c6cb5",
+    "user_id": "47f3aee1-26c2-4d96-bd38-190cfd24ac0d",
+    "amount": 9840.16,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Bretthaven",
+    "timestamp": "2026-05-22T21:48:52.346736"
+  },
+  {
+    "transaction_id": "26c52c4c-a5eb-4958-a8ad-5464175901d4",
+    "user_id": "0f67cf8e-3abe-43e0-ade9-1b3612afede5",
+    "amount": 7800.09,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Tamifurt",
+    "timestamp": "2026-05-22T21:48:52.845993"
+  },
+  {
+    "transaction_id": "99cfae51-ef03-485b-a384-3945e4856bf1",
+    "user_id": "d50e096b-bca6-48c3-a6e7-a6e9f36da4e5",
+    "amount": 7236.84,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Cummingsbury",
+    "timestamp": "2026-05-22T21:48:53.849707"
+  },
+  {
+    "transaction_id": "e7fa933d-f2cc-4873-bf6d-2df6f26a1d9e",
+    "user_id": "0a2629ff-dc4d-47cf-b30a-557da072cd03",
+    "amount": 5174.87,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nicoletown",
+    "timestamp": "2026-05-22T21:48:54.852933"
+  },
+  {
+    "transaction_id": "0af21ff2-a27c-4d47-ab80-1a21c8e54986",
+    "user_id": "ccdfa308-6fb6-4259-8fbd-ec31da193d53",
+    "amount": 117.76,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Kevinton",
+    "timestamp": "2026-05-22T21:48:55.355119"
+  },
+  {
+    "transaction_id": "73b31102-58ad-438d-af50-a372514cdc19",
+    "user_id": "10043027-9d96-482f-b0d8-f21e15a24ee1",
+    "amount": 5071.76,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Gregoryton",
+    "timestamp": "2026-05-22T21:48:55.856257"
+  },
+  {
+    "transaction_id": "27bc7cf0-1028-468d-815a-f3a40df0649e",
+    "user_id": "4c96def6-75e1-4f62-9d87-2198e2c13fea",
+    "amount": 8536.21,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Nicoleville",
+    "timestamp": "2026-05-22T21:48:56.357504"
+  },
+  {
+    "transaction_id": "75ce841f-7895-433a-9d71-9efb4134df96",
+    "user_id": "d460eaaf-8c44-4b72-b708-cbb26c8ab961",
+    "amount": 9216.2,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jonesview",
+    "timestamp": "2026-05-22T21:48:56.859290"
+  }
+]

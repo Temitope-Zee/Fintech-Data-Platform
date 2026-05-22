@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d4e4925a-2034-4cc0-b12d-86519a247914",
+    "user_id": "4e0c00c3-1323-4d27-8a56-e0a82bb6cff2",
+    "amount": 2618.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Michellebury",
+    "timestamp": "2026-05-22T22:07:54.501161"
+  },
+  {
+    "transaction_id": "74bc8477-079b-4691-9cfe-9910ca208757",
+    "user_id": "677454f6-7503-4b69-990f-6623a88f3005",
+    "amount": 9781.34,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Krystalton",
+    "timestamp": "2026-05-22T22:07:55.004155"
+  },
+  {
+    "transaction_id": "24eb0105-f348-4e02-a488-ced813a659d6",
+    "user_id": "d1e3d3cd-27ee-4890-9469-13cd55c65889",
+    "amount": 7646.19,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jenniferfort",
+    "timestamp": "2026-05-22T22:07:55.506007"
+  },
+  {
+    "transaction_id": "f60ac9dc-7396-4ad0-844c-c90dcad63280",
+    "user_id": "9e6f4411-3921-43d0-a181-1b79412f4621",
+    "amount": 354.65,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Stephanie",
+    "timestamp": "2026-05-22T22:07:56.007761"
+  },
+  {
+    "transaction_id": "977920fd-3a54-44f3-a240-1f65f72dd804",
+    "user_id": "680853ac-a04d-416d-be93-661f4ff52d1a",
+    "amount": 7736.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Matthewport",
+    "timestamp": "2026-05-22T22:07:56.509585"
+  },
+  {
+    "transaction_id": "80fef88f-36e3-4d55-9bcc-82e9fbf3664f",
+    "user_id": "3a17b6d0-da64-4fab-b739-6f66d069e248",
+    "amount": 1098.88,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Madisonton",
+    "timestamp": "2026-05-22T22:07:57.012537"
+  },
+  {
+    "transaction_id": "ca1d503f-750a-4cee-86bc-f317433884f0",
+    "user_id": "c78ce99e-9a95-44ca-907d-2160b73f36ec",
+    "amount": 8240.82,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Katiehaven",
+    "timestamp": "2026-05-22T22:07:58.519992"
+  },
+  {
+    "transaction_id": "84508b79-a02c-4962-9040-528fce4e29ea",
+    "user_id": "4cf754d2-cd28-4605-baca-24fbc97d2c96",
+    "amount": 6083.76,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Jamesbury",
+    "timestamp": "2026-05-22T22:07:59.022373"
+  },
+  {
+    "transaction_id": "a3d2be25-fb17-4a1a-bb1e-d3b17d923c81",
+    "user_id": "3c5cc5ba-a3b0-40d5-b150-8b33dfdad05d",
+    "amount": 9670.2,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Olsonstad",
+    "timestamp": "2026-05-22T22:07:59.525340"
+  },
+  {
+    "transaction_id": "01431f1a-f229-48c2-b62a-3cdd2bb5f416",
+    "user_id": "4f846ecf-c4a1-4649-a6d0-1298412e6cf9",
+    "amount": 8007.99,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Craigport",
+    "timestamp": "2026-05-22T22:08:00.026899"
+  }
+]

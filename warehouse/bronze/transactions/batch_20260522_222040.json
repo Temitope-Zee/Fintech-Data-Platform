@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5df52070-26a0-4290-8cf0-dfcdc053a82d",
+    "user_id": "05a7d538-0c21-444b-982d-270bdbb048de",
+    "amount": 9561.88,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Laurashire",
+    "timestamp": "2026-05-22T22:20:33.016355"
+  },
+  {
+    "transaction_id": "58a982b9-704e-42bd-a88f-e33a661d6e7f",
+    "user_id": "178ab97b-31e2-43e8-a1e1-97ef0389e56e",
+    "amount": 2164.07,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Mario",
+    "timestamp": "2026-05-22T22:20:33.519181"
+  },
+  {
+    "transaction_id": "e3f68417-919b-4327-beb3-e494fa70d60e",
+    "user_id": "6a8b58a6-8a35-406c-b0f8-5faeb7a81f9d",
+    "amount": 7809.73,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Davidberg",
+    "timestamp": "2026-05-22T22:20:34.521952"
+  },
+  {
+    "transaction_id": "d3217548-152a-425a-baab-9ce33fecc340",
+    "user_id": "a34f0978-0e51-4d12-a81b-2689980bd22f",
+    "amount": 5446.8,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Yvetteview",
+    "timestamp": "2026-05-22T22:20:36.529389"
+  },
+  {
+    "transaction_id": "1c8ad6da-f855-49d8-a0ed-53e969a329ba",
+    "user_id": "e2ea479d-7bf0-4bc6-95e9-a7fad9ce20e7",
+    "amount": 1935.51,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Nicholas",
+    "timestamp": "2026-05-22T22:20:37.031800"
+  },
+  {
+    "transaction_id": "3b616416-4150-40f7-ba1b-e89526268a4c",
+    "user_id": "1fa7366d-4280-41f3-b600-308d8f978a83",
+    "amount": 8321.07,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Eric",
+    "timestamp": "2026-05-22T22:20:37.533984"
+  },
+  {
+    "transaction_id": "c75840ff-2565-4501-a7d3-563637d210f0",
+    "user_id": "68f0040e-ecbf-4973-baa3-e3bed240d461",
+    "amount": 4669.26,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Shannonburgh",
+    "timestamp": "2026-05-22T22:20:38.035543"
+  },
+  {
+    "transaction_id": "ede2ced0-fe39-4bb7-a97d-76bfc963596d",
+    "user_id": "85098278-bb00-489f-96ff-40ccbf8bf014",
+    "amount": 9670.35,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Martinezhaven",
+    "timestamp": "2026-05-22T22:20:38.536870"
+  },
+  {
+    "transaction_id": "d452b927-4d2d-4440-90a9-9bcdab9b6b0b",
+    "user_id": "29e6aa03-2324-4428-8842-b57fa519b627",
+    "amount": 5671.61,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Gonzalezburgh",
+    "timestamp": "2026-05-22T22:20:39.040253"
+  },
+  {
+    "transaction_id": "077e7eb5-3ba3-4b5e-81ce-145f170dd0b6",
+    "user_id": "cd297b4b-98cb-4829-b69c-3cb453298c8e",
+    "amount": 9827.66,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Hallstad",
+    "timestamp": "2026-05-22T22:20:40.044479"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bb0b515d-9374-43ed-9e2c-47fd19f1598c",
+    "user_id": "2a3a185f-caea-42be-978a-822078db16ae",
+    "amount": 7735.1,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Mary",
+    "timestamp": "2026-05-22T21:44:24.711618"
+  },
+  {
+    "transaction_id": "d41c3c71-ff76-41c7-b989-0063e320c0f9",
+    "user_id": "f05f88d7-ae42-4d0e-967f-1de29ed86d4a",
+    "amount": 3051.2,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Justin",
+    "timestamp": "2026-05-22T21:44:25.214263"
+  },
+  {
+    "transaction_id": "1eafcd3c-7162-4df5-9cdf-6738ed5be8dd",
+    "user_id": "1b98782c-1592-42c5-ba5f-ea6e4f19d3f8",
+    "amount": 3668.95,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Maria",
+    "timestamp": "2026-05-22T21:44:25.719344"
+  },
+  {
+    "transaction_id": "b25894bb-1865-4a08-a8a4-e70b7ce61d7f",
+    "user_id": "480ba37f-7625-4832-9fc6-b7922f4c7a44",
+    "amount": 8855.3,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Kathyfurt",
+    "timestamp": "2026-05-22T21:44:27.223907"
+  },
+  {
+    "transaction_id": "7af6c04c-518b-402b-9f7f-77a1ab73a269",
+    "user_id": "1586d83e-a01f-40ec-9482-470535e80542",
+    "amount": 6419.64,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Noah",
+    "timestamp": "2026-05-22T21:44:28.229321"
+  },
+  {
+    "transaction_id": "38eb5791-7ecb-4868-ba95-8218953b6456",
+    "user_id": "3ee4f36c-b28c-4fcb-bce6-e5577c1a2498",
+    "amount": 7126.11,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Wilkinsland",
+    "timestamp": "2026-05-22T21:44:29.232596"
+  },
+  {
+    "transaction_id": "4de16de5-6faa-47c4-9b28-5fbcf64b2153",
+    "user_id": "3565722a-528a-41f7-91b6-bd3de11ae48d",
+    "amount": 1475.77,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Robertsonport",
+    "timestamp": "2026-05-22T21:44:29.735958"
+  },
+  {
+    "transaction_id": "b58c3f78-d83b-4484-a49c-cc7f74a32e1f",
+    "user_id": "d80fc9af-b3bb-4953-97fc-4208fc61ebe5",
+    "amount": 9659.35,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Joshuaside",
+    "timestamp": "2026-05-22T21:44:30.238598"
+  },
+  {
+    "transaction_id": "8a3c94f5-d8f3-497c-9fa7-72312713587e",
+    "user_id": "218700d3-7b7a-454f-b829-62d019544a4d",
+    "amount": 6131.38,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Cassandrafort",
+    "timestamp": "2026-05-22T21:44:30.740085"
+  },
+  {
+    "transaction_id": "4eee0bee-c0f3-4d96-a672-09a694122313",
+    "user_id": "d8486eba-6f8d-4a02-a04e-7f0fced51803",
+    "amount": 1213.62,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Catherineberg",
+    "timestamp": "2026-05-22T21:44:31.242403"
+  }
+]

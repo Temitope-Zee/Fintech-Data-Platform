@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "08663db8-3cd3-4977-95f6-57cc8371d321",
+    "user_id": "c495e9fd-fce8-4abd-a5b9-b9212f9724b4",
+    "amount": 5517.25,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Angela",
+    "timestamp": "2026-05-22T22:12:52.159756"
+  },
+  {
+    "transaction_id": "f4bf1334-5e3a-443e-8ac2-0ba5def184a8",
+    "user_id": "daa5c320-8a31-4421-9d49-0ad4dfffd606",
+    "amount": 1505.15,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Robertport",
+    "timestamp": "2026-05-22T22:12:52.662868"
+  },
+  {
+    "transaction_id": "fc9a94d4-bef0-4290-8ad3-8b138b18d423",
+    "user_id": "767a9a33-17ec-4744-bba7-b3ddc088be5b",
+    "amount": 6381.7,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Gregory",
+    "timestamp": "2026-05-22T22:12:53.165848"
+  },
+  {
+    "transaction_id": "054301dc-87f5-41e1-8eb1-10ca3d8331be",
+    "user_id": "ccbfeae2-4f93-491e-8d61-019f423936b7",
+    "amount": 6934.16,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Scott",
+    "timestamp": "2026-05-22T22:12:53.667356"
+  },
+  {
+    "transaction_id": "0ab4df4c-51d6-49ae-aed0-1b5fc191fc66",
+    "user_id": "4439327a-4889-4197-879c-6f30db1fd530",
+    "amount": 9892.99,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Christopherland",
+    "timestamp": "2026-05-22T22:12:54.671197"
+  },
+  {
+    "transaction_id": "6c6232cd-caad-4aab-bfde-c1f91eaa45dd",
+    "user_id": "0abad606-3b39-4d30-934a-dccbd3a4670f",
+    "amount": 6943.55,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Nancyport",
+    "timestamp": "2026-05-22T22:12:55.173099"
+  },
+  {
+    "transaction_id": "c76df49f-9814-4ca8-be69-ac4b64657d63",
+    "user_id": "8285b8a9-443e-41cf-ba25-3b482f2401bb",
+    "amount": 6217.99,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Ryanstad",
+    "timestamp": "2026-05-22T22:12:55.674830"
+  },
+  {
+    "transaction_id": "5831ac59-422d-42ad-9e56-c8dc0734e132",
+    "user_id": "4ac7a551-9b6c-4eae-82bd-177a4cfa7c8b",
+    "amount": 1254.09,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Montgomerymouth",
+    "timestamp": "2026-05-22T22:12:56.176280"
+  },
+  {
+    "transaction_id": "d0b89afd-b4a7-4c67-83ae-c78e18e15d19",
+    "user_id": "f217c13a-2ed7-4b13-9486-ab99dd726d41",
+    "amount": 5334.28,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Gabriela",
+    "timestamp": "2026-05-22T22:12:56.677937"
+  },
+  {
+    "transaction_id": "b9603be1-3291-446e-b4c0-184137a0b84c",
+    "user_id": "203d0ce9-fdba-4386-a69e-45e89e0c4aec",
+    "amount": 5890.31,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Williamtown",
+    "timestamp": "2026-05-22T22:12:57.179404"
+  }
+]

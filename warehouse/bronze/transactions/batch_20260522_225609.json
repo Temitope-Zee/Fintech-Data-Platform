@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d2e98d8c-24ab-4786-8762-7b46c46c7146",
+    "user_id": "3e6aa5ea-78b9-4f76-8832-923c05b8af87",
+    "amount": 2323.94,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jenningshaven",
+    "timestamp": "2026-05-22T22:56:03.893213"
+  },
+  {
+    "transaction_id": "e62e46e4-7cb4-43e7-895c-9d391661d13c",
+    "user_id": "a14a963e-a5c7-4c23-a45c-4bcf2d397ada",
+    "amount": 8871.1,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Gonzalesborough",
+    "timestamp": "2026-05-22T22:56:04.395971"
+  },
+  {
+    "transaction_id": "a0de210b-4d70-4dc5-81bb-947644e6f2eb",
+    "user_id": "0275c218-5e2a-47c5-9fe3-16b090344fdf",
+    "amount": 7116.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Randallland",
+    "timestamp": "2026-05-22T22:56:04.897924"
+  },
+  {
+    "transaction_id": "2e668fde-6714-4e27-a1dd-a9dc9795566c",
+    "user_id": "ca7065ee-3653-405a-b5ee-525f3031bd9c",
+    "amount": 8273.82,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Thomasshire",
+    "timestamp": "2026-05-22T22:56:05.901298"
+  },
+  {
+    "transaction_id": "a6641ea2-a77a-4bb6-a7b8-5ec955f10709",
+    "user_id": "deba663e-c08e-4188-9ecb-1813c6ad9b2d",
+    "amount": 6373.43,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Edwardfurt",
+    "timestamp": "2026-05-22T22:56:06.403509"
+  },
+  {
+    "transaction_id": "b84b8985-1520-4318-9b66-1d63a8748125",
+    "user_id": "df2877b7-dbe3-447f-8554-0bfd43546ae6",
+    "amount": 7106.94,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Kellychester",
+    "timestamp": "2026-05-22T22:56:06.904786"
+  },
+  {
+    "transaction_id": "96c6f9a9-95fa-4262-ac0c-7efdd3a5b965",
+    "user_id": "9b8feb4c-7048-4f3c-89f2-2e97dc344206",
+    "amount": 6084.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Sharonfort",
+    "timestamp": "2026-05-22T22:56:07.908908"
+  },
+  {
+    "transaction_id": "2205c04f-997b-4ba9-b6f7-645e83a5cbb1",
+    "user_id": "54364db0-36c8-4fdb-8e05-1df50014288d",
+    "amount": 9362.48,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Michaelbury",
+    "timestamp": "2026-05-22T22:56:08.410278"
+  },
+  {
+    "transaction_id": "726887d4-840e-49cf-8b37-254fdb39b9ea",
+    "user_id": "11f9ed3b-e505-4c1d-bc17-38fcf0711afe",
+    "amount": 4034.34,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Tonyhaven",
+    "timestamp": "2026-05-22T22:56:08.912105"
+  },
+  {
+    "transaction_id": "50d47c07-1e92-48b4-b65c-aec13860c1ba",
+    "user_id": "5d1cdc09-52b3-4487-872b-16ac1590034c",
+    "amount": 5136.13,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Richardsmouth",
+    "timestamp": "2026-05-22T22:56:09.413210"
+  }
+]

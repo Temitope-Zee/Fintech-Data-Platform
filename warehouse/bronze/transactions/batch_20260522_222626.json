@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2100cfb0-22c3-4ab0-bde3-1af50e0227b1",
+    "user_id": "9e730c90-b463-470b-b8a7-f58fc5039718",
+    "amount": 8377.36,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Myersview",
+    "timestamp": "2026-05-22T22:26:21.940896"
+  },
+  {
+    "transaction_id": "edd7bcff-ed11-41bf-9c8e-9244be30f133",
+    "user_id": "8dbe818a-be89-403c-8088-46e9dad16259",
+    "amount": 590.43,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port David",
+    "timestamp": "2026-05-22T22:26:22.442607"
+  },
+  {
+    "transaction_id": "7b92a728-59a0-414b-886c-32654a4db83a",
+    "user_id": "eccc6ea4-3582-469f-8314-5aeef6ec5b67",
+    "amount": 8601.34,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Bishopville",
+    "timestamp": "2026-05-22T22:26:22.943858"
+  },
+  {
+    "transaction_id": "5d159749-ae37-416e-af54-fd2acb65eb74",
+    "user_id": "3e5a534c-783d-48d3-82ba-b0581e4eb498",
+    "amount": 8847.81,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Jessicatown",
+    "timestamp": "2026-05-22T22:26:23.445996"
+  },
+  {
+    "transaction_id": "fc9fde7e-06f5-4bf2-bc5e-7b99695eb1a2",
+    "user_id": "49359f27-4a9f-46e8-b855-5f980bc8e6c7",
+    "amount": 3623.77,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Edwardmouth",
+    "timestamp": "2026-05-22T22:26:23.947476"
+  },
+  {
+    "transaction_id": "47f9a897-de73-4f10-8416-2b93141eb3a8",
+    "user_id": "5056f2cd-d4c3-4e3c-9083-726a84996b8f",
+    "amount": 3350.03,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Blackchester",
+    "timestamp": "2026-05-22T22:26:24.450261"
+  },
+  {
+    "transaction_id": "db24a042-999f-4a73-b06a-8b03d09e78ec",
+    "user_id": "6413e426-8208-49f6-86da-b03664f48f28",
+    "amount": 5270.06,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Elizabeth",
+    "timestamp": "2026-05-22T22:26:24.951899"
+  },
+  {
+    "transaction_id": "d67d6a9d-7369-436b-b7da-f78d8ea2a98e",
+    "user_id": "cf156a7d-a2ba-4932-9fee-82b567887e5d",
+    "amount": 470.94,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Aguilarport",
+    "timestamp": "2026-05-22T22:26:25.453369"
+  },
+  {
+    "transaction_id": "69936877-861f-437f-928f-ba2809585051",
+    "user_id": "9dfcc894-bd1a-49a5-8838-ebe3887e34f2",
+    "amount": 8586.76,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kristinaburgh",
+    "timestamp": "2026-05-22T22:26:25.954683"
+  },
+  {
+    "transaction_id": "9c5c3904-30e5-46d0-90f9-3c890c009377",
+    "user_id": "fdaa711d-7e19-4a31-997c-35f16e0a48a8",
+    "amount": 3884.44,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Bruceland",
+    "timestamp": "2026-05-22T22:26:26.455994"
+  }
+]

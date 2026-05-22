@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a4235561-8ca1-4b6f-bfff-26d3d4f2dc47",
+    "user_id": "3458f539-8c4e-4b63-b8fe-23b81d599a4b",
+    "amount": 6990.31,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Kennethtown",
+    "timestamp": "2026-05-22T21:43:47.547289"
+  },
+  {
+    "transaction_id": "5a23d124-bea2-4cb8-9f3d-234f98f04f80",
+    "user_id": "3b3a3853-344d-4eb6-8785-ee675a08c3d0",
+    "amount": 8945.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Cherylton",
+    "timestamp": "2026-05-22T21:43:48.048888"
+  },
+  {
+    "transaction_id": "12fef0e8-c35e-4435-8ee5-49317e38c114",
+    "user_id": "497b1de4-8426-4b03-a643-6b7adf9e076c",
+    "amount": 8085.21,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Donnaville",
+    "timestamp": "2026-05-22T21:43:48.551832"
+  },
+  {
+    "transaction_id": "3b6666e3-a212-4c08-90df-23c98ea71e55",
+    "user_id": "953ad48e-a04f-46a7-832e-472fa9b5c31c",
+    "amount": 2822.62,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Melissaview",
+    "timestamp": "2026-05-22T21:43:49.053333"
+  },
+  {
+    "transaction_id": "bb55738e-825b-49fc-b29d-3ffe403d9d8d",
+    "user_id": "4853d625-fe94-43fa-bd3e-19e96bb4da92",
+    "amount": 280.59,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Terrellburgh",
+    "timestamp": "2026-05-22T21:43:49.556090"
+  },
+  {
+    "transaction_id": "f8ae41ba-c8db-4472-8395-e0cac2879986",
+    "user_id": "85518513-0e40-49b1-b936-e01945f56f3f",
+    "amount": 1075.35,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Yolandaview",
+    "timestamp": "2026-05-22T21:43:50.560120"
+  },
+  {
+    "transaction_id": "8f89103c-a901-4771-9e87-77598e1da0d0",
+    "user_id": "d0e70c36-32e1-437a-b7de-4adb36319e56",
+    "amount": 6522.51,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Ryan",
+    "timestamp": "2026-05-22T21:43:51.061956"
+  },
+  {
+    "transaction_id": "d9d4384b-519e-418b-a45d-3e0df6187313",
+    "user_id": "271e3b2b-7cdc-43d3-bd87-553eff44aec1",
+    "amount": 2319.38,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Reyestown",
+    "timestamp": "2026-05-22T21:43:51.564869"
+  },
+  {
+    "transaction_id": "af66e5d1-24a1-4e5c-9249-ca446e6e81c3",
+    "user_id": "5780add2-92a6-4275-8577-7ef4aeb04ec0",
+    "amount": 7473.46,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Bakermouth",
+    "timestamp": "2026-05-22T21:43:52.568625"
+  },
+  {
+    "transaction_id": "be26c78d-7ae5-488e-a1e6-2568cb995f84",
+    "user_id": "67d928e2-91ac-4e57-91cf-2d09a9516f8a",
+    "amount": 2756.99,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lewistown",
+    "timestamp": "2026-05-22T21:43:54.073782"
+  }
+]

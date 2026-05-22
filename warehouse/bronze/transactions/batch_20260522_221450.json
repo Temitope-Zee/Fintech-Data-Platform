@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ca0f146a-c087-49e3-af3a-be09106d24b8",
+    "user_id": "7bf75e42-602a-42e0-b4d3-22939ab8da89",
+    "amount": 9113.91,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Hollandfurt",
+    "timestamp": "2026-05-22T22:14:45.612132"
+  },
+  {
+    "transaction_id": "72c0da21-4322-4cbb-adf0-dc4abd932b12",
+    "user_id": "062e5b86-d722-4cd7-82ac-9606896e95af",
+    "amount": 4326.49,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Hannahport",
+    "timestamp": "2026-05-22T22:14:46.617088"
+  },
+  {
+    "transaction_id": "0d599b0d-96a9-49fb-91b9-57469265ac30",
+    "user_id": "6f53ef29-1608-4f31-9e6a-5e67f88113d8",
+    "amount": 6956.37,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Erica",
+    "timestamp": "2026-05-22T22:14:47.118542"
+  },
+  {
+    "transaction_id": "6f9cf86d-416d-4788-8c26-d8f636031377",
+    "user_id": "2c5cf47d-768b-4e47-9ba7-592a570a5430",
+    "amount": 8346.91,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lamborough",
+    "timestamp": "2026-05-22T22:14:47.619926"
+  },
+  {
+    "transaction_id": "8450abf8-4487-4989-8b3f-3bf6bf081b7a",
+    "user_id": "5642d432-d91c-41c6-8c4c-ba9f5a68c9d8",
+    "amount": 9726.75,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Matthew",
+    "timestamp": "2026-05-22T22:14:48.122296"
+  },
+  {
+    "transaction_id": "eb3f371e-052e-4081-95eb-c2d74945bfbb",
+    "user_id": "16aa818c-9028-49c9-bf6e-ce7942e90de5",
+    "amount": 9450.43,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Heatherside",
+    "timestamp": "2026-05-22T22:14:48.624741"
+  },
+  {
+    "transaction_id": "48069006-76e6-47da-b0c9-f56fbfcb0ee0",
+    "user_id": "f8e7605f-bf73-45fb-90cc-8d754fd44e38",
+    "amount": 7670.69,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Griffinhaven",
+    "timestamp": "2026-05-22T22:14:49.127422"
+  },
+  {
+    "transaction_id": "0e6d107f-4842-4d5e-818b-0f3bb69e2ede",
+    "user_id": "ebd08c1e-82a6-4483-8660-f3ffee1ede66",
+    "amount": 6757.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Kristinatown",
+    "timestamp": "2026-05-22T22:14:49.629126"
+  },
+  {
+    "transaction_id": "ad4cd66a-028d-441c-853a-92c3f757c778",
+    "user_id": "0db3fc9b-056b-4260-b4f8-b5a7d2bf35d5",
+    "amount": 9388.15,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Alyssaland",
+    "timestamp": "2026-05-22T22:14:50.131189"
+  },
+  {
+    "transaction_id": "86a51410-a8e1-48f2-8e32-0aa5154c0219",
+    "user_id": "046f36dc-0226-4442-9896-e538522354ba",
+    "amount": 4522.5,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Herreraland",
+    "timestamp": "2026-05-22T22:14:50.632792"
+  }
+]

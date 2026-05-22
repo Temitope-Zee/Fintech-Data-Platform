@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f13ac621-92bb-4176-9f5b-5338657c13bc",
+    "user_id": "71de3579-ddea-48d8-9ff6-52b56b391807",
+    "amount": 5960.49,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Rogerston",
+    "timestamp": "2026-05-22T23:02:20.149269"
+  },
+  {
+    "transaction_id": "63f61ff2-832f-41df-a954-b6ee51fab92a",
+    "user_id": "bcbae621-a98b-4fd6-a55c-ee78c3400a72",
+    "amount": 4197.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Debbie",
+    "timestamp": "2026-05-22T23:02:20.650282"
+  },
+  {
+    "transaction_id": "08d6d3f0-b7f8-43c3-8b8b-7b9eb17d9029",
+    "user_id": "4d010ca0-6fb6-4459-b999-e7fbe8c1fb9f",
+    "amount": 7186.23,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Cameronton",
+    "timestamp": "2026-05-22T23:02:21.151229"
+  },
+  {
+    "transaction_id": "e1be039b-ff9c-41b0-9477-24610c6a6062",
+    "user_id": "0f320b1c-1a7c-4812-87f4-4f3dde2ca191",
+    "amount": 1841.82,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Rebecca",
+    "timestamp": "2026-05-22T23:02:21.652378"
+  },
+  {
+    "transaction_id": "c06c6086-202e-432b-b6e8-d954fee0d6a6",
+    "user_id": "5a96550a-caa5-47b0-92b1-77ccf9ab2677",
+    "amount": 1751.98,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Jamesstad",
+    "timestamp": "2026-05-22T23:02:22.154997"
+  },
+  {
+    "transaction_id": "fe3314ac-1f93-4205-9c88-75eed56690e7",
+    "user_id": "e2a9f2b9-44d9-485b-bd68-6043c09b45d3",
+    "amount": 4573.99,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Jay",
+    "timestamp": "2026-05-22T23:02:22.656087"
+  },
+  {
+    "transaction_id": "4e49526c-8637-4f0d-92d6-b2a226120a24",
+    "user_id": "f05c4a61-a887-4c54-9416-af7adf36d087",
+    "amount": 7094.12,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Jamesburgh",
+    "timestamp": "2026-05-22T23:02:23.659493"
+  },
+  {
+    "transaction_id": "1a5f62f5-de97-4c24-a6c2-a87a0d6ed30e",
+    "user_id": "4a2b2cdb-1c87-4bda-a9d7-1d2c916b6aef",
+    "amount": 9381.13,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Crystal",
+    "timestamp": "2026-05-22T23:02:24.161568"
+  },
+  {
+    "transaction_id": "fba8a0c5-27b2-4a64-b624-6aea64e5c1ea",
+    "user_id": "e8473631-8bd0-4348-a1f1-de38f3621ee0",
+    "amount": 3585.53,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wattsburgh",
+    "timestamp": "2026-05-22T23:02:25.163789"
+  },
+  {
+    "transaction_id": "fb80a2e9-53fd-4d44-b02d-c2543af8b962",
+    "user_id": "980a777b-346d-41b0-84e2-c6755800a902",
+    "amount": 4469.64,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Natasha",
+    "timestamp": "2026-05-22T23:02:25.665527"
+  }
+]

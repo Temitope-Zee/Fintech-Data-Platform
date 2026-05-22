@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "af83ecb1-2e61-4315-af0c-97c2d905de6b",
+    "user_id": "cd55ca7a-e980-41a6-b910-2c57957f9229",
+    "amount": 3130.34,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Michaelview",
+    "timestamp": "2026-05-22T22:20:40.545322"
+  },
+  {
+    "transaction_id": "e591e662-805d-40cf-97c9-6d6cfc4596c0",
+    "user_id": "6aad712c-c7a7-40ee-a9fa-110ef186751d",
+    "amount": 366.81,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Austinton",
+    "timestamp": "2026-05-22T22:20:41.046919"
+  },
+  {
+    "transaction_id": "b64721f3-36ae-40f1-829a-7d9b88304cf1",
+    "user_id": "c80214ad-8691-42bb-abef-875d3437a090",
+    "amount": 5915.83,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South John",
+    "timestamp": "2026-05-22T22:20:41.550808"
+  },
+  {
+    "transaction_id": "02d34e46-f46e-4036-93b9-d2b459e5d35a",
+    "user_id": "743782b6-9505-40f4-b54e-94e951fb38a7",
+    "amount": 9158.1,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Laura",
+    "timestamp": "2026-05-22T22:20:42.053357"
+  },
+  {
+    "transaction_id": "abd15516-aa4c-4e3b-aa07-521d3bf00602",
+    "user_id": "ea8f8544-c0b4-4471-b6e7-d0508177ce1a",
+    "amount": 4739.86,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Erin",
+    "timestamp": "2026-05-22T22:20:42.555981"
+  },
+  {
+    "transaction_id": "4b623340-110b-4dc0-a60e-4af6da975dd8",
+    "user_id": "28b4df43-1357-4846-beed-c339c43f4fac",
+    "amount": 6456.01,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Tiffanyside",
+    "timestamp": "2026-05-22T22:20:43.057265"
+  },
+  {
+    "transaction_id": "8f4536d2-f7c0-497a-85e9-b76de89e2add",
+    "user_id": "7b53b6ea-361b-4d21-b700-d1473f91e433",
+    "amount": 404.02,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake William",
+    "timestamp": "2026-05-22T22:20:43.558934"
+  },
+  {
+    "transaction_id": "ec4dc1dc-0f94-4547-b85c-c10247b2c674",
+    "user_id": "042a4274-e205-4102-bc7d-1b6ee338a5d4",
+    "amount": 4658.83,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Alex",
+    "timestamp": "2026-05-22T22:20:44.561602"
+  },
+  {
+    "transaction_id": "8f2c9818-99a4-4917-87f9-0ee02b1734a7",
+    "user_id": "1fb85b11-7625-4fc0-8cd6-c7671c1f6aff",
+    "amount": 6364.34,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Rachel",
+    "timestamp": "2026-05-22T22:20:45.063476"
+  },
+  {
+    "transaction_id": "a2594964-e0e8-4347-b8be-26c797d5bf2f",
+    "user_id": "12d26cbb-e7c2-4fe5-9dbe-6435a525d255",
+    "amount": 8234.92,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Christopher",
+    "timestamp": "2026-05-22T22:20:45.565478"
+  }
+]

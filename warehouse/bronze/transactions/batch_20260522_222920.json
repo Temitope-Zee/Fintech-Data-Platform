@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b13772c5-6aaa-44f3-b66d-6d41afe31e7e",
+    "user_id": "4ead4754-4708-4614-849b-bfaff077d59c",
+    "amount": 6548.0,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Washingtonfurt",
+    "timestamp": "2026-05-22T22:29:14.669657"
+  },
+  {
+    "transaction_id": "a6e7ce2b-c657-41c6-8179-1b9c1c3f8b60",
+    "user_id": "b29134a5-2e10-4e1a-b215-41e1640bcc14",
+    "amount": 9440.82,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South James",
+    "timestamp": "2026-05-22T22:29:15.170927"
+  },
+  {
+    "transaction_id": "8e2d3254-7354-4106-9b5d-8b91594646bc",
+    "user_id": "1608efb7-dff3-4441-9e43-48a44ad36425",
+    "amount": 5662.79,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Curtisfurt",
+    "timestamp": "2026-05-22T22:29:16.173999"
+  },
+  {
+    "transaction_id": "890d18f0-f7db-4e6d-83ed-1069c0f67abd",
+    "user_id": "db53059e-4daa-4243-87f1-e626cb55efe9",
+    "amount": 6231.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Cindyton",
+    "timestamp": "2026-05-22T22:29:17.177274"
+  },
+  {
+    "transaction_id": "0a5f9f0b-cd7a-447a-a453-c4597b36175d",
+    "user_id": "2b2c9786-8fc2-4708-a2f2-9cbe0fe8300d",
+    "amount": 866.22,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lewistown",
+    "timestamp": "2026-05-22T22:29:17.679291"
+  },
+  {
+    "transaction_id": "d4b73052-d01a-47fc-94c6-51911ed47d4b",
+    "user_id": "f4d0f41f-eeca-4999-ab43-4f620418cceb",
+    "amount": 8979.33,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Ana",
+    "timestamp": "2026-05-22T22:29:18.181362"
+  },
+  {
+    "transaction_id": "e536f797-dd55-4990-92e2-416d31119be7",
+    "user_id": "258cf012-c569-4d8e-89eb-472da685ee9f",
+    "amount": 5596.33,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Tinamouth",
+    "timestamp": "2026-05-22T22:29:18.683330"
+  },
+  {
+    "transaction_id": "16a043d5-004b-4670-9e4b-ce2a5dd99623",
+    "user_id": "a4585f38-78d6-46ee-b8fd-caacb7c4490c",
+    "amount": 8351.68,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Cassidy",
+    "timestamp": "2026-05-22T22:29:19.186519"
+  },
+  {
+    "transaction_id": "a1628cb7-b2dc-4c69-a8ec-e6ee84786722",
+    "user_id": "296078c6-af8b-4b1f-8bc6-a2652702ce08",
+    "amount": 7225.16,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Kayla",
+    "timestamp": "2026-05-22T22:29:19.688983"
+  },
+  {
+    "transaction_id": "1581390a-bed1-4b4b-a628-ac24241638dc",
+    "user_id": "176a9744-8abe-4110-93d6-fd7310796596",
+    "amount": 4869.61,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Andrewport",
+    "timestamp": "2026-05-22T22:29:20.692465"
+  }
+]

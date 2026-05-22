@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "11a61e86-fa33-4411-917e-bf8274891dd1",
+    "user_id": "dd15d7b9-dc69-4fa2-a25a-57e6d384afd4",
+    "amount": 2481.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Allisonbury",
+    "timestamp": "2026-05-22T22:25:57.849648"
+  },
+  {
+    "transaction_id": "cd6eb4e1-e494-45c1-901c-5d8ca4693162",
+    "user_id": "8c560ee0-dcce-45f4-9e94-654eefb196f3",
+    "amount": 508.65,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Mariatown",
+    "timestamp": "2026-05-22T22:25:58.351184"
+  },
+  {
+    "transaction_id": "5bd46ae5-d9ef-42dc-90d6-68b6c6a4a0a2",
+    "user_id": "c712d00e-b787-4990-adc1-534fef180878",
+    "amount": 2310.54,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Madelinehaven",
+    "timestamp": "2026-05-22T22:25:58.852463"
+  },
+  {
+    "transaction_id": "56ade28d-32c7-4402-bf70-dcbbcbccc036",
+    "user_id": "3eace389-f143-441e-90d2-01bb3c25aafc",
+    "amount": 6549.48,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jacksonberg",
+    "timestamp": "2026-05-22T22:25:59.354306"
+  },
+  {
+    "transaction_id": "6ebc722c-80a3-4b62-95a7-a56c29f240ef",
+    "user_id": "c9dcb446-94b6-44c1-a551-dd426e49d15b",
+    "amount": 9958.31,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Espinozaborough",
+    "timestamp": "2026-05-22T22:26:01.362202"
+  },
+  {
+    "transaction_id": "b31e16c4-afb5-4bda-8d1d-fa935b72961c",
+    "user_id": "4e2022f7-c96d-4d24-8021-aa7a70ff1522",
+    "amount": 7764.39,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Taylorstad",
+    "timestamp": "2026-05-22T22:26:01.864184"
+  },
+  {
+    "transaction_id": "f7a21e23-7772-432e-971a-aa62238235b8",
+    "user_id": "2fb16744-9bdb-48ff-a5fc-df7227449e95",
+    "amount": 1414.48,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Jackhaven",
+    "timestamp": "2026-05-22T22:26:02.366244"
+  },
+  {
+    "transaction_id": "4dc1970c-26b9-45e5-a598-918aa5c16c15",
+    "user_id": "dcc0896e-a742-4854-85b2-3a911fb110ca",
+    "amount": 6430.62,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Sharonfurt",
+    "timestamp": "2026-05-22T22:26:02.867471"
+  },
+  {
+    "transaction_id": "7cc57903-ff47-4560-bccf-0d4ac086682e",
+    "user_id": "dddf4abd-8a99-489a-a4fd-2916c392b374",
+    "amount": 2686.57,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Jasonton",
+    "timestamp": "2026-05-22T22:26:03.369571"
+  },
+  {
+    "transaction_id": "5e446fb3-d87f-4cc4-b6f9-2bd0ff5a35e5",
+    "user_id": "057a44d6-f301-47e1-9461-51fcae36f620",
+    "amount": 5792.66,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Oliviaborough",
+    "timestamp": "2026-05-22T22:26:03.871954"
+  }
+]

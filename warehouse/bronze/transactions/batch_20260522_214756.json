@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3e75900a-4767-4a7b-89b5-876dbc4aede2",
+    "user_id": "247c2b9f-1494-48c3-88b2-773ffae30bfb",
+    "amount": 9842.41,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Underwoodmouth",
+    "timestamp": "2026-05-22T21:47:51.600255"
+  },
+  {
+    "transaction_id": "49bc488f-f2a4-4421-ac16-81af32602064",
+    "user_id": "6fad2d07-3ab2-44e1-bc32-5510c47a1a12",
+    "amount": 3755.96,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Melindastad",
+    "timestamp": "2026-05-22T21:47:52.102626"
+  },
+  {
+    "transaction_id": "e7374ec0-f389-44a7-a169-21661b6e5ca7",
+    "user_id": "5016d84a-b462-4550-ada0-20bd9112fd0f",
+    "amount": 4928.01,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Michaelhaven",
+    "timestamp": "2026-05-22T21:47:52.605646"
+  },
+  {
+    "transaction_id": "812ce9b0-42e7-42b8-a8b4-ea5e615c1704",
+    "user_id": "ce8a698f-c0d6-467c-b440-f431d0e9c161",
+    "amount": 3393.63,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jonesshire",
+    "timestamp": "2026-05-22T21:47:53.104624"
+  },
+  {
+    "transaction_id": "00c4ebcb-27be-4645-813c-ed0396b94ef6",
+    "user_id": "8bd908bf-e8b0-4b3e-a09a-fbf0f688b129",
+    "amount": 5141.71,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Shannonville",
+    "timestamp": "2026-05-22T21:47:53.608170"
+  },
+  {
+    "transaction_id": "7966450b-ad3e-4609-9cc8-44cd56156c14",
+    "user_id": "abe08aef-58d3-403c-a669-23c80edb63b6",
+    "amount": 7035.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Martinezfurt",
+    "timestamp": "2026-05-22T21:47:54.109631"
+  },
+  {
+    "transaction_id": "451fe201-04ed-4309-917f-6bab447f72b2",
+    "user_id": "38e94725-2742-4c44-b156-2f572daaf31c",
+    "amount": 7787.5,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Owensberg",
+    "timestamp": "2026-05-22T21:47:54.611856"
+  },
+  {
+    "transaction_id": "1dad4470-27f6-41fe-8ba3-f24391665025",
+    "user_id": "d1e50b95-2bf0-4c4b-9e10-34a33119e957",
+    "amount": 7846.46,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Jeffreystad",
+    "timestamp": "2026-05-22T21:47:55.615875"
+  },
+  {
+    "transaction_id": "b91953de-45a1-45cf-bbec-8c4c24ebebb6",
+    "user_id": "7b004128-6857-46bb-99cf-4bcd9acdf059",
+    "amount": 702.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Crawfordville",
+    "timestamp": "2026-05-22T21:47:56.117007"
+  },
+  {
+    "transaction_id": "b7a92f2a-f7da-4f66-bf11-0d427ab013d5",
+    "user_id": "6b68b3d8-3868-4444-b194-bc5afec73156",
+    "amount": 6541.24,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Holly",
+    "timestamp": "2026-05-22T21:47:56.618790"
+  }
+]

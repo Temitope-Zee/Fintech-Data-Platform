@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b665e8a5-fee4-47b9-93dd-11189f86b79e",
+    "user_id": "0481b8b1-1a5c-44ba-be73-f5afbfd9369c",
+    "amount": 3032.5,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Jenniferland",
+    "timestamp": "2026-05-22T22:22:04.915161"
+  },
+  {
+    "transaction_id": "1a93fbb8-6df1-4781-8609-6f8f6487360d",
+    "user_id": "bf9c3ff1-735d-44bb-a9b6-4d9245c9a3cb",
+    "amount": 3222.9,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Jonathan",
+    "timestamp": "2026-05-22T22:22:05.416446"
+  },
+  {
+    "transaction_id": "2d10bdda-fe83-42e8-b6ef-f13847337ec5",
+    "user_id": "1447c4ec-4263-4a1f-b627-8329fe03660d",
+    "amount": 5598.7,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Walkerview",
+    "timestamp": "2026-05-22T22:22:05.917750"
+  },
+  {
+    "transaction_id": "5a28c5f9-543c-4dd1-b0c1-6d6aa7c258fe",
+    "user_id": "5c4afc24-0e08-40aa-8e5b-02dbda74b312",
+    "amount": 6641.86,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Deborah",
+    "timestamp": "2026-05-22T22:22:06.419302"
+  },
+  {
+    "transaction_id": "d99d7701-d12b-4ca6-8d2f-c8ee94fd7fc5",
+    "user_id": "95f657a3-1e1b-49c1-a49c-4ab74e30819e",
+    "amount": 4860.0,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Christinamouth",
+    "timestamp": "2026-05-22T22:22:07.424304"
+  },
+  {
+    "transaction_id": "b14982ff-91ee-4535-8b2f-f34d6cfb2503",
+    "user_id": "727ef4c9-5436-4c64-bab0-4a1b1578ccb0",
+    "amount": 2429.69,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Staceyburgh",
+    "timestamp": "2026-05-22T22:22:07.925653"
+  },
+  {
+    "transaction_id": "9aaeeb21-d5e6-46e9-b5b4-2fadb5a5dba3",
+    "user_id": "f3f0838e-1e0a-458e-8687-ce08e62247dc",
+    "amount": 239.57,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Brendahaven",
+    "timestamp": "2026-05-22T22:22:08.428234"
+  },
+  {
+    "transaction_id": "5fcce942-808f-48fe-9fee-52b24863f92e",
+    "user_id": "a05960c2-a152-4089-914c-13f9d0388e31",
+    "amount": 8925.12,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Jessicaland",
+    "timestamp": "2026-05-22T22:22:08.929813"
+  },
+  {
+    "transaction_id": "85424aeb-1ac2-434e-8620-118f598ba7f0",
+    "user_id": "3926d99b-0ef9-488e-ad86-47fb844b3518",
+    "amount": 6840.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Wrightfurt",
+    "timestamp": "2026-05-22T22:22:09.433783"
+  },
+  {
+    "transaction_id": "e7b8dc1a-543c-4542-858d-b7f199aabb35",
+    "user_id": "7fddd2e7-70f8-4be4-a0fa-f2d7200bc6f9",
+    "amount": 312.98,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Jamesbury",
+    "timestamp": "2026-05-22T22:22:09.935500"
+  }
+]

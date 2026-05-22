@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "444f6efd-fe92-4a2e-9c41-0210b18353e1",
+    "user_id": "d0ce3a84-012e-45de-a048-0809fc8ecc5a",
+    "amount": 4157.78,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Jillianborough",
+    "timestamp": "2026-05-22T22:53:01.162143"
+  },
+  {
+    "transaction_id": "c2fd0740-7e09-4638-a5ae-e6515e772180",
+    "user_id": "e4ed20a8-612e-40d2-aeff-0265c966c525",
+    "amount": 8810.12,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Michaelside",
+    "timestamp": "2026-05-22T22:53:01.665830"
+  },
+  {
+    "transaction_id": "b10106ca-2194-4d9f-8717-f7820f1da334",
+    "user_id": "62bcccb9-fd97-4304-8563-775ed117021a",
+    "amount": 8843.4,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Michaelberg",
+    "timestamp": "2026-05-22T22:53:02.168239"
+  },
+  {
+    "transaction_id": "392212e2-1b7a-4eb4-94e0-2738781c736c",
+    "user_id": "57957c91-ac50-4488-b3cc-ab8bb48d8096",
+    "amount": 414.72,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Kimberlystad",
+    "timestamp": "2026-05-22T22:53:03.172712"
+  },
+  {
+    "transaction_id": "1e83ffe4-8efa-4fef-9592-c4a2c9c9e9bb",
+    "user_id": "8c902bd3-7860-485a-bede-326c5aeeeba6",
+    "amount": 6410.36,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Carolport",
+    "timestamp": "2026-05-22T22:53:03.675132"
+  },
+  {
+    "transaction_id": "f3899086-40a2-4c19-a320-8b37784a15c3",
+    "user_id": "1bffc75a-6d25-4035-a3ff-53daab7a2274",
+    "amount": 7416.14,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Gomezchester",
+    "timestamp": "2026-05-22T22:53:04.681900"
+  },
+  {
+    "transaction_id": "8ad57c62-aa66-4c21-8087-1bac3a8969b8",
+    "user_id": "65ba99cd-7ddb-4f80-9f83-ddc13c11e778",
+    "amount": 1720.34,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Kellertown",
+    "timestamp": "2026-05-22T22:53:05.185048"
+  },
+  {
+    "transaction_id": "0a77ac74-3568-405d-a900-7777b02829c3",
+    "user_id": "a348dc47-f133-4895-9e07-adca73a9bf78",
+    "amount": 5402.88,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Brownburgh",
+    "timestamp": "2026-05-22T22:53:05.686602"
+  },
+  {
+    "transaction_id": "b215fc1f-2637-4819-bd9f-0d3faf5fbda0",
+    "user_id": "013c0f14-8f5b-42fd-a6d2-0b32e49ceabc",
+    "amount": 1541.99,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Macdonaldburgh",
+    "timestamp": "2026-05-22T22:53:06.188119"
+  },
+  {
+    "transaction_id": "e7e932cd-7b8c-4d06-8ad4-adb1dc9d8af0",
+    "user_id": "9650ccca-ad19-436c-bfd8-21e78777d2ef",
+    "amount": 7879.81,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Kimberlystad",
+    "timestamp": "2026-05-22T22:53:06.690689"
+  }
+]

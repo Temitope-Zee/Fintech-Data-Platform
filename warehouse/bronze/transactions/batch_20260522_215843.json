@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c8f04517-438c-4ec7-a726-b040cd7ceef3",
+    "user_id": "d885b270-6ad7-4c66-a83b-d8fa2595bf32",
+    "amount": 433.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Walkerborough",
+    "timestamp": "2026-05-22T21:58:37.739642"
+  },
+  {
+    "transaction_id": "3f7e4ec2-083d-4fa7-b4df-57735d40f80d",
+    "user_id": "7ac1062d-b0a1-4201-8352-94cf9de764d2",
+    "amount": 4870.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Ashley",
+    "timestamp": "2026-05-22T21:58:38.242898"
+  },
+  {
+    "transaction_id": "31fadb05-25c9-4828-81c1-7a73cb6ffd1d",
+    "user_id": "e774d376-1282-41aa-bdde-7043e2b8f80f",
+    "amount": 352.46,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Ortizbury",
+    "timestamp": "2026-05-22T21:58:38.745207"
+  },
+  {
+    "transaction_id": "3501ae39-7410-4d58-8f90-04deadaf9c53",
+    "user_id": "091b3ba3-6ff4-4ae0-baaa-9d59bee5677a",
+    "amount": 9133.97,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Robertside",
+    "timestamp": "2026-05-22T21:58:39.247352"
+  },
+  {
+    "transaction_id": "69fccf0d-2856-4053-9790-b712984652df",
+    "user_id": "08cc1db7-6f83-47b8-b1b3-c89d01a80f03",
+    "amount": 1515.65,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Adamfurt",
+    "timestamp": "2026-05-22T21:58:40.748907"
+  },
+  {
+    "transaction_id": "bc2a6cdb-9c85-4bcb-83fb-a9f3c4e3e37a",
+    "user_id": "6c10910d-9af3-4a72-ba3d-2d1a5e206563",
+    "amount": 2468.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Tiffany",
+    "timestamp": "2026-05-22T21:58:41.250801"
+  },
+  {
+    "transaction_id": "46ddc406-45be-4ddd-b1fb-31a88be20414",
+    "user_id": "adb2619c-5370-49c6-b29a-cbf6ca004db8",
+    "amount": 2912.19,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Brittanyside",
+    "timestamp": "2026-05-22T21:58:41.751999"
+  },
+  {
+    "transaction_id": "993a725e-1318-4da6-8e6e-2a5314eed6ad",
+    "user_id": "c625b4a6-10c9-4290-83d1-54fe2b8f9f7d",
+    "amount": 7592.13,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Taylorberg",
+    "timestamp": "2026-05-22T21:58:42.254500"
+  },
+  {
+    "transaction_id": "0d683d92-89ef-4732-9f22-44ac22773f8f",
+    "user_id": "e649ca55-1361-4790-8379-fd1f5c725694",
+    "amount": 3485.68,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Smithborough",
+    "timestamp": "2026-05-22T21:58:42.756021"
+  },
+  {
+    "transaction_id": "f3e9d3c1-6cd8-437a-b603-620973a189a4",
+    "user_id": "37d0ae82-17e8-489d-998c-fe22921ab4b4",
+    "amount": 3014.51,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Beasleyfurt",
+    "timestamp": "2026-05-22T21:58:43.257576"
+  }
+]

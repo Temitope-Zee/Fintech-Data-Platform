@@ -62,6 +62,10 @@ services:
       - validator
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+      AWS_REGION: ${AWS_REGION}
+      S3_BUCKET: ${S3_BUCKET}
     volumes:
       - ./warehouse:/app/warehouse
       - ./metadata:/app/metadata

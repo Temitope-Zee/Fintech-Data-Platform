@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1e03163a-2e35-4206-9f05-d2ecd31a9ead",
+    "user_id": "3d64a7dd-7f43-4d0a-a5cb-d64b580b3e15",
+    "amount": 2959.92,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Daughertyland",
+    "timestamp": "2026-05-22T22:58:26.948850"
+  },
+  {
+    "transaction_id": "d11b3e42-145b-4577-9a2b-bfdb4945ecc9",
+    "user_id": "5e724aa1-886d-4f68-b10f-c7e2e0b5593a",
+    "amount": 6833.64,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Turnerchester",
+    "timestamp": "2026-05-22T22:58:27.448104"
+  },
+  {
+    "transaction_id": "de3db22e-5a67-4580-bfdf-e79e980d6d42",
+    "user_id": "fcf1b4e5-e738-4f3e-9ac1-c3610091f249",
+    "amount": 5262.9,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Westville",
+    "timestamp": "2026-05-22T22:58:27.949677"
+  },
+  {
+    "transaction_id": "679c5a3e-d817-4707-8cb9-8aa0b63cd127",
+    "user_id": "b5500664-93f4-4676-9a18-c31565690aa7",
+    "amount": 5597.58,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Alejandro",
+    "timestamp": "2026-05-22T22:58:28.453696"
+  },
+  {
+    "transaction_id": "32545079-fcf3-4a8e-8122-798facb16f38",
+    "user_id": "59fb1e84-2669-43f5-b3d0-fe4ffceff284",
+    "amount": 9600.29,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lauriemouth",
+    "timestamp": "2026-05-22T22:58:28.954802"
+  },
+  {
+    "transaction_id": "5c45af9a-9a6f-4c69-b54a-dccfcddf236e",
+    "user_id": "030c6e58-d52b-4f44-a7db-d98bc264bbbf",
+    "amount": 2261.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Richardsonton",
+    "timestamp": "2026-05-22T22:58:29.456801"
+  },
+  {
+    "transaction_id": "035e2a9e-30cd-44d8-bc38-dda2c3f331c0",
+    "user_id": "f03e4467-ac20-4cba-aeb1-16c4a8b2af69",
+    "amount": 358.16,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Hannah",
+    "timestamp": "2026-05-22T22:58:29.959488"
+  },
+  {
+    "transaction_id": "adc0a507-28e8-4d49-a26d-2ee186936633",
+    "user_id": "c34dea25-aa14-4c53-85cf-e107758b5c33",
+    "amount": 8812.34,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Schaeferville",
+    "timestamp": "2026-05-22T22:58:30.962772"
+  },
+  {
+    "transaction_id": "c39e4264-5407-4a4b-a212-8e6ae356ca4c",
+    "user_id": "b861527a-b2db-4950-a9fb-80e6a5965044",
+    "amount": 6702.24,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Williambury",
+    "timestamp": "2026-05-22T22:58:31.466271"
+  },
+  {
+    "transaction_id": "b6be65fb-3f70-42d9-8a95-d3ae2a77a653",
+    "user_id": "4a69c1b7-9c81-4186-932a-e2c975d72137",
+    "amount": 6170.82,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Manuelport",
+    "timestamp": "2026-05-22T22:58:31.967636"
+  }
+]

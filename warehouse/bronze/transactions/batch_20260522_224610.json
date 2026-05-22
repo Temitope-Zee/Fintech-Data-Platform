@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fb559a29-4e1a-40f4-a3d6-bdd7236c7c2a",
+    "user_id": "f05cfc91-688e-464b-9a91-d560a2e82161",
+    "amount": 3354.36,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Vincent",
+    "timestamp": "2026-05-22T22:46:05.434406"
+  },
+  {
+    "transaction_id": "f72e6c72-5c7d-4164-8f38-0f0fa637ba40",
+    "user_id": "93002d71-be5a-4a50-a464-f624cb5e139e",
+    "amount": 1017.21,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Kristinbury",
+    "timestamp": "2026-05-22T22:46:05.935806"
+  },
+  {
+    "transaction_id": "263c747e-1232-43e3-b12c-c24b2b44ff8b",
+    "user_id": "aa746978-78f7-497d-bc86-482e2079069c",
+    "amount": 8122.89,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Crystalstad",
+    "timestamp": "2026-05-22T22:46:06.437226"
+  },
+  {
+    "transaction_id": "b4a5fafc-67d8-4378-83bf-c43637365040",
+    "user_id": "70b16acf-2ed3-4d9e-8992-5ec649fb98e6",
+    "amount": 2068.77,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Alexandermouth",
+    "timestamp": "2026-05-22T22:46:07.440737"
+  },
+  {
+    "transaction_id": "5a6b41a6-0f5b-4921-91f1-eeeed645f467",
+    "user_id": "cdbea527-6eb6-43ae-a826-e257399ac77c",
+    "amount": 3596.62,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jonesport",
+    "timestamp": "2026-05-22T22:46:07.942920"
+  },
+  {
+    "transaction_id": "fd92b061-a839-4e69-82aa-b3139ab1c085",
+    "user_id": "3bc0ff80-277d-41ed-98db-054c40aa780c",
+    "amount": 2312.48,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Ashleyburgh",
+    "timestamp": "2026-05-22T22:46:08.444231"
+  },
+  {
+    "transaction_id": "10106770-9333-41b1-ab96-20add18597b1",
+    "user_id": "98c8874c-c4ea-46c0-8674-12d1834e183a",
+    "amount": 808.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Courtneyburgh",
+    "timestamp": "2026-05-22T22:46:08.945476"
+  },
+  {
+    "transaction_id": "d5f282e5-9443-468f-801f-f5fae1a5f512",
+    "user_id": "fb8c4e53-e28e-4636-8c95-d5e85b1972ba",
+    "amount": 6747.73,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Mercedesshire",
+    "timestamp": "2026-05-22T22:46:09.947862"
+  },
+  {
+    "transaction_id": "86f5d309-2bd8-4754-bb44-0f7ccae42921",
+    "user_id": "21f8a728-6aeb-4327-9b98-f1a5c51543d3",
+    "amount": 9438.82,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Briannaberg",
+    "timestamp": "2026-05-22T22:46:10.449905"
+  },
+  {
+    "transaction_id": "7f0f6fd4-2a72-4792-aa74-ada17cb1f2d6",
+    "user_id": "0c23b040-96e2-415e-a21d-2fbabf3b2379",
+    "amount": 9929.06,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Ortizmouth",
+    "timestamp": "2026-05-22T22:46:10.951564"
+  }
+]

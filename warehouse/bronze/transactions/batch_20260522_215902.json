@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6aa95dd0-21d1-4829-a195-fa060ca245ae",
+    "user_id": "6cf8b626-860b-4232-8720-527bd7f117f1",
+    "amount": 2708.61,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Benjaminview",
+    "timestamp": "2026-05-22T21:58:56.307721"
+  },
+  {
+    "transaction_id": "e58e11db-4350-4d67-8ac6-e26de5eeafc1",
+    "user_id": "af905915-8381-4ac7-a652-90dec07af8dc",
+    "amount": 4817.24,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Robertland",
+    "timestamp": "2026-05-22T21:58:57.310952"
+  },
+  {
+    "transaction_id": "0e0162d8-0b3e-427c-966d-f19ea14df1dd",
+    "user_id": "a1b969e8-a44c-4817-9e1e-99bce95aac0f",
+    "amount": 7483.85,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Johnsonfort",
+    "timestamp": "2026-05-22T21:58:57.812580"
+  },
+  {
+    "transaction_id": "b3f60ef4-839a-45e4-9e99-8d7b2b7bdf98",
+    "user_id": "b97bad84-a528-457d-93ea-c6a21bc4f3df",
+    "amount": 3322.21,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Amberville",
+    "timestamp": "2026-05-22T21:58:58.314169"
+  },
+  {
+    "transaction_id": "025810e5-5a7d-40d5-aff7-3e0be039266e",
+    "user_id": "a770268b-72d8-407a-ad90-4d482059e08c",
+    "amount": 9722.18,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Amychester",
+    "timestamp": "2026-05-22T21:58:59.316974"
+  },
+  {
+    "transaction_id": "cba1d808-6492-4e80-9535-0685c94961e8",
+    "user_id": "3355cdc1-1b8f-4ca9-aa67-a72f90d2238f",
+    "amount": 3366.6,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Colehaven",
+    "timestamp": "2026-05-22T21:58:59.820008"
+  },
+  {
+    "transaction_id": "3f020292-eeab-46dd-9ebd-3239a00ca1fa",
+    "user_id": "5f3c267b-b72e-465a-ad83-59db91a093d1",
+    "amount": 6031.33,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Smithport",
+    "timestamp": "2026-05-22T21:59:00.322054"
+  },
+  {
+    "transaction_id": "34ee46b2-ed32-498d-9486-cc8ed2d7b067",
+    "user_id": "43cb314b-332c-4c53-a1b9-a26b204d0975",
+    "amount": 338.58,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Alecport",
+    "timestamp": "2026-05-22T21:59:00.824057"
+  },
+  {
+    "transaction_id": "1fee492c-e132-4615-b60a-8f20711bf3f2",
+    "user_id": "666bf17c-5809-47df-b711-ec78738ce19e",
+    "amount": 1026.5,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Orozcochester",
+    "timestamp": "2026-05-22T21:59:01.827833"
+  },
+  {
+    "transaction_id": "5d4961c1-868d-4d4b-b752-bda4b2887e60",
+    "user_id": "eac139d2-3429-477c-976c-38c6dac43152",
+    "amount": 5128.13,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Brent",
+    "timestamp": "2026-05-22T21:59:02.330755"
+  }
+]

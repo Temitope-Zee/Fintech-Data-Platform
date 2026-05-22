@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4c55b919-3647-401c-941d-b272930e8deb",
+    "user_id": "aa1f6ec6-714f-40b6-a4cb-ad551c25911c",
+    "amount": 5871.07,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Danielfort",
+    "timestamp": "2026-05-22T21:49:07.904114"
+  },
+  {
+    "transaction_id": "918943eb-3c19-401f-843b-9faa011e558b",
+    "user_id": "735d0850-bde6-4d67-a1ba-00e8305313ae",
+    "amount": 8934.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Cynthiaview",
+    "timestamp": "2026-05-22T21:49:08.405751"
+  },
+  {
+    "transaction_id": "1b475236-9142-4d26-b5dd-2984a3915882",
+    "user_id": "48f35e21-beea-4bfd-82a0-3f8670cb221c",
+    "amount": 4180.73,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Glen",
+    "timestamp": "2026-05-22T21:49:09.911392"
+  },
+  {
+    "transaction_id": "834421f0-de33-48cd-8853-2cf03dbadc73",
+    "user_id": "f2f27918-4aef-47e5-a4a8-03b491a603bd",
+    "amount": 1024.75,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Austinmouth",
+    "timestamp": "2026-05-22T21:49:10.413037"
+  },
+  {
+    "transaction_id": "fbda980c-0698-481e-9017-e9408d1c2da3",
+    "user_id": "7aabd21e-5f7b-4a9d-8e7a-0e604723c7b0",
+    "amount": 3871.56,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Crystalton",
+    "timestamp": "2026-05-22T21:49:10.915774"
+  },
+  {
+    "transaction_id": "bb82e40a-2ee3-4a77-8a5a-9c95670c2340",
+    "user_id": "f39e8c69-bfe0-4c6c-99a8-fa42a8fbe64a",
+    "amount": 6205.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South John",
+    "timestamp": "2026-05-22T21:49:11.417148"
+  },
+  {
+    "transaction_id": "29d932da-b51d-4bd2-9a43-e9beb5d84cfa",
+    "user_id": "6218ea05-d20c-4cbf-9cb3-7c9bfdbe08fd",
+    "amount": 1716.99,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Christina",
+    "timestamp": "2026-05-22T21:49:11.919284"
+  },
+  {
+    "transaction_id": "cc7faaaa-4479-4717-82e7-aeb1227de687",
+    "user_id": "625cf56a-791f-4391-ac46-32c911311a4b",
+    "amount": 2621.07,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Matthewview",
+    "timestamp": "2026-05-22T21:49:12.420822"
+  },
+  {
+    "transaction_id": "15201c78-3494-46ee-b1a9-8b33669864c4",
+    "user_id": "5f05f668-525c-4c49-982e-beb6472a72cc",
+    "amount": 7087.9,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Riggsport",
+    "timestamp": "2026-05-22T21:49:12.922201"
+  },
+  {
+    "transaction_id": "537efa52-d381-4eca-9394-42c0beadfc4b",
+    "user_id": "bc25e512-0e6a-4852-9abe-07543e95976f",
+    "amount": 9875.45,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Joseph",
+    "timestamp": "2026-05-22T21:49:13.926080"
+  }
+]

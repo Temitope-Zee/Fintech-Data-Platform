@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dd3fbb33-4d52-4730-938a-269464e4ef81",
+    "user_id": "3d310c4e-b5f4-4181-ac97-f6519b8291e3",
+    "amount": 8401.92,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Padillaburgh",
+    "timestamp": "2026-05-22T21:57:41.507677"
+  },
+  {
+    "transaction_id": "6983638c-3efe-4b11-93c5-b605368f938a",
+    "user_id": "95f3d466-4ef2-49a0-bb00-ad3f608da502",
+    "amount": 8027.18,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Frenchmouth",
+    "timestamp": "2026-05-22T21:57:42.011056"
+  },
+  {
+    "transaction_id": "f6a0fb4e-8faf-4927-aa47-ed49c71f5a38",
+    "user_id": "82780dce-794a-4651-bac9-838ff3322437",
+    "amount": 2663.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Leahport",
+    "timestamp": "2026-05-22T21:57:43.515747"
+  },
+  {
+    "transaction_id": "c2e8367f-fbeb-4439-9e40-50f4efb330a2",
+    "user_id": "94b5767e-0e95-46e9-97c4-24c5417722e1",
+    "amount": 7467.26,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Seanmouth",
+    "timestamp": "2026-05-22T21:57:44.017465"
+  },
+  {
+    "transaction_id": "f6f09f40-b854-43b8-8528-58fbfed9b331",
+    "user_id": "4de9d9d4-c28f-488e-9ddd-28b4a526ad25",
+    "amount": 2832.24,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Meyersborough",
+    "timestamp": "2026-05-22T21:57:44.519557"
+  },
+  {
+    "transaction_id": "938d5899-a477-4fe2-9c83-048279bccfa2",
+    "user_id": "80d508ae-fd81-4d12-a27d-5effab257f62",
+    "amount": 3658.85,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Zachary",
+    "timestamp": "2026-05-22T21:57:45.021590"
+  },
+  {
+    "transaction_id": "2ecd1f52-61f2-4f5a-a44a-44a150fd7b43",
+    "user_id": "1600d502-7c78-42fe-8c3e-e59ae167df37",
+    "amount": 2030.32,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Ronald",
+    "timestamp": "2026-05-22T21:57:45.524107"
+  },
+  {
+    "transaction_id": "a9af1531-216d-4d0d-b7c4-3d98021df2f4",
+    "user_id": "19b716bd-0b2c-4aec-81b1-d48ecb78712f",
+    "amount": 2796.16,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Deanside",
+    "timestamp": "2026-05-22T21:57:46.026501"
+  },
+  {
+    "transaction_id": "1c9cfd7d-fd9e-4242-a09d-feda3df7a74f",
+    "user_id": "0e57e00b-fe5b-400a-97a3-bbf8729f79e1",
+    "amount": 3032.01,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Alyssaland",
+    "timestamp": "2026-05-22T21:57:46.527850"
+  },
+  {
+    "transaction_id": "e28da221-d82b-4520-9d9a-9f7c67103de2",
+    "user_id": "fa3948f3-0718-4037-b85e-7a87cc68d0bc",
+    "amount": 2484.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Matthew",
+    "timestamp": "2026-05-22T21:57:47.029395"
+  }
+]

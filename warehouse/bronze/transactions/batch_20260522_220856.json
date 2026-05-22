@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "70ae1fb9-6295-4a43-b4f8-c38616c7e02e",
+    "user_id": "677e0e15-097e-4649-ada7-3d04da9c916f",
+    "amount": 917.71,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Nguyenshire",
+    "timestamp": "2026-05-22T22:08:51.232349"
+  },
+  {
+    "transaction_id": "4feb05d2-5c05-4cf6-98d2-d59c999cf648",
+    "user_id": "cd509513-9b49-4820-a34b-dc9898e63144",
+    "amount": 4333.29,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Mcfarlandmouth",
+    "timestamp": "2026-05-22T22:08:51.733725"
+  },
+  {
+    "transaction_id": "e50cbe48-47f8-47fd-95cd-44d03dfcdc0a",
+    "user_id": "ad1ca950-b059-40e2-982e-9dd52b8be8fd",
+    "amount": 5467.87,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Justintown",
+    "timestamp": "2026-05-22T22:08:52.234710"
+  },
+  {
+    "transaction_id": "94feadfc-13c1-4b61-8e7e-f69879376f13",
+    "user_id": "e67c3efe-7b24-43c8-8074-e70cdb6de8dc",
+    "amount": 8168.26,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Anthonychester",
+    "timestamp": "2026-05-22T22:08:52.735744"
+  },
+  {
+    "transaction_id": "caf4aa64-e582-45a4-98eb-5e1cf115ae9b",
+    "user_id": "60282d3e-26f0-4d48-bdfa-adf20fa3010b",
+    "amount": 9896.54,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Johnmouth",
+    "timestamp": "2026-05-22T22:08:53.738702"
+  },
+  {
+    "transaction_id": "fceaf3f4-5236-48bb-b55b-af9d6fc735fa",
+    "user_id": "86b77de4-e22a-4c04-935d-2cc63634cd98",
+    "amount": 4752.49,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Johnfurt",
+    "timestamp": "2026-05-22T22:08:54.239783"
+  },
+  {
+    "transaction_id": "55e88ede-4e4a-4621-8d33-342f2aa8fd1e",
+    "user_id": "2e39768e-5063-48b4-9dbc-3f599296d2c2",
+    "amount": 9672.49,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Matthew",
+    "timestamp": "2026-05-22T22:08:54.741035"
+  },
+  {
+    "transaction_id": "6d5ecd9d-9146-424c-8b0a-1ef1e33b8fa7",
+    "user_id": "5d3ac1ea-8b0b-4d9f-a658-ab767195050d",
+    "amount": 2805.47,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Cody",
+    "timestamp": "2026-05-22T22:08:55.242729"
+  },
+  {
+    "transaction_id": "69501776-3774-4680-91a1-d3ea922042f9",
+    "user_id": "94cd62fd-5560-41b4-936f-344a2568dbbf",
+    "amount": 9491.25,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Ellenchester",
+    "timestamp": "2026-05-22T22:08:56.245677"
+  },
+  {
+    "transaction_id": "26075d75-3646-44b8-87fc-823543c77c7c",
+    "user_id": "c252fa80-efe9-4fe5-928b-e9b4d3cef872",
+    "amount": 5459.9,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Lindsay",
+    "timestamp": "2026-05-22T22:08:56.748632"
+  }
+]

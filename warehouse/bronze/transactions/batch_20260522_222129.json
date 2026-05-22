@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f48823dc-f317-4025-a0be-0aa8f5bcaec9",
+    "user_id": "74f53e70-b020-4e08-886b-a24e4667f02e",
+    "amount": 2489.69,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Stewarttown",
+    "timestamp": "2026-05-22T22:21:22.720569"
+  },
+  {
+    "transaction_id": "a7eaa522-4daf-487b-8778-67c389ddd464",
+    "user_id": "f78626b0-3744-4ab5-a8bc-141948a44e4a",
+    "amount": 1894.43,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Jordan",
+    "timestamp": "2026-05-22T22:21:24.728052"
+  },
+  {
+    "transaction_id": "55ba2de6-d0fe-4680-afaa-3d29788e4559",
+    "user_id": "fae50c04-dfe5-4b6d-b90c-3590d273798a",
+    "amount": 196.28,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Ravenview",
+    "timestamp": "2026-05-22T22:21:25.230817"
+  },
+  {
+    "transaction_id": "89620dc7-f863-4774-bd37-87f90725a539",
+    "user_id": "7d282b2a-d41d-4fcc-9a2c-a78064886c18",
+    "amount": 2064.93,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jasminechester",
+    "timestamp": "2026-05-22T22:21:25.732353"
+  },
+  {
+    "transaction_id": "d6bafd96-0bb0-4712-a730-aa70d36b0fa5",
+    "user_id": "0267d323-0450-4031-86a0-f10480258dba",
+    "amount": 7638.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Greenestad",
+    "timestamp": "2026-05-22T22:21:26.236206"
+  },
+  {
+    "transaction_id": "772ec53d-6793-4a07-9590-1346e1c97eff",
+    "user_id": "1286e020-5bb8-4a57-8e9c-252649b51c47",
+    "amount": 7828.07,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Melanieburgh",
+    "timestamp": "2026-05-22T22:21:26.739294"
+  },
+  {
+    "transaction_id": "45f371b4-5641-49c6-aff1-7fc06319395d",
+    "user_id": "15e696b2-ac81-4be0-ade7-86d836153771",
+    "amount": 879.95,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Melissa",
+    "timestamp": "2026-05-22T22:21:27.240680"
+  },
+  {
+    "transaction_id": "b0168e4f-c660-4a27-841d-6f432aeb2fd3",
+    "user_id": "8b518973-2613-4937-91dd-a019c8018b3c",
+    "amount": 9800.21,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Dianafurt",
+    "timestamp": "2026-05-22T22:21:27.742676"
+  },
+  {
+    "transaction_id": "95b7d1d3-5525-48fa-89a9-7462cb9945c9",
+    "user_id": "5df5a44b-0db4-4eae-b0ad-633be318662b",
+    "amount": 5352.66,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Arthurfort",
+    "timestamp": "2026-05-22T22:21:28.747652"
+  },
+  {
+    "transaction_id": "22517db0-af5f-4a8f-8810-01ecfdeb019d",
+    "user_id": "70ee0c63-6430-45d1-80e4-8e98608772f7",
+    "amount": 1389.43,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Warnertown",
+    "timestamp": "2026-05-22T22:21:29.251137"
+  }
+]

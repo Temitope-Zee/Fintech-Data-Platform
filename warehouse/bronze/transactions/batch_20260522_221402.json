@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ac14cef9-ce22-4f5a-bb10-cb34c9919a69",
+    "user_id": "fc701a63-17f7-42bf-a25a-d76e031e3627",
+    "amount": 372.1,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Emily",
+    "timestamp": "2026-05-22T22:13:58.415782"
+  },
+  {
+    "transaction_id": "8b7d2557-6e99-4a3f-88a6-52c0311849f0",
+    "user_id": "8aeaa29b-81d7-45ea-9b18-7516e1ce0eab",
+    "amount": 7090.53,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lauratown",
+    "timestamp": "2026-05-22T22:13:58.918738"
+  },
+  {
+    "transaction_id": "9dc3ec80-7aed-429e-a204-6132c009f88a",
+    "user_id": "d37d58fe-0ad3-4d97-a014-acbba6fec687",
+    "amount": 1302.82,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Paul",
+    "timestamp": "2026-05-22T22:13:59.420001"
+  },
+  {
+    "transaction_id": "2e406ba0-09d7-4f23-985f-db2f4f9ce149",
+    "user_id": "e66390dd-a11b-4651-ab79-8a50136ccd97",
+    "amount": 6077.96,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Dillonmouth",
+    "timestamp": "2026-05-22T22:13:59.921672"
+  },
+  {
+    "transaction_id": "fef9713e-bfe6-46a7-a417-6cd6708d1eef",
+    "user_id": "5f427771-359a-44ff-9716-ca7ad5cc27dd",
+    "amount": 1608.89,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Angelica",
+    "timestamp": "2026-05-22T22:14:00.423153"
+  },
+  {
+    "transaction_id": "7938d7b5-cb22-4d86-ad3b-cbb0d8a9d934",
+    "user_id": "9ea10276-3d5e-4e35-ab61-16a8a00f4efb",
+    "amount": 8412.5,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Jason",
+    "timestamp": "2026-05-22T22:14:00.925063"
+  },
+  {
+    "transaction_id": "559a99d6-9251-49c0-aac5-356fbb8fd2b1",
+    "user_id": "8ff149e3-f09a-40f5-a21a-5598de2a8a39",
+    "amount": 9886.19,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Christopher",
+    "timestamp": "2026-05-22T22:14:01.426303"
+  },
+  {
+    "transaction_id": "e96d153c-d28d-4c46-9359-92e26a07af52",
+    "user_id": "b27a0de9-b7a6-4bf3-9602-55a3796c91d6",
+    "amount": 6592.04,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Michaeltown",
+    "timestamp": "2026-05-22T22:14:01.927694"
+  },
+  {
+    "transaction_id": "4793e3ea-ca1d-49ac-acfa-8584a0ccdd0c",
+    "user_id": "11fdb70a-21b4-4736-96c0-6930579b1cef",
+    "amount": 4292.41,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jenningsshire",
+    "timestamp": "2026-05-22T22:14:02.429122"
+  },
+  {
+    "transaction_id": "0e19f3ec-81e7-4fac-8094-802f364982c5",
+    "user_id": "7b9e3fb4-1b71-459b-a57c-ed293c93551e",
+    "amount": 6512.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Alecmouth",
+    "timestamp": "2026-05-22T22:14:02.930404"
+  }
+]

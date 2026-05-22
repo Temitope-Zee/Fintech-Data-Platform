@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b04cbb9a-4bbc-40a6-8fb4-d44dee8a6d7a",
+    "user_id": "78205aef-1b8c-4ac5-9505-bfce6bf5d1a5",
+    "amount": 4541.56,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Garciatown",
+    "timestamp": "2026-05-22T22:39:40.401828"
+  },
+  {
+    "transaction_id": "421aa9aa-ac97-4a16-97f1-c225413c0eb2",
+    "user_id": "8cf47b9b-f05c-420e-8365-965d9abded41",
+    "amount": 4843.29,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Nicoleton",
+    "timestamp": "2026-05-22T22:39:40.903286"
+  },
+  {
+    "transaction_id": "b5bb8884-48df-41bd-8085-a03f05b0314a",
+    "user_id": "cee7821e-3bf0-4d9d-925f-2584b736380f",
+    "amount": 4530.97,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Elizabethport",
+    "timestamp": "2026-05-22T22:39:41.405542"
+  },
+  {
+    "transaction_id": "e71a2024-77cc-49c2-bce7-f6a510ee996c",
+    "user_id": "84af8447-72fc-4f24-868b-77e117942e6a",
+    "amount": 1832.19,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Delacruzville",
+    "timestamp": "2026-05-22T22:39:41.908368"
+  },
+  {
+    "transaction_id": "b8de159c-c240-4e2a-b93d-f7f464e0ae68",
+    "user_id": "e6d9bd6a-dcf0-444b-90d2-67245a78ff02",
+    "amount": 9829.69,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Powellshire",
+    "timestamp": "2026-05-22T22:39:42.410484"
+  },
+  {
+    "transaction_id": "5ed84c95-d719-46e8-9c47-5882f3a07429",
+    "user_id": "2ef9cec8-c52d-4199-a094-9112a1f45c6e",
+    "amount": 2690.41,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Nataliemouth",
+    "timestamp": "2026-05-22T22:39:42.911872"
+  },
+  {
+    "transaction_id": "6011c1e1-54a0-4069-9832-5f0db3c31c29",
+    "user_id": "b453c3bf-ab64-4610-829c-9867c6f5ffad",
+    "amount": 1709.96,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Joshuastad",
+    "timestamp": "2026-05-22T22:39:43.415018"
+  },
+  {
+    "transaction_id": "f9eff77b-9a9d-4493-a435-7b83a2c325b7",
+    "user_id": "7af14b2b-a7fb-4622-8c76-9721b305ea8a",
+    "amount": 812.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Kyleview",
+    "timestamp": "2026-05-22T22:39:43.917335"
+  },
+  {
+    "transaction_id": "df25e0dc-8f2d-4c77-9c11-553b41aec3c9",
+    "user_id": "134cb68e-2e8e-4bec-ab42-9f9c53d024ed",
+    "amount": 8790.3,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Meganstad",
+    "timestamp": "2026-05-22T22:39:44.419824"
+  },
+  {
+    "transaction_id": "fca9c67a-1c6c-4211-9872-2f9893ff73b6",
+    "user_id": "3331b786-9c9e-40f0-a4d4-f1b44624245e",
+    "amount": 5833.0,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Stuartburgh",
+    "timestamp": "2026-05-22T22:39:45.424684"
+  }
+]

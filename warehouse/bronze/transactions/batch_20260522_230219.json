@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "157c8321-7f7a-443e-b43b-8508027be785",
+    "user_id": "e83b8062-5dfe-4201-97cf-1fc83da12782",
+    "amount": 7568.65,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Jason",
+    "timestamp": "2026-05-22T23:02:13.630126"
+  },
+  {
+    "transaction_id": "f3119804-c418-4093-a210-795ddc9442ba",
+    "user_id": "c0f9e7b8-2766-407f-b2f3-0a6470b31340",
+    "amount": 7730.97,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Claudiaview",
+    "timestamp": "2026-05-22T23:02:14.131696"
+  },
+  {
+    "transaction_id": "4f9181d6-dc3f-454f-a869-33212aac97bb",
+    "user_id": "2904df35-faca-485f-b9e7-2fbf69200aea",
+    "amount": 2888.96,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Patriciaport",
+    "timestamp": "2026-05-22T23:02:15.134222"
+  },
+  {
+    "transaction_id": "d8dc732c-f574-4ec6-8ab7-e9132b48eac8",
+    "user_id": "2d8e4fa6-6170-430a-8aac-6cc1c9324e47",
+    "amount": 1286.78,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T23:02:15.635207"
+  },
+  {
+    "transaction_id": "5e70d76b-094c-42ee-b390-bd7252c0593d",
+    "user_id": "8558118c-c228-4ade-85ff-793fcfe68ccb",
+    "amount": 4462.07,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Christopher",
+    "timestamp": "2026-05-22T23:02:16.638130"
+  },
+  {
+    "transaction_id": "c1f2cf67-7d2d-4dc1-aab1-94977fceabec",
+    "user_id": "57808fb9-9602-426e-a310-d66763257bc1",
+    "amount": 9615.04,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Mark",
+    "timestamp": "2026-05-22T23:02:17.139586"
+  },
+  {
+    "transaction_id": "1fcecd5e-554c-47d8-bfa8-468d8fb860b5",
+    "user_id": "3b444d26-00c8-42f3-a76d-6490f1608bff",
+    "amount": 1114.98,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Blevinsmouth",
+    "timestamp": "2026-05-22T23:02:17.641103"
+  },
+  {
+    "transaction_id": "10dd287c-8281-4310-83c9-754ce4baee8c",
+    "user_id": "d5ceb6e9-bb7b-4a72-874a-82894336cb32",
+    "amount": 7783.61,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Heatherview",
+    "timestamp": "2026-05-22T23:02:18.143020"
+  },
+  {
+    "transaction_id": "c4c9f05d-be7a-408b-89d4-c9ed6e60c18d",
+    "user_id": "4d390122-7a7c-495e-9a00-ebd6462bbbc0",
+    "amount": 5113.23,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Spencerstad",
+    "timestamp": "2026-05-22T23:02:19.145135"
+  },
+  {
+    "transaction_id": "6557d9ee-13c8-464b-ad74-b07d8c63239f",
+    "user_id": "6ff3f164-01f4-4d17-8ad0-586be9cd6c18",
+    "amount": 3232.62,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Johnstad",
+    "timestamp": "2026-05-22T23:02:19.647383"
+  }
+]

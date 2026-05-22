@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bcd05fa2-8c86-477f-9bca-2d9904c7bc56",
+    "user_id": "8ac58c78-9d7c-4c84-8a5e-7c8714f3564b",
+    "amount": 3424.99,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Ericaport",
+    "timestamp": "2026-05-22T22:45:08.681005"
+  },
+  {
+    "transaction_id": "686d2c25-88f9-4bca-9025-b0a7111d7af6",
+    "user_id": "6643bd1d-fb1c-4de3-987f-25894b0e9590",
+    "amount": 2018.11,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jaredhaven",
+    "timestamp": "2026-05-22T22:45:09.182289"
+  },
+  {
+    "transaction_id": "8f435a4d-db47-478a-8e3e-15fcfd19c7d7",
+    "user_id": "fb0331b1-e6ba-4179-bfe0-e2072148b4f2",
+    "amount": 6242.59,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Nancyfort",
+    "timestamp": "2026-05-22T22:45:10.185843"
+  },
+  {
+    "transaction_id": "1932f513-d373-46b7-afb2-94ba84b4938e",
+    "user_id": "68db09fc-d74f-4649-a3e5-55ba9f8cd60a",
+    "amount": 1784.14,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Maryton",
+    "timestamp": "2026-05-22T22:45:11.190642"
+  },
+  {
+    "transaction_id": "6074115f-2037-436c-a498-1b9ce224f769",
+    "user_id": "9a6aea1e-153c-43c3-9949-9b9c3b799c34",
+    "amount": 470.83,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Angelaport",
+    "timestamp": "2026-05-22T22:45:11.694146"
+  },
+  {
+    "transaction_id": "e9483495-a339-40bd-a0b2-3880099db1d9",
+    "user_id": "4855bfca-7441-43f8-ab3d-cd2b2ce27b74",
+    "amount": 1400.98,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Kimberly",
+    "timestamp": "2026-05-22T22:45:12.195773"
+  },
+  {
+    "transaction_id": "81cc7686-e951-4df6-90a0-7c6c0b10174e",
+    "user_id": "eead977d-1989-44f2-928c-7248aee57a53",
+    "amount": 9274.92,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Tommy",
+    "timestamp": "2026-05-22T22:45:12.697440"
+  },
+  {
+    "transaction_id": "fe75a846-d230-4bb0-82b1-11a564fd608d",
+    "user_id": "bea88006-577e-4101-b5f9-01f3695d7514",
+    "amount": 1396.09,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Christopherland",
+    "timestamp": "2026-05-22T22:45:13.199314"
+  },
+  {
+    "transaction_id": "efacd288-2569-46eb-92da-4595af76a085",
+    "user_id": "fe66371e-c6be-41a9-9e47-a3d48f633aef",
+    "amount": 2208.69,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Karlton",
+    "timestamp": "2026-05-22T22:45:13.701902"
+  },
+  {
+    "transaction_id": "1e414ecc-93fe-42d9-a468-2dc579b0edfa",
+    "user_id": "7272e876-31cd-4ea6-86f5-3bede7339124",
+    "amount": 1477.87,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Danieltown",
+    "timestamp": "2026-05-22T22:45:14.204864"
+  }
+]

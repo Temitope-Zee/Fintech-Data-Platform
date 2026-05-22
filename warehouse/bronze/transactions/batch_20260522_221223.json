@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "22c6ae00-a205-412c-a3e6-8feda613eedb",
+    "user_id": "02a1be7d-36dc-4094-b164-06a20439288f",
+    "amount": 8338.21,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Houstonview",
+    "timestamp": "2026-05-22T22:12:18.023649"
+  },
+  {
+    "transaction_id": "cb10383d-1db0-4351-8290-cafe6fbc219a",
+    "user_id": "cd4f27e4-3be1-4c10-ac66-651a98990dcd",
+    "amount": 4320.19,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Phillipsside",
+    "timestamp": "2026-05-22T22:12:19.026630"
+  },
+  {
+    "transaction_id": "67643b9b-83c7-4911-b671-ec70712510ee",
+    "user_id": "c95fa047-d138-4b5f-bfef-dc1b339823f7",
+    "amount": 9506.91,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Delgadostad",
+    "timestamp": "2026-05-22T22:12:19.529530"
+  },
+  {
+    "transaction_id": "f75957d0-f321-42c5-be47-857292e915a2",
+    "user_id": "8f705c89-6110-454a-a03e-01dbd25f1b1e",
+    "amount": 4557.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Joshua",
+    "timestamp": "2026-05-22T22:12:20.032256"
+  },
+  {
+    "transaction_id": "df4c40df-36fb-43af-86be-bd282948b322",
+    "user_id": "a71a29dd-0d30-4ea7-8ed1-f9754afc1d9c",
+    "amount": 7514.25,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Millerstad",
+    "timestamp": "2026-05-22T22:12:20.533564"
+  },
+  {
+    "transaction_id": "06ee64eb-c051-4c5e-bf47-0d812019f063",
+    "user_id": "a74d7bbb-40f2-42e5-b9c2-56f1c8b816b9",
+    "amount": 7412.99,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port William",
+    "timestamp": "2026-05-22T22:12:21.034890"
+  },
+  {
+    "transaction_id": "92ef50a7-d900-4752-b0ab-4b5eceb871ed",
+    "user_id": "c53e7960-f07c-463f-a713-f9afb9f465a7",
+    "amount": 1586.71,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Hamiltonhaven",
+    "timestamp": "2026-05-22T22:12:21.536522"
+  },
+  {
+    "transaction_id": "2ab214a0-0153-453e-b4c2-5650f7ca0856",
+    "user_id": "2856f98b-b578-4c77-94da-11bcae1f9bad",
+    "amount": 5243.82,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Williamhaven",
+    "timestamp": "2026-05-22T22:12:22.038146"
+  },
+  {
+    "transaction_id": "96970f7e-66c5-432b-8d5a-75251e7f4bdb",
+    "user_id": "cf6760ca-775b-4eb5-8217-7e6d83f368d2",
+    "amount": 1151.2,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Josephview",
+    "timestamp": "2026-05-22T22:12:22.541014"
+  },
+  {
+    "transaction_id": "11659cd8-84dc-4336-9e89-a3f002d72daa",
+    "user_id": "d4458baf-a2fd-4c3e-9369-55bc88896c82",
+    "amount": 9696.6,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Townsendville",
+    "timestamp": "2026-05-22T22:12:23.042155"
+  }
+]

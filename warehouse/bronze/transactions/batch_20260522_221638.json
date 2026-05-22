@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "dda24ff1-86ce-41f9-a3b5-6c75ccbf1882",
+    "user_id": "1e8003ef-fec2-421a-8d9e-613ed8ab10ae",
+    "amount": 7078.05,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Christopherburgh",
+    "timestamp": "2026-05-22T22:16:33.546120"
+  },
+  {
+    "transaction_id": "3456d839-9bec-477e-aed1-0bc8652e3d09",
+    "user_id": "b4433209-29df-4b5a-9558-b420b63afe73",
+    "amount": 8718.06,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Robertborough",
+    "timestamp": "2026-05-22T22:16:34.047691"
+  },
+  {
+    "transaction_id": "a88e7ce5-13d6-4c9e-85c1-2c7a02e2f96c",
+    "user_id": "e9356f3a-74ef-4228-b133-118fc0217c8a",
+    "amount": 2884.67,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Dawnmouth",
+    "timestamp": "2026-05-22T22:16:35.054774"
+  },
+  {
+    "transaction_id": "80c6a0d4-02f4-4490-8b83-c8946532d1e1",
+    "user_id": "d35f4224-35ca-48af-927e-4e265bf7817d",
+    "amount": 7211.97,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Andrewtown",
+    "timestamp": "2026-05-22T22:16:35.556919"
+  },
+  {
+    "transaction_id": "22d26fca-c1b9-4c7e-943b-1ceff82e0127",
+    "user_id": "df5e4146-1443-468a-98df-2f4e30b185c3",
+    "amount": 8019.29,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Anitachester",
+    "timestamp": "2026-05-22T22:16:36.058031"
+  },
+  {
+    "transaction_id": "1b4c4c82-58ff-4774-aaa7-7dcb3db99acd",
+    "user_id": "61c5d972-0c1d-4f08-ad6e-f94a79b8fefc",
+    "amount": 5011.11,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Christopherbury",
+    "timestamp": "2026-05-22T22:16:36.559540"
+  },
+  {
+    "transaction_id": "3a9e77fe-4918-4f7b-805c-1ff16db25581",
+    "user_id": "3dba76c4-3230-4f5b-8f71-f3e35e030f45",
+    "amount": 2395.26,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Raymond",
+    "timestamp": "2026-05-22T22:16:37.062619"
+  },
+  {
+    "transaction_id": "94e033ef-076d-4f49-8ee2-45f55627cb9b",
+    "user_id": "6b4ec68a-75df-4208-8b80-1d831488ed15",
+    "amount": 3354.48,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Ericksonville",
+    "timestamp": "2026-05-22T22:16:37.566011"
+  },
+  {
+    "transaction_id": "57d092a4-2fd2-4b7d-98ed-197be5577e1c",
+    "user_id": "df34e4fe-485a-417d-9e16-e080c7070689",
+    "amount": 4929.46,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Robinmouth",
+    "timestamp": "2026-05-22T22:16:38.068977"
+  },
+  {
+    "transaction_id": "837050e5-91f7-42ca-a255-a4ea279bfe93",
+    "user_id": "fa80dc2f-67bc-47d9-834d-c436ec10588a",
+    "amount": 810.27,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Angelaside",
+    "timestamp": "2026-05-22T22:16:38.571662"
+  }
+]

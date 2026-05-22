@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2e76d8bc-0d3f-43f4-862f-22fc00eeb00c",
+    "user_id": "93739bea-e4b6-4cda-ab58-29a7c7d2c16d",
+    "amount": 5620.06,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Chrisfort",
+    "timestamp": "2026-05-22T21:47:04.407238"
+  },
+  {
+    "transaction_id": "3888276b-e0b5-479f-959f-4ede6f7f7766",
+    "user_id": "56d88b72-43db-4cdd-9e04-fe05bc778ea0",
+    "amount": 9953.65,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Williamston",
+    "timestamp": "2026-05-22T21:47:04.910621"
+  },
+  {
+    "transaction_id": "a54ab787-9962-4855-b7f3-16b00c151ebf",
+    "user_id": "48c343a3-ab01-4e4d-ba5b-55115a2fc44d",
+    "amount": 1067.4,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Ashley",
+    "timestamp": "2026-05-22T21:47:05.412244"
+  },
+  {
+    "transaction_id": "1a987070-395b-4636-8255-1844a0dbe48a",
+    "user_id": "156e6910-32cf-4933-85da-01049a505fd5",
+    "amount": 7099.95,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Douglasstad",
+    "timestamp": "2026-05-22T21:47:05.914719"
+  },
+  {
+    "transaction_id": "88595c2d-4755-4f3d-9a9a-03066b19e10f",
+    "user_id": "99796fd2-55e4-482b-8a2c-2e051d5cd44f",
+    "amount": 6311.97,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Theresa",
+    "timestamp": "2026-05-22T21:47:06.416312"
+  },
+  {
+    "transaction_id": "e2846293-fe0e-495c-8588-954b07e61ee5",
+    "user_id": "ab99621d-bdf5-41a1-bf36-03081f090430",
+    "amount": 3793.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lewischester",
+    "timestamp": "2026-05-22T21:47:06.918088"
+  },
+  {
+    "transaction_id": "bb1d2f5b-242b-4242-8a4b-d8787dc484bd",
+    "user_id": "47522d53-c7e1-417c-b694-d16479a6b94f",
+    "amount": 9277.17,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Jasonside",
+    "timestamp": "2026-05-22T21:47:07.419170"
+  },
+  {
+    "transaction_id": "0e74f74f-b555-411f-ac3e-b894e91e6670",
+    "user_id": "9209f60a-52fc-4874-ab92-c15ef1e62fc8",
+    "amount": 3197.35,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Moranhaven",
+    "timestamp": "2026-05-22T21:47:07.920799"
+  },
+  {
+    "transaction_id": "1e88c20c-4d2b-4103-940f-13ead16d7875",
+    "user_id": "c7b5d782-be40-4a11-ba61-f56126f7f69e",
+    "amount": 6003.98,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Barbaraside",
+    "timestamp": "2026-05-22T21:47:08.422333"
+  },
+  {
+    "transaction_id": "c93bd2db-a43b-4387-b64a-9b66b5199ec0",
+    "user_id": "510b801d-e36e-49c8-b6cc-3cff3152cfb2",
+    "amount": 9414.63,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Williamchester",
+    "timestamp": "2026-05-22T21:47:08.925014"
+  }
+]

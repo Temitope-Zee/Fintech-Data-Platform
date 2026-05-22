@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5628dcc2-07f8-4ac7-b0d1-50234ce30942",
+    "user_id": "f9dad23e-1443-4e62-ae65-71e447499457",
+    "amount": 7871.93,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Nataliemouth",
+    "timestamp": "2026-05-22T22:54:43.061794"
+  },
+  {
+    "transaction_id": "b95107be-e449-426c-b5f1-7190112c4918",
+    "user_id": "b4aa8593-9adc-47ad-9ddf-e819fc042f95",
+    "amount": 514.19,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Nicholaston",
+    "timestamp": "2026-05-22T22:54:43.564540"
+  },
+  {
+    "transaction_id": "23378ce3-964f-4676-8420-03e46e7f126d",
+    "user_id": "2c48cad7-25a5-4de2-9de0-87138f47dcac",
+    "amount": 9685.19,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Charlesview",
+    "timestamp": "2026-05-22T22:54:44.066806"
+  },
+  {
+    "transaction_id": "1300080f-fd03-4f52-bab0-790b1662815b",
+    "user_id": "a607b1d7-df4c-4501-beee-3ef00f2ed4fa",
+    "amount": 1944.09,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jonesberg",
+    "timestamp": "2026-05-22T22:54:44.568503"
+  },
+  {
+    "transaction_id": "7b6e4893-3e18-4fde-ba31-b43c0f96761b",
+    "user_id": "694d103d-6c03-4f00-8eed-df9e9418bf50",
+    "amount": 534.44,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Luke",
+    "timestamp": "2026-05-22T22:54:45.070033"
+  },
+  {
+    "transaction_id": "a33c5ecf-be99-4946-88b3-79969ff0f7f0",
+    "user_id": "70273963-1058-49c8-85e5-b9a52e30a570",
+    "amount": 1967.51,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Mcmillanfort",
+    "timestamp": "2026-05-22T22:54:46.074854"
+  },
+  {
+    "transaction_id": "a5d8af77-deb7-4470-b17e-c1680c922af8",
+    "user_id": "05b03b51-6eeb-4ff1-b0cb-21112300d0a1",
+    "amount": 1585.58,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Nancyport",
+    "timestamp": "2026-05-22T22:54:46.576457"
+  },
+  {
+    "transaction_id": "3f1912d6-6862-47bd-9544-17e5fed52d96",
+    "user_id": "402dbebf-a09c-4d1d-a93d-df0b8db0c5b1",
+    "amount": 7813.73,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Smithland",
+    "timestamp": "2026-05-22T22:54:47.078123"
+  },
+  {
+    "transaction_id": "f266a5d2-7f59-48b3-8825-7478b02d425b",
+    "user_id": "21fec534-0379-49be-8144-2e5530ef46ef",
+    "amount": 9677.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Ashleeborough",
+    "timestamp": "2026-05-22T22:54:47.579598"
+  },
+  {
+    "transaction_id": "27b21747-e1e4-49a3-8872-a046336a74a5",
+    "user_id": "694a66c9-0c34-4132-8326-f3a7516f523a",
+    "amount": 6630.29,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Wilkinsonmouth",
+    "timestamp": "2026-05-22T22:54:48.082472"
+  }
+]

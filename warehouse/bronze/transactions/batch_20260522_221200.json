@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "73e67a54-bebb-41b8-a540-c0a0751b919c",
+    "user_id": "601266fd-47e3-4818-87dd-baf1d0e9f8ed",
+    "amount": 9534.86,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Andrew",
+    "timestamp": "2026-05-22T22:11:55.429769"
+  },
+  {
+    "transaction_id": "5117a5dd-1e34-4b65-ac0a-18be03d47c0f",
+    "user_id": "44e70aed-9f11-4cdd-9ea9-e3cd79ad95c2",
+    "amount": 1208.54,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Michael",
+    "timestamp": "2026-05-22T22:11:55.931549"
+  },
+  {
+    "transaction_id": "4cb0065a-bac2-4e1e-9bca-415b93424a4a",
+    "user_id": "3f18874f-438a-4c24-91eb-5641ec4d4866",
+    "amount": 1640.88,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Pacefurt",
+    "timestamp": "2026-05-22T22:11:56.434873"
+  },
+  {
+    "transaction_id": "00d3d202-eedb-48d3-bada-f886989424c4",
+    "user_id": "81801ad3-d053-4cf5-8aa2-a4443dd99dc6",
+    "amount": 1389.48,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Ethanbury",
+    "timestamp": "2026-05-22T22:11:56.936784"
+  },
+  {
+    "transaction_id": "81c61d70-cddb-43e3-839a-65b30ecd1c06",
+    "user_id": "49a0fd02-2a9b-4361-af13-36a661dc7866",
+    "amount": 5431.3,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Rachelport",
+    "timestamp": "2026-05-22T22:11:57.941638"
+  },
+  {
+    "transaction_id": "a530dffa-39cc-499c-ab70-1d9ee362bf1b",
+    "user_id": "1df6aec2-b0c2-47c8-9c39-64fbee44be56",
+    "amount": 4839.03,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Mckenzie",
+    "timestamp": "2026-05-22T22:11:58.444798"
+  },
+  {
+    "transaction_id": "6659a1ff-3b36-43dc-a18e-39a8caf2e44a",
+    "user_id": "19a73ae7-d545-4093-aea5-d1e7c49dbfcb",
+    "amount": 495.25,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Colebury",
+    "timestamp": "2026-05-22T22:11:58.948617"
+  },
+  {
+    "transaction_id": "06317c54-50f5-4d77-928c-527fbd11b136",
+    "user_id": "ee789d3d-444c-4a6e-9949-8618e263f369",
+    "amount": 9569.68,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Julie",
+    "timestamp": "2026-05-22T22:11:59.450096"
+  },
+  {
+    "transaction_id": "2400a224-3653-46e1-8e3a-f2c560db998a",
+    "user_id": "8dd9cbd8-7162-4fe5-8c44-f653d54e8c5c",
+    "amount": 9576.03,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Matthewsberg",
+    "timestamp": "2026-05-22T22:11:59.953293"
+  },
+  {
+    "transaction_id": "782f23fa-93ca-4d34-9583-dd0ff8600524",
+    "user_id": "2815ee4d-7d79-4305-82e9-1ff1abd44f2c",
+    "amount": 7010.88,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Tinaton",
+    "timestamp": "2026-05-22T22:12:00.454764"
+  }
+]

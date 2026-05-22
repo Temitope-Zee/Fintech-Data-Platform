@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cb737bf2-fb1d-4510-a11a-9a0aa8be597c",
+    "user_id": "1d6af7a7-b2bf-42df-b586-3515ec1c6b61",
+    "amount": 7861.47,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Goodmanhaven",
+    "timestamp": "2026-05-22T22:12:47.143646"
+  },
+  {
+    "transaction_id": "0440818a-b223-4bd6-847d-c4efde950c45",
+    "user_id": "9a5cc383-a5d3-425d-b894-e8c4669123b9",
+    "amount": 425.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Vickichester",
+    "timestamp": "2026-05-22T22:12:47.644722"
+  },
+  {
+    "transaction_id": "cfbba722-e9e9-4af0-9a22-8144477c97e8",
+    "user_id": "51897ae9-fe81-42fa-b5bf-53b33a9ce951",
+    "amount": 4637.37,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Anitamouth",
+    "timestamp": "2026-05-22T22:12:48.146297"
+  },
+  {
+    "transaction_id": "6513a37e-8af1-48e5-8cec-ae27e6788f3b",
+    "user_id": "e40ca3f0-d7a4-4168-baac-2476f3be251e",
+    "amount": 9792.43,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Johnmouth",
+    "timestamp": "2026-05-22T22:12:48.647669"
+  },
+  {
+    "transaction_id": "79c03b33-7a4f-4a76-ad57-d999881c326c",
+    "user_id": "c20cf688-717a-4429-801f-ec3d27a6b985",
+    "amount": 2209.52,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Benjaminstad",
+    "timestamp": "2026-05-22T22:12:49.149359"
+  },
+  {
+    "transaction_id": "cbddbb4e-dbab-403f-989b-19e5c6299e30",
+    "user_id": "b41f58d4-8678-43a5-b749-879196ab693a",
+    "amount": 121.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Leslieberg",
+    "timestamp": "2026-05-22T22:12:49.650762"
+  },
+  {
+    "transaction_id": "54927c86-9b2d-4fc7-9bda-4decaa8490ee",
+    "user_id": "42aa440f-fb9b-43ae-b452-020d34f74617",
+    "amount": 8179.0,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Gonzalezton",
+    "timestamp": "2026-05-22T22:12:50.153296"
+  },
+  {
+    "transaction_id": "e28437e3-5e5c-4b1e-bcf4-72271626c9be",
+    "user_id": "882ab837-37e9-4a6e-bbe5-e539fcea9f4b",
+    "amount": 1715.87,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Crystalmouth",
+    "timestamp": "2026-05-22T22:12:50.654477"
+  },
+  {
+    "transaction_id": "c1ca9db4-fc46-4777-b386-9970724129ad",
+    "user_id": "a6a311d9-2fd8-48e5-b471-3e3ca4c357f6",
+    "amount": 4206.89,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Matthewtown",
+    "timestamp": "2026-05-22T22:12:51.156045"
+  },
+  {
+    "transaction_id": "61430199-c989-4c97-912c-a4c80c71e427",
+    "user_id": "e5a78dcb-3ed4-4c50-801c-a6aa8f654ea3",
+    "amount": 4534.75,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Danielview",
+    "timestamp": "2026-05-22T22:12:51.658529"
+  }
+]

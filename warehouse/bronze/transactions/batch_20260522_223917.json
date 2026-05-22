@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "020daaa5-9aeb-46a4-bf54-8577535a6c85",
+    "user_id": "8a8f3310-9914-484b-b411-cbe9fbde232e",
+    "amount": 4226.57,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Stacyberg",
+    "timestamp": "2026-05-22T22:39:12.799312"
+  },
+  {
+    "transaction_id": "02fac76b-1888-42ff-b02b-81c34f20083b",
+    "user_id": "d0d8d5e1-feb9-42cd-b107-778bfd28c6c1",
+    "amount": 8479.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Chapmanland",
+    "timestamp": "2026-05-22T22:39:13.301174"
+  },
+  {
+    "transaction_id": "30b54414-aaac-457b-8128-13c5318bd251",
+    "user_id": "1cc8df55-e213-4648-87c3-676890450679",
+    "amount": 8681.14,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Conleystad",
+    "timestamp": "2026-05-22T22:39:13.804170"
+  },
+  {
+    "transaction_id": "b0f7136e-8c88-4f6d-a011-3cd9482278d2",
+    "user_id": "7fc03634-3dbf-4318-8ccf-4c8922dc4713",
+    "amount": 1073.52,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Michaelside",
+    "timestamp": "2026-05-22T22:39:14.305503"
+  },
+  {
+    "transaction_id": "abfa19e8-37f3-4185-85c4-8e057d891107",
+    "user_id": "932b5bf9-780d-4bbd-a889-6e8405ac50b9",
+    "amount": 6135.02,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Stephenborough",
+    "timestamp": "2026-05-22T22:39:14.809373"
+  },
+  {
+    "transaction_id": "50e95c4d-3572-49d2-b0d6-0d180214a233",
+    "user_id": "3c9286f0-5c32-437c-a634-02701cad27e8",
+    "amount": 5859.83,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Thomasberg",
+    "timestamp": "2026-05-22T22:39:15.312528"
+  },
+  {
+    "transaction_id": "ff7ca59d-0a61-4d8a-a2bc-ecf91c41df5d",
+    "user_id": "6857d78d-a373-4397-8a60-7bfb3812edb7",
+    "amount": 780.07,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Travis",
+    "timestamp": "2026-05-22T22:39:15.815127"
+  },
+  {
+    "transaction_id": "7d2e9c3a-11ff-4736-b4d5-b4996be0a1bd",
+    "user_id": "4ac0832b-9e58-4230-8602-f68b04523100",
+    "amount": 5843.02,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Maryview",
+    "timestamp": "2026-05-22T22:39:16.317147"
+  },
+  {
+    "transaction_id": "30e1ab0e-d8d8-4614-b8e9-34e394bb31ee",
+    "user_id": "d4b0d7ed-83ad-4f2f-af2d-cb646fe54102",
+    "amount": 7511.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Vincentfurt",
+    "timestamp": "2026-05-22T22:39:16.819009"
+  },
+  {
+    "transaction_id": "ce2ad862-3193-4903-a238-9bec2df66fc7",
+    "user_id": "9be6cfa2-ab1d-4c1f-80d2-b9e6ab2a9089",
+    "amount": 4785.51,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Wilsonshire",
+    "timestamp": "2026-05-22T22:39:17.320175"
+  }
+]

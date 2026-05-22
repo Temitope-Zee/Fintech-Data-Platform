@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6d576571-98a9-4b00-b26c-0e7d52ed8ee3",
+    "user_id": "0c3154c3-d1fc-4053-b841-631c58a78b52",
+    "amount": 6240.06,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Bartonhaven",
+    "timestamp": "2026-05-22T22:44:06.434635"
+  },
+  {
+    "transaction_id": "83bc61d4-2cb0-4ae5-952b-d0e3cdda0620",
+    "user_id": "0dc1e3cb-ab7a-4aff-b5c5-e8b9b01b2682",
+    "amount": 1732.79,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Orrland",
+    "timestamp": "2026-05-22T22:44:06.936258"
+  },
+  {
+    "transaction_id": "1bb9027a-da54-4dc9-8bb2-2fab8fc797b8",
+    "user_id": "93d2faa7-46c2-48a5-9550-d0bbb1e6b576",
+    "amount": 5385.38,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Rodney",
+    "timestamp": "2026-05-22T22:44:07.438720"
+  },
+  {
+    "transaction_id": "20aaef44-c790-45d2-9259-60bf603569c3",
+    "user_id": "58112809-cef3-4e98-bdc1-bbcd57a805a6",
+    "amount": 1187.84,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Joseph",
+    "timestamp": "2026-05-22T22:44:07.943940"
+  },
+  {
+    "transaction_id": "e241728a-46ff-4021-b77b-fbb30e10757b",
+    "user_id": "9cfe1b56-4291-4137-8870-f716a2fc72d4",
+    "amount": 2588.93,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Kristinburgh",
+    "timestamp": "2026-05-22T22:44:08.447328"
+  },
+  {
+    "transaction_id": "55b19edb-07da-4b66-a3f6-b385992fdc55",
+    "user_id": "58dc8573-e9db-4263-a7e2-035cfdc0f5e2",
+    "amount": 6691.56,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Ronald",
+    "timestamp": "2026-05-22T22:44:08.949412"
+  },
+  {
+    "transaction_id": "ae4e0b7a-1811-4c4b-898c-64bc8785df93",
+    "user_id": "62e39dea-b34f-44ed-a8ee-bd2712b3296e",
+    "amount": 258.85,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Saraberg",
+    "timestamp": "2026-05-22T22:44:09.451335"
+  },
+  {
+    "transaction_id": "34fd403c-d703-46ca-891d-9b2ad318fba6",
+    "user_id": "218a5c8d-dd4e-4568-94dc-94eed6cde437",
+    "amount": 3531.76,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East David",
+    "timestamp": "2026-05-22T22:44:09.953426"
+  },
+  {
+    "transaction_id": "c518ecd5-db10-4bf5-a802-8c2f8e4d9269",
+    "user_id": "1ab789dd-773c-4d09-8820-6c122bddc948",
+    "amount": 4974.67,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Martha",
+    "timestamp": "2026-05-22T22:44:10.456303"
+  },
+  {
+    "transaction_id": "f430b6eb-b038-40e9-832f-8d6a40a00e19",
+    "user_id": "98ad131f-a8a3-4132-8c48-9c01adc126e6",
+    "amount": 9067.01,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Elizabethfort",
+    "timestamp": "2026-05-22T22:44:10.959213"
+  }
+]

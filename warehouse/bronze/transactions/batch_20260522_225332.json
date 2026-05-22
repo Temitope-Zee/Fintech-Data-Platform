@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "10999d17-b055-486d-bcc4-81d20f126ef7",
+    "user_id": "44fff290-51b4-4c1e-afa1-48f1b4704c79",
+    "amount": 9490.18,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Marthashire",
+    "timestamp": "2026-05-22T22:53:26.292629"
+  },
+  {
+    "transaction_id": "3c304fd0-6658-4663-a4cb-fa5421bf8a6a",
+    "user_id": "3593fe29-534b-4aab-9fc2-2d6f5d2d016d",
+    "amount": 7028.98,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Richard",
+    "timestamp": "2026-05-22T22:53:26.795054"
+  },
+  {
+    "transaction_id": "4f5c5818-a9f4-41c9-8c2f-56c09e6763c7",
+    "user_id": "25016dc8-d9d2-4ed3-875e-8e7842843f66",
+    "amount": 6648.17,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Ashleyberg",
+    "timestamp": "2026-05-22T22:53:27.294516"
+  },
+  {
+    "transaction_id": "fbbdf071-ada7-472c-8997-259c04ddfad6",
+    "user_id": "4872cd3e-c44d-40b5-9581-6e4123bc3e49",
+    "amount": 2891.52,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Williamshaven",
+    "timestamp": "2026-05-22T22:53:27.796273"
+  },
+  {
+    "transaction_id": "bc6eeb71-d91a-420c-8816-d035a6b404d9",
+    "user_id": "58ad60b7-463f-4667-8a3b-5de84b86962a",
+    "amount": 6488.72,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Smithburgh",
+    "timestamp": "2026-05-22T22:53:28.799719"
+  },
+  {
+    "transaction_id": "12b79755-ab11-41b6-a871-c11fd999563b",
+    "user_id": "d14eae34-1c6f-4b5e-afcb-3ada1aed279a",
+    "amount": 7426.87,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Jaredborough",
+    "timestamp": "2026-05-22T22:53:29.802531"
+  },
+  {
+    "transaction_id": "811f46e8-0b1f-4d3e-abe6-a87e88f3b6c4",
+    "user_id": "9166bc0c-16c9-4cf7-acfc-2ab9d0522e60",
+    "amount": 5649.67,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Kevinberg",
+    "timestamp": "2026-05-22T22:53:30.304408"
+  },
+  {
+    "transaction_id": "1b79938e-5973-4eda-9668-cdba09692762",
+    "user_id": "617c5bb6-539c-4328-8e18-fa14bda4eac7",
+    "amount": 7876.8,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Shelia",
+    "timestamp": "2026-05-22T22:53:30.806004"
+  },
+  {
+    "transaction_id": "52f197d5-f1f7-4188-a830-fb59304e67f4",
+    "user_id": "e865d682-f5ba-4f1a-9714-dcd8df4da202",
+    "amount": 2834.42,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Michaelborough",
+    "timestamp": "2026-05-22T22:53:31.308902"
+  },
+  {
+    "transaction_id": "b75cb6a0-46d2-491f-a0b5-6ae05c62204f",
+    "user_id": "6888984e-b841-429a-be1e-57e0d87431b6",
+    "amount": 2905.8,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Carrollfurt",
+    "timestamp": "2026-05-22T22:53:32.313558"
+  }
+]

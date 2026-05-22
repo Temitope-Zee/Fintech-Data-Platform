@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6324d3b3-ff16-4095-a694-abbf607628b3",
+    "user_id": "d72af058-bd18-47bd-b4e5-35ebaf81bda0",
+    "amount": 9730.89,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Pamelabury",
+    "timestamp": "2026-05-22T21:59:28.430561"
+  },
+  {
+    "transaction_id": "b220e0f7-1a35-48e2-bb15-f1f5899d28fd",
+    "user_id": "411bac7e-f335-4119-921e-dfadc28de004",
+    "amount": 6909.77,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Carolynton",
+    "timestamp": "2026-05-22T21:59:28.932256"
+  },
+  {
+    "transaction_id": "c18d29f1-9f91-41e3-a71b-1a17f17379bb",
+    "user_id": "d75a24e4-927a-4029-9c6a-dd1680a6e508",
+    "amount": 8576.26,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North William",
+    "timestamp": "2026-05-22T21:59:29.435399"
+  },
+  {
+    "transaction_id": "301af9d8-5152-4499-857e-8aab09d0d3f0",
+    "user_id": "72438350-0f9a-4819-95dc-26345f7ddcf8",
+    "amount": 9900.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Caitlinton",
+    "timestamp": "2026-05-22T21:59:29.937336"
+  },
+  {
+    "transaction_id": "996006cf-d03b-4c1d-a482-5b1005b8afa0",
+    "user_id": "af499b8a-9e2b-47ad-86df-faaa31794570",
+    "amount": 6746.83,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Elizabeth",
+    "timestamp": "2026-05-22T21:59:30.440237"
+  },
+  {
+    "transaction_id": "ded5663f-e19c-40a7-839b-5ac2a4cf9643",
+    "user_id": "4bde4a8c-f6eb-49a6-8cf3-881c0d6c32ec",
+    "amount": 8012.4,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Trevorfort",
+    "timestamp": "2026-05-22T21:59:30.942166"
+  },
+  {
+    "transaction_id": "847d7e0a-a153-43f3-9726-b1d28379d957",
+    "user_id": "ac11febb-e24f-4ab4-a2b6-e81b709d904f",
+    "amount": 5108.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Christine",
+    "timestamp": "2026-05-22T21:59:31.443721"
+  },
+  {
+    "transaction_id": "5e30d400-f72d-4d4a-b1d0-7dbc149c3790",
+    "user_id": "db41cd24-690c-4fd5-95b5-2b1c9989871e",
+    "amount": 5832.66,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Markfurt",
+    "timestamp": "2026-05-22T21:59:31.945081"
+  },
+  {
+    "transaction_id": "16018c88-947d-45e3-8c62-f3fb13c983be",
+    "user_id": "1d026bfe-618a-485a-9c0c-f41dadb366bf",
+    "amount": 6741.76,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South David",
+    "timestamp": "2026-05-22T21:59:32.446684"
+  },
+  {
+    "transaction_id": "ae9b5716-1665-460e-87ce-26861efff459",
+    "user_id": "f47367d0-57f6-48bf-a3cf-4f8c200d19c9",
+    "amount": 6695.21,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Benjaminburgh",
+    "timestamp": "2026-05-22T21:59:32.948229"
+  }
+]

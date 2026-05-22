@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fd0646a0-d1de-4de7-9c24-929a58a6b13a",
+    "user_id": "3dcd1cc1-67db-4540-abd1-c76583b6c9c8",
+    "amount": 8544.24,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Carlachester",
+    "timestamp": "2026-05-22T22:47:59.400347"
+  },
+  {
+    "transaction_id": "623f4456-b696-469b-a600-365d514a953e",
+    "user_id": "4bcfd96d-dbd8-43d1-87b0-2afec2c0af0a",
+    "amount": 2523.53,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Justin",
+    "timestamp": "2026-05-22T22:48:00.403812"
+  },
+  {
+    "transaction_id": "f17a7a63-cf89-4e6c-ad8a-aa3c201d1010",
+    "user_id": "0a4feb82-b7e6-4b0c-8ae7-98b92877e1f3",
+    "amount": 9591.08,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Jamesmouth",
+    "timestamp": "2026-05-22T22:48:01.407231"
+  },
+  {
+    "transaction_id": "b95234ef-84bd-47c8-ba31-2731599e4aee",
+    "user_id": "24f0aaa4-6c88-48b7-a84a-bff7f5f68fb0",
+    "amount": 8900.59,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Floresside",
+    "timestamp": "2026-05-22T22:48:01.910112"
+  },
+  {
+    "transaction_id": "3372f778-3aee-4110-868c-43a4bdbc34f0",
+    "user_id": "b99bdd06-73fb-40ef-88ef-c66e6f7ead66",
+    "amount": 1041.5,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Wesley",
+    "timestamp": "2026-05-22T22:48:02.411437"
+  },
+  {
+    "transaction_id": "c391dc31-2c23-4378-82d4-35aa09d84806",
+    "user_id": "ee60e060-6ebe-4365-9f50-c8b0b3c1af47",
+    "amount": 4777.08,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Aliciaberg",
+    "timestamp": "2026-05-22T22:48:02.912746"
+  },
+  {
+    "transaction_id": "8bee46a2-71c7-4d7c-8b21-580a36ee0154",
+    "user_id": "22cd4878-a567-470a-bb6c-109f1e017133",
+    "amount": 1025.58,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Peter",
+    "timestamp": "2026-05-22T22:48:03.414618"
+  },
+  {
+    "transaction_id": "50f634f3-ed56-43c7-b0c5-96df7a39620f",
+    "user_id": "7aff82c1-9577-4526-a504-412d2c387350",
+    "amount": 1286.8,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Amberbury",
+    "timestamp": "2026-05-22T22:48:03.916477"
+  },
+  {
+    "transaction_id": "059bb887-e8c0-4d71-9869-141257a0facb",
+    "user_id": "34e0291a-99a5-46db-a9c0-98024160b94c",
+    "amount": 2918.35,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Mcclainbury",
+    "timestamp": "2026-05-22T22:48:04.418616"
+  },
+  {
+    "transaction_id": "0354d7e9-f657-4dda-a0dd-db144879dab6",
+    "user_id": "432ff9ab-1992-4429-bd36-ada8f309e71d",
+    "amount": 1693.52,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Freemanside",
+    "timestamp": "2026-05-22T22:48:04.922118"
+  }
+]

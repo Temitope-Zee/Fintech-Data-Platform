@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2b654081-e445-4a79-b6a0-162c9b9dc79d",
+    "user_id": "30ab66cd-3a70-4f3c-9a2f-aa8b1cf292a4",
+    "amount": 9630.24,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Paulfort",
+    "timestamp": "2026-05-22T22:53:50.393107"
+  },
+  {
+    "transaction_id": "76f8956b-d5de-4b3a-a720-17cbd5b8a55c",
+    "user_id": "258ee56d-20d2-4d4b-92d9-c2235d914e06",
+    "amount": 4634.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Newmanbury",
+    "timestamp": "2026-05-22T22:53:50.894682"
+  },
+  {
+    "transaction_id": "33f1a25a-9dbc-446e-ad00-8d3eff2f3fbc",
+    "user_id": "8dd130bc-229c-44e1-9a31-c00359aea998",
+    "amount": 8282.16,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jonesfort",
+    "timestamp": "2026-05-22T22:53:51.398301"
+  },
+  {
+    "transaction_id": "2691856f-2a16-462d-a4b0-90b4f66a27b4",
+    "user_id": "e74660b5-221c-49b1-8347-cc2f5c7587b2",
+    "amount": 441.17,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Angela",
+    "timestamp": "2026-05-22T22:53:51.900512"
+  },
+  {
+    "transaction_id": "e27c3b56-66cf-4cc9-833d-1f3d84781a4c",
+    "user_id": "bb824729-a4e1-47d0-b7a9-1799951ec6a4",
+    "amount": 3312.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Roberttown",
+    "timestamp": "2026-05-22T22:53:52.902645"
+  },
+  {
+    "transaction_id": "bb40c8c8-e2ef-44a2-93f8-d89a4ea31199",
+    "user_id": "dcf80ef9-09d1-4c6b-869d-d6eb319299bf",
+    "amount": 1533.03,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Rebeccahaven",
+    "timestamp": "2026-05-22T22:53:53.403662"
+  },
+  {
+    "transaction_id": "892f650f-c163-4fa2-bb52-b9dfb6dde466",
+    "user_id": "70369097-078f-4b83-8b3b-c43257a1b7a8",
+    "amount": 9122.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Sean",
+    "timestamp": "2026-05-22T22:53:53.904642"
+  },
+  {
+    "transaction_id": "f2a81a4e-1c66-4f22-98cf-e591efa822a6",
+    "user_id": "90b7404f-3885-41a1-8713-2dc084eb7ddd",
+    "amount": 984.38,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kaufmanberg",
+    "timestamp": "2026-05-22T22:53:54.405992"
+  },
+  {
+    "transaction_id": "6e6dfafe-386c-4185-995f-f12d1d461af9",
+    "user_id": "819ce9aa-8a58-45e3-b2ed-ba1c17f59206",
+    "amount": 2547.9,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Alexis",
+    "timestamp": "2026-05-22T22:53:54.908007"
+  },
+  {
+    "transaction_id": "41c11256-dc61-400a-95b4-296962b4bf6e",
+    "user_id": "2fccc7a2-e3e3-4f77-98b3-3f2dc53564ef",
+    "amount": 4433.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Cannonville",
+    "timestamp": "2026-05-22T22:53:55.409982"
+  }
+]

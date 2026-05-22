@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "062e7b07-6451-4bcb-848e-3094e7122978",
+    "user_id": "e628c8d8-bf40-4230-a16b-e4c8e74090f3",
+    "amount": 6040.51,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Matashire",
+    "timestamp": "2026-05-22T22:45:03.663249"
+  },
+  {
+    "transaction_id": "b4958a75-6dee-4348-a7c2-fd16af09690b",
+    "user_id": "8e2d2c89-8850-434c-ba2a-524ee42c43cd",
+    "amount": 9976.23,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Victoriabury",
+    "timestamp": "2026-05-22T22:45:04.165813"
+  },
+  {
+    "transaction_id": "faf298df-506c-4119-8c6d-5a91380d006f",
+    "user_id": "04fb9afd-1932-46d9-8276-f80c8360d13f",
+    "amount": 375.41,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Frankhaven",
+    "timestamp": "2026-05-22T22:45:04.668546"
+  },
+  {
+    "transaction_id": "da57f449-8be7-40fd-a47e-bbe2607a1e23",
+    "user_id": "fa67c31c-b0fb-465e-8ef5-0a8665b3185c",
+    "amount": 8476.93,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Mauriceview",
+    "timestamp": "2026-05-22T22:45:05.170046"
+  },
+  {
+    "transaction_id": "2998cf59-e956-48b9-98ee-2bc4e5613924",
+    "user_id": "f3593055-95df-48fa-9e72-591f21ae45dc",
+    "amount": 6870.75,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Suarezstad",
+    "timestamp": "2026-05-22T22:45:05.673188"
+  },
+  {
+    "transaction_id": "0869d5ef-039b-4301-9f8d-9747631d38d9",
+    "user_id": "fdaae962-8293-466f-97a5-2e5e377e6b46",
+    "amount": 5811.29,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Williamston",
+    "timestamp": "2026-05-22T22:45:06.174358"
+  },
+  {
+    "transaction_id": "7fad621e-215c-4ac7-8b1b-71c7790c1847",
+    "user_id": "2820bc53-7402-4247-996b-d663b3729ecc",
+    "amount": 6806.39,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michellestad",
+    "timestamp": "2026-05-22T22:45:06.675417"
+  },
+  {
+    "transaction_id": "6559f7cf-5328-41b2-9b90-76debc06cb36",
+    "user_id": "89c40104-ca46-477b-a25d-bdc1140d5eee",
+    "amount": 4556.09,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Tranville",
+    "timestamp": "2026-05-22T22:45:07.176569"
+  },
+  {
+    "transaction_id": "affb8859-f807-478a-9ca0-a04930222a1b",
+    "user_id": "26ccbd78-62e8-491b-a90d-3cebc02e8a07",
+    "amount": 3108.23,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Andrea",
+    "timestamp": "2026-05-22T22:45:07.677886"
+  },
+  {
+    "transaction_id": "379b08fb-899f-414b-84ca-82ccb02ff442",
+    "user_id": "96c9eb4d-5a13-4a7e-a3a5-0625fefbc17c",
+    "amount": 1802.54,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Jonathan",
+    "timestamp": "2026-05-22T22:45:08.179204"
+  }
+]

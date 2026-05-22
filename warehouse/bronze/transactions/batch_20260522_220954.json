@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c8e8203c-ab17-4986-be84-7baafa6c397d",
+    "user_id": "84994922-1dca-44ad-ad5e-c09a42f633dc",
+    "amount": 8987.46,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Kimmouth",
+    "timestamp": "2026-05-22T22:09:49.959251"
+  },
+  {
+    "transaction_id": "449989a2-80b9-4f47-93f9-8933a537c0d4",
+    "user_id": "7c150695-0e3a-4cfe-bf26-63a081c733e7",
+    "amount": 2981.18,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Tinatown",
+    "timestamp": "2026-05-22T22:09:50.461899"
+  },
+  {
+    "transaction_id": "8cbf3b2a-2f3c-4974-b9bd-1cd3cc97b4bf",
+    "user_id": "76823eb2-c8be-4f95-a784-d67c3cabba06",
+    "amount": 4023.06,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Tracyview",
+    "timestamp": "2026-05-22T22:09:51.466352"
+  },
+  {
+    "transaction_id": "51d6aad0-099c-4764-b7d8-b08d2234022c",
+    "user_id": "195c36c5-8dcd-42c7-9103-e3eb7ba98c8b",
+    "amount": 5296.33,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Elizabeth",
+    "timestamp": "2026-05-22T22:09:51.968005"
+  },
+  {
+    "transaction_id": "9dcee256-3ecc-431a-9393-fcad20e10b85",
+    "user_id": "753eb34b-7acd-4464-80b0-a260f24c528f",
+    "amount": 4.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Christopher",
+    "timestamp": "2026-05-22T22:09:52.469723"
+  },
+  {
+    "transaction_id": "e33932a0-9ceb-4e2c-a224-9406ba734288",
+    "user_id": "85f67262-3d65-4a42-98e3-be9ed5f5bd8b",
+    "amount": 3440.45,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Steven",
+    "timestamp": "2026-05-22T22:09:52.971207"
+  },
+  {
+    "transaction_id": "c9fb4b34-6ee4-4a45-b744-f94bdf525391",
+    "user_id": "edd1d966-1db3-4f3f-b677-6c919a2a4ec4",
+    "amount": 3043.2,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Williamsburgh",
+    "timestamp": "2026-05-22T22:09:53.472489"
+  },
+  {
+    "transaction_id": "ade1a3dd-558a-48e1-b1ae-d879fd4d6e88",
+    "user_id": "40c15c58-7ddd-464a-87f1-9eb9174aa1e9",
+    "amount": 5350.92,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Joshua",
+    "timestamp": "2026-05-22T22:09:53.975387"
+  },
+  {
+    "transaction_id": "9d006c50-8401-4fca-824c-fcade876aca6",
+    "user_id": "11382087-fc90-49e3-a6bf-347a4362f158",
+    "amount": 5527.63,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Wendy",
+    "timestamp": "2026-05-22T22:09:54.476649"
+  },
+  {
+    "transaction_id": "569278a0-8490-41e8-abd3-39ec056c4413",
+    "user_id": "81a3b508-2306-4f60-baa2-4566b8ee0654",
+    "amount": 1680.15,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Linda",
+    "timestamp": "2026-05-22T22:09:54.979024"
+  }
+]

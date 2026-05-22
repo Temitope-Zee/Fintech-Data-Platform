@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "125fb316-0ba4-41fe-b13f-819b7d92c023",
+    "user_id": "e841b7f6-9da1-4d5d-b5a7-fd2e7f191396",
+    "amount": 4802.12,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lindamouth",
+    "timestamp": "2026-05-22T21:42:25.227191"
+  },
+  {
+    "transaction_id": "7e3b87ae-f28a-4f2b-8131-c2d9b0e21f7f",
+    "user_id": "048a8a64-4dda-4f54-99fe-5d54e37dc464",
+    "amount": 9257.04,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Keithville",
+    "timestamp": "2026-05-22T21:42:25.729824"
+  },
+  {
+    "transaction_id": "afafb8f8-8891-44cf-ac8c-254ff8409058",
+    "user_id": "cdb59532-3a74-4a41-b233-251980971dd7",
+    "amount": 3086.87,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Dawnland",
+    "timestamp": "2026-05-22T21:42:26.732248"
+  },
+  {
+    "transaction_id": "047d782f-f6c0-4334-8e7f-1586abc155c6",
+    "user_id": "8ecde86c-e5c5-426a-b0c5-0885415fe97b",
+    "amount": 2496.89,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Natalie",
+    "timestamp": "2026-05-22T21:42:27.735151"
+  },
+  {
+    "transaction_id": "44823c93-9688-4db3-b861-db4d1bb16bb1",
+    "user_id": "0d096252-89ef-4636-8e00-637838c0c001",
+    "amount": 4624.09,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Chenmouth",
+    "timestamp": "2026-05-22T21:42:28.236803"
+  },
+  {
+    "transaction_id": "12eb9042-d428-4541-b108-2c149edc27a9",
+    "user_id": "6e3fb270-e086-42d9-84e3-adf17591ad6d",
+    "amount": 4632.85,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lisaport",
+    "timestamp": "2026-05-22T21:42:28.739502"
+  },
+  {
+    "transaction_id": "b4db1bf1-8376-4fd4-82a3-7d1d15dbc62f",
+    "user_id": "110b6a40-f9cd-4d00-93cb-0b4fc63f5be7",
+    "amount": 8671.21,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Traceyshire",
+    "timestamp": "2026-05-22T21:42:29.240975"
+  },
+  {
+    "transaction_id": "30bb1757-be2d-4eb2-8811-7893e9ebb621",
+    "user_id": "689fed7e-ceb4-4a57-92ee-77847b814fff",
+    "amount": 6699.24,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Kathy",
+    "timestamp": "2026-05-22T21:42:29.741934"
+  },
+  {
+    "transaction_id": "dd539a53-39cc-4435-a9a7-3fa02e8f7b18",
+    "user_id": "fce83889-a76c-490d-a333-74c1ff4f714d",
+    "amount": 9654.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Adamston",
+    "timestamp": "2026-05-22T21:42:30.242973"
+  },
+  {
+    "transaction_id": "6660746f-21e3-4d83-9209-741bf7564ede",
+    "user_id": "8c768711-44ce-49b9-8c45-05d3a3d034ae",
+    "amount": 9047.6,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Vicki",
+    "timestamp": "2026-05-22T21:42:31.245861"
+  }
+]

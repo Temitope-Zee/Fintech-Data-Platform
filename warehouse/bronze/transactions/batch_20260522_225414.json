@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "56c6488e-2c23-4742-91ad-0bb2425e5600",
+    "user_id": "65616978-cff5-466e-aa18-a8176157c41b",
+    "amount": 7981.7,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Josephside",
+    "timestamp": "2026-05-22T22:54:08.956349"
+  },
+  {
+    "transaction_id": "ad245332-8642-4ba4-8d3c-e7d74b3a6cad",
+    "user_id": "0b72b699-b9cd-4d43-9bca-20cda430721a",
+    "amount": 8766.44,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Michelle",
+    "timestamp": "2026-05-22T22:54:09.457450"
+  },
+  {
+    "transaction_id": "e36983db-191b-47fa-a2bf-552094e36a5a",
+    "user_id": "995cd645-e6bc-48cd-9b2e-35bf8e009591",
+    "amount": 6842.51,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Mathew",
+    "timestamp": "2026-05-22T22:54:09.960042"
+  },
+  {
+    "transaction_id": "72f73182-ad88-42b6-b80c-b1b87e925240",
+    "user_id": "5f59b1b1-4c5a-4877-8a17-bb74c6246963",
+    "amount": 1239.49,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Stephenborough",
+    "timestamp": "2026-05-22T22:54:11.464153"
+  },
+  {
+    "transaction_id": "dd98adb4-374f-4b31-ae13-c9f0d7b0aa0d",
+    "user_id": "d97a3479-44f1-4a7b-9632-3e5fded0c10e",
+    "amount": 3988.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Jameschester",
+    "timestamp": "2026-05-22T22:54:11.966237"
+  },
+  {
+    "transaction_id": "6b52d59a-1ac3-4364-8cd3-97e69e9dc7cc",
+    "user_id": "fe14aa8b-21ff-4009-9c9b-5729466e3c1c",
+    "amount": 5210.44,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Reginaton",
+    "timestamp": "2026-05-22T22:54:12.468473"
+  },
+  {
+    "transaction_id": "d42cc8f6-fb2f-426c-b2a2-4a48a22f4f2f",
+    "user_id": "28dbdd7e-e906-4624-b9fe-9d132876d5e6",
+    "amount": 3114.95,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Tanya",
+    "timestamp": "2026-05-22T22:54:12.969482"
+  },
+  {
+    "transaction_id": "7c85f31b-42f4-45e4-8427-8c59eee5358b",
+    "user_id": "1cc45b9b-1248-4833-84cd-71c9f388cac9",
+    "amount": 6398.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Martinville",
+    "timestamp": "2026-05-22T22:54:13.973292"
+  },
+  {
+    "transaction_id": "eba391e1-2457-4d6e-8151-2d4ccc87cfd9",
+    "user_id": "b030b31c-82c1-4043-8522-eb3a71ffe4d0",
+    "amount": 8833.06,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Rivashaven",
+    "timestamp": "2026-05-22T22:54:14.475559"
+  },
+  {
+    "transaction_id": "41680c3f-de87-464a-a3bb-ac71c84ad157",
+    "user_id": "8401ef38-fb8e-4030-8855-61d892a56d9b",
+    "amount": 2664.3,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Andrewmouth",
+    "timestamp": "2026-05-22T22:54:14.977690"
+  }
+]

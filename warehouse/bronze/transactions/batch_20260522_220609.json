@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "942ae1b7-aa91-4f1e-8795-c486a228f8bd",
+    "user_id": "3573c46a-741c-4af1-97a0-4c52b1e5a927",
+    "amount": 7008.23,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Jamesport",
+    "timestamp": "2026-05-22T22:06:05.068854"
+  },
+  {
+    "transaction_id": "ef696790-bc34-4bdb-9cc3-5733dcc35040",
+    "user_id": "f2d5af04-b8b9-4093-846d-0cbe7531724b",
+    "amount": 1523.72,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Scott",
+    "timestamp": "2026-05-22T22:06:05.569981"
+  },
+  {
+    "transaction_id": "05b68cbd-6439-4d2f-989e-2b83995c40d7",
+    "user_id": "a9baf57b-f5ab-4791-8a96-f1d3ac08cf27",
+    "amount": 1696.31,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Brownberg",
+    "timestamp": "2026-05-22T22:06:06.071293"
+  },
+  {
+    "transaction_id": "96da9922-696c-4d48-83e4-c836e0ee962c",
+    "user_id": "ee28a711-8d64-401b-8ed4-0ae96ac5361b",
+    "amount": 7302.67,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Steelehaven",
+    "timestamp": "2026-05-22T22:06:06.573475"
+  },
+  {
+    "transaction_id": "a63f423e-f8c2-451a-80bb-51a95d6807ee",
+    "user_id": "e9b765ae-5969-4cdb-b613-12ba36013f32",
+    "amount": 1062.41,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Mary",
+    "timestamp": "2026-05-22T22:06:07.075267"
+  },
+  {
+    "transaction_id": "9742e56a-233d-4fe9-bc06-db1b2c0134a8",
+    "user_id": "72d0e1c2-bc21-42d2-9e0b-6844d1f7bd56",
+    "amount": 2241.48,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Sylviachester",
+    "timestamp": "2026-05-22T22:06:07.578429"
+  },
+  {
+    "transaction_id": "204ba75a-9123-4e3a-8a47-d320e886e597",
+    "user_id": "8ad87644-aa5a-4ee0-9967-465025a2c033",
+    "amount": 1405.37,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Joshuabury",
+    "timestamp": "2026-05-22T22:06:08.079899"
+  },
+  {
+    "transaction_id": "198f22d1-605c-4d3a-b077-04b0a0c7eb30",
+    "user_id": "ecae1952-2b9e-4107-aec8-fd447f84e253",
+    "amount": 143.93,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Danielborough",
+    "timestamp": "2026-05-22T22:06:08.581187"
+  },
+  {
+    "transaction_id": "3e4875fa-40af-4b10-87b0-4b339dfc3de6",
+    "user_id": "702c34b7-550d-449d-a33b-531fd651bed6",
+    "amount": 8311.0,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Angelaborough",
+    "timestamp": "2026-05-22T22:06:09.082724"
+  },
+  {
+    "transaction_id": "51542b74-2a53-448e-9d94-45de4e1558d7",
+    "user_id": "5d53c9b9-125a-4b1f-a253-bce24e4d4112",
+    "amount": 9937.72,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Ronald",
+    "timestamp": "2026-05-22T22:06:09.585213"
+  }
+]

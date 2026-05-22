@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2a614fbe-ca04-4e7c-a669-916e4ee1b4e8",
+    "user_id": "e52e91b4-2557-46d1-b5ca-baf3b30a2fdf",
+    "amount": 6915.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Nicolasbury",
+    "timestamp": "2026-05-22T23:03:54.981259"
+  },
+  {
+    "transaction_id": "06e9cd4d-7606-4059-abd7-5646b7ed8441",
+    "user_id": "de6bb361-d202-45d5-b585-11263f64cd28",
+    "amount": 6333.36,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Goodmouth",
+    "timestamp": "2026-05-22T23:03:55.482593"
+  },
+  {
+    "transaction_id": "b281e637-7ecd-46d5-b536-9fcda5949925",
+    "user_id": "c80df9a1-04d6-4236-9107-3c3644fb454f",
+    "amount": 1239.66,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Mitchellmouth",
+    "timestamp": "2026-05-22T23:03:55.985778"
+  },
+  {
+    "transaction_id": "402f8c08-dba9-4bd1-9870-df090d2a8442",
+    "user_id": "85fb5e93-4591-4ee2-afbf-5cfb5d056004",
+    "amount": 7011.04,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South James",
+    "timestamp": "2026-05-22T23:03:56.488360"
+  },
+  {
+    "transaction_id": "ca0c271b-5847-4558-b5bf-18562970f91a",
+    "user_id": "1ddc7b7c-c4ef-4824-9f32-bc068f326036",
+    "amount": 38.09,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Joshua",
+    "timestamp": "2026-05-22T23:03:56.990727"
+  },
+  {
+    "transaction_id": "4ae1b170-d3b5-42de-865f-68770452ce4b",
+    "user_id": "0fc638c2-4e71-4b24-8576-15b07f0b172f",
+    "amount": 3985.61,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Craigton",
+    "timestamp": "2026-05-22T23:03:57.488314"
+  },
+  {
+    "transaction_id": "d295abe2-d7ed-4ad4-a28b-d03a9f872e74",
+    "user_id": "2102b4a5-67d6-4210-88a6-4413b83e5a9a",
+    "amount": 9804.27,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Kristinaview",
+    "timestamp": "2026-05-22T23:03:57.989667"
+  },
+  {
+    "transaction_id": "4de5eab3-19bf-4b94-9218-0b2c5700f72b",
+    "user_id": "1ae86d60-c51d-406b-87f9-03a9d240b29d",
+    "amount": 7370.14,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Sloanshire",
+    "timestamp": "2026-05-22T23:03:58.992713"
+  },
+  {
+    "transaction_id": "966d2d4c-87e8-4bf3-922a-d5cfb6a507dc",
+    "user_id": "a854eb23-0379-431e-8f4f-40824309c262",
+    "amount": 3835.23,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Colleenfort",
+    "timestamp": "2026-05-22T23:03:59.494610"
+  },
+  {
+    "transaction_id": "70066432-b61a-4295-a5fc-ffdfb73a3a1f",
+    "user_id": "efa89426-f276-4b67-9a38-9325b2db4169",
+    "amount": 565.58,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Sabrina",
+    "timestamp": "2026-05-22T23:03:59.995991"
+  }
+]

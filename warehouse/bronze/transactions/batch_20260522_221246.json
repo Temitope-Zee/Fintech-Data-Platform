@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2137a86d-6bc3-4df5-bf35-3db54ee95f8e",
+    "user_id": "99337481-043a-4ef5-8ae7-b88c16950b5f",
+    "amount": 4642.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Prestonton",
+    "timestamp": "2026-05-22T22:12:40.117062"
+  },
+  {
+    "transaction_id": "90da4e3c-8a05-4689-b94a-6e4d2ceaf872",
+    "user_id": "36a2865e-cf87-410d-8812-1aa1ee713ba4",
+    "amount": 1452.91,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Caroline",
+    "timestamp": "2026-05-22T22:12:40.616880"
+  },
+  {
+    "transaction_id": "824ef0a2-40a3-4dd1-9412-ccd905e02cc5",
+    "user_id": "0c8848db-1867-403d-8c0b-b686277c30f2",
+    "amount": 9018.94,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Joanne",
+    "timestamp": "2026-05-22T22:12:41.620372"
+  },
+  {
+    "transaction_id": "96e70c0e-1ded-4e51-ad5f-e84eb93ee5e8",
+    "user_id": "58d5b84c-a34e-4485-8a33-b185b4856622",
+    "amount": 1478.03,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Diana",
+    "timestamp": "2026-05-22T22:12:42.123752"
+  },
+  {
+    "transaction_id": "95d029ca-ca89-47d4-8be9-39a5ab075791",
+    "user_id": "2ba47d69-7854-4dc3-a3c9-efd7e6047b81",
+    "amount": 5933.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South David",
+    "timestamp": "2026-05-22T22:12:42.626525"
+  },
+  {
+    "transaction_id": "fffd75f4-8260-43f2-9197-8ea85e55b7ad",
+    "user_id": "c13a3cd0-8f14-489e-aa3b-a76f9696b5c4",
+    "amount": 8331.13,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Coreyland",
+    "timestamp": "2026-05-22T22:12:43.129240"
+  },
+  {
+    "transaction_id": "164dece5-7f9b-42d3-a80e-7abb3515bd2d",
+    "user_id": "da7b776b-6ca5-49ef-b367-8c3a4adb6add",
+    "amount": 8062.64,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Timothyton",
+    "timestamp": "2026-05-22T22:12:43.630992"
+  },
+  {
+    "transaction_id": "20f7dfb8-333c-4879-8793-ae7796b6d6ac",
+    "user_id": "d827d840-19dc-48d7-b686-e2252d955cdb",
+    "amount": 4579.01,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Christianchester",
+    "timestamp": "2026-05-22T22:12:45.137858"
+  },
+  {
+    "transaction_id": "f30513f5-307b-42b2-ab8e-a11f99744485",
+    "user_id": "02550426-b72f-4d20-8920-642bbfc9ecbc",
+    "amount": 8705.74,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Mitchellchester",
+    "timestamp": "2026-05-22T22:12:46.141133"
+  },
+  {
+    "transaction_id": "59ddbf92-a1ce-475e-9725-01286abae6bd",
+    "user_id": "48c06878-e020-492d-a595-88a772516c40",
+    "amount": 5793.9,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Christopherside",
+    "timestamp": "2026-05-22T22:12:46.642352"
+  }
+]

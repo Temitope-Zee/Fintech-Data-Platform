@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "01d73433-1476-4ce2-9405-0c4234a729ff",
+    "user_id": "84b19ecf-49ef-4070-a6cb-e7caaf8ba2ba",
+    "amount": 8689.74,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Dustinstad",
+    "timestamp": "2026-05-22T23:01:51.052582"
+  },
+  {
+    "transaction_id": "33678a6a-306c-4549-858e-8505e9e65e9b",
+    "user_id": "bddcca2b-9ae2-4df2-a959-9504607d4dc3",
+    "amount": 9468.13,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Robertland",
+    "timestamp": "2026-05-22T23:01:51.555192"
+  },
+  {
+    "transaction_id": "38d4d38e-e474-4b92-a53d-87648b056e93",
+    "user_id": "07c46fe2-000e-4edb-b8f0-f440a799a5b1",
+    "amount": 6913.51,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Michael",
+    "timestamp": "2026-05-22T23:01:52.057615"
+  },
+  {
+    "transaction_id": "4f27e4cc-131e-4d05-902e-71f65bfb1478",
+    "user_id": "bd0c8967-0d66-43fc-95fc-40db680e0942",
+    "amount": 9569.03,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Hornmouth",
+    "timestamp": "2026-05-22T23:01:52.558902"
+  },
+  {
+    "transaction_id": "52d10837-d165-4fff-9856-c8794b635d9c",
+    "user_id": "f853284f-550c-46c5-a07d-8f1913010690",
+    "amount": 8088.63,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Billyport",
+    "timestamp": "2026-05-22T23:01:53.061967"
+  },
+  {
+    "transaction_id": "c084777c-71dd-49e4-879b-919e09dc865a",
+    "user_id": "cac3d238-c44f-48f6-9cad-eb5d4fa7a51a",
+    "amount": 2448.72,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Crystalside",
+    "timestamp": "2026-05-22T23:01:53.564483"
+  },
+  {
+    "transaction_id": "0b1b69fb-22ec-4a9d-b5cb-cd631c654830",
+    "user_id": "5d7d92d6-a718-47b6-8806-54350a02399d",
+    "amount": 5251.84,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Parrishview",
+    "timestamp": "2026-05-22T23:01:54.065970"
+  },
+  {
+    "transaction_id": "e5a20126-2f5b-4239-8d21-fb99969c6ab1",
+    "user_id": "59ed1910-e2a1-414a-a4de-70bd24559987",
+    "amount": 1371.7,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Owensview",
+    "timestamp": "2026-05-22T23:01:54.569091"
+  },
+  {
+    "transaction_id": "e0f927d3-65d2-4240-a6fd-92ed62eb62a0",
+    "user_id": "79d36c27-340d-4cf7-b356-a9ec89f90b8e",
+    "amount": 1846.8,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Jessicaport",
+    "timestamp": "2026-05-22T23:01:55.071284"
+  },
+  {
+    "transaction_id": "e6ce2c01-51b6-4104-8eb8-1bc9aed18708",
+    "user_id": "21c77236-9bf3-4719-90c5-592f50264823",
+    "amount": 8186.78,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New John",
+    "timestamp": "2026-05-22T23:01:55.572918"
+  }
+]

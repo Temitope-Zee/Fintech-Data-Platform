@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d14e3a7-0c24-446c-828a-bebe668923a3",
+    "user_id": "239aa560-63a5-49b8-89a6-5a5a38a22f19",
+    "amount": 2260.92,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Reedmouth",
+    "timestamp": "2026-05-22T22:29:51.322195"
+  },
+  {
+    "transaction_id": "9893c75e-9c45-4622-806c-11196846b4fe",
+    "user_id": "927496bf-f423-4105-ac29-910450bb4582",
+    "amount": 7292.96,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Craigstad",
+    "timestamp": "2026-05-22T22:29:52.326059"
+  },
+  {
+    "transaction_id": "7feff52f-dc02-42ce-93dd-00e2cd2b7a14",
+    "user_id": "16cf5e36-cf19-44c6-ba59-be522c4305f8",
+    "amount": 3155.31,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Nicholasstad",
+    "timestamp": "2026-05-22T22:29:52.827775"
+  },
+  {
+    "transaction_id": "87ac3097-09a4-4a22-a9cf-4d1d9f11d22f",
+    "user_id": "7dedc878-6cc0-4e9e-8ede-ae328df612d4",
+    "amount": 8150.44,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Ginashire",
+    "timestamp": "2026-05-22T22:29:53.330816"
+  },
+  {
+    "transaction_id": "77aa4e22-5d00-4a62-8a97-00d8871e4d59",
+    "user_id": "4b6abed6-f5ce-4988-9170-6ce8ab43ec31",
+    "amount": 3278.57,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Wendybury",
+    "timestamp": "2026-05-22T22:29:53.833818"
+  },
+  {
+    "transaction_id": "cf4c771b-3c37-4ded-b8f4-86a21ef55617",
+    "user_id": "60b2fef9-3497-4f5a-a77c-0d2c6ac657f8",
+    "amount": 8914.74,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Ellenborough",
+    "timestamp": "2026-05-22T22:29:54.335446"
+  },
+  {
+    "transaction_id": "5b612923-1cb4-4518-b4c1-d0b4306f87bd",
+    "user_id": "5ff770d5-dccb-4db4-9dc3-335fce943775",
+    "amount": 4596.78,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Acevedoport",
+    "timestamp": "2026-05-22T22:29:54.838115"
+  },
+  {
+    "transaction_id": "e39ea064-108b-40e3-bd64-f66d523870b4",
+    "user_id": "a67b961d-76e8-4f6f-8157-f2bc05ac2b2d",
+    "amount": 1758.07,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Mortonchester",
+    "timestamp": "2026-05-22T22:29:55.340599"
+  },
+  {
+    "transaction_id": "83ccadef-7471-48a7-a020-af520f437fce",
+    "user_id": "da7d6480-61f0-4b99-b68b-8aa711b03068",
+    "amount": 3629.24,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Fosterside",
+    "timestamp": "2026-05-22T22:29:55.841984"
+  },
+  {
+    "transaction_id": "b4511e98-3aab-42bf-887f-bbe015fba2f7",
+    "user_id": "1da0237f-82d3-42fe-9447-490151e98fb6",
+    "amount": 5560.08,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Reyesberg",
+    "timestamp": "2026-05-22T22:29:56.344896"
+  }
+]

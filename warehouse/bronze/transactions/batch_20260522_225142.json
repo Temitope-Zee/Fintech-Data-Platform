@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1dcc9673-0c34-48a8-b24d-dd48c505066d",
+    "user_id": "1194d54c-fbf9-4426-8487-465050ab21ef",
+    "amount": 1896.5,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Carriefort",
+    "timestamp": "2026-05-22T22:51:37.309963"
+  },
+  {
+    "transaction_id": "019ddbba-0751-4225-b5a2-fba7b42e2241",
+    "user_id": "a7be417c-3f91-4e75-a092-2390930143dc",
+    "amount": 8199.54,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Charles",
+    "timestamp": "2026-05-22T22:51:37.812585"
+  },
+  {
+    "transaction_id": "0f47d914-2313-467a-8d4b-58289543ca53",
+    "user_id": "cae519bf-99c1-41c9-982b-a98945ae4519",
+    "amount": 3949.13,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Mary",
+    "timestamp": "2026-05-22T22:51:38.815803"
+  },
+  {
+    "transaction_id": "1329e4c5-1dd1-47c3-a7f3-061a2de2b017",
+    "user_id": "d270b647-5408-4f36-a2f6-b8a81d74ffa5",
+    "amount": 1022.02,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Reeseberg",
+    "timestamp": "2026-05-22T22:51:39.319579"
+  },
+  {
+    "transaction_id": "63ee0316-7478-42bb-ae70-f2a0ef514ca5",
+    "user_id": "fa91c482-fcea-4f82-b895-e75e1ab29ae2",
+    "amount": 507.98,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Veronica",
+    "timestamp": "2026-05-22T22:51:39.823129"
+  },
+  {
+    "transaction_id": "707a340d-9938-43f7-bfe9-8a4e795bc864",
+    "user_id": "a025ad6b-3577-402e-a6fb-232541df1369",
+    "amount": 5895.84,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Nelsonside",
+    "timestamp": "2026-05-22T22:51:40.324149"
+  },
+  {
+    "transaction_id": "cea4cabe-5bec-4929-bb89-56692da3b84a",
+    "user_id": "ea552676-7934-4629-ab6a-346d3c864265",
+    "amount": 4362.16,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Robertsonport",
+    "timestamp": "2026-05-22T22:51:40.826199"
+  },
+  {
+    "transaction_id": "5cdc4a39-cfe7-4b7f-990c-d9192e29a0e5",
+    "user_id": "33b61f46-21ab-4b3e-9236-263ce2663db4",
+    "amount": 906.98,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Joshuashire",
+    "timestamp": "2026-05-22T22:51:41.329519"
+  },
+  {
+    "transaction_id": "acdba191-ba8d-4550-a4d5-83eb2a8a4e84",
+    "user_id": "1e734ae0-a8d6-4ec7-b6b9-7696022871d4",
+    "amount": 8423.49,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Tony",
+    "timestamp": "2026-05-22T22:51:41.832491"
+  },
+  {
+    "transaction_id": "bbe8c0af-01b7-4708-bd6e-39d670548840",
+    "user_id": "c8087e2d-58be-479f-b62f-fe0498cd37f9",
+    "amount": 2834.63,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Guerreromouth",
+    "timestamp": "2026-05-22T22:51:42.836567"
+  }
+]

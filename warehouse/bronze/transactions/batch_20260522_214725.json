@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "109ff649-33da-4a2c-be3d-fc77c21a7e53",
+    "user_id": "978f8360-181c-4e69-9077-d2c745891f38",
+    "amount": 6739.6,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Andrewmouth",
+    "timestamp": "2026-05-22T21:47:20.969642"
+  },
+  {
+    "transaction_id": "3f548d66-9724-4f26-b8f1-935688f32baa",
+    "user_id": "97b816ca-3a3a-4869-b8a9-db6a986a805e",
+    "amount": 5584.07,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Amy",
+    "timestamp": "2026-05-22T21:47:21.470990"
+  },
+  {
+    "transaction_id": "aaea0517-9d43-4517-ba36-b8411cee1631",
+    "user_id": "4bca0f53-5f59-4f9a-8e65-2ea1ed9b60f4",
+    "amount": 8942.4,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Jenniferside",
+    "timestamp": "2026-05-22T21:47:21.972270"
+  },
+  {
+    "transaction_id": "646e109f-d3b7-4172-bcde-819fa7903283",
+    "user_id": "3e94c9ef-0250-411c-a8ba-987ee63682aa",
+    "amount": 2090.72,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Nicholaschester",
+    "timestamp": "2026-05-22T21:47:22.473747"
+  },
+  {
+    "transaction_id": "eca20569-ce5d-42ae-9dac-051c06ee5306",
+    "user_id": "21a9f7c9-1a0e-491b-bddc-7539a8f09717",
+    "amount": 9009.99,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Dawn",
+    "timestamp": "2026-05-22T21:47:22.974750"
+  },
+  {
+    "transaction_id": "6d19d22b-7093-4bd5-a869-8d1fdce4041a",
+    "user_id": "1552c724-d987-4adf-9b15-28968bba7274",
+    "amount": 6846.06,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Amandaside",
+    "timestamp": "2026-05-22T21:47:23.476310"
+  },
+  {
+    "transaction_id": "4edfe6e1-d741-42cc-93b4-d0faad2df23d",
+    "user_id": "54ac0362-cf58-4e72-ac4a-9f842059afc2",
+    "amount": 2376.32,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Benjamin",
+    "timestamp": "2026-05-22T21:47:23.977679"
+  },
+  {
+    "transaction_id": "373cf04b-7a8a-4b56-9dfa-8acdae6728f3",
+    "user_id": "ce3857d1-38df-4a98-9b4e-8286b52f8652",
+    "amount": 5484.71,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Gonzalezchester",
+    "timestamp": "2026-05-22T21:47:24.480678"
+  },
+  {
+    "transaction_id": "a670a494-8ae4-4235-b73a-1120d854dce5",
+    "user_id": "6ae34bb5-ae09-4f1b-b9f0-1c2aeeb1dfcf",
+    "amount": 3496.78,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Michelletown",
+    "timestamp": "2026-05-22T21:47:24.983195"
+  },
+  {
+    "transaction_id": "5e1afe0f-687f-41d4-b996-ab8aee966bbf",
+    "user_id": "f984efd3-620c-4b0a-83a3-13a69533da3c",
+    "amount": 7451.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Perezhaven",
+    "timestamp": "2026-05-22T21:47:25.485864"
+  }
+]

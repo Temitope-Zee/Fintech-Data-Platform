@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3fb62f1b-f521-469d-a4cd-5d9a48d5d16b",
+    "user_id": "a26a7442-55e1-4a53-9d4c-787bae7edec4",
+    "amount": 983.09,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Ian",
+    "timestamp": "2026-05-22T22:50:00.877216"
+  },
+  {
+    "transaction_id": "a9b03ef6-0988-4c18-91a1-d6260bd060b5",
+    "user_id": "b219644d-ea9d-4468-9455-6c8889fd31c9",
+    "amount": 5532.79,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Knoxburgh",
+    "timestamp": "2026-05-22T22:50:01.380490"
+  },
+  {
+    "transaction_id": "7d11124f-c85a-4380-89f5-e8498ee4259e",
+    "user_id": "499cfc2a-2b54-497a-9681-df066dd6e9ea",
+    "amount": 8724.91,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Bakerchester",
+    "timestamp": "2026-05-22T22:50:02.383896"
+  },
+  {
+    "transaction_id": "d2ad2aa1-29c4-4d2c-b70e-59097ec0fbb7",
+    "user_id": "b4b20cdc-dd06-4e18-9555-d9060922a3fc",
+    "amount": 5791.67,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Erik",
+    "timestamp": "2026-05-22T22:50:03.392457"
+  },
+  {
+    "transaction_id": "bc2a76b6-4db4-4fc1-8768-447a0ec97f9b",
+    "user_id": "fb3a0310-6665-4c31-a79c-68d22e7749e0",
+    "amount": 7177.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Dawsonfort",
+    "timestamp": "2026-05-22T22:50:03.897207"
+  },
+  {
+    "transaction_id": "c5b70668-1c97-4e82-85f9-1903f772cfad",
+    "user_id": "e44c3b55-342f-46f1-bc93-3adb0239c04c",
+    "amount": 2838.69,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Rogerton",
+    "timestamp": "2026-05-22T22:50:04.403276"
+  },
+  {
+    "transaction_id": "5635a584-f12b-461e-999e-368e976de42c",
+    "user_id": "c6da0c6a-e6c9-4da6-89e0-683eff64ed8c",
+    "amount": 5375.79,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Michael",
+    "timestamp": "2026-05-22T22:50:04.907715"
+  },
+  {
+    "transaction_id": "f2b50014-16c9-41e6-b757-c9ca7719ac8b",
+    "user_id": "f65f711a-f77f-4784-81de-b04361c041c8",
+    "amount": 9664.27,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Katherineland",
+    "timestamp": "2026-05-22T22:50:05.412278"
+  },
+  {
+    "transaction_id": "28f98d67-562f-432c-b90e-b855754455ad",
+    "user_id": "1cbdd1d0-f711-4298-99f8-482b435891ba",
+    "amount": 8619.68,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Amanda",
+    "timestamp": "2026-05-22T22:50:05.916032"
+  },
+  {
+    "transaction_id": "0e233b78-3a80-40ca-b32b-f318df2ea01e",
+    "user_id": "f5253c63-1eb6-460d-9bda-9f3787ce817f",
+    "amount": 8223.7,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Martinshire",
+    "timestamp": "2026-05-22T22:50:06.417513"
+  }
+]

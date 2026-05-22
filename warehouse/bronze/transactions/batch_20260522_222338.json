@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a89a549a-4e0f-4900-b68b-5877f0bdc637",
+    "user_id": "28a619f4-6661-4521-993b-aa9239f1d08a",
+    "amount": 9408.0,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Ryanbury",
+    "timestamp": "2026-05-22T22:23:33.304834"
+  },
+  {
+    "transaction_id": "31be8d39-db77-4b62-a9f3-28ae16cb444b",
+    "user_id": "70c6fd15-2f0b-41be-b751-107d4b8fc33e",
+    "amount": 9882.25,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Brianburgh",
+    "timestamp": "2026-05-22T22:23:33.806467"
+  },
+  {
+    "transaction_id": "5a1b392a-9632-4d6a-8bd4-0c996fbb89b1",
+    "user_id": "758255f5-d651-44ae-a2d1-f77c84ea770f",
+    "amount": 3899.86,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Huntton",
+    "timestamp": "2026-05-22T22:23:34.308164"
+  },
+  {
+    "transaction_id": "84a9d557-578b-4d4d-8e12-f02c4cc85de8",
+    "user_id": "255f1f6a-04d8-46cf-b674-9a92d0665662",
+    "amount": 674.26,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Craig",
+    "timestamp": "2026-05-22T22:23:35.312730"
+  },
+  {
+    "transaction_id": "e6970edd-b1d5-4c58-bed6-468e34cb7186",
+    "user_id": "bfd89e6e-33bd-482f-a905-94253c1cca67",
+    "amount": 2327.9,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Thomas",
+    "timestamp": "2026-05-22T22:23:35.813958"
+  },
+  {
+    "transaction_id": "00ef789c-3b9e-4b8b-8ae4-f58c8305bc72",
+    "user_id": "c193ff79-8e8c-41ca-80d9-b71ff17bbadf",
+    "amount": 9575.25,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Moorechester",
+    "timestamp": "2026-05-22T22:23:36.315349"
+  },
+  {
+    "transaction_id": "929561a2-0c5b-4bfb-94e6-4fd3486db341",
+    "user_id": "ed21ba91-d9bf-4bc2-8669-040d908177cc",
+    "amount": 1258.69,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Mitchellview",
+    "timestamp": "2026-05-22T22:23:36.819048"
+  },
+  {
+    "transaction_id": "16a09df2-60d6-4fe2-9d5d-5f12a21179fa",
+    "user_id": "41eb5963-7553-4718-80e3-5679312237b9",
+    "amount": 378.41,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Parkerbury",
+    "timestamp": "2026-05-22T22:23:37.320759"
+  },
+  {
+    "transaction_id": "e08a8c22-5251-4d47-8c31-a1e7bf2fbb8c",
+    "user_id": "666e3170-2eb9-4b18-a029-44ddf84f2fa5",
+    "amount": 313.89,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Jasonborough",
+    "timestamp": "2026-05-22T22:23:37.823991"
+  },
+  {
+    "transaction_id": "992c2457-2fb6-49de-83bd-cc0dbd7f31a6",
+    "user_id": "eaecba73-3f33-4cc1-941d-fc87954d1de6",
+    "amount": 6069.04,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Hughesport",
+    "timestamp": "2026-05-22T22:23:38.325744"
+  }
+]

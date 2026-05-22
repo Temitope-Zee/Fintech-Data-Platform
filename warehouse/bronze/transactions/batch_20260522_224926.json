@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2f13141d-71bf-44e0-8b40-392f4679b718",
+    "user_id": "da49fca8-b466-4b11-a07a-873163e6689c",
+    "amount": 6742.24,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Gregorychester",
+    "timestamp": "2026-05-22T22:49:21.211189"
+  },
+  {
+    "transaction_id": "7582e0f7-aece-4013-af52-14875f2cb6a1",
+    "user_id": "e6937b0a-b0d5-4399-8b6c-2454a0d8577e",
+    "amount": 6472.7,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Lawrence",
+    "timestamp": "2026-05-22T22:49:21.713599"
+  },
+  {
+    "transaction_id": "5a5510da-23d6-42b7-84f1-6ea8f4347e03",
+    "user_id": "20685068-8314-4076-8275-3432c71b7e3e",
+    "amount": 538.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Ryan",
+    "timestamp": "2026-05-22T22:49:22.215913"
+  },
+  {
+    "transaction_id": "1de97107-a919-4261-b6a9-64cdb46e744f",
+    "user_id": "12cbddf7-9fc5-4ab7-9666-a23c895e42d0",
+    "amount": 1836.95,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Jessica",
+    "timestamp": "2026-05-22T22:49:22.717838"
+  },
+  {
+    "transaction_id": "e8245ee9-3ff7-425e-b044-3243384f44e5",
+    "user_id": "61e47534-dd88-457e-a2f9-6708756d816b",
+    "amount": 5010.04,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Coryhaven",
+    "timestamp": "2026-05-22T22:49:23.219661"
+  },
+  {
+    "transaction_id": "fe3c2476-45ee-4b41-82b4-6e839df51bbe",
+    "user_id": "9d60abf6-c267-4fb9-b248-e49a22fe2020",
+    "amount": 9720.26,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Shepardberg",
+    "timestamp": "2026-05-22T22:49:23.721697"
+  },
+  {
+    "transaction_id": "31590503-c2d1-4772-a609-bc2c70a26360",
+    "user_id": "1fc9091c-656a-4c92-834f-5a568dd49c4d",
+    "amount": 1510.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Danny",
+    "timestamp": "2026-05-22T22:49:24.724960"
+  },
+  {
+    "transaction_id": "dba7e3f9-e66d-4407-9fb0-9f2638f65cfb",
+    "user_id": "34861851-c46b-4f28-87f1-240be467f89e",
+    "amount": 8077.06,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Lisafurt",
+    "timestamp": "2026-05-22T22:49:25.226869"
+  },
+  {
+    "transaction_id": "57133316-a0a2-43fb-bc8a-b7b030e33047",
+    "user_id": "c34d880a-2ac3-480c-8e8b-1ca66d277084",
+    "amount": 9450.51,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Erinchester",
+    "timestamp": "2026-05-22T22:49:26.231503"
+  },
+  {
+    "transaction_id": "fc6fab75-856f-424c-be83-eb9c2f22fc85",
+    "user_id": "f9c68054-d262-4c90-a743-714c3ec03c68",
+    "amount": 6501.39,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Lisashire",
+    "timestamp": "2026-05-22T22:49:26.734723"
+  }
+]

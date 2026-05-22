@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "40b96c54-8f58-4572-813b-b4fa1a1a1a1e",
+    "user_id": "2ceffebf-9c96-4fa3-aceb-8fdc5144f01d",
+    "amount": 6605.42,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Bobby",
+    "timestamp": "2026-05-22T22:45:52.365484"
+  },
+  {
+    "transaction_id": "7efa5cf3-3289-4e41-bf4e-17a52f722800",
+    "user_id": "d857a0cb-0246-4bb3-8ec2-4df37a52aaa4",
+    "amount": 1955.9,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Laurachester",
+    "timestamp": "2026-05-22T22:45:52.867968"
+  },
+  {
+    "transaction_id": "d34748ec-29d4-43a4-be85-c31242fa99b1",
+    "user_id": "de5b852b-7d51-4955-864f-dd084ac580fe",
+    "amount": 5083.88,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Oliviaview",
+    "timestamp": "2026-05-22T22:45:53.369451"
+  },
+  {
+    "transaction_id": "fecd861f-e12e-41e3-86a1-5fb34f51440a",
+    "user_id": "66b92f8d-b59a-4f63-87cf-47dfaca90c8c",
+    "amount": 9597.5,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Mitchellfurt",
+    "timestamp": "2026-05-22T22:45:54.874642"
+  },
+  {
+    "transaction_id": "ae5ad2e1-b97d-4e88-985d-cfdb0cc27275",
+    "user_id": "8e25be01-c265-4ee1-bb6e-95f5470c37a3",
+    "amount": 3773.28,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Elizabethborough",
+    "timestamp": "2026-05-22T22:45:55.376047"
+  },
+  {
+    "transaction_id": "8781488f-7516-427d-9b2b-b2a1976ef100",
+    "user_id": "949f0e87-9442-44bc-9569-4580f314c0ce",
+    "amount": 5947.85,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Crawfordmouth",
+    "timestamp": "2026-05-22T22:45:55.879447"
+  },
+  {
+    "transaction_id": "af5b9c7d-18a4-41aa-880e-9493efcc7b32",
+    "user_id": "7246e681-94b9-41c2-a811-2ef5568aeb73",
+    "amount": 8623.89,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Alexanderberg",
+    "timestamp": "2026-05-22T22:45:56.388484"
+  },
+  {
+    "transaction_id": "3779c47d-60cf-4441-9cee-852cd60b7940",
+    "user_id": "e5145cbd-5c06-4475-9151-b206945aabae",
+    "amount": 3930.15,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Kelseystad",
+    "timestamp": "2026-05-22T22:45:57.394087"
+  },
+  {
+    "transaction_id": "395101e8-e861-4b98-a7a1-d0c95ca7e980",
+    "user_id": "fbe7b594-a746-4a9a-b035-2f1b0018b2ab",
+    "amount": 702.28,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Matthewfort",
+    "timestamp": "2026-05-22T22:45:57.895297"
+  },
+  {
+    "transaction_id": "59901c11-86df-4bbd-821c-18ea94917927",
+    "user_id": "d0244d0d-5765-47da-8d3e-b1af372105da",
+    "amount": 9562.87,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Leeborough",
+    "timestamp": "2026-05-22T22:45:58.397437"
+  }
+]

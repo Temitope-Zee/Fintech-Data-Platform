@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fa5225ef-0c9c-4ed9-8c06-49cf0e613e7f",
+    "user_id": "3b108bfa-557c-4c26-8311-a455aedc782d",
+    "amount": 7360.48,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Haileytown",
+    "timestamp": "2026-05-22T21:43:24.461062"
+  },
+  {
+    "transaction_id": "bec06566-e870-4728-b8bc-2f5df3a09849",
+    "user_id": "98e9e6cb-c297-4a57-b49d-d9d29e267cbe",
+    "amount": 8725.22,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Jenniferfort",
+    "timestamp": "2026-05-22T21:43:24.962313"
+  },
+  {
+    "transaction_id": "2fe878f3-73e3-402b-af7b-c190b700d613",
+    "user_id": "a9aaf2c9-93df-414e-9e1e-a09fca9e9d51",
+    "amount": 5192.19,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Charlesberg",
+    "timestamp": "2026-05-22T21:43:25.463775"
+  },
+  {
+    "transaction_id": "b2056cbe-fe38-44b3-9b3c-cf83e6097924",
+    "user_id": "916b3710-b3c9-465c-be29-14eff0eeedb9",
+    "amount": 6511.6,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Jamesmouth",
+    "timestamp": "2026-05-22T21:43:25.965230"
+  },
+  {
+    "transaction_id": "730365fb-5c08-46d6-9558-9cafcc8e99a3",
+    "user_id": "1c533618-7c29-490f-a9d3-2da8d85014ca",
+    "amount": 3059.62,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Markport",
+    "timestamp": "2026-05-22T21:43:26.968938"
+  },
+  {
+    "transaction_id": "b5db9cbb-c81e-403e-a930-e575106509d6",
+    "user_id": "feb9654b-2c30-4e4e-89c6-307f7cc86291",
+    "amount": 1987.85,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Boltonhaven",
+    "timestamp": "2026-05-22T21:43:27.470524"
+  },
+  {
+    "transaction_id": "435de5b5-6314-4c98-8a1e-8de9b0808ee9",
+    "user_id": "498f9b10-3a1c-4d31-95b5-ee1ff80c0ce7",
+    "amount": 2536.72,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Michellefurt",
+    "timestamp": "2026-05-22T21:43:27.972201"
+  },
+  {
+    "transaction_id": "c9dc5225-3d40-4fa7-b7fa-b28394742e63",
+    "user_id": "b7c9feb4-3231-4de1-bfd8-1314d29b3703",
+    "amount": 9888.18,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Travisside",
+    "timestamp": "2026-05-22T21:43:28.474810"
+  },
+  {
+    "transaction_id": "311d912d-118d-4a9b-9812-73c44783005e",
+    "user_id": "dd8e9b0b-9c43-42ae-9343-1aa0fd835f6b",
+    "amount": 793.11,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Daniel",
+    "timestamp": "2026-05-22T21:43:28.976189"
+  },
+  {
+    "transaction_id": "707d7041-ad7a-4640-9e91-7777e4412e60",
+    "user_id": "43d499f4-f3e9-4d9d-be62-425fd7904aba",
+    "amount": 8132.34,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Juliaborough",
+    "timestamp": "2026-05-22T21:43:29.477651"
+  }
+]

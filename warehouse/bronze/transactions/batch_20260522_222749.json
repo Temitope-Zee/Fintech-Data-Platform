@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f8eff7dc-a56c-4993-b1b4-eebd14fa6ae5",
+    "user_id": "6a167968-caad-46b0-871a-72a41074059c",
+    "amount": 8820.11,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Timothy",
+    "timestamp": "2026-05-22T22:27:43.268488"
+  },
+  {
+    "transaction_id": "9e5945ec-4d09-486a-8fd5-57bf88eb934a",
+    "user_id": "7db88fc5-b18f-41b2-94fa-5e3a59641896",
+    "amount": 9889.95,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Danielleland",
+    "timestamp": "2026-05-22T22:27:43.770392"
+  },
+  {
+    "transaction_id": "bd4c48f1-a5d2-4407-8a3d-0b33f909a72f",
+    "user_id": "5867601a-d5f5-451b-94df-276bb4dfd7cc",
+    "amount": 5556.15,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Vanceberg",
+    "timestamp": "2026-05-22T22:27:44.773498"
+  },
+  {
+    "transaction_id": "48b32f03-f251-4821-aaa6-984885179552",
+    "user_id": "ff64cfec-2bc9-4bc1-a643-4facf0217f22",
+    "amount": 6264.18,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Christophermouth",
+    "timestamp": "2026-05-22T22:27:45.275052"
+  },
+  {
+    "transaction_id": "9227304f-abad-4404-b345-e20f85b94746",
+    "user_id": "c6fca318-e25d-475e-b66f-05ab4194d0e7",
+    "amount": 8269.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Bruce",
+    "timestamp": "2026-05-22T22:27:45.778302"
+  },
+  {
+    "transaction_id": "9e27b11d-ba1a-4498-b318-8ff9e56b5945",
+    "user_id": "43f7a75f-959f-429d-befa-5dce3934cd70",
+    "amount": 49.02,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Theresashire",
+    "timestamp": "2026-05-22T22:27:46.280321"
+  },
+  {
+    "transaction_id": "3eb84441-0c65-438b-821d-b501a89c5137",
+    "user_id": "50e953e0-4b40-4399-97cf-576a6743296c",
+    "amount": 9745.2,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Thomas",
+    "timestamp": "2026-05-22T22:27:47.283633"
+  },
+  {
+    "transaction_id": "02cf029d-ef2e-4f81-8c2f-8b6cb16feec8",
+    "user_id": "2e4e5a0c-f1ff-439d-8f0f-5b90e52fe253",
+    "amount": 11.29,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Keithfort",
+    "timestamp": "2026-05-22T22:27:47.785187"
+  },
+  {
+    "transaction_id": "0e59dc53-c55d-4f1c-bdfb-b92ee39c853d",
+    "user_id": "71ecaab0-5a0b-49fa-8fed-ceeee00aab36",
+    "amount": 3196.15,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Tracy",
+    "timestamp": "2026-05-22T22:27:48.286781"
+  },
+  {
+    "transaction_id": "a4f179ab-e4b5-453b-abeb-30c84611f3ad",
+    "user_id": "ef2d2844-db8a-40ba-9996-30e3d9e8fd15",
+    "amount": 6665.36,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Joshuastad",
+    "timestamp": "2026-05-22T22:27:49.292200"
+  }
+]

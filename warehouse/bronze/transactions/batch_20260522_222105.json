@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c7b4913e-a053-402f-84af-7ffef9a6c53e",
+    "user_id": "c7188863-37ca-4af7-b1b5-85b41f96211b",
+    "amount": 5545.09,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Cookhaven",
+    "timestamp": "2026-05-22T22:21:00.126245"
+  },
+  {
+    "transaction_id": "414abdcf-bfbb-4919-8a11-9a1d4349a25c",
+    "user_id": "393db6b0-0351-4314-a368-89dca0e1939a",
+    "amount": 5513.97,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Kentside",
+    "timestamp": "2026-05-22T22:21:00.627610"
+  },
+  {
+    "transaction_id": "c8f97171-3b16-4429-9d75-256c94336c25",
+    "user_id": "8907c338-ef0b-4ae0-8c52-42b22201134a",
+    "amount": 8139.55,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Snyderburgh",
+    "timestamp": "2026-05-22T22:21:01.129074"
+  },
+  {
+    "transaction_id": "45f3557f-8c39-4f62-8578-f1767d48fcdb",
+    "user_id": "196cc3d9-78d1-4b27-94d8-2e85eb27c17f",
+    "amount": 2364.18,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Scotttown",
+    "timestamp": "2026-05-22T22:21:01.631023"
+  },
+  {
+    "transaction_id": "119d4c29-d713-4716-a0b0-a476ed1c02e9",
+    "user_id": "ad2bb80b-2d72-464b-919b-72f819d8ef6e",
+    "amount": 8425.64,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Adam",
+    "timestamp": "2026-05-22T22:21:02.635237"
+  },
+  {
+    "transaction_id": "af0ca541-7d1b-4c5a-96c4-8c4aa12cacd1",
+    "user_id": "998731b5-db60-494d-b818-8c88fdee7200",
+    "amount": 3059.74,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Loweville",
+    "timestamp": "2026-05-22T22:21:03.137118"
+  },
+  {
+    "transaction_id": "6d67c666-70c4-4756-bdb7-0cd9751c7ce8",
+    "user_id": "c623d799-f810-4f65-a73e-5cc1ce0ea43e",
+    "amount": 4681.85,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Nathanport",
+    "timestamp": "2026-05-22T22:21:03.638604"
+  },
+  {
+    "transaction_id": "b3280de4-e2c4-4d53-808f-5eed72e62543",
+    "user_id": "cbbf1a79-ee95-419d-8b62-1903797d2a8a",
+    "amount": 7772.44,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Joeton",
+    "timestamp": "2026-05-22T22:21:04.141762"
+  },
+  {
+    "transaction_id": "781ec699-6e6f-4792-8cca-1851f231ca5d",
+    "user_id": "890855f0-479d-4371-8e61-90882f7a3375",
+    "amount": 1740.77,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Williamsonchester",
+    "timestamp": "2026-05-22T22:21:04.644489"
+  },
+  {
+    "transaction_id": "32637970-c23d-4251-ab04-3f35c63393bb",
+    "user_id": "983b5bbe-7fa0-4c7f-8869-37f1b411e3d3",
+    "amount": 255.93,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Shaun",
+    "timestamp": "2026-05-22T22:21:05.147255"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "de1b0edf-998f-4f90-9256-55e51476602f",
+    "user_id": "8933bd57-ff67-4820-a188-965efab04455",
+    "amount": 1073.16,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Colleen",
+    "timestamp": "2026-05-22T22:03:54.505152"
+  },
+  {
+    "transaction_id": "168b9034-4d9f-46ea-9017-2b7e1912341d",
+    "user_id": "7d0ec885-972c-45d8-bedb-9a4da5eed8bd",
+    "amount": 2519.54,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Daniel",
+    "timestamp": "2026-05-22T22:03:55.007017"
+  },
+  {
+    "transaction_id": "10b306af-2c5b-4300-bae7-df67d74b7cfb",
+    "user_id": "d861b684-1424-4158-bd6e-0811bc746803",
+    "amount": 5202.46,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Justinstad",
+    "timestamp": "2026-05-22T22:03:55.510475"
+  },
+  {
+    "transaction_id": "1250620e-f5bd-4825-ac9d-6d2e4d5fe0f2",
+    "user_id": "d7109212-f20c-4ebf-b9cc-b18784072e91",
+    "amount": 2776.29,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Kennethchester",
+    "timestamp": "2026-05-22T22:03:56.515992"
+  },
+  {
+    "transaction_id": "e2ac0e8d-2cb8-40cb-af4c-ca3592aecc49",
+    "user_id": "347d6dbc-523c-4ee8-93b2-dbc288d6b022",
+    "amount": 9961.08,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Wandaburgh",
+    "timestamp": "2026-05-22T22:03:57.017558"
+  },
+  {
+    "transaction_id": "b4651f6e-ae75-4ee7-b3e1-d9cacd30513f",
+    "user_id": "5a1fd188-efd7-4cb2-947d-3d381de6314d",
+    "amount": 9891.51,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Douglaschester",
+    "timestamp": "2026-05-22T22:03:57.520692"
+  },
+  {
+    "transaction_id": "03fb76fc-19b8-446d-aa57-9498bc9e1a1c",
+    "user_id": "6d8b3298-7d62-4198-a533-ce2a0b5830f4",
+    "amount": 447.45,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Debra",
+    "timestamp": "2026-05-22T22:03:58.022597"
+  },
+  {
+    "transaction_id": "e7f8cb49-f646-4de0-a43b-702440c2b7c7",
+    "user_id": "78084ae5-12ac-4463-ab84-d108f277f17a",
+    "amount": 404.2,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Schroederborough",
+    "timestamp": "2026-05-22T22:03:58.525528"
+  },
+  {
+    "transaction_id": "ab14f47c-efaa-436b-943b-ecb49e5792c0",
+    "user_id": "c6ef96aa-6c61-425b-b6ee-f57b2da3d9ec",
+    "amount": 6125.96,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Kennethshire",
+    "timestamp": "2026-05-22T22:03:59.534497"
+  },
+  {
+    "transaction_id": "9217e10d-86bd-49cb-8cd8-de06232571ef",
+    "user_id": "a38cc691-22ac-45a0-ad13-b57308141ffc",
+    "amount": 7299.51,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Pamelaport",
+    "timestamp": "2026-05-22T22:04:00.036350"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5938eb36-392b-4b31-920b-dfd3d54cab1f",
+    "user_id": "56ba266a-ffb4-4316-b815-0fa2b79fe1a5",
+    "amount": 4063.69,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Alexander",
+    "timestamp": "2026-05-22T21:59:51.021565"
+  },
+  {
+    "transaction_id": "f7c45f6f-baf2-4948-b6c4-3af78fc147f8",
+    "user_id": "099694a2-bdf8-4a6d-8651-b2f8902c09a8",
+    "amount": 9174.66,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Stevenberg",
+    "timestamp": "2026-05-22T21:59:51.523048"
+  },
+  {
+    "transaction_id": "cd68d716-6683-40d0-9f53-e707ac0e8018",
+    "user_id": "f21e001c-5845-412d-b4c2-6c561b4fde7b",
+    "amount": 1387.78,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Bryce",
+    "timestamp": "2026-05-22T21:59:52.024335"
+  },
+  {
+    "transaction_id": "977cd2d8-edc0-4479-ba36-163d2b1866dd",
+    "user_id": "3c0f883a-4469-4b0d-9c60-e66d2411acb2",
+    "amount": 7053.36,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Veronicaville",
+    "timestamp": "2026-05-22T21:59:52.526634"
+  },
+  {
+    "transaction_id": "6bbd2de3-aed4-4596-a287-4a67b3cc3ed9",
+    "user_id": "8402ab00-bc3b-441a-a08e-b0e3a919112f",
+    "amount": 6109.78,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Nancychester",
+    "timestamp": "2026-05-22T21:59:53.029360"
+  },
+  {
+    "transaction_id": "06447dda-9e09-455d-b520-5e18df151170",
+    "user_id": "9198e46b-b001-4c0f-a344-5fab1a018d80",
+    "amount": 3012.7,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Corymouth",
+    "timestamp": "2026-05-22T21:59:53.530679"
+  },
+  {
+    "transaction_id": "3148f170-89de-436d-baa9-27b858490b5e",
+    "user_id": "1c3bb294-9720-4dee-8e1b-f5d37038bfbf",
+    "amount": 3888.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Samanthaburgh",
+    "timestamp": "2026-05-22T21:59:54.537585"
+  },
+  {
+    "transaction_id": "ff966d2c-4f66-4e93-a845-200d53a57337",
+    "user_id": "4a16a32a-31ba-4413-8885-f8731786de6b",
+    "amount": 993.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Wesley",
+    "timestamp": "2026-05-22T21:59:55.039122"
+  },
+  {
+    "transaction_id": "2a7bed14-0268-45d0-bf3d-9071e369045c",
+    "user_id": "3db91baa-1cf4-411a-8c7b-b563d20d2a16",
+    "amount": 7457.46,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Coxburgh",
+    "timestamp": "2026-05-22T21:59:55.540577"
+  },
+  {
+    "transaction_id": "b5e51b6b-5764-4eef-93be-e02042d32cac",
+    "user_id": "2ea55184-004b-427e-9bfd-c98630dca154",
+    "amount": 1968.59,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Dawsonburgh",
+    "timestamp": "2026-05-22T21:59:57.046664"
+  }
+]

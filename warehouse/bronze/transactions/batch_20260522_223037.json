@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "410e907c-0e54-4a01-87da-da012f4aeba6",
+    "user_id": "b48939b6-157d-4986-b180-14b063f654f2",
+    "amount": 1781.61,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Marissaside",
+    "timestamp": "2026-05-22T22:30:32.003634"
+  },
+  {
+    "transaction_id": "8497eb47-737e-443d-8b40-7f4635eb609f",
+    "user_id": "05ebbb2c-4ed7-410f-9f6a-2424b6dd246a",
+    "amount": 4756.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Brianmouth",
+    "timestamp": "2026-05-22T22:30:32.508709"
+  },
+  {
+    "transaction_id": "94cb86c7-5153-4771-bdc3-7b10204cdfbb",
+    "user_id": "42ec9746-7863-426a-93e9-dee713ceeb3a",
+    "amount": 3609.18,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Garciamouth",
+    "timestamp": "2026-05-22T22:30:33.514511"
+  },
+  {
+    "transaction_id": "71569d12-04d0-47cc-ac3c-7b4f7d3a9aa8",
+    "user_id": "976b610c-4f1c-4310-932c-8974682621b2",
+    "amount": 1790.27,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Lisatown",
+    "timestamp": "2026-05-22T22:30:34.016392"
+  },
+  {
+    "transaction_id": "8ab835d8-924d-41cf-bb66-c12670d23261",
+    "user_id": "d7dc6cf7-8313-4234-b7cb-fd40c5f06592",
+    "amount": 3413.04,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Armstrongland",
+    "timestamp": "2026-05-22T22:30:34.518272"
+  },
+  {
+    "transaction_id": "fc34442e-5c59-446d-864b-80d9d3b9f7de",
+    "user_id": "26c19d7c-6e65-4dbb-a97d-a09078c36986",
+    "amount": 7815.08,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Taylorside",
+    "timestamp": "2026-05-22T22:30:35.019902"
+  },
+  {
+    "transaction_id": "080304ef-c234-4ef1-be12-79d5236d5a4a",
+    "user_id": "50bfff52-7ab7-4975-b0f7-845725613abf",
+    "amount": 6370.25,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Raymond",
+    "timestamp": "2026-05-22T22:30:35.521595"
+  },
+  {
+    "transaction_id": "31b72717-9af6-4cf2-9f3a-c32f3aa7d4af",
+    "user_id": "dbfa9375-a8e1-488d-a06e-0e29579939f3",
+    "amount": 5448.82,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Wheelerland",
+    "timestamp": "2026-05-22T22:30:36.023206"
+  },
+  {
+    "transaction_id": "1fc1a84c-b72a-41ec-ae08-9f2fa1e689b2",
+    "user_id": "d61f5969-8a4b-4d95-9a8e-fa45e7d00daa",
+    "amount": 8783.78,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Floresborough",
+    "timestamp": "2026-05-22T22:30:36.524806"
+  },
+  {
+    "transaction_id": "a331229e-76d1-4d0f-b276-1dc72caae40f",
+    "user_id": "4f1eb7b8-c8d8-438a-804d-9a15af387bfe",
+    "amount": 4573.46,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New David",
+    "timestamp": "2026-05-22T22:30:37.029220"
+  }
+]

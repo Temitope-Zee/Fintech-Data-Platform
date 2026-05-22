@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5072505e-2b4b-4ebd-89d9-7888808cdeaf",
+    "user_id": "da36742e-0007-4eb9-99f5-21a8e5d8eb5c",
+    "amount": 4052.47,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Chenshire",
+    "timestamp": "2026-05-22T21:43:01.864174"
+  },
+  {
+    "transaction_id": "048c4b05-8d42-422b-89d7-c3f46d7ae405",
+    "user_id": "87bc297d-c1c4-49ad-883b-52363ab0b56c",
+    "amount": 7672.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South John",
+    "timestamp": "2026-05-22T21:43:02.365566"
+  },
+  {
+    "transaction_id": "a97f6bf2-f745-475e-9f76-2049dd6a556f",
+    "user_id": "234ebe93-512c-4ee2-a6b7-0427d4edb2e3",
+    "amount": 3081.74,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Youngshire",
+    "timestamp": "2026-05-22T21:43:02.868489"
+  },
+  {
+    "transaction_id": "b8cd6577-f4e5-413b-87ba-aed2169ffee4",
+    "user_id": "16d52b54-cebf-4323-8603-3d2a9b743477",
+    "amount": 5168.23,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Hannah",
+    "timestamp": "2026-05-22T21:43:03.371264"
+  },
+  {
+    "transaction_id": "6e35e4de-fced-4b7b-a11b-b4e3cc4d741e",
+    "user_id": "e756e55a-4006-4695-96cd-9c501aaf30cf",
+    "amount": 9305.39,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Kennethton",
+    "timestamp": "2026-05-22T21:43:03.873931"
+  },
+  {
+    "transaction_id": "dcea9738-25c7-4245-b1c2-92f27af151c7",
+    "user_id": "dd06e663-378e-4d23-9378-aaade1200f9f",
+    "amount": 7161.18,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Juliefort",
+    "timestamp": "2026-05-22T21:43:04.375471"
+  },
+  {
+    "transaction_id": "edeb473c-8714-4023-babd-c27165f92c88",
+    "user_id": "ee29aa5c-8332-4ba8-baad-164790396b3b",
+    "amount": 9129.44,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Nielsenborough",
+    "timestamp": "2026-05-22T21:43:04.878449"
+  },
+  {
+    "transaction_id": "a83c89ff-b26b-4197-9e34-a8ff6f4f2081",
+    "user_id": "ab0d4364-fdde-444d-b6c1-0f8aaf170f10",
+    "amount": 7628.08,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Farrelltown",
+    "timestamp": "2026-05-22T21:43:05.380076"
+  },
+  {
+    "transaction_id": "3b8d6f17-7fdc-4ba6-842a-4cf794d4cc63",
+    "user_id": "88eb8ce4-a671-4fc4-95cb-99a2eabecd48",
+    "amount": 8351.23,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Kristinfort",
+    "timestamp": "2026-05-22T21:43:05.882774"
+  },
+  {
+    "transaction_id": "49901ce6-d4c7-4379-a62f-0ae7427585bd",
+    "user_id": "213a3b30-3bd0-4383-b36c-8b4f54896f7f",
+    "amount": 5574.71,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Snyderchester",
+    "timestamp": "2026-05-22T21:43:06.384239"
+  }
+]

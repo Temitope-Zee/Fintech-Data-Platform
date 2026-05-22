@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ef8ac6a4-95e4-427b-8739-d22cbe2dbbba",
+    "user_id": "26479cc8-b2df-4c4c-9914-0281f6cbf615",
+    "amount": 7182.1,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Amandahaven",
+    "timestamp": "2026-05-22T22:26:59.086984"
+  },
+  {
+    "transaction_id": "58bb4ddf-337d-41c0-bdbe-6242ec6c43f9",
+    "user_id": "464d19e4-d65c-4808-8237-c860934cf1d1",
+    "amount": 639.36,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Gina",
+    "timestamp": "2026-05-22T22:26:59.589298"
+  },
+  {
+    "transaction_id": "3ec23601-0727-4f48-b69c-09233053669a",
+    "user_id": "dc7fad50-af99-47e3-bc1a-316ddb92519e",
+    "amount": 113.68,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Jessicaborough",
+    "timestamp": "2026-05-22T22:27:00.091932"
+  },
+  {
+    "transaction_id": "cf6477c9-d5a0-4cc7-a0c7-6080914ec02b",
+    "user_id": "a629128a-1ab6-449e-a7b9-638e34448a7e",
+    "amount": 1052.96,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Elizabethfort",
+    "timestamp": "2026-05-22T22:27:00.593317"
+  },
+  {
+    "transaction_id": "265d92b3-037c-4b9b-99cf-02ec63ab1937",
+    "user_id": "1f5ad98a-04a9-4004-ac41-151ff61e6d17",
+    "amount": 8179.03,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Michaelside",
+    "timestamp": "2026-05-22T22:27:01.096012"
+  },
+  {
+    "transaction_id": "d7be36a3-7576-4452-8046-587fb9a53179",
+    "user_id": "96684c97-64c9-41de-8e65-7b5fe8233fa1",
+    "amount": 3262.32,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Stephanie",
+    "timestamp": "2026-05-22T22:27:01.597536"
+  },
+  {
+    "transaction_id": "7add1314-5250-4aee-bdab-70ab5ad6ae48",
+    "user_id": "0d86ea21-3c9f-45df-8143-a8a8e0656698",
+    "amount": 4837.29,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Paigeshire",
+    "timestamp": "2026-05-22T22:27:02.098831"
+  },
+  {
+    "transaction_id": "e35d2d81-85e3-4fe4-a2d8-5182259e284d",
+    "user_id": "34217c2b-1765-4f2f-8cf4-1a77865e9be8",
+    "amount": 3558.82,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Brooksfort",
+    "timestamp": "2026-05-22T22:27:02.600478"
+  },
+  {
+    "transaction_id": "35e8ec4a-0ed9-447d-862f-94ea542e08b8",
+    "user_id": "55e34d7b-0776-438a-a162-de473749141f",
+    "amount": 6161.41,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Brandychester",
+    "timestamp": "2026-05-22T22:27:03.102923"
+  },
+  {
+    "transaction_id": "af2d485e-ac91-4ab1-8c9a-c54f58bd4b4a",
+    "user_id": "2b289663-eaec-4be2-9486-478e09e07f5b",
+    "amount": 547.07,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jessicaton",
+    "timestamp": "2026-05-22T22:27:03.604688"
+  }
+]
