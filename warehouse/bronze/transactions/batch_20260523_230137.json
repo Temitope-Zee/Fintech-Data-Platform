@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "83e9adb6-fa08-4a91-8607-6bde79f4c19e",
+    "user_id": "6175ff1b-7092-4835-ae6e-8b9d8b046187",
+    "amount": 3577.76,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Jeremy",
+    "timestamp": "2026-05-23T23:01:32.807012"
+  },
+  {
+    "transaction_id": "aa151c9b-31df-4924-854e-dd1fd4c744ab",
+    "user_id": "0c3d671b-96e4-4218-9047-593aba35278c",
+    "amount": 2835.96,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Changbury",
+    "timestamp": "2026-05-23T23:01:33.810197"
+  },
+  {
+    "transaction_id": "4378efcb-6163-48fb-bb70-1ffcaade0dd1",
+    "user_id": "6a2541b1-3a8c-4669-b872-797c267b613c",
+    "amount": 1715.78,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Amandaland",
+    "timestamp": "2026-05-23T23:01:34.311693"
+  },
+  {
+    "transaction_id": "ff1da37e-0f0d-43d1-8f21-8662ec104ac5",
+    "user_id": "3206504a-79d7-4765-8b8d-b1cdc472bade",
+    "amount": 8109.2,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Gomezport",
+    "timestamp": "2026-05-23T23:01:34.814710"
+  },
+  {
+    "transaction_id": "4688551e-1033-49ad-99b5-3643cd13ca29",
+    "user_id": "d808b002-0158-42ae-9079-9b7d5f3a25ce",
+    "amount": 6552.67,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Davidchester",
+    "timestamp": "2026-05-23T23:01:35.317711"
+  },
+  {
+    "transaction_id": "6d050267-783a-4488-9542-9382ed3b7f75",
+    "user_id": "04f3cb9a-f9ba-4d3b-8c8c-6cfe7437f7eb",
+    "amount": 3146.49,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Jonestown",
+    "timestamp": "2026-05-23T23:01:35.819192"
+  },
+  {
+    "transaction_id": "c9bd3ead-2390-467b-ac13-25c24923497e",
+    "user_id": "6262812c-c541-4733-8220-c03f5e5b8d2a",
+    "amount": 9086.18,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Austin",
+    "timestamp": "2026-05-23T23:01:36.321074"
+  },
+  {
+    "transaction_id": "7604080e-63d1-463c-8ddd-d27a66860dc9",
+    "user_id": "3f81857d-cc29-4406-b5a4-5d33e0aa9173",
+    "amount": 4292.9,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Petertown",
+    "timestamp": "2026-05-23T23:01:36.823958"
+  },
+  {
+    "transaction_id": "6a319eef-af9c-4b4c-b955-6930c4f561d7",
+    "user_id": "71516fb7-d53d-4920-81a5-9eb95b66d714",
+    "amount": 3377.03,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Ruth",
+    "timestamp": "2026-05-23T23:01:37.326529"
+  },
+  {
+    "transaction_id": "66799529-6063-423b-9a55-c8099aa508f7",
+    "user_id": "3302bf86-c35a-4f61-a71f-c5daeaf94bec",
+    "amount": 5462.55,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Dorothy",
+    "timestamp": "2026-05-23T23:01:37.829515"
+  }
+]

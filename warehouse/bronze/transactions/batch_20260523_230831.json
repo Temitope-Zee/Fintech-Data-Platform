@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0d4f97b5-fc22-49c1-b328-20c020eaffa8",
+    "user_id": "3d62ba1d-1ef8-4354-8f23-af5b2a5419f5",
+    "amount": 1579.89,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Brownside",
+    "timestamp": "2026-05-23T23:08:26.356909"
+  },
+  {
+    "transaction_id": "4f8f9399-61b0-4af7-a335-9248f411236a",
+    "user_id": "8ecad9aa-7f69-4393-8c5f-e45707d64c20",
+    "amount": 4348.05,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Mario",
+    "timestamp": "2026-05-23T23:08:27.359923"
+  },
+  {
+    "transaction_id": "6b835be6-225c-4e67-823a-330726cce3b6",
+    "user_id": "5045e755-909f-42d6-89af-5d3ff3f4f544",
+    "amount": 5711.07,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michaelbury",
+    "timestamp": "2026-05-23T23:08:27.861975"
+  },
+  {
+    "transaction_id": "c787cca3-d717-40f7-9f4a-697cbd05f455",
+    "user_id": "09119755-1f6f-4f51-a7aa-cc61dbb349ed",
+    "amount": 3582.29,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Daniel",
+    "timestamp": "2026-05-23T23:08:28.363714"
+  },
+  {
+    "transaction_id": "813bdefb-e363-44df-8137-c14ff58e4ccd",
+    "user_id": "03dad01c-ef48-48c0-8849-b14bdccbc310",
+    "amount": 8633.08,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Judy",
+    "timestamp": "2026-05-23T23:08:28.865767"
+  },
+  {
+    "transaction_id": "65b16d12-db86-4a0c-bed7-9f03d11d9b5b",
+    "user_id": "f30b80d1-705d-41da-9f8f-6217fa6bad15",
+    "amount": 6205.24,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Williamston",
+    "timestamp": "2026-05-23T23:08:29.367307"
+  },
+  {
+    "transaction_id": "c4c9b2b0-c3d9-46a5-b104-e6bcfb25c6f8",
+    "user_id": "a8386bb1-6ff5-47ae-bb8d-81be43747c58",
+    "amount": 7685.9,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Jeffreychester",
+    "timestamp": "2026-05-23T23:08:29.869173"
+  },
+  {
+    "transaction_id": "4e28a122-c487-4039-a927-498c58f3d895",
+    "user_id": "c4459595-ac7e-4189-a544-8229b05f7691",
+    "amount": 9260.8,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Timothybury",
+    "timestamp": "2026-05-23T23:08:30.872359"
+  },
+  {
+    "transaction_id": "752a4d0a-e07d-426c-96fb-aa58a14ffba5",
+    "user_id": "d613c9e2-cc6f-4e32-917d-00f0e5c39d2a",
+    "amount": 5031.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Anthonyfurt",
+    "timestamp": "2026-05-23T23:08:31.374703"
+  },
+  {
+    "transaction_id": "9440f44a-38a3-4029-8ac6-aeecc0e90bf1",
+    "user_id": "963a2c3d-7542-4855-a61d-f26964c5a8f4",
+    "amount": 5370.3,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Carlachester",
+    "timestamp": "2026-05-23T23:08:31.876153"
+  }
+]

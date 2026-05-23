@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "454f42b1-da3d-49e3-8a18-2fe12096a867",
+    "user_id": "b14d85d0-6f6b-4007-b878-3e592a75d92a",
+    "amount": 3739.09,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lisaberg",
+    "timestamp": "2026-05-23T23:09:25.586344"
+  },
+  {
+    "transaction_id": "811df084-5136-44fb-a37d-5dc8c62d91a1",
+    "user_id": "6218d896-5322-4cda-8d9a-b80268af6c0f",
+    "amount": 2510.5,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Mariabury",
+    "timestamp": "2026-05-23T23:09:26.087856"
+  },
+  {
+    "transaction_id": "43ff7369-07ff-496f-9afe-06e6d08c530b",
+    "user_id": "ea6389d1-f6ec-404f-86a8-c6228e875d65",
+    "amount": 6303.9,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Alexisville",
+    "timestamp": "2026-05-23T23:09:26.588961"
+  },
+  {
+    "transaction_id": "244ff763-55e2-4113-96d2-650dbd453cb0",
+    "user_id": "e61a2824-b5f4-46d8-9687-3ae4cdf56a92",
+    "amount": 1682.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Danielstad",
+    "timestamp": "2026-05-23T23:09:27.090211"
+  },
+  {
+    "transaction_id": "b932a841-c56e-4c37-88e2-d76178d89ffb",
+    "user_id": "9e744dea-6add-49b2-8be9-d09fd729d80a",
+    "amount": 2858.37,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Andreaton",
+    "timestamp": "2026-05-23T23:09:27.592735"
+  },
+  {
+    "transaction_id": "13ca83b1-f4c8-4b6b-abd6-971121cced5f",
+    "user_id": "f6dc2f02-979c-41c0-a781-8869e6b719d8",
+    "amount": 1092.17,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Eric",
+    "timestamp": "2026-05-23T23:09:28.094159"
+  },
+  {
+    "transaction_id": "a115b473-6677-459c-8611-0ada3b4bba15",
+    "user_id": "2283a961-6720-472b-b167-897631c776d8",
+    "amount": 7477.19,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Lauren",
+    "timestamp": "2026-05-23T23:09:28.596460"
+  },
+  {
+    "transaction_id": "63a9f1ba-65c2-47de-b968-e715f96fa3e9",
+    "user_id": "5966008c-6b67-465c-9458-fda271cb96f5",
+    "amount": 9755.86,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Sophia",
+    "timestamp": "2026-05-23T23:09:30.103389"
+  },
+  {
+    "transaction_id": "4ccf8f16-30b3-40a7-b301-04b31f447bb8",
+    "user_id": "824040fa-bc8c-4760-a7f9-d64e5c9ebf56",
+    "amount": 1384.94,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Matthewton",
+    "timestamp": "2026-05-23T23:09:30.604972"
+  },
+  {
+    "transaction_id": "938251b2-2d0b-437d-8291-0d0e433ca25c",
+    "user_id": "3d7163e7-1764-42bf-ac4d-08a9f517e9dd",
+    "amount": 621.45,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Ellisland",
+    "timestamp": "2026-05-23T23:09:31.607373"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b9e221f7-a356-461b-86e3-c74f379aa303",
+    "user_id": "c39ff607-60ab-48ed-931c-6584ec34f5b3",
+    "amount": 5621.8,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Martineztown",
+    "timestamp": "2026-05-23T23:02:26.492516"
+  },
+  {
+    "transaction_id": "e4b5b3f1-bac5-4ec4-8a54-f80de7cf2364",
+    "user_id": "b59b7d1c-68c0-4985-b9dd-d483b50664b4",
+    "amount": 9409.27,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Anthonyview",
+    "timestamp": "2026-05-23T23:02:26.993986"
+  },
+  {
+    "transaction_id": "3a113c6a-f57f-415f-a951-b6cdcbf1b36a",
+    "user_id": "f6504f72-6368-49ef-9e90-e68493f752a5",
+    "amount": 8452.83,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Lindsayburgh",
+    "timestamp": "2026-05-23T23:02:27.494913"
+  },
+  {
+    "transaction_id": "0f3421cb-d1da-49d8-bda6-073a0e72b9ef",
+    "user_id": "2a3cc3e1-4f85-4f4a-8075-1bacc59b74b3",
+    "amount": 8185.87,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Danielsfurt",
+    "timestamp": "2026-05-23T23:02:27.996809"
+  },
+  {
+    "transaction_id": "0f2b5649-84cd-4e7d-97cb-0824ed285b7f",
+    "user_id": "1259a2ba-9106-4c5f-9b19-92ffd8a78d1e",
+    "amount": 7296.22,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Mitchellberg",
+    "timestamp": "2026-05-23T23:02:28.498346"
+  },
+  {
+    "transaction_id": "e2f4cc7d-4712-4be8-90b3-efc742b6922e",
+    "user_id": "b381e259-b179-42dd-90bb-f715cced260e",
+    "amount": 1640.98,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Tinaborough",
+    "timestamp": "2026-05-23T23:02:29.000504"
+  },
+  {
+    "transaction_id": "69456e59-97c8-46c3-95d0-013ab7818363",
+    "user_id": "de66e52f-fd10-4905-b378-03e9364f5bf8",
+    "amount": 8486.01,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Markberg",
+    "timestamp": "2026-05-23T23:02:29.501632"
+  },
+  {
+    "transaction_id": "a682779b-c31d-47c5-b741-1eb530da7948",
+    "user_id": "038885a0-b661-4920-a915-0fc96534f4ef",
+    "amount": 262.37,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Meredith",
+    "timestamp": "2026-05-23T23:02:30.002721"
+  },
+  {
+    "transaction_id": "3b60327b-a6ff-488c-a94c-d813103b0223",
+    "user_id": "8f008c28-1cb9-44e2-a6f2-7c0c227dd720",
+    "amount": 5448.78,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Morrowfort",
+    "timestamp": "2026-05-23T23:02:30.505061"
+  },
+  {
+    "transaction_id": "1fd8377e-03f9-4851-95a6-7b2bef1939d0",
+    "user_id": "82c2bb79-5fc7-4392-8ff6-d87a2db95ba2",
+    "amount": 8463.46,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Iantown",
+    "timestamp": "2026-05-23T23:02:31.007635"
+  }
+]

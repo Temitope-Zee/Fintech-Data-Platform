@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9b9124ef-2ca2-41cd-97f5-b4f2a64f0f1c",
+    "user_id": "a8a58bef-c088-4d6c-9b09-671b52f6cea9",
+    "amount": 8848.87,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Mark",
+    "timestamp": "2026-05-23T23:10:14.780184"
+  },
+  {
+    "transaction_id": "3861f364-9cd5-4746-a789-828bc01240af",
+    "user_id": "88d62305-ec19-4993-8058-9d31559a57b8",
+    "amount": 5682.68,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Anamouth",
+    "timestamp": "2026-05-23T23:10:16.285801"
+  },
+  {
+    "transaction_id": "81b4c9b5-ff41-4568-8d7f-2edef1eb6f41",
+    "user_id": "bdd28fe2-2f9d-4fdb-be38-b80b90a3f047",
+    "amount": 3948.43,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Chelsea",
+    "timestamp": "2026-05-23T23:10:16.788888"
+  },
+  {
+    "transaction_id": "8ca82126-1136-4eed-9b12-e55af1b2a317",
+    "user_id": "4b3e7add-e66b-4e9c-8219-a8d994d9bb4a",
+    "amount": 9902.48,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Suzanneville",
+    "timestamp": "2026-05-23T23:10:17.794113"
+  },
+  {
+    "transaction_id": "e1fff81e-40a4-40cc-8e16-e858ba403751",
+    "user_id": "6bc2f1f4-0444-4168-b8d5-db53b90bdcf0",
+    "amount": 2450.73,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Jamesburgh",
+    "timestamp": "2026-05-23T23:10:18.296783"
+  },
+  {
+    "transaction_id": "579c9769-c1a6-4a1d-8c4e-fb43d4600428",
+    "user_id": "53a246d3-a520-4d0a-8889-4333dad86318",
+    "amount": 3238.47,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Ashleyhaven",
+    "timestamp": "2026-05-23T23:10:18.798281"
+  },
+  {
+    "transaction_id": "cdf5724a-8663-4ff9-b1a3-6b4b4b89fdae",
+    "user_id": "12b842a4-a354-46b1-b4eb-be8bbc7a7889",
+    "amount": 4830.65,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Eileenside",
+    "timestamp": "2026-05-23T23:10:19.299823"
+  },
+  {
+    "transaction_id": "fa7004c9-8600-4537-b10d-da856bde08ec",
+    "user_id": "bd310afc-5451-4a82-b2f3-087827bcaebd",
+    "amount": 1150.84,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Joshuahaven",
+    "timestamp": "2026-05-23T23:10:19.802411"
+  },
+  {
+    "transaction_id": "b44fa4d0-ce94-4e31-9c71-9d9fdfc56ba5",
+    "user_id": "4ec38f47-eada-42b0-8a93-c24038ecf9be",
+    "amount": 6088.02,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Pooleville",
+    "timestamp": "2026-05-23T23:10:20.303870"
+  },
+  {
+    "transaction_id": "d62f8b8f-e86a-4e83-8fb3-c7cc9a291be2",
+    "user_id": "9d3a3d32-0eb8-4ec9-98c9-075b08703838",
+    "amount": 6114.34,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Sarah",
+    "timestamp": "2026-05-23T23:10:20.805214"
+  }
+]

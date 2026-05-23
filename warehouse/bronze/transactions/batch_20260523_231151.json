@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "98e141d2-87aa-4751-a2ff-c851b969c35d",
+    "user_id": "41de1a05-3df2-46dd-87a1-287f9b009ef2",
+    "amount": 2797.95,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Jared",
+    "timestamp": "2026-05-23T23:11:46.647640"
+  },
+  {
+    "transaction_id": "2da1a641-ce44-4011-a13e-20d3758c10c3",
+    "user_id": "4d5fb7c5-94ff-4bab-8897-e8290e5dac4c",
+    "amount": 1857.19,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Gonzalezshire",
+    "timestamp": "2026-05-23T23:11:47.149321"
+  },
+  {
+    "transaction_id": "41906fa9-1960-4caa-b4f6-d70caa6ee373",
+    "user_id": "3aab71ad-df82-4d45-9b9a-d893c73315c0",
+    "amount": 2321.85,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Haroldburgh",
+    "timestamp": "2026-05-23T23:11:47.650523"
+  },
+  {
+    "transaction_id": "4bcba840-e1b2-4009-97cb-11cb75d6ae1f",
+    "user_id": "678372e1-e332-4923-9cc7-46fb4db1944f",
+    "amount": 6875.89,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Michaelmouth",
+    "timestamp": "2026-05-23T23:11:48.152267"
+  },
+  {
+    "transaction_id": "91cdb88b-3a7e-4c72-8324-2cdc44e66d36",
+    "user_id": "63400c67-bb77-4fe6-acda-5e2cec64251b",
+    "amount": 4503.57,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Mcneilside",
+    "timestamp": "2026-05-23T23:11:49.154633"
+  },
+  {
+    "transaction_id": "f2c4460c-746c-4ddc-ab61-23fc255fc2d4",
+    "user_id": "b8d08e9f-6c0f-41c8-97cb-abd2b9e3a180",
+    "amount": 2244.4,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Sharon",
+    "timestamp": "2026-05-23T23:11:49.655589"
+  },
+  {
+    "transaction_id": "71e65afc-5370-4961-b9f4-f0e22051fdd3",
+    "user_id": "f9c9a0ed-6f26-4ec6-8039-e31f2445e894",
+    "amount": 9425.63,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Michaelberg",
+    "timestamp": "2026-05-23T23:11:50.156905"
+  },
+  {
+    "transaction_id": "c62c7c2e-c3cf-4002-b14f-b8803b14ef32",
+    "user_id": "d81043e6-d4f2-4a62-997a-357f8323aa0d",
+    "amount": 9607.8,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Leslieburgh",
+    "timestamp": "2026-05-23T23:11:50.657994"
+  },
+  {
+    "transaction_id": "17e6eba0-3739-4098-81ba-37718520580f",
+    "user_id": "fa6fa1f9-2e0d-48ef-890c-04399798d47c",
+    "amount": 3048.63,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port David",
+    "timestamp": "2026-05-23T23:11:51.159435"
+  },
+  {
+    "transaction_id": "60cb5425-4876-4ced-aae7-f4b4aa707979",
+    "user_id": "da91b653-44ce-44aa-9acd-8f7c953ad071",
+    "amount": 577.67,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Hopkinsville",
+    "timestamp": "2026-05-23T23:11:51.662179"
+  }
+]

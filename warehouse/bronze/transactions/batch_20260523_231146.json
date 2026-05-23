@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e85746ee-4aa9-45ca-affb-97e649a3aec5",
+    "user_id": "79944814-fd65-4c39-b3bd-df0e8f0cd6ac",
+    "amount": 9581.23,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Maxshire",
+    "timestamp": "2026-05-23T23:11:40.623789"
+  },
+  {
+    "transaction_id": "21a4c8b4-6ecb-4629-b8e8-38c4fc9e16a3",
+    "user_id": "885a1456-651c-40dc-91ec-7d0fdeb6af94",
+    "amount": 3030.55,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Stacy",
+    "timestamp": "2026-05-23T23:11:41.126194"
+  },
+  {
+    "transaction_id": "688d99e3-3a05-43ce-a081-7dda14a4a18e",
+    "user_id": "6655137a-5087-452b-892a-f576f063f356",
+    "amount": 4413.37,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Matthewfort",
+    "timestamp": "2026-05-23T23:11:41.629078"
+  },
+  {
+    "transaction_id": "df57d156-f679-4dd5-8853-200e85897fea",
+    "user_id": "258028b3-e0c1-4be2-8667-fdb57d17aff4",
+    "amount": 4646.9,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kimberlyfort",
+    "timestamp": "2026-05-23T23:11:42.131584"
+  },
+  {
+    "transaction_id": "cfb441aa-f747-449b-9b3c-3a61f023bd10",
+    "user_id": "6e8c7db5-c669-4dc3-bf1f-18fe1139bfbc",
+    "amount": 1743.13,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Brian",
+    "timestamp": "2026-05-23T23:11:43.135613"
+  },
+  {
+    "transaction_id": "b04d37eb-585d-4f1b-88c3-333c152fdd6e",
+    "user_id": "ecee092d-fd5a-4f2f-9274-99804e3054d4",
+    "amount": 9208.02,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Kari",
+    "timestamp": "2026-05-23T23:11:43.634883"
+  },
+  {
+    "transaction_id": "862c402a-fdbf-48a0-83b0-eef38485eda3",
+    "user_id": "14638f3a-b931-4ce6-830a-707dabaad633",
+    "amount": 4610.92,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Jasminport",
+    "timestamp": "2026-05-23T23:11:44.639410"
+  },
+  {
+    "transaction_id": "62aaad14-e94a-4122-9604-3e943bed971c",
+    "user_id": "f7831a33-40b6-4e45-a9c7-86d662d2f9f2",
+    "amount": 9427.12,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Elizabethburgh",
+    "timestamp": "2026-05-23T23:11:45.141139"
+  },
+  {
+    "transaction_id": "a71ca22c-cb29-43c1-a926-53c9f6b7e16f",
+    "user_id": "181969ec-7215-4eeb-9c84-6b1114a4da37",
+    "amount": 9857.4,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Petertown",
+    "timestamp": "2026-05-23T23:11:45.644455"
+  },
+  {
+    "transaction_id": "8819de67-4e8e-4110-9a4a-14d2584c7a5a",
+    "user_id": "a4083639-a6d4-43c6-ace9-d7f7e04ae700",
+    "amount": 7438.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Jeffrey",
+    "timestamp": "2026-05-23T23:11:46.145897"
+  }
+]

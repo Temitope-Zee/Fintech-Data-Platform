@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "be5ab11c-6d05-4b9d-ac94-6dc77fd51e23",
+    "user_id": "1e1c9d2c-fe8a-4fcf-bf81-23f7d0094012",
+    "amount": 6755.84,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Christineton",
+    "timestamp": "2026-05-23T23:02:36.526468"
+  },
+  {
+    "transaction_id": "79441981-f4f2-4966-9cb3-40b0eb044d6e",
+    "user_id": "a547af25-6127-4848-8d7c-ed6d415c8fa3",
+    "amount": 2442.76,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Johnville",
+    "timestamp": "2026-05-23T23:02:37.028145"
+  },
+  {
+    "transaction_id": "d62eb661-d2a2-49ba-8c26-963ab3e73f45",
+    "user_id": "de4049d9-bdb6-43a4-91cc-b584ed8ccbd5",
+    "amount": 3311.25,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Brittanybury",
+    "timestamp": "2026-05-23T23:02:37.529575"
+  },
+  {
+    "transaction_id": "71ef0347-ba91-4869-a693-2762ff381881",
+    "user_id": "a19c38b0-f690-469f-92de-e2375db3235c",
+    "amount": 3069.08,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Kristafurt",
+    "timestamp": "2026-05-23T23:02:38.031539"
+  },
+  {
+    "transaction_id": "2cdbf964-e9df-46bf-8b4a-fc7c7386b2a3",
+    "user_id": "41923047-509d-407f-8d7f-c599c5684492",
+    "amount": 9284.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Debraview",
+    "timestamp": "2026-05-23T23:02:38.534121"
+  },
+  {
+    "transaction_id": "b71265e0-d020-41c2-9a1b-e4950891bf57",
+    "user_id": "c38124ce-1da3-410d-bb81-89b4c1d9a7a7",
+    "amount": 762.43,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Mariaton",
+    "timestamp": "2026-05-23T23:02:39.034861"
+  },
+  {
+    "transaction_id": "1ea1bbab-c60e-4316-995d-f4865cd0e1f2",
+    "user_id": "9ce38188-c861-47c1-927d-eadf59854ae3",
+    "amount": 8461.35,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Jessica",
+    "timestamp": "2026-05-23T23:02:39.536040"
+  },
+  {
+    "transaction_id": "3539edeb-4c50-48a9-9245-ffa6ca8d703d",
+    "user_id": "5454c67a-7169-4751-b5f4-ff4a7be7c448",
+    "amount": 9678.76,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Harrisonstad",
+    "timestamp": "2026-05-23T23:02:40.037212"
+  },
+  {
+    "transaction_id": "6e107f42-d846-4119-8f77-488a34fdc1e3",
+    "user_id": "b5a5f9aa-fac7-4e5f-b055-906ff2b7ef61",
+    "amount": 4099.48,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Adamville",
+    "timestamp": "2026-05-23T23:02:41.544064"
+  },
+  {
+    "transaction_id": "f5dbfee4-c91a-4024-8261-e8aa41e48b15",
+    "user_id": "e94b3552-50eb-4d24-98cb-60f4bdfe1143",
+    "amount": 3507.29,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Eugenechester",
+    "timestamp": "2026-05-23T23:02:42.045701"
+  }
+]

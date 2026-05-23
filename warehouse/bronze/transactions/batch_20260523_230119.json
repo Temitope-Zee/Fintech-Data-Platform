@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9bbfa7c6-86b8-461c-b852-59ae922afb5b",
+    "user_id": "42d2f2ed-f481-42e9-9734-65c6f10fabd6",
+    "amount": 3936.02,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Desireeton",
+    "timestamp": "2026-05-23T23:01:14.724724"
+  },
+  {
+    "transaction_id": "4e7953b7-72e3-400b-9ead-4f211040eb93",
+    "user_id": "fbaa0965-6e4e-497d-810c-ab545ddd01be",
+    "amount": 9691.51,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Adammouth",
+    "timestamp": "2026-05-23T23:01:15.227287"
+  },
+  {
+    "transaction_id": "384bb6ed-63ca-4fd1-9df1-0822aae2b45f",
+    "user_id": "8b7d709b-1422-42fa-8fd1-a4557692466f",
+    "amount": 3633.92,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Markshire",
+    "timestamp": "2026-05-23T23:01:15.730324"
+  },
+  {
+    "transaction_id": "adaf6714-eb19-4220-b594-edb0f76b44f3",
+    "user_id": "e24a3cac-db59-450d-91b4-887c0c368948",
+    "amount": 7245.66,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Ryanberg",
+    "timestamp": "2026-05-23T23:01:16.233623"
+  },
+  {
+    "transaction_id": "c20de82a-dc8a-4120-a2e6-ad8fee0c2b1a",
+    "user_id": "c46206be-3fce-4148-a759-7f5f39da241c",
+    "amount": 3915.51,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Kimberlymouth",
+    "timestamp": "2026-05-23T23:01:16.736207"
+  },
+  {
+    "transaction_id": "7a7b1f86-98b0-4747-9143-bf17d33d784c",
+    "user_id": "2b015207-9764-4a45-a4df-60e3c154142e",
+    "amount": 1215.99,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Michaeltown",
+    "timestamp": "2026-05-23T23:01:17.238656"
+  },
+  {
+    "transaction_id": "ea112a21-27db-436b-b166-e03a0c1996c4",
+    "user_id": "75048b07-0e41-46ab-af6e-01a5f2013e19",
+    "amount": 1795.95,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Brandonton",
+    "timestamp": "2026-05-23T23:01:17.741645"
+  },
+  {
+    "transaction_id": "3a2a99fe-59e0-4ce3-a810-6540f614b8ec",
+    "user_id": "d1b3d6d9-6402-4c1c-8586-d9a00ea75cf1",
+    "amount": 3913.44,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Perezport",
+    "timestamp": "2026-05-23T23:01:18.243456"
+  },
+  {
+    "transaction_id": "b02f662e-a83d-4c7d-a0ba-5b0fe2b647f2",
+    "user_id": "70d378ff-e6cb-40f3-ad6d-65509785db35",
+    "amount": 8400.25,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Kayla",
+    "timestamp": "2026-05-23T23:01:18.746277"
+  },
+  {
+    "transaction_id": "fdfe86f5-0545-4fda-a0a5-4bbe71002eaa",
+    "user_id": "3404642b-8865-468e-91aa-7206bf9a64df",
+    "amount": 283.17,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Teresashire",
+    "timestamp": "2026-05-23T23:01:19.248836"
+  }
+]

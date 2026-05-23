@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "655bf9cc-79c1-48e0-9bdb-4d8553efb46e",
+    "user_id": "b7cd5ee9-be74-410e-a08c-c1ed0b2ceeb8",
+    "amount": 3912.1,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Nathan",
+    "timestamp": "2026-05-23T23:09:14.537496"
+  },
+  {
+    "transaction_id": "18002486-9c47-4544-b93b-38cf56ca18d2",
+    "user_id": "2297c14a-d78d-4214-ac76-13f3862b5e07",
+    "amount": 7393.24,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Debbie",
+    "timestamp": "2026-05-23T23:09:15.543073"
+  },
+  {
+    "transaction_id": "aafb676f-16ec-42de-b8c7-a614dcf29f7b",
+    "user_id": "54349d5b-b2a2-429e-9731-33122e3ddc16",
+    "amount": 8086.95,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Yatesville",
+    "timestamp": "2026-05-23T23:09:16.046111"
+  },
+  {
+    "transaction_id": "f65f4ac1-2514-42cb-a877-4d29d658ebd7",
+    "user_id": "87f03983-05b3-427c-bb84-9b72770ccaaa",
+    "amount": 3057.21,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Roberttown",
+    "timestamp": "2026-05-23T23:09:17.050769"
+  },
+  {
+    "transaction_id": "df46d5a3-743b-40ae-aa55-d7aebdb8ea62",
+    "user_id": "10f1a5ca-00b7-4e7e-83ff-413fd7c4ab6e",
+    "amount": 2360.31,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Keithberg",
+    "timestamp": "2026-05-23T23:09:17.554868"
+  },
+  {
+    "transaction_id": "d50b34fa-ad08-4a1a-9790-0064d9a213a3",
+    "user_id": "b654cfce-583a-488b-bb90-6872d1ecfc40",
+    "amount": 3999.39,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Parkerside",
+    "timestamp": "2026-05-23T23:09:18.056650"
+  },
+  {
+    "transaction_id": "b7638df4-16c7-4853-a8a5-5f0c1e28642e",
+    "user_id": "8bad66a0-8343-494b-8094-352fe3623c4f",
+    "amount": 6842.82,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jennifermouth",
+    "timestamp": "2026-05-23T23:09:18.558098"
+  },
+  {
+    "transaction_id": "00c38acb-7794-42c4-bcc2-15759b8e27e3",
+    "user_id": "491e8867-5f29-4194-b3b8-bc9e6f3f397a",
+    "amount": 8553.89,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Brandonhaven",
+    "timestamp": "2026-05-23T23:09:19.059344"
+  },
+  {
+    "transaction_id": "69093904-9fd7-46e0-b029-e6ea4d09bc78",
+    "user_id": "084ed1b1-24c5-4f59-b41f-c22f25f38c55",
+    "amount": 6732.27,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Tiffanytown",
+    "timestamp": "2026-05-23T23:09:19.561732"
+  },
+  {
+    "transaction_id": "7a325a60-58d1-40ee-a8d3-5f77a127da3f",
+    "user_id": "60ebaca4-36de-4b27-a074-e33fa8e161f6",
+    "amount": 2565.79,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jonathanchester",
+    "timestamp": "2026-05-23T23:09:20.064719"
+  }
+]

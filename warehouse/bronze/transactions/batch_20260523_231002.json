@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c893c00f-2dee-4eb8-9c45-7e09c4c302c1",
+    "user_id": "45a9265d-9fdc-4c46-9ba6-532c746c69fa",
+    "amount": 8516.06,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Samanthaberg",
+    "timestamp": "2026-05-23T23:09:57.714609"
+  },
+  {
+    "transaction_id": "2124e138-4254-4499-96a9-5eb610d937e0",
+    "user_id": "24bc69c2-1fab-49cc-a05f-4883908ef79c",
+    "amount": 3869.32,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-23T23:09:58.217810"
+  },
+  {
+    "transaction_id": "2be89718-3d07-430b-8c13-ff3a8298d0a9",
+    "user_id": "933efb5f-8802-4586-9f6e-31875cca5b65",
+    "amount": 3399.81,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Beanmouth",
+    "timestamp": "2026-05-23T23:09:58.719217"
+  },
+  {
+    "transaction_id": "8c7efa22-071e-4f87-bcd3-3c28f6b8a66c",
+    "user_id": "5105fbd1-522a-42bc-8731-8966a3010f97",
+    "amount": 6675.04,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Paul",
+    "timestamp": "2026-05-23T23:09:59.221749"
+  },
+  {
+    "transaction_id": "5b4446e0-06ad-4e55-a63b-210ad007800c",
+    "user_id": "4880a9da-270d-4677-9e8c-b91ab344db43",
+    "amount": 4213.36,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Andreabury",
+    "timestamp": "2026-05-23T23:09:59.723018"
+  },
+  {
+    "transaction_id": "443d8098-3dec-4526-9726-1e7a3eff418a",
+    "user_id": "2e9ba855-552e-4454-80d1-4cf1b4f24f65",
+    "amount": 9079.82,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Frank",
+    "timestamp": "2026-05-23T23:10:00.224448"
+  },
+  {
+    "transaction_id": "319299a0-36cf-4127-a8fe-4d60c7e1b264",
+    "user_id": "fc4f1298-b4d9-4c97-8278-7166afa16384",
+    "amount": 2008.55,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Christopherstad",
+    "timestamp": "2026-05-23T23:10:00.726025"
+  },
+  {
+    "transaction_id": "2f1450da-83d9-4dcd-b3fc-d088b54223fc",
+    "user_id": "48a5da97-8503-443c-aa64-6e677242b43e",
+    "amount": 6431.91,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Heather",
+    "timestamp": "2026-05-23T23:10:01.228197"
+  },
+  {
+    "transaction_id": "964c0a9f-e90c-464b-84c4-e57b0b0322eb",
+    "user_id": "03ace826-3ef2-47ee-904c-10bea724240f",
+    "amount": 307.05,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Reedburgh",
+    "timestamp": "2026-05-23T23:10:01.729575"
+  },
+  {
+    "transaction_id": "fc61c948-2f2d-4c7d-91ee-5adb4d82d325",
+    "user_id": "db25c5cc-6de7-41ca-bdb3-2f8214e19858",
+    "amount": 1631.63,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Robert",
+    "timestamp": "2026-05-23T23:10:02.231231"
+  }
+]

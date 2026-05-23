@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "16ee6c30-abf0-4ca0-a9d1-feb2bed96895",
+    "user_id": "6a18fccc-a00e-4bfb-bae3-fd403fb922ed",
+    "amount": 1767.83,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ellenfort",
+    "timestamp": "2026-05-23T23:08:57.472846"
+  },
+  {
+    "transaction_id": "67e52c89-84f4-4dc3-a468-3a3f2fedd129",
+    "user_id": "7209e608-1bc6-49f0-a6fa-9e7be69d1383",
+    "amount": 3296.12,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Tracytown",
+    "timestamp": "2026-05-23T23:08:57.973549"
+  },
+  {
+    "transaction_id": "6e6aee78-8334-44a3-9eec-0cd7582b193c",
+    "user_id": "e5ff46bf-aae9-4db3-9ab1-bf6e89916acc",
+    "amount": 4481.46,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Andrewshaven",
+    "timestamp": "2026-05-23T23:08:58.475219"
+  },
+  {
+    "transaction_id": "6f8d5336-d02c-41fc-b611-b681ef13c51e",
+    "user_id": "e242d6ff-e3ad-44ae-924d-c9c54ca4c9ce",
+    "amount": 4123.92,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Christianberg",
+    "timestamp": "2026-05-23T23:08:58.976465"
+  },
+  {
+    "transaction_id": "7e300151-3dbe-4524-988e-b6c74ab51724",
+    "user_id": "cfbdf0c2-980b-4f9b-bfdb-b7db152a7981",
+    "amount": 7198.31,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Maureenfort",
+    "timestamp": "2026-05-23T23:08:59.478078"
+  },
+  {
+    "transaction_id": "920cff5e-bc64-4e3b-ad56-95fa4091fe55",
+    "user_id": "150f4c9f-5447-48b0-a8ab-92844a95b892",
+    "amount": 544.4,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Jennifer",
+    "timestamp": "2026-05-23T23:08:59.980272"
+  },
+  {
+    "transaction_id": "53b2b73c-0930-4792-baa6-b3e02f57e53c",
+    "user_id": "16377d42-5bbd-4154-9da5-533b28de3a86",
+    "amount": 398.37,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Martinside",
+    "timestamp": "2026-05-23T23:09:00.983502"
+  },
+  {
+    "transaction_id": "aa5e6620-b7a8-49ee-81af-9c21344443c1",
+    "user_id": "6ec42deb-911a-4e39-8eff-52aaae83a310",
+    "amount": 4954.62,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jensenborough",
+    "timestamp": "2026-05-23T23:09:01.484746"
+  },
+  {
+    "transaction_id": "9445b719-ad93-454f-a3d6-2a287bb2adec",
+    "user_id": "b281c8de-1e66-46c0-8dfa-9217ab17379d",
+    "amount": 5696.36,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Racheltown",
+    "timestamp": "2026-05-23T23:09:01.987253"
+  },
+  {
+    "transaction_id": "6a745c62-8902-4619-92fb-010611178bd4",
+    "user_id": "9033edf2-76a7-402b-8330-7584bb2b5b48",
+    "amount": 862.83,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Samuelton",
+    "timestamp": "2026-05-23T23:09:02.488201"
+  }
+]

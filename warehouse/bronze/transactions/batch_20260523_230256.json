@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bf63ad3b-1ad8-4114-8b00-b8492c9de610",
+    "user_id": "7b6b7ecc-39ff-43a8-aa5d-b21254d4812e",
+    "amount": 7139.4,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Rachelhaven",
+    "timestamp": "2026-05-23T23:02:49.072320"
+  },
+  {
+    "transaction_id": "38872f13-8613-48e6-b6ef-d4516d7e7e86",
+    "user_id": "eb406e03-d9fe-4540-bb81-7ffc2d3e74d7",
+    "amount": 3487.08,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Nelsonfort",
+    "timestamp": "2026-05-23T23:02:49.574282"
+  },
+  {
+    "transaction_id": "0fc66b95-cd99-4679-b70f-4511e506f352",
+    "user_id": "fa9b1d94-5cb0-4882-a6b5-63fc30e2afe5",
+    "amount": 9161.07,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Danaport",
+    "timestamp": "2026-05-23T23:02:50.075729"
+  },
+  {
+    "transaction_id": "bddb7137-bf03-4571-820b-eeb0a0dff0ea",
+    "user_id": "7ecede10-b38d-4f27-8b8f-83bc0ff96434",
+    "amount": 8628.0,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Tonyhaven",
+    "timestamp": "2026-05-23T23:02:52.084782"
+  },
+  {
+    "transaction_id": "ad4b1fd3-2a88-49b2-bfc7-547e1734c6f2",
+    "user_id": "0f998d1a-c564-451b-a58c-93e7ca3a83ea",
+    "amount": 5715.43,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Toddfurt",
+    "timestamp": "2026-05-23T23:02:53.088889"
+  },
+  {
+    "transaction_id": "d267331c-4ec0-4d87-9a8c-5355bb7c359b",
+    "user_id": "bb256851-2e04-49c8-b88f-7406d250d78e",
+    "amount": 34.31,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Sabrina",
+    "timestamp": "2026-05-23T23:02:53.590474"
+  },
+  {
+    "transaction_id": "33e962cb-310c-44bc-b3b6-c64cea8515f2",
+    "user_id": "e09fe4fb-5dc9-45a1-8732-adfa3d988a56",
+    "amount": 5239.7,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Gregfurt",
+    "timestamp": "2026-05-23T23:02:54.092364"
+  },
+  {
+    "transaction_id": "07cfc59c-4baf-41c9-aed4-388b53b833db",
+    "user_id": "740ad934-1b1b-4b5f-b6f6-1fa0885bcbae",
+    "amount": 1565.32,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Christinahaven",
+    "timestamp": "2026-05-23T23:02:54.594379"
+  },
+  {
+    "transaction_id": "4e7acdcc-4c18-414c-9f31-29bfeaae085e",
+    "user_id": "475d5374-5249-4604-b840-604ff7e41273",
+    "amount": 1309.72,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Barbara",
+    "timestamp": "2026-05-23T23:02:55.597940"
+  },
+  {
+    "transaction_id": "f8522287-ba85-4db3-9700-22fcbecb2afb",
+    "user_id": "0622d6b9-3303-4cdf-a28f-e97bc083100c",
+    "amount": 4588.77,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Marquezside",
+    "timestamp": "2026-05-23T23:02:56.100607"
+  }
+]

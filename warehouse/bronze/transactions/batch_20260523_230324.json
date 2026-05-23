@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9fef3153-2609-4319-a59b-465669a09875",
+    "user_id": "2053bac8-552d-46c7-8a46-06a9086f53a8",
+    "amount": 5806.02,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Morganland",
+    "timestamp": "2026-05-23T23:03:19.196302"
+  },
+  {
+    "transaction_id": "3e0e044f-2cb1-458a-a660-8a6803b15bb8",
+    "user_id": "0067c391-dca2-448f-a893-3a19d17f49de",
+    "amount": 5137.77,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Dylanmouth",
+    "timestamp": "2026-05-23T23:03:19.699240"
+  },
+  {
+    "transaction_id": "99036f24-4b25-4164-a355-6ebb0daee6bf",
+    "user_id": "95b0d3ae-a926-4ffb-b5d0-0e4f0cf894a1",
+    "amount": 6565.43,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Alexandermouth",
+    "timestamp": "2026-05-23T23:03:20.200540"
+  },
+  {
+    "transaction_id": "7797cb97-4812-4aeb-bf32-8ff6661b3190",
+    "user_id": "995f7ef8-1435-4d0f-a708-e21a3dd5111a",
+    "amount": 350.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Wallacehaven",
+    "timestamp": "2026-05-23T23:03:20.703216"
+  },
+  {
+    "transaction_id": "541b0dc9-3a80-4049-9b49-0401c0128719",
+    "user_id": "d6ef5fda-cd7f-4a86-b927-c53497157754",
+    "amount": 7219.65,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Pricemouth",
+    "timestamp": "2026-05-23T23:03:21.205834"
+  },
+  {
+    "transaction_id": "e9e76848-4760-469d-8fdb-35890c255bf3",
+    "user_id": "50b0939b-2d98-499c-b13e-374501800caa",
+    "amount": 8569.85,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Jennifer",
+    "timestamp": "2026-05-23T23:03:21.707178"
+  },
+  {
+    "transaction_id": "4ff2bca4-b456-42ab-b84d-9efdcef2b0c9",
+    "user_id": "e0bb695a-ed9e-4dee-a694-7ec7687dbadf",
+    "amount": 704.55,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Mariaborough",
+    "timestamp": "2026-05-23T23:03:22.710248"
+  },
+  {
+    "transaction_id": "6e65e26a-685b-4175-bd92-0aa28e7bbea5",
+    "user_id": "68298b5f-84f6-4921-9836-2b86ff3e2cfc",
+    "amount": 9945.69,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Martha",
+    "timestamp": "2026-05-23T23:03:23.211501"
+  },
+  {
+    "transaction_id": "d156b8b3-e943-4aad-a14b-5a937bfe76eb",
+    "user_id": "003f479a-db2a-44ae-904f-1aa5ec7df192",
+    "amount": 3009.7,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Valerie",
+    "timestamp": "2026-05-23T23:03:23.712961"
+  },
+  {
+    "transaction_id": "dd0f528e-4fe6-4c08-9bf6-b71a1871368e",
+    "user_id": "976c5526-6aaf-46d0-b7f9-3ceab8b7dde5",
+    "amount": 371.23,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Timothy",
+    "timestamp": "2026-05-23T23:03:24.215907"
+  }
+]

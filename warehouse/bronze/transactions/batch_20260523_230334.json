@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ff6af642-e7bd-4aad-9faf-a90fc288ea30",
+    "user_id": "3072b787-5b96-404d-b86c-18946963658b",
+    "amount": 7944.2,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Shannonbury",
+    "timestamp": "2026-05-23T23:03:29.737023"
+  },
+  {
+    "transaction_id": "6005ce85-79ab-4fbd-9154-4be3cd5a7724",
+    "user_id": "59b3482d-f1d1-45e4-aa25-43da186b95cd",
+    "amount": 3874.62,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lawrencebury",
+    "timestamp": "2026-05-23T23:03:30.239009"
+  },
+  {
+    "transaction_id": "1f2861cc-24c2-4513-8e8b-d14c68d7b3c4",
+    "user_id": "cd6b2d6c-2045-4f13-9d0c-038d71eff906",
+    "amount": 5811.23,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Spencerland",
+    "timestamp": "2026-05-23T23:03:30.740547"
+  },
+  {
+    "transaction_id": "1fda7ce9-1f38-475c-b030-b301cc952cb2",
+    "user_id": "daa0f66b-469b-470a-b394-9f3c62e4d709",
+    "amount": 6317.71,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Pearsonfort",
+    "timestamp": "2026-05-23T23:03:31.242981"
+  },
+  {
+    "transaction_id": "201a8c2c-d1c2-438f-9647-62222bba6fc4",
+    "user_id": "23d14383-512f-4d9a-ace8-8400cc462c69",
+    "amount": 7194.19,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Steventown",
+    "timestamp": "2026-05-23T23:03:31.745543"
+  },
+  {
+    "transaction_id": "6bfc9fa1-e618-45d3-8656-6ddb9782ec74",
+    "user_id": "bbbf6304-8330-49d8-ac20-1bcb704e72cd",
+    "amount": 8276.67,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Chadfurt",
+    "timestamp": "2026-05-23T23:03:32.246736"
+  },
+  {
+    "transaction_id": "b994e9c5-c0d3-4517-aeba-c4d4774222d4",
+    "user_id": "031a36eb-6890-46e1-a7f3-9b3ac439fb19",
+    "amount": 52.82,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Oscarview",
+    "timestamp": "2026-05-23T23:03:32.749529"
+  },
+  {
+    "transaction_id": "a2e9a3e2-a834-45b1-9114-f0f58d1d3adb",
+    "user_id": "167a22db-c47c-4971-b35a-23e4b576e757",
+    "amount": 5138.82,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Triciaport",
+    "timestamp": "2026-05-23T23:03:33.753269"
+  },
+  {
+    "transaction_id": "14394ada-f213-48a0-b9f5-590c20b9f53d",
+    "user_id": "c5b3149f-0644-4bee-af43-d8d102e59e61",
+    "amount": 0.11,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Rodriguezburgh",
+    "timestamp": "2026-05-23T23:03:34.255201"
+  },
+  {
+    "transaction_id": "68be2c76-90a9-4cf3-a5d2-352d14c443f9",
+    "user_id": "1e9ffd60-36cb-49f8-b578-b48ee49867e5",
+    "amount": 5785.59,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Julie",
+    "timestamp": "2026-05-23T23:03:34.758251"
+  }
+]

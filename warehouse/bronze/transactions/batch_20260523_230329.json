@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "08d2f95b-e5fd-4d89-a294-1e2f2d9d95a0",
+    "user_id": "07506a86-c84b-4774-91ee-e18d3aa3d988",
+    "amount": 9195.55,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Moniqueport",
+    "timestamp": "2026-05-23T23:03:24.717437"
+  },
+  {
+    "transaction_id": "20e0a9f0-c115-47d3-95c9-87c2de4a218a",
+    "user_id": "de85d467-21c9-4d2b-9afd-e904dee992bd",
+    "amount": 69.78,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Danabury",
+    "timestamp": "2026-05-23T23:03:25.220242"
+  },
+  {
+    "transaction_id": "d051eba6-358a-479a-b1b2-4bfacbbe8290",
+    "user_id": "70997eac-d559-49d8-9a5c-8937545df7f6",
+    "amount": 9378.78,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Ashleyborough",
+    "timestamp": "2026-05-23T23:03:25.723334"
+  },
+  {
+    "transaction_id": "192d6073-1139-478d-b831-84b94f691551",
+    "user_id": "05278ba0-d487-4a24-a843-a8707cc5177f",
+    "amount": 553.82,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Oliverport",
+    "timestamp": "2026-05-23T23:03:26.225385"
+  },
+  {
+    "transaction_id": "8499d70f-7472-4d95-b653-97c2644f096f",
+    "user_id": "ddee64fe-cadc-4160-a91d-d19b4549da34",
+    "amount": 1463.98,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Christophermouth",
+    "timestamp": "2026-05-23T23:03:26.726776"
+  },
+  {
+    "transaction_id": "3c6de148-d720-4eb4-a42b-306cd7a328d9",
+    "user_id": "23e134ff-af11-47dc-9bdc-cf22c450cd9e",
+    "amount": 7796.1,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Patrickborough",
+    "timestamp": "2026-05-23T23:03:27.229144"
+  },
+  {
+    "transaction_id": "c5588f38-c5ee-48ac-9e1a-3438a4b89a96",
+    "user_id": "dac25fd6-59b5-47c1-8814-20e5e524543d",
+    "amount": 6010.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Smithfurt",
+    "timestamp": "2026-05-23T23:03:27.730915"
+  },
+  {
+    "transaction_id": "fb16445c-c5f0-4426-a2f9-05907780a971",
+    "user_id": "c0bbf9b8-5512-498f-876f-a4ce8b0d3595",
+    "amount": 3490.92,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Ashley",
+    "timestamp": "2026-05-23T23:03:28.232391"
+  },
+  {
+    "transaction_id": "f28997bd-2f79-4dcd-bbda-5abc2067f73c",
+    "user_id": "3c414a34-cebe-4a46-9d76-0b99876ef595",
+    "amount": 8176.56,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Mary",
+    "timestamp": "2026-05-23T23:03:28.733750"
+  },
+  {
+    "transaction_id": "d311bb2b-96c7-428a-b30e-8031ef84464f",
+    "user_id": "89b9aba9-4487-450c-ac89-e68ff810ee8d",
+    "amount": 6979.28,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Petersonshire",
+    "timestamp": "2026-05-23T23:03:29.235109"
+  }
+]

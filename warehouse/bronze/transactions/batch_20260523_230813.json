@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d62cf3d5-bb9c-4c50-bbdb-a77284ee60df",
+    "user_id": "e7d6de6f-591a-442c-aaa3-83c11ff1d859",
+    "amount": 5012.69,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Vanessamouth",
+    "timestamp": "2026-05-23T23:08:07.288987"
+  },
+  {
+    "transaction_id": "3b489c6b-59e9-43a4-95f1-3807e7a2b027",
+    "user_id": "43477d1d-3feb-4757-8cc7-52f0f38845c5",
+    "amount": 1724.49,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Thomas",
+    "timestamp": "2026-05-23T23:08:07.790143"
+  },
+  {
+    "transaction_id": "804b3159-29a8-4d99-8a15-03e929c1421b",
+    "user_id": "e20bde4d-2fca-425a-aaee-3a0938d23a53",
+    "amount": 4274.89,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port David",
+    "timestamp": "2026-05-23T23:08:08.291951"
+  },
+  {
+    "transaction_id": "24ca0416-a19a-474c-9bef-2ddf2dd340e3",
+    "user_id": "09acfb12-8493-4897-b2a4-5f0ce4b3a60c",
+    "amount": 1341.69,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Mary",
+    "timestamp": "2026-05-23T23:08:08.794375"
+  },
+  {
+    "transaction_id": "c99e5c7b-dea2-4e7e-8021-d0cca37e05b3",
+    "user_id": "fa40233e-e509-4e3a-a5fe-4c6c4a8fc012",
+    "amount": 981.92,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Angela",
+    "timestamp": "2026-05-23T23:08:09.296013"
+  },
+  {
+    "transaction_id": "78beafc3-3170-4679-a889-81084307d2bf",
+    "user_id": "2fa6aed4-64d4-49c2-9d13-7f3e49ffb718",
+    "amount": 3367.92,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Nicholaston",
+    "timestamp": "2026-05-23T23:08:10.298479"
+  },
+  {
+    "transaction_id": "a653690f-09d1-49ad-b260-67f832bb9534",
+    "user_id": "8365e020-51a2-4281-912f-657827b63cfc",
+    "amount": 4709.38,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mariaburgh",
+    "timestamp": "2026-05-23T23:08:10.800039"
+  },
+  {
+    "transaction_id": "899173d1-a097-4552-80f0-5c63b11c2b63",
+    "user_id": "3ad0a7b4-11b3-4a04-9d45-54642c5927d2",
+    "amount": 2622.54,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Vincentchester",
+    "timestamp": "2026-05-23T23:08:11.805333"
+  },
+  {
+    "transaction_id": "fb28f452-3fa2-44be-91d7-e40f51b965e9",
+    "user_id": "01b0a1ce-ed18-452c-8f1f-d53be9d33c08",
+    "amount": 5884.35,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Samanthaview",
+    "timestamp": "2026-05-23T23:08:12.808350"
+  },
+  {
+    "transaction_id": "70a9eb8d-c693-4c77-be64-55aca463608d",
+    "user_id": "659ef52e-4437-458e-8f91-aec19c6a8c0c",
+    "amount": 4227.8,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Bondville",
+    "timestamp": "2026-05-23T23:08:13.309811"
+  }
+]

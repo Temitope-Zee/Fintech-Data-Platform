@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "53042fdb-de41-4107-a3bb-b709030c1e93",
+    "user_id": "9a9f1c1c-3114-4f93-ae52-92a33dd502cb",
+    "amount": 409.61,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Sierrabury",
+    "timestamp": "2026-05-23T23:06:21.395241"
+  },
+  {
+    "transaction_id": "0a141489-4bde-45b5-ba20-bd2b3a75c161",
+    "user_id": "baac5428-97f0-4890-bb52-e1230e3378cd",
+    "amount": 8252.56,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jillbury",
+    "timestamp": "2026-05-23T23:06:21.896293"
+  },
+  {
+    "transaction_id": "fce76320-9b6d-4410-91a6-69a010c477cf",
+    "user_id": "33a9846c-2b61-4150-9491-20b24ec11862",
+    "amount": 211.07,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Kingfurt",
+    "timestamp": "2026-05-23T23:06:22.398809"
+  },
+  {
+    "transaction_id": "46924e6e-e508-49a3-a609-49611a62d658",
+    "user_id": "c3093497-3930-4bc0-88c5-a17589fced83",
+    "amount": 1054.03,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Hunter",
+    "timestamp": "2026-05-23T23:06:22.900057"
+  },
+  {
+    "transaction_id": "c4519fc3-dcf3-4e75-a525-f9d947dd599d",
+    "user_id": "a9150257-4622-4fbc-94d8-902f7f6c8d71",
+    "amount": 4372.87,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Brittany",
+    "timestamp": "2026-05-23T23:06:23.401173"
+  },
+  {
+    "transaction_id": "a806369d-eb36-441f-8f92-e578334c6a07",
+    "user_id": "2e3b4b36-6aea-48f4-9e92-9729d3e0f56a",
+    "amount": 7728.82,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Steven",
+    "timestamp": "2026-05-23T23:06:23.902677"
+  },
+  {
+    "transaction_id": "c0b2f6f6-a8ba-42e9-ae3a-0748bf4fbd2f",
+    "user_id": "0c6bee68-ecbd-4ae3-86d9-5100378b61cf",
+    "amount": 1056.58,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kristachester",
+    "timestamp": "2026-05-23T23:06:24.405570"
+  },
+  {
+    "transaction_id": "6dacb250-70a7-49a1-a906-2293f0714fd0",
+    "user_id": "d52ab0c8-d6de-487a-a2b9-66eb76664523",
+    "amount": 4356.31,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Roberthaven",
+    "timestamp": "2026-05-23T23:06:24.906846"
+  },
+  {
+    "transaction_id": "4d4de6d2-08a3-4d09-8f82-4cedecd9afcb",
+    "user_id": "8499bc8e-f15c-4d27-8606-cc6bdd8cb9c3",
+    "amount": 2935.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wolfeshire",
+    "timestamp": "2026-05-23T23:06:25.409568"
+  },
+  {
+    "transaction_id": "750bb7be-fd62-44a5-a612-20d1eb46ac51",
+    "user_id": "30c6da1a-9b1f-4a2f-bd1d-6dc270a730fa",
+    "amount": 7871.36,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Chelsea",
+    "timestamp": "2026-05-23T23:06:25.912261"
+  }
+]

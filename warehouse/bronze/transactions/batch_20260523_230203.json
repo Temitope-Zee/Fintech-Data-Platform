@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f054a119-fc70-4502-a95f-20f79890a166",
+    "user_id": "72719282-3c3e-4dd5-9e67-afe16ccbd977",
+    "amount": 1912.77,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Joshua",
+    "timestamp": "2026-05-23T23:01:58.901894"
+  },
+  {
+    "transaction_id": "5113abbc-9d5e-42e6-aed1-ca6365f7214e",
+    "user_id": "1eb52aef-c0b8-42a6-b73b-3d8b9fda521a",
+    "amount": 2675.17,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Douglasborough",
+    "timestamp": "2026-05-23T23:01:59.403570"
+  },
+  {
+    "transaction_id": "b60b4c66-3328-49d9-87bd-1fc5a6ce392a",
+    "user_id": "83492481-ad92-4ece-8a54-9f419917fb07",
+    "amount": 9826.46,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Chrishaven",
+    "timestamp": "2026-05-23T23:01:59.906152"
+  },
+  {
+    "transaction_id": "5c0f5222-9c60-4256-b8c5-201c7f5a51fd",
+    "user_id": "d6132822-6ccf-4701-80c8-fe81ce4d797b",
+    "amount": 8693.65,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Luisbury",
+    "timestamp": "2026-05-23T23:02:00.407815"
+  },
+  {
+    "transaction_id": "6df06c23-84f3-4e68-9ad5-6d29ed5391d7",
+    "user_id": "6910467c-bfa5-4335-81fe-1a363a847a65",
+    "amount": 2700.28,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Patriciaside",
+    "timestamp": "2026-05-23T23:02:00.910500"
+  },
+  {
+    "transaction_id": "36d8ee5c-4ce9-4e1a-b2f8-0953f2451533",
+    "user_id": "a97dce31-bec0-448d-82cf-21b8ab993f76",
+    "amount": 5579.41,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Markborough",
+    "timestamp": "2026-05-23T23:02:01.412250"
+  },
+  {
+    "transaction_id": "78e7c869-fbe2-4b0f-8eec-028a0a73d948",
+    "user_id": "4321ce5b-5e69-4fa1-9e82-d373a71ebe63",
+    "amount": 7189.66,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Mccoyview",
+    "timestamp": "2026-05-23T23:02:01.913884"
+  },
+  {
+    "transaction_id": "605fd1f4-f9d3-41ba-ab5c-0100a9917310",
+    "user_id": "ef824c1f-d8fe-4882-8730-8a1c408072d8",
+    "amount": 4587.0,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Taylorbury",
+    "timestamp": "2026-05-23T23:02:02.416538"
+  },
+  {
+    "transaction_id": "317a3b97-7079-4f07-b664-e8d8adab902a",
+    "user_id": "5523b156-6e92-4f10-9d8e-bf21d09627ee",
+    "amount": 5395.77,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Nicole",
+    "timestamp": "2026-05-23T23:02:02.918528"
+  },
+  {
+    "transaction_id": "69f0fbc4-fea3-4611-95e8-c3186f7a6bdb",
+    "user_id": "3d312e18-abd8-4d3d-9730-8f5787eb215b",
+    "amount": 5324.84,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Davidport",
+    "timestamp": "2026-05-23T23:02:03.420271"
+  }
+]

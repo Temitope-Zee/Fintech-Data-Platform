@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cb3d6516-20e0-4584-a047-799c3ce36a91",
+    "user_id": "d8f1d967-fd06-4671-a88a-6a13d189c070",
+    "amount": 6352.4,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Wardburgh",
+    "timestamp": "2026-05-23T23:07:22.618495"
+  },
+  {
+    "transaction_id": "f68a3fe1-759f-429e-ae97-50dc0f64a5bf",
+    "user_id": "fc3f5afc-a002-4d30-8d3e-6a086cc551f2",
+    "amount": 6878.27,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Tonyhaven",
+    "timestamp": "2026-05-23T23:07:23.120424"
+  },
+  {
+    "transaction_id": "b4722732-de72-4702-95d0-8b1cdd96882b",
+    "user_id": "3ba1c690-63f2-4e1b-8c83-3459ec16c998",
+    "amount": 1939.53,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Molinaville",
+    "timestamp": "2026-05-23T23:07:24.122547"
+  },
+  {
+    "transaction_id": "73444ed4-1547-44cc-bc16-aea60bd8d945",
+    "user_id": "7efe8a3c-6e21-4a74-bbe6-d818436b24b1",
+    "amount": 9907.13,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Douglasport",
+    "timestamp": "2026-05-23T23:07:24.624042"
+  },
+  {
+    "transaction_id": "04065c52-0477-4f89-946f-313c3b7f37d3",
+    "user_id": "c57998c4-7d1d-4718-a337-9ec362b18841",
+    "amount": 1465.96,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Burnstown",
+    "timestamp": "2026-05-23T23:07:25.125077"
+  },
+  {
+    "transaction_id": "dbf8e614-abb4-42b2-939f-fec9d3246fb9",
+    "user_id": "dadedf2c-e676-4c87-b38e-96603aa3a8c1",
+    "amount": 7335.25,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Reneeside",
+    "timestamp": "2026-05-23T23:07:25.626011"
+  },
+  {
+    "transaction_id": "af3f460c-9787-45b9-a1bc-c352559abee8",
+    "user_id": "5a5d9917-3a12-4e6a-bba1-6a0f46078615",
+    "amount": 8476.39,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Briannaview",
+    "timestamp": "2026-05-23T23:07:26.126917"
+  },
+  {
+    "transaction_id": "e522a39c-9302-4d3d-be8c-0115843a900d",
+    "user_id": "f3aeb2a8-b068-4e68-8aac-36e57809899e",
+    "amount": 4602.92,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Stevenview",
+    "timestamp": "2026-05-23T23:07:27.130100"
+  },
+  {
+    "transaction_id": "3864b91f-1bc5-4243-8de4-be594752fd59",
+    "user_id": "5a664028-5bb3-49e2-90f5-fd75c9491349",
+    "amount": 9979.28,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Wilsonland",
+    "timestamp": "2026-05-23T23:07:27.631193"
+  },
+  {
+    "transaction_id": "5c925a0c-e4c8-40c0-b11c-f38d241a646e",
+    "user_id": "c1513054-dffa-4316-be1d-64d4d0c3dde7",
+    "amount": 7732.02,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Reneefurt",
+    "timestamp": "2026-05-23T23:07:28.132349"
+  }
+]

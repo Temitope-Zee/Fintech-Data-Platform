@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "79bcf157-fc92-4721-821c-5a92e413c0df",
+    "user_id": "91c3cfe6-3948-47c0-adf0-93e73fb9ce6b",
+    "amount": 7592.25,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Toddhaven",
+    "timestamp": "2026-05-23T23:05:26.197206"
+  },
+  {
+    "transaction_id": "e524c2e7-fd4a-484d-936d-10f3f264256c",
+    "user_id": "db6bcacc-9f9f-4d5f-a241-8fcab73ecd2b",
+    "amount": 4608.26,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Monicaburgh",
+    "timestamp": "2026-05-23T23:05:27.704347"
+  },
+  {
+    "transaction_id": "a4e48add-81c7-477b-af0d-59a9f31134e2",
+    "user_id": "a31b8926-b431-4085-b1eb-59657add117e",
+    "amount": 7354.74,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Douglasberg",
+    "timestamp": "2026-05-23T23:05:28.205995"
+  },
+  {
+    "transaction_id": "22ef9457-c72f-4560-845e-b6f2e87f6e39",
+    "user_id": "a5f07861-1ce0-46cf-959d-c999422bee42",
+    "amount": 1354.51,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Rhonda",
+    "timestamp": "2026-05-23T23:05:28.707377"
+  },
+  {
+    "transaction_id": "0034f900-14d2-4022-ad78-d39670ca72ef",
+    "user_id": "e8b6bd93-6a93-4430-852a-dff70d240503",
+    "amount": 607.46,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Eileenborough",
+    "timestamp": "2026-05-23T23:05:29.209270"
+  },
+  {
+    "transaction_id": "0d84d3b8-4c2e-4586-8566-425fe2f775b5",
+    "user_id": "c8dfbc8d-3acb-4463-836f-973d84e39127",
+    "amount": 8445.72,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Peterchester",
+    "timestamp": "2026-05-23T23:05:29.710729"
+  },
+  {
+    "transaction_id": "2de59c55-3866-4cd0-bd91-22a75ac825ae",
+    "user_id": "d724a22c-3e0e-4eec-b60e-15f7ef9f9b8f",
+    "amount": 5432.65,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Ashleyshire",
+    "timestamp": "2026-05-23T23:05:30.212366"
+  },
+  {
+    "transaction_id": "36442b13-7846-434f-b2dd-e3086a2bd9d2",
+    "user_id": "ef321daa-023f-4b92-a0d6-dac663a4dec7",
+    "amount": 8553.81,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Robert",
+    "timestamp": "2026-05-23T23:05:30.713844"
+  },
+  {
+    "transaction_id": "666185fa-a3de-4781-8603-9b2a82220f48",
+    "user_id": "6e1cf461-3968-444c-8361-22b7bf3dcc14",
+    "amount": 6451.23,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Benderside",
+    "timestamp": "2026-05-23T23:05:31.215351"
+  },
+  {
+    "transaction_id": "b8e4e732-13d2-4c05-bbe2-453935ac14a6",
+    "user_id": "2e4eeb88-357c-49ef-bd4b-7abeb41c60c4",
+    "amount": 3693.83,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Seanhaven",
+    "timestamp": "2026-05-23T23:05:31.717492"
+  }
+]

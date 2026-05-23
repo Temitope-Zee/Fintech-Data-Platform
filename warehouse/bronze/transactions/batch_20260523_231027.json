@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c44a6660-4881-451c-9344-8e108d7748b7",
+    "user_id": "48473f1e-053a-410f-87a2-154b35a3673c",
+    "amount": 3089.64,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Samuelfort",
+    "timestamp": "2026-05-23T23:10:21.307464"
+  },
+  {
+    "transaction_id": "73d29bf5-36cd-47fa-8a93-136fbc9f822a",
+    "user_id": "3742f9ec-ae0f-46e4-ba2b-382b00f0b917",
+    "amount": 5410.36,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Thomasstad",
+    "timestamp": "2026-05-23T23:10:21.810274"
+  },
+  {
+    "transaction_id": "31325975-1ae9-4cbe-b33d-cafeb4942f04",
+    "user_id": "227295af-e876-40cc-bdc6-44a44e2d16b0",
+    "amount": 2433.65,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Vicki",
+    "timestamp": "2026-05-23T23:10:22.312087"
+  },
+  {
+    "transaction_id": "e0f32630-bb71-442e-90df-cd87a57d4ccc",
+    "user_id": "85183b25-335b-4fe1-b107-fb4c9a4a0e8f",
+    "amount": 5445.45,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Travisside",
+    "timestamp": "2026-05-23T23:10:23.316106"
+  },
+  {
+    "transaction_id": "3ac209b9-87f0-488e-b4a8-8de37ac6a26d",
+    "user_id": "5b588d2b-cc19-4c47-87d1-a4bf7a637ca9",
+    "amount": 4343.38,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Russellberg",
+    "timestamp": "2026-05-23T23:10:23.817739"
+  },
+  {
+    "transaction_id": "6dce6fcc-dad4-4195-a768-25d688fc034b",
+    "user_id": "48133e0c-09ec-459b-b18f-7c4af1d66b8d",
+    "amount": 6036.46,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Youngland",
+    "timestamp": "2026-05-23T23:10:24.822837"
+  },
+  {
+    "transaction_id": "6ae27851-dd20-4287-b159-c897b24e3c66",
+    "user_id": "085ebda2-fc29-4dff-9584-73700c576cb1",
+    "amount": 2087.51,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Alyssa",
+    "timestamp": "2026-05-23T23:10:25.324190"
+  },
+  {
+    "transaction_id": "49a42ff2-c809-4923-9cce-4ca6eff12f74",
+    "user_id": "426f8bf5-0290-459c-b77f-f333b937e970",
+    "amount": 3133.14,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Ashley",
+    "timestamp": "2026-05-23T23:10:25.825979"
+  },
+  {
+    "transaction_id": "d139655c-2587-458e-87b9-86151f3072fa",
+    "user_id": "b3382b03-1aa5-4de7-bc18-7b4b7895e3f9",
+    "amount": 5527.24,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lisaton",
+    "timestamp": "2026-05-23T23:10:26.830974"
+  },
+  {
+    "transaction_id": "def4b040-5230-4589-b446-cd224da5b44f",
+    "user_id": "e29cb031-8100-44cc-8434-bcdbad6a949a",
+    "amount": 4338.29,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Taylorburgh",
+    "timestamp": "2026-05-23T23:10:27.332500"
+  }
+]

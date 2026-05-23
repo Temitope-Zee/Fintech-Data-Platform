@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2a945272-5422-4c30-a862-d2c252cffba2",
+    "user_id": "c4a926d9-3410-4470-a0b7-daec30e0c401",
+    "amount": 8973.6,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Dorothy",
+    "timestamp": "2026-05-23T23:05:38.240416"
+  },
+  {
+    "transaction_id": "307dfb1c-d64b-4652-8df9-74ee5d8b8f27",
+    "user_id": "0849c1a5-0a62-438a-aa60-828c182e1ae7",
+    "amount": 619.16,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Matthew",
+    "timestamp": "2026-05-23T23:05:38.742877"
+  },
+  {
+    "transaction_id": "38513987-43c0-4a74-bcb8-6c50b4d04d4c",
+    "user_id": "4e229136-8e45-4be7-98f5-7b1c6314ad32",
+    "amount": 4962.16,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Howefort",
+    "timestamp": "2026-05-23T23:05:39.244299"
+  },
+  {
+    "transaction_id": "404dc304-51c5-4c00-aa42-3dad1a7e1648",
+    "user_id": "046ff72c-5cb6-457d-b64c-488c2981a318",
+    "amount": 5725.28,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Shawn",
+    "timestamp": "2026-05-23T23:05:39.745548"
+  },
+  {
+    "transaction_id": "ea7c7cee-5204-450e-a4e9-0f072011ce18",
+    "user_id": "64324c79-e799-47d5-8211-e9694d9cc2ad",
+    "amount": 6089.02,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Calderonmouth",
+    "timestamp": "2026-05-23T23:05:40.247367"
+  },
+  {
+    "transaction_id": "96312323-25c3-448d-9705-ceb2efe75d56",
+    "user_id": "67066f7d-be8a-4473-bc96-5df1aecf29a5",
+    "amount": 4641.99,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jeffreyton",
+    "timestamp": "2026-05-23T23:05:40.749659"
+  },
+  {
+    "transaction_id": "081d2293-5bcf-48d9-91a4-0cf383dd9323",
+    "user_id": "6ee7392f-d927-42ff-89be-949afe75dcd7",
+    "amount": 3096.01,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Aliciatown",
+    "timestamp": "2026-05-23T23:05:41.251390"
+  },
+  {
+    "transaction_id": "e8c8af73-dd47-4dca-8635-cec82a9fd857",
+    "user_id": "dbbe0fe4-6f8f-40a4-a81b-9471747e9644",
+    "amount": 5724.73,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Mooreport",
+    "timestamp": "2026-05-23T23:05:41.754249"
+  },
+  {
+    "transaction_id": "8cf3d00f-8948-4a21-8f9f-8e360a871e59",
+    "user_id": "d9f58d86-eb21-4b3f-9f91-1bc52f366649",
+    "amount": 1747.9,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Shelly",
+    "timestamp": "2026-05-23T23:05:42.257383"
+  },
+  {
+    "transaction_id": "a8d5c6d6-8d89-4adf-a090-89fbf870affd",
+    "user_id": "61069d2a-035b-4287-8f69-a57d59940086",
+    "amount": 893.74,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lewisport",
+    "timestamp": "2026-05-23T23:05:42.759750"
+  }
+]

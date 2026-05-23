@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "aaf36246-a11f-4862-a639-5e7621df2213",
+    "user_id": "fc576480-aa05-429e-ad97-6d7c32478778",
+    "amount": 6556.83,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Curtisview",
+    "timestamp": "2026-05-23T23:04:04.382073"
+  },
+  {
+    "transaction_id": "c1be03d1-4aa6-4ae8-acbb-a6fb7ebf7c4e",
+    "user_id": "606033ae-34b8-4e4d-82e1-66ce9c1a914c",
+    "amount": 2163.35,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Lindseyside",
+    "timestamp": "2026-05-23T23:04:04.883698"
+  },
+  {
+    "transaction_id": "5b4b8206-80c7-4fe1-ada0-1ed48bd6bf58",
+    "user_id": "c2089099-a563-4e40-b272-7928504faee9",
+    "amount": 8467.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Toni",
+    "timestamp": "2026-05-23T23:04:05.385164"
+  },
+  {
+    "transaction_id": "5783223a-04e5-4482-b56c-07599fe81759",
+    "user_id": "196a69b2-b2df-4741-bf84-bff5cf6ebd5c",
+    "amount": 7404.81,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Joshuaville",
+    "timestamp": "2026-05-23T23:04:05.887784"
+  },
+  {
+    "transaction_id": "2f592d93-e5b1-4025-aeeb-4c7e0808ab1a",
+    "user_id": "7dff83c1-dad4-46cc-8044-b48e702ff7fd",
+    "amount": 7575.48,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Jamesberg",
+    "timestamp": "2026-05-23T23:04:06.389162"
+  },
+  {
+    "transaction_id": "75a45792-22e6-48ec-8c4b-1c29d5ad00cb",
+    "user_id": "9b299c74-229e-4b85-b567-0be4db5b4d32",
+    "amount": 3845.86,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Perezview",
+    "timestamp": "2026-05-23T23:04:06.891921"
+  },
+  {
+    "transaction_id": "9a35279b-4473-4cba-adaf-f2b7be8d4d52",
+    "user_id": "d8e82dcc-6ccd-43ce-9b51-d583530ba7de",
+    "amount": 8201.89,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Kristin",
+    "timestamp": "2026-05-23T23:04:07.394741"
+  },
+  {
+    "transaction_id": "cd2b89c4-6876-4976-89fc-75ede32ce73e",
+    "user_id": "0c3b89f0-5173-4f03-b54c-26e616017997",
+    "amount": 2257.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Alifort",
+    "timestamp": "2026-05-23T23:04:07.897433"
+  },
+  {
+    "transaction_id": "a73c989a-0b76-419f-81e2-77161bf6130f",
+    "user_id": "82b222a1-5e27-4e50-a1ba-49c0600bc577",
+    "amount": 3496.3,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Maryborough",
+    "timestamp": "2026-05-23T23:04:08.399996"
+  },
+  {
+    "transaction_id": "bff88821-583e-4c7e-a592-8662eda09593",
+    "user_id": "18390950-6c9f-4779-9366-00c5a323651a",
+    "amount": 1558.54,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Jamesshire",
+    "timestamp": "2026-05-23T23:04:08.901488"
+  }
+]

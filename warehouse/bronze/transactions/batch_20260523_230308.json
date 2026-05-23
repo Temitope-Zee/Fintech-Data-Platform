@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ce36aef8-05e8-4e0e-a71c-9aadcff20e38",
+    "user_id": "04629b31-ae78-43f4-a4b3-35676cd52cf2",
+    "amount": 9010.49,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Vanessa",
+    "timestamp": "2026-05-23T23:03:02.128667"
+  },
+  {
+    "transaction_id": "5044eb72-fbd6-495a-99c7-04a1567397b7",
+    "user_id": "d3c9f1ac-47a3-4d39-9088-4c8353cd2a91",
+    "amount": 8887.95,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Perezberg",
+    "timestamp": "2026-05-23T23:03:02.631219"
+  },
+  {
+    "transaction_id": "d6c7fd68-588a-421a-9559-c52d518510c1",
+    "user_id": "2dcaaf8c-1e6e-49e6-a736-2d222155f7b0",
+    "amount": 6137.26,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Leslie",
+    "timestamp": "2026-05-23T23:03:03.635384"
+  },
+  {
+    "transaction_id": "0a4f9d39-a25c-4980-9db0-87d4bbc42638",
+    "user_id": "3f59a186-8c84-4cb1-bda2-fbfacdb2ed5f",
+    "amount": 262.22,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Brittanyshire",
+    "timestamp": "2026-05-23T23:03:04.138167"
+  },
+  {
+    "transaction_id": "daeeb5ec-95ac-4452-8bb1-f5fc16bd30f3",
+    "user_id": "7d847398-7d11-42dc-b452-1d2eae7b3ba2",
+    "amount": 4370.14,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Brucehaven",
+    "timestamp": "2026-05-23T23:03:05.143993"
+  },
+  {
+    "transaction_id": "ae52e096-04f6-4026-8a32-5008f8f0c14d",
+    "user_id": "f557ccce-0fc5-4169-8534-fa576d60aa4d",
+    "amount": 5984.9,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Rachelshire",
+    "timestamp": "2026-05-23T23:03:06.148548"
+  },
+  {
+    "transaction_id": "0e938764-ac87-4147-a6cd-39d41b305600",
+    "user_id": "bacb50a4-d1f2-4eba-a511-a31f086ef3fb",
+    "amount": 1172.24,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Tiffany",
+    "timestamp": "2026-05-23T23:03:06.650811"
+  },
+  {
+    "transaction_id": "a1a4db99-9286-4549-b0a2-d1675e7957e5",
+    "user_id": "1ece15a1-1170-4aa4-b046-35c327c9916b",
+    "amount": 493.2,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Catherine",
+    "timestamp": "2026-05-23T23:03:07.153315"
+  },
+  {
+    "transaction_id": "c059d2df-87af-4e4f-b343-9c6946335fa8",
+    "user_id": "8ada0a15-dbec-4734-a96d-44299486c591",
+    "amount": 6642.76,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Rachelfort",
+    "timestamp": "2026-05-23T23:03:07.654676"
+  },
+  {
+    "transaction_id": "d4c008f2-0176-42a5-a4b0-5bba53d62ae5",
+    "user_id": "df98b5e5-0c66-4b00-a484-8e1c48430c57",
+    "amount": 9240.45,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lindseyport",
+    "timestamp": "2026-05-23T23:03:08.156378"
+  }
+]

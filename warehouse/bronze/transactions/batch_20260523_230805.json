@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "83245563-6a3e-43ba-a9bd-a7e0aee9bd32",
+    "user_id": "f731275c-eada-48ee-8f77-4513b87137b3",
+    "amount": 4605.45,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Scottstad",
+    "timestamp": "2026-05-23T23:07:59.760124"
+  },
+  {
+    "transaction_id": "05215365-788d-41c4-a259-e286aec1558c",
+    "user_id": "69ab0399-4ded-40e8-ad99-b73e1ce315b8",
+    "amount": 4451.38,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Kristenmouth",
+    "timestamp": "2026-05-23T23:08:00.261222"
+  },
+  {
+    "transaction_id": "b6f166fc-758f-4c68-8f5e-6061d35a7761",
+    "user_id": "1d7c5cc7-f999-4c26-ae94-7499d4787b44",
+    "amount": 5764.23,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Jennifershire",
+    "timestamp": "2026-05-23T23:08:00.762390"
+  },
+  {
+    "transaction_id": "6dfa74da-7283-408f-a950-ec9d4b8c7927",
+    "user_id": "6dd8c818-675e-4d19-90dd-44af9f41fcd9",
+    "amount": 8571.78,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Juliehaven",
+    "timestamp": "2026-05-23T23:08:01.263860"
+  },
+  {
+    "transaction_id": "ee5200f8-d684-4ef1-8ff5-7095bd079e06",
+    "user_id": "ae93e90d-69af-4793-9fba-2a4fd7aa39af",
+    "amount": 2459.99,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Stewartfort",
+    "timestamp": "2026-05-23T23:08:02.770184"
+  },
+  {
+    "transaction_id": "9bf2b98d-2d69-4517-b002-88b10fde8616",
+    "user_id": "2d83e04c-1f7b-4a84-bbe2-c141de33c62f",
+    "amount": 2034.92,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Matthew",
+    "timestamp": "2026-05-23T23:08:03.271920"
+  },
+  {
+    "transaction_id": "abb9211b-8bb5-406b-93d8-483a63830e26",
+    "user_id": "f692d6ae-a210-4aa7-be41-4030a1b506c3",
+    "amount": 3233.04,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Susanmouth",
+    "timestamp": "2026-05-23T23:08:03.773431"
+  },
+  {
+    "transaction_id": "e665c0ed-4583-4d99-8a1b-fbeb1a0b65ac",
+    "user_id": "a7e9a0cf-fc19-4adc-98f9-e90009b5f4cb",
+    "amount": 6485.52,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Timothy",
+    "timestamp": "2026-05-23T23:08:04.778676"
+  },
+  {
+    "transaction_id": "ac02a3f1-44d5-43ca-8858-c825d55952cf",
+    "user_id": "7f61a478-30cc-49ee-8611-27b5d22b5959",
+    "amount": 3552.2,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Wileytown",
+    "timestamp": "2026-05-23T23:08:05.280305"
+  },
+  {
+    "transaction_id": "f2182974-7caa-4fc9-a3e2-8dbb6d70a142",
+    "user_id": "9ed957d0-84cb-45d3-8ab8-c81b6a697a32",
+    "amount": 6392.5,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Williamville",
+    "timestamp": "2026-05-23T23:08:05.782745"
+  }
+]

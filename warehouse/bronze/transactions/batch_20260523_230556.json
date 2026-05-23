@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7dce16ab-5d0d-4a62-b360-1603699a0a12",
+    "user_id": "8cc1efa7-7603-47b6-aa37-6819c98aa7d8",
+    "amount": 6704.33,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Stephanie",
+    "timestamp": "2026-05-23T23:05:49.784281"
+  },
+  {
+    "transaction_id": "902b0ebe-aa92-4083-9d31-1701e2d93da1",
+    "user_id": "298b5c2b-77c3-418c-9b0c-d9143af49b9e",
+    "amount": 9111.71,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Lesliechester",
+    "timestamp": "2026-05-23T23:05:50.787174"
+  },
+  {
+    "transaction_id": "dda9494e-f509-4a79-a32d-25353e9490f0",
+    "user_id": "e8e07f60-f80b-4785-8cae-cdf73ef6fc95",
+    "amount": 1467.27,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Aprilchester",
+    "timestamp": "2026-05-23T23:05:51.288590"
+  },
+  {
+    "transaction_id": "c6b01d54-6d08-4125-b428-88d1aa7aca7e",
+    "user_id": "d536ad4b-51f0-4f26-9865-717e958c8dae",
+    "amount": 4755.9,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Medinaland",
+    "timestamp": "2026-05-23T23:05:52.794244"
+  },
+  {
+    "transaction_id": "34f8ca00-853e-4a58-88f5-af3d818ebde6",
+    "user_id": "6d1cf3d9-2e30-4b58-9f79-0d112db763d0",
+    "amount": 2723.18,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Jennyton",
+    "timestamp": "2026-05-23T23:05:53.295625"
+  },
+  {
+    "transaction_id": "0994bdd3-ea91-4a9c-851b-044f6557cdbc",
+    "user_id": "562c1dd1-9e1c-499b-98b4-f21afd67c8e5",
+    "amount": 1613.49,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Luke",
+    "timestamp": "2026-05-23T23:05:53.798170"
+  },
+  {
+    "transaction_id": "32b23740-de0e-4927-bfde-dc4b8485dc90",
+    "user_id": "5559b35a-2243-4f77-a72b-cc4809d1f09b",
+    "amount": 2602.04,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Nicole",
+    "timestamp": "2026-05-23T23:05:54.299346"
+  },
+  {
+    "transaction_id": "31f0d33a-bf1f-4dbf-8049-f0569d700836",
+    "user_id": "34f8461f-ad0b-4c57-afe8-d5cbf0ca2b95",
+    "amount": 9049.97,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Albertburgh",
+    "timestamp": "2026-05-23T23:05:54.800598"
+  },
+  {
+    "transaction_id": "059325e7-02f8-4894-98f9-b340f8e482ae",
+    "user_id": "2e712017-0b03-463a-9a32-bea291afa32a",
+    "amount": 8717.27,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Micheleside",
+    "timestamp": "2026-05-23T23:05:55.302002"
+  },
+  {
+    "transaction_id": "8bd4aa0b-8474-4603-8368-aebe46c22818",
+    "user_id": "a929bb35-ede9-4b7a-8627-968de9a261ca",
+    "amount": 5687.71,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Christopher",
+    "timestamp": "2026-05-23T23:05:56.806257"
+  }
+]

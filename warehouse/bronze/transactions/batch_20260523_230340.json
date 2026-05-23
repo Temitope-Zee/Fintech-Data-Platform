@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d596ad4e-302f-4723-af53-b6f30784357c",
+    "user_id": "61c832cf-ca27-4546-99fb-c5738295007d",
+    "amount": 3165.5,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Wallerton",
+    "timestamp": "2026-05-23T23:03:35.260915"
+  },
+  {
+    "transaction_id": "fd72fa9c-2269-4792-b22a-a0df418ee773",
+    "user_id": "4860f2e1-d3a8-4541-b0e4-dacfc23a1981",
+    "amount": 2422.38,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Michaelville",
+    "timestamp": "2026-05-23T23:03:36.265080"
+  },
+  {
+    "transaction_id": "d7e51846-b32d-496a-bd3f-9a2903826ab4",
+    "user_id": "1cd9a9c6-6bae-4ad7-89f2-b079c617198e",
+    "amount": 1761.41,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lopezchester",
+    "timestamp": "2026-05-23T23:03:36.767861"
+  },
+  {
+    "transaction_id": "37b9e8c4-e265-4edf-93ef-5ba2dbbaafe9",
+    "user_id": "148acb39-c266-4dc1-9141-ab26aeafa582",
+    "amount": 6059.41,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Bradshawbury",
+    "timestamp": "2026-05-23T23:03:37.269445"
+  },
+  {
+    "transaction_id": "d2af2ccf-3616-441c-9216-6ff02e395a82",
+    "user_id": "b9c8ed37-6704-47f3-b9a4-232fb0a59cd6",
+    "amount": 6815.47,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Mary",
+    "timestamp": "2026-05-23T23:03:37.771515"
+  },
+  {
+    "transaction_id": "74e38069-2ef2-4e5b-9021-492599f593bd",
+    "user_id": "4dd25c93-fc85-4833-8ae9-c33e65e71a95",
+    "amount": 2425.32,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Timothybury",
+    "timestamp": "2026-05-23T23:03:38.273148"
+  },
+  {
+    "transaction_id": "c93ae29f-6454-4d20-a060-50a0ae371f16",
+    "user_id": "8e3bba38-c957-4887-b024-127f3fca2d6b",
+    "amount": 9297.88,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Devinside",
+    "timestamp": "2026-05-23T23:03:39.275867"
+  },
+  {
+    "transaction_id": "b0dd18bc-be4f-4bce-9f17-1bd722cf9d83",
+    "user_id": "9f770887-7bfd-4afd-8c3d-8e69e39523c0",
+    "amount": 3274.18,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Davidstad",
+    "timestamp": "2026-05-23T23:03:39.777401"
+  },
+  {
+    "transaction_id": "a71160d8-00e6-4b49-a2fd-471a4975216d",
+    "user_id": "273b900c-6946-43a7-bbd1-994a5f57b94f",
+    "amount": 1449.39,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Samanthaport",
+    "timestamp": "2026-05-23T23:03:40.278499"
+  },
+  {
+    "transaction_id": "f50149d6-a23f-44be-b9fa-e4759f95d2cc",
+    "user_id": "47e15fca-87e7-4997-8571-2506f2350ed1",
+    "amount": 5395.08,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Gregoryborough",
+    "timestamp": "2026-05-23T23:03:40.780053"
+  }
+]

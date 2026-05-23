@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c34cd961-45e8-4f81-a967-bbd06403fdf4",
+    "user_id": "15a237e4-eb65-456c-93ed-8a6c12f63bad",
+    "amount": 6029.01,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Ashleyborough",
+    "timestamp": "2026-05-23T23:01:48.363790"
+  },
+  {
+    "transaction_id": "fe471f72-10dc-44fc-a3cb-ea3dc223c725",
+    "user_id": "bd5164ce-c828-42d4-8494-f08d8c59fe37",
+    "amount": 932.82,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Bethview",
+    "timestamp": "2026-05-23T23:01:48.865550"
+  },
+  {
+    "transaction_id": "4d1a4970-f244-4a97-8709-c035bfa416c2",
+    "user_id": "8199045a-980d-4a1e-9752-b24d8979405e",
+    "amount": 7356.44,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Mary",
+    "timestamp": "2026-05-23T23:01:49.366970"
+  },
+  {
+    "transaction_id": "2517d0a7-1e09-4f3b-90e3-0eb652b04235",
+    "user_id": "a419d6fc-c1b3-49cd-acd5-b1514ee9eeb6",
+    "amount": 4663.05,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Cartermouth",
+    "timestamp": "2026-05-23T23:01:49.868607"
+  },
+  {
+    "transaction_id": "ca77669c-11e9-481e-9054-b5207504a42d",
+    "user_id": "306f62fa-8327-48c9-bfae-4043045af0b0",
+    "amount": 3810.13,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Matthewside",
+    "timestamp": "2026-05-23T23:01:50.371595"
+  },
+  {
+    "transaction_id": "f956831d-0316-4866-8ebf-7c95f9a200ae",
+    "user_id": "055b75f5-280d-4596-8133-22cb722d2cfe",
+    "amount": 8288.98,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Jason",
+    "timestamp": "2026-05-23T23:01:51.374575"
+  },
+  {
+    "transaction_id": "29ac1f05-8c49-4844-9c77-93c6e59a8f53",
+    "user_id": "1370ce1e-fead-4e38-85b6-d99e72f9949a",
+    "amount": 8037.44,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Taylorchester",
+    "timestamp": "2026-05-23T23:01:51.875927"
+  },
+  {
+    "transaction_id": "52fd4ef9-a968-4fd9-a3cc-dbf27ef61560",
+    "user_id": "10cbef60-a8ee-4088-860c-4c3f70aae77e",
+    "amount": 777.89,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Brian",
+    "timestamp": "2026-05-23T23:01:52.377594"
+  },
+  {
+    "transaction_id": "fe76192d-615a-4edc-874a-8d10be9e2dcd",
+    "user_id": "62249fcc-77f2-4850-a481-3d77c811edda",
+    "amount": 2293.63,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Donnaton",
+    "timestamp": "2026-05-23T23:01:52.880208"
+  },
+  {
+    "transaction_id": "1ae7a4ee-08eb-4e1f-9831-06f304e7f691",
+    "user_id": "011e3ab4-3b9a-49cc-99ae-12558199acb2",
+    "amount": 6166.37,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Jaimeborough",
+    "timestamp": "2026-05-23T23:01:53.381452"
+  }
+]

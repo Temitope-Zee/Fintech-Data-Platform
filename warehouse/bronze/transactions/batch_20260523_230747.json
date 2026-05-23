@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "60a04121-340b-4af9-b77f-3cf434c65e45",
+    "user_id": "beb5df75-07ee-4a96-aff5-3ee674baf926",
+    "amount": 6910.04,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Joshuamouth",
+    "timestamp": "2026-05-23T23:07:42.187860"
+  },
+  {
+    "transaction_id": "b48d06e8-77bf-4d4d-8d2d-0d1b75f5d958",
+    "user_id": "fad792af-950a-4285-9b0f-9f2049ee6a6c",
+    "amount": 6016.79,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Jesusview",
+    "timestamp": "2026-05-23T23:07:42.690110"
+  },
+  {
+    "transaction_id": "a6200509-a531-45fe-8b88-943a23a5c269",
+    "user_id": "6dccf6d1-ec58-48f5-88d8-1105a8dca51a",
+    "amount": 1068.53,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Brandi",
+    "timestamp": "2026-05-23T23:07:43.191437"
+  },
+  {
+    "transaction_id": "3b42a5a1-d0d4-4472-a3db-6d76b2050be3",
+    "user_id": "b9419b33-6a13-41b7-b88b-9e7c1db8e96c",
+    "amount": 2744.68,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Kevinfurt",
+    "timestamp": "2026-05-23T23:07:43.692608"
+  },
+  {
+    "transaction_id": "ff5b53a3-931f-4a89-b14d-f25f67f1d67f",
+    "user_id": "2a8e2c59-0768-4863-a109-9b859935f29f",
+    "amount": 7064.84,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Brownburgh",
+    "timestamp": "2026-05-23T23:07:44.193936"
+  },
+  {
+    "transaction_id": "b34383a9-f606-41f0-90c7-45dbf61abd30",
+    "user_id": "615359db-2b2a-42cb-8fba-c81558889e92",
+    "amount": 5040.88,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Thomas",
+    "timestamp": "2026-05-23T23:07:44.695199"
+  },
+  {
+    "transaction_id": "c3b21434-a942-4765-a4f8-b76b7f66893f",
+    "user_id": "0377356a-38dd-4755-8bfc-1cd03a6dffbd",
+    "amount": 2166.62,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Adrianland",
+    "timestamp": "2026-05-23T23:07:46.200124"
+  },
+  {
+    "transaction_id": "2f63d54b-4079-4f8c-90f5-3a473ea846f2",
+    "user_id": "0e782e63-61da-4ebf-b7de-6e9e23b1ff20",
+    "amount": 3429.24,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Williamtown",
+    "timestamp": "2026-05-23T23:07:46.703577"
+  },
+  {
+    "transaction_id": "f0943715-c6ff-4d1d-b3be-6d6ed593e1a2",
+    "user_id": "aa582cc5-885e-4288-9f07-d40068689829",
+    "amount": 790.36,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Campbellfurt",
+    "timestamp": "2026-05-23T23:07:47.205895"
+  },
+  {
+    "transaction_id": "ca39401b-4097-4607-a9f8-17d671cd24cd",
+    "user_id": "69ab5d0a-a736-4016-a581-8261a5843366",
+    "amount": 1485.83,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Staceytown",
+    "timestamp": "2026-05-23T23:07:47.708903"
+  }
+]

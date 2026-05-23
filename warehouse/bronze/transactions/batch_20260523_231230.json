@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7efb6ac5-fb96-4aac-91ab-a33ac0d33949",
+    "user_id": "89ba193a-94ba-4c10-85f0-1903b3ea5f51",
+    "amount": 1031.34,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Miguel",
+    "timestamp": "2026-05-23T23:12:24.279388"
+  },
+  {
+    "transaction_id": "e9446728-fcae-46a8-b53e-93571c052e44",
+    "user_id": "8ae89dba-f3ea-4a45-bfb7-a1cc79db7b68",
+    "amount": 8518.35,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Emily",
+    "timestamp": "2026-05-23T23:12:25.284300"
+  },
+  {
+    "transaction_id": "41af1c9b-0cb5-4cf8-9485-1eba9458f14b",
+    "user_id": "a02774b1-2a82-4919-b654-693bbfe60e3a",
+    "amount": 737.01,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Colleenchester",
+    "timestamp": "2026-05-23T23:12:26.789395"
+  },
+  {
+    "transaction_id": "baf3b556-ca6b-414b-8cf1-f9bcf56e19ad",
+    "user_id": "2ea9b819-db71-44c9-97f6-06be627ccfb4",
+    "amount": 940.7,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Callahanberg",
+    "timestamp": "2026-05-23T23:12:27.291751"
+  },
+  {
+    "transaction_id": "038cc915-4f98-444d-858e-4c4bcaa735d3",
+    "user_id": "04d86419-8ee7-4188-8781-1f8f2a4fc539",
+    "amount": 1477.17,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Carrollborough",
+    "timestamp": "2026-05-23T23:12:27.793146"
+  },
+  {
+    "transaction_id": "83fb33ba-84c5-4694-b3ac-777a98f0be86",
+    "user_id": "a1ae3860-973c-4109-8e74-f377f3acaece",
+    "amount": 2806.6,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Carmen",
+    "timestamp": "2026-05-23T23:12:28.797751"
+  },
+  {
+    "transaction_id": "aa24f6af-fac2-439b-8954-006ef6f82623",
+    "user_id": "1416404a-c435-43c6-9da5-dc3159c364e5",
+    "amount": 1008.53,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Annbury",
+    "timestamp": "2026-05-23T23:12:29.299933"
+  },
+  {
+    "transaction_id": "57291976-b71e-4e8e-941d-59a9a2ca9105",
+    "user_id": "c3a0d964-6bb4-419d-8665-586a599482a8",
+    "amount": 8247.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Charleschester",
+    "timestamp": "2026-05-23T23:12:29.800820"
+  },
+  {
+    "transaction_id": "288ca5ee-9b8a-4b9a-8ea2-b96edadc40ef",
+    "user_id": "0f1ea7db-0e3e-4a75-b2d8-11439ed25822",
+    "amount": 2642.45,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Stephen",
+    "timestamp": "2026-05-23T23:12:30.302476"
+  },
+  {
+    "transaction_id": "75045c96-bbc7-4432-865d-2ac85e33ce47",
+    "user_id": "513bb5f7-a585-48be-a73b-a55ab2d3ed61",
+    "amount": 8870.42,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Anna",
+    "timestamp": "2026-05-23T23:12:30.803835"
+  }
+]

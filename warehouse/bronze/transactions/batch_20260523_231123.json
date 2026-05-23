@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "63df6104-5b6e-4d2a-aadb-1b11bf859bba",
+    "user_id": "0ea67c55-8299-4a91-a375-b5c11c753304",
+    "amount": 268.75,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Brian",
+    "timestamp": "2026-05-23T23:11:17.025700"
+  },
+  {
+    "transaction_id": "f5b64cea-beee-4356-912a-606af218bbb9",
+    "user_id": "e449af99-c0d9-4c2f-b9f5-e5b1c984be3e",
+    "amount": 6136.76,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Steinmouth",
+    "timestamp": "2026-05-23T23:11:17.527101"
+  },
+  {
+    "transaction_id": "e5d6f2ac-dc2b-4a49-b4bd-47f3bd1aa001",
+    "user_id": "23a9fa6e-05f3-4a21-a892-7ee25e0ae890",
+    "amount": 1998.06,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Jackie",
+    "timestamp": "2026-05-23T23:11:18.029841"
+  },
+  {
+    "transaction_id": "f4f7c14f-53d0-42ec-8311-9d2eca39e7e4",
+    "user_id": "4e10a9bf-8356-4eb1-9312-f814e5d08712",
+    "amount": 2574.69,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Kimberlytown",
+    "timestamp": "2026-05-23T23:11:18.532423"
+  },
+  {
+    "transaction_id": "9e40c8fa-966f-4841-9260-4568ca937526",
+    "user_id": "31b56929-610b-4521-9ee7-2d08bdaa33e0",
+    "amount": 960.66,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Schwartzview",
+    "timestamp": "2026-05-23T23:11:19.033588"
+  },
+  {
+    "transaction_id": "5d8f55d6-c1f5-47a1-8411-60ee448da9de",
+    "user_id": "a79c10b4-3ea6-48e0-9525-a0224ccf6567",
+    "amount": 5949.9,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Robertview",
+    "timestamp": "2026-05-23T23:11:21.041411"
+  },
+  {
+    "transaction_id": "6d760df5-e98f-459e-a2bc-9046e5c7c2de",
+    "user_id": "d579e9c5-9b5f-4a6c-80df-587f2f4a4b0e",
+    "amount": 6027.93,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Teresaton",
+    "timestamp": "2026-05-23T23:11:21.544209"
+  },
+  {
+    "transaction_id": "969675b0-4f38-4092-a086-9ab18bc09798",
+    "user_id": "150f63c1-ae9f-44ec-8bbf-815d51a20126",
+    "amount": 3256.38,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Williamville",
+    "timestamp": "2026-05-23T23:11:22.046832"
+  },
+  {
+    "transaction_id": "eec6f76d-045b-4bfb-89f8-b5c9c598e85d",
+    "user_id": "1eaa33e6-762a-442e-95a6-77363038ebf3",
+    "amount": 9489.59,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Johnsontown",
+    "timestamp": "2026-05-23T23:11:22.548428"
+  },
+  {
+    "transaction_id": "491d8d76-04a8-46c5-bb56-6ce0d19a9fd4",
+    "user_id": "32f46988-c315-41a3-b324-a7d8bac2258c",
+    "amount": 1736.23,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Downsland",
+    "timestamp": "2026-05-23T23:11:23.051311"
+  }
+]

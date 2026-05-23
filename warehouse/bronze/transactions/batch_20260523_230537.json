@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0f88a3ec-a061-412d-a080-e78c884f43f7",
+    "user_id": "f7d708c3-7cff-421b-a7cb-4ac3710de1c3",
+    "amount": 6209.13,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Russell",
+    "timestamp": "2026-05-23T23:05:32.218665"
+  },
+  {
+    "transaction_id": "9efcaf12-06f4-4777-9783-349e121f8673",
+    "user_id": "26b7288c-7775-4050-bf65-d97f2b9ac507",
+    "amount": 6376.53,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Brian",
+    "timestamp": "2026-05-23T23:05:32.721520"
+  },
+  {
+    "transaction_id": "a62b7163-2a12-4983-991f-02ff511feacd",
+    "user_id": "4fb637a2-34a3-4bb8-a5c3-b45be2234cc9",
+    "amount": 5572.54,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Frankburgh",
+    "timestamp": "2026-05-23T23:05:33.224181"
+  },
+  {
+    "transaction_id": "ad1bb3b1-bb7f-42f9-ac07-900982dc4976",
+    "user_id": "d53936c1-cf20-424a-b7a4-661e6d1011b5",
+    "amount": 2178.97,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Matthewbury",
+    "timestamp": "2026-05-23T23:05:33.725652"
+  },
+  {
+    "transaction_id": "f6dd157b-f336-487a-a7d5-f032fdce363f",
+    "user_id": "1a7965d0-a167-41c4-ab4c-02d1373b2986",
+    "amount": 7300.82,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Maxmouth",
+    "timestamp": "2026-05-23T23:05:35.230073"
+  },
+  {
+    "transaction_id": "2af16a1b-8a38-4665-845f-9f745d53c030",
+    "user_id": "10ed8c81-4284-435e-b01a-7c4adee6ade9",
+    "amount": 9385.99,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Daniel",
+    "timestamp": "2026-05-23T23:05:35.733450"
+  },
+  {
+    "transaction_id": "fe5f8779-6450-4e60-8cf1-58927d97de5c",
+    "user_id": "4d8f46a0-4010-4c2f-a493-813c4f70d216",
+    "amount": 9665.16,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Hernandezshire",
+    "timestamp": "2026-05-23T23:05:36.236205"
+  },
+  {
+    "transaction_id": "a978ffc1-4952-46cc-8090-e773926dfdff",
+    "user_id": "c25a10ef-ca7f-4336-a543-3008a67233ef",
+    "amount": 4486.33,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Waltermouth",
+    "timestamp": "2026-05-23T23:05:36.737428"
+  },
+  {
+    "transaction_id": "1f4ac027-0544-458a-b79c-85a3c0ad7eb4",
+    "user_id": "8a7ae2fe-9515-4043-9f74-4a5eccdd3b4e",
+    "amount": 2437.72,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Cameronchester",
+    "timestamp": "2026-05-23T23:05:37.238302"
+  },
+  {
+    "transaction_id": "28190574-132f-4fa9-a8e8-0fc9958c3e39",
+    "user_id": "14463a3a-7312-4983-a726-2ca5b42add00",
+    "amount": 8498.54,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Ericbury",
+    "timestamp": "2026-05-23T23:05:37.739250"
+  }
+]

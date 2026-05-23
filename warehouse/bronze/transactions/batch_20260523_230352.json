@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "92228c78-012f-48ca-b28f-3190200f1952",
+    "user_id": "dfb0e85e-5b5f-4465-b802-fd56911565a2",
+    "amount": 1284.09,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Stacey",
+    "timestamp": "2026-05-23T23:03:47.306624"
+  },
+  {
+    "transaction_id": "665e9b6a-1440-4ea3-a8bc-f5f871d90ca1",
+    "user_id": "e121957d-4aaa-40d7-be6a-94494aa4d3c4",
+    "amount": 2647.86,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Kristin",
+    "timestamp": "2026-05-23T23:03:47.809352"
+  },
+  {
+    "transaction_id": "60339775-7041-4373-90a0-7c285da53a40",
+    "user_id": "3ffe1da6-f876-4994-a1fa-dc9570ebd38e",
+    "amount": 2952.26,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Paulville",
+    "timestamp": "2026-05-23T23:03:48.311129"
+  },
+  {
+    "transaction_id": "5856b566-0c3b-4954-9de3-8568afb11cec",
+    "user_id": "911532da-28df-49fe-bd52-0084022564b3",
+    "amount": 9724.89,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Ana",
+    "timestamp": "2026-05-23T23:03:48.813476"
+  },
+  {
+    "transaction_id": "292f0ff4-39c5-42af-b978-d950e55d4c48",
+    "user_id": "13da6cef-c36f-4445-b7fc-76592a437a4a",
+    "amount": 1628.99,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Kylefurt",
+    "timestamp": "2026-05-23T23:03:49.316596"
+  },
+  {
+    "transaction_id": "dca58e96-46b3-4d55-8381-cbb7783afcee",
+    "user_id": "07592d3c-f270-4ba8-add3-e7814acd6d2c",
+    "amount": 2120.32,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Brittany",
+    "timestamp": "2026-05-23T23:03:49.819549"
+  },
+  {
+    "transaction_id": "40d80f3a-071b-4d30-84b5-e5d7d0d7df46",
+    "user_id": "3e18ca40-892f-43a5-a219-5b92bc045d54",
+    "amount": 9151.84,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Scott",
+    "timestamp": "2026-05-23T23:03:50.823463"
+  },
+  {
+    "transaction_id": "bdabc356-133f-40c1-9441-4b28b22dba8a",
+    "user_id": "a116fe4f-7009-4ee0-bc5f-897b64db6420",
+    "amount": 6049.05,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnathanville",
+    "timestamp": "2026-05-23T23:03:51.325949"
+  },
+  {
+    "transaction_id": "c91e29f8-7b20-4ded-a10c-7ceb6ff50086",
+    "user_id": "8c6ea5e6-79b1-4b27-a6ed-5c7af0fecf1f",
+    "amount": 4164.94,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Annashire",
+    "timestamp": "2026-05-23T23:03:51.828989"
+  },
+  {
+    "transaction_id": "f6dbef76-bf03-4cb0-9d2c-a7ab56b9e30c",
+    "user_id": "abc62faf-7e6d-43f7-8297-817a3b0b2307",
+    "amount": 1845.4,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Danielbury",
+    "timestamp": "2026-05-23T23:03:52.330669"
+  }
+]

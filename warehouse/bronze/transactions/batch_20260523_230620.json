@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5d3416bd-397f-48da-8ece-f03d9a772135",
+    "user_id": "592d3133-a411-4ac0-9379-48252ed60146",
+    "amount": 4140.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Hartburgh",
+    "timestamp": "2026-05-23T23:06:15.876065"
+  },
+  {
+    "transaction_id": "07bcd3f0-7241-4fe6-8d11-dd8d6bf20d54",
+    "user_id": "91b33e2b-413b-45fa-b4da-477f02657057",
+    "amount": 1775.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North James",
+    "timestamp": "2026-05-23T23:06:16.879816"
+  },
+  {
+    "transaction_id": "c66440dd-0c5d-41f1-ad69-e474dc6cb206",
+    "user_id": "d99ff140-45e8-4ffc-8843-ab5b3e3b7e15",
+    "amount": 66.27,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Johnmouth",
+    "timestamp": "2026-05-23T23:06:17.382868"
+  },
+  {
+    "transaction_id": "c8d3a3da-64a6-417b-942b-40b26ac8a687",
+    "user_id": "df2426c8-5d09-4929-88bf-568cc54a11b4",
+    "amount": 3837.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Andrewside",
+    "timestamp": "2026-05-23T23:06:17.885989"
+  },
+  {
+    "transaction_id": "e26aba0e-0628-4fe0-a106-a452b6dc67ec",
+    "user_id": "f4647387-da9a-4d35-ab96-948381d36030",
+    "amount": 14.35,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Williamville",
+    "timestamp": "2026-05-23T23:06:18.387409"
+  },
+  {
+    "transaction_id": "886053ab-e65e-40e4-9efe-0b624bfbdb09",
+    "user_id": "c29758ae-f79e-4bd3-83a7-8a524df41980",
+    "amount": 4791.37,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Danielville",
+    "timestamp": "2026-05-23T23:06:18.888515"
+  },
+  {
+    "transaction_id": "3981e5e4-2235-44df-94ea-985fa02ac87f",
+    "user_id": "66797ee9-f173-44b9-8be1-15a556e022f6",
+    "amount": 8976.93,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Elizabethville",
+    "timestamp": "2026-05-23T23:06:19.389560"
+  },
+  {
+    "transaction_id": "57f2d8e9-2fba-495e-a5e1-58a2b3281205",
+    "user_id": "30e311a6-323c-4c08-aee6-5cf1c4613794",
+    "amount": 2447.38,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Rachel",
+    "timestamp": "2026-05-23T23:06:19.890511"
+  },
+  {
+    "transaction_id": "ebc0c6e1-2832-4dd6-acf4-5917348e8fbe",
+    "user_id": "29edced6-5e48-400e-8e16-2a7e3124bda1",
+    "amount": 6459.25,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Finleyshire",
+    "timestamp": "2026-05-23T23:06:20.391434"
+  },
+  {
+    "transaction_id": "1c275aeb-421d-43f4-be7a-b8127b1b8950",
+    "user_id": "e392d368-a690-4a2b-bc67-8485af7e10a7",
+    "amount": 6023.26,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Patricia",
+    "timestamp": "2026-05-23T23:06:20.892576"
+  }
+]

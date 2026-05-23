@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1e5651ec-418d-4964-b7e1-4e025955a3f9",
+    "user_id": "527b50ba-72d0-40ab-b350-b586e488b789",
+    "amount": 5401.55,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Wyattfort",
+    "timestamp": "2026-05-23T23:09:03.491639"
+  },
+  {
+    "transaction_id": "1e5c95ef-fa88-41b7-aab3-246b68bf0ee7",
+    "user_id": "a6c94d34-46d4-4718-87ae-6452396b16c6",
+    "amount": 8799.23,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jamesport",
+    "timestamp": "2026-05-23T23:09:03.993322"
+  },
+  {
+    "transaction_id": "cc005c17-3c7a-42f1-8617-834fc3540020",
+    "user_id": "7b968645-6426-4c63-9a8e-dda3967374a6",
+    "amount": 135.01,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Patricia",
+    "timestamp": "2026-05-23T23:09:04.496516"
+  },
+  {
+    "transaction_id": "048a12fd-6c66-4b80-99ca-9dd989cd4682",
+    "user_id": "f374fb46-e9f5-490f-81ea-0dfe782e8fd0",
+    "amount": 3726.38,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Angelamouth",
+    "timestamp": "2026-05-23T23:09:04.997534"
+  },
+  {
+    "transaction_id": "4a72adb2-e1ac-4790-8119-b53537ad1123",
+    "user_id": "5e605b65-cc06-4bcc-b61c-ca658906ae5b",
+    "amount": 1122.43,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Fisherfort",
+    "timestamp": "2026-05-23T23:09:05.499582"
+  },
+  {
+    "transaction_id": "57eeb964-92d3-4ff4-86fb-396f3d353988",
+    "user_id": "c0c6953a-ca6a-4c4f-97e3-ed216b70970b",
+    "amount": 1727.97,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Georgefort",
+    "timestamp": "2026-05-23T23:09:06.000877"
+  },
+  {
+    "transaction_id": "d251cc2d-6b5a-43a4-be6a-8f518ed01694",
+    "user_id": "68bbd5fe-82af-4ce1-ad65-23f39caac05e",
+    "amount": 3138.93,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Brendanstad",
+    "timestamp": "2026-05-23T23:09:07.508128"
+  },
+  {
+    "transaction_id": "8e479612-afb5-48b8-8278-1332c6b08220",
+    "user_id": "2ecc4438-d08c-4b8a-8086-328fb455cdc6",
+    "amount": 7380.34,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mayborough",
+    "timestamp": "2026-05-23T23:09:08.009624"
+  },
+  {
+    "transaction_id": "d292a9f4-70b0-4462-b55f-d6e325f91cfa",
+    "user_id": "93ac57e4-4863-4647-901b-beec1768a465",
+    "amount": 1142.01,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Allenstad",
+    "timestamp": "2026-05-23T23:09:08.513451"
+  },
+  {
+    "transaction_id": "e6dc4b79-c5ed-4298-b7fb-6cb9d35f931e",
+    "user_id": "c8ee0f83-6f7a-48df-b30d-9a23454d4c6a",
+    "amount": 8788.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Bryanborough",
+    "timestamp": "2026-05-23T23:09:09.016073"
+  }
+]

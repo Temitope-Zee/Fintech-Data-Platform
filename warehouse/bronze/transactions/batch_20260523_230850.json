@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eb7ec762-4ff7-4b76-9c4c-6378bf3019a6",
+    "user_id": "c16bf0fc-4ccc-445b-8be1-e94ec94a0569",
+    "amount": 5905.21,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Hayley",
+    "timestamp": "2026-05-23T23:08:43.419448"
+  },
+  {
+    "transaction_id": "d4247566-30c1-4e16-9787-f8c8b4d85ab8",
+    "user_id": "c253addc-d729-44e6-b398-ec1e0a24371b",
+    "amount": 854.22,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Brandiview",
+    "timestamp": "2026-05-23T23:08:43.920899"
+  },
+  {
+    "transaction_id": "c2c143ab-6557-4faf-b6a5-35fc1cf9a022",
+    "user_id": "5429178e-90e1-4109-bfc1-7e58b1099b1c",
+    "amount": 5466.97,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Brian",
+    "timestamp": "2026-05-23T23:08:44.423580"
+  },
+  {
+    "transaction_id": "ad605b57-4ba5-4d5f-9768-b36c3f7b51c7",
+    "user_id": "1ffc1c39-d284-4567-bc3f-dedae0817ebf",
+    "amount": 3353.97,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Jefferystad",
+    "timestamp": "2026-05-23T23:08:45.930947"
+  },
+  {
+    "transaction_id": "f9429743-be3c-4027-bdb8-8ed4ef1d0a68",
+    "user_id": "7280f4ca-308b-4598-b8f2-f3791287408d",
+    "amount": 5493.25,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Tinahaven",
+    "timestamp": "2026-05-23T23:08:46.432408"
+  },
+  {
+    "transaction_id": "23f47beb-cec7-43b7-9d98-b23d6d25c137",
+    "user_id": "87127ab1-4d27-4f1f-9f38-8cffcaea4698",
+    "amount": 7606.35,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Stephenton",
+    "timestamp": "2026-05-23T23:08:46.933858"
+  },
+  {
+    "transaction_id": "7be47eb4-092e-4c70-8586-1d5421bddd7e",
+    "user_id": "030a33b5-9337-446c-8285-565826e4df5c",
+    "amount": 9449.09,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Carriehaven",
+    "timestamp": "2026-05-23T23:08:47.436656"
+  },
+  {
+    "transaction_id": "d9157bc8-92a7-4fa2-806d-cb04a509c35a",
+    "user_id": "a8067911-c83b-4a92-ad5a-860569133564",
+    "amount": 1880.46,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Michaelburgh",
+    "timestamp": "2026-05-23T23:08:48.439563"
+  },
+  {
+    "transaction_id": "8b496aff-b51d-47c2-ae70-334ad6ba30e7",
+    "user_id": "f4b5a6c3-99d5-46ef-b26e-f58e84f6c589",
+    "amount": 1772.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Miranda",
+    "timestamp": "2026-05-23T23:08:49.943628"
+  },
+  {
+    "transaction_id": "02eba9f9-dca6-4bb4-8128-405438eec9cc",
+    "user_id": "d1cec288-6a62-4e39-b3fc-eb1b375003be",
+    "amount": 4858.28,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Monica",
+    "timestamp": "2026-05-23T23:08:50.446760"
+  }
+]

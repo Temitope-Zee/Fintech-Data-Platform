@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "af965f7d-7176-4f43-b3f1-05a7eb9f0c67",
+    "user_id": "4b059d2f-67ab-4603-9308-b42ffb6899df",
+    "amount": 4369.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Roy",
+    "timestamp": "2026-05-23T23:01:09.708581"
+  },
+  {
+    "transaction_id": "3571ee19-5b62-419d-bf84-9c2a5ad44567",
+    "user_id": "78bc9709-1431-4c0b-8fc9-13d5919820b7",
+    "amount": 6233.11,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Laura",
+    "timestamp": "2026-05-23T23:01:10.209946"
+  },
+  {
+    "transaction_id": "8d5bf709-d801-47dc-9fe5-ef83f5cd581c",
+    "user_id": "1af830ff-f4ed-41ba-b9c8-1903648e0046",
+    "amount": 3715.43,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Wilsonview",
+    "timestamp": "2026-05-23T23:01:10.710927"
+  },
+  {
+    "transaction_id": "df5da267-ceb5-4e21-aa00-53e23720dc94",
+    "user_id": "4c628590-a90f-447b-bcb3-d7d1ccb02a39",
+    "amount": 4500.73,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Michaelview",
+    "timestamp": "2026-05-23T23:01:11.212487"
+  },
+  {
+    "transaction_id": "903a1bdd-8262-4471-9f82-9d7eef60abff",
+    "user_id": "3b707aac-2a6d-466e-972f-daee6395d5ee",
+    "amount": 575.33,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Lisa",
+    "timestamp": "2026-05-23T23:01:11.714454"
+  },
+  {
+    "transaction_id": "47869ac2-6305-4509-ae9f-22756ab70d25",
+    "user_id": "3887abd5-d71d-4306-8683-690fa1fda26d",
+    "amount": 7911.65,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Kenneth",
+    "timestamp": "2026-05-23T23:01:12.217001"
+  },
+  {
+    "transaction_id": "81604f7a-8c69-4f66-bedc-7b6e0e24b57f",
+    "user_id": "b0b04629-c180-4b17-a4e6-bfe5942cc55e",
+    "amount": 5338.61,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Jeffrey",
+    "timestamp": "2026-05-23T23:01:12.718997"
+  },
+  {
+    "transaction_id": "56758dd2-47eb-4a72-b678-9f08e2b3c159",
+    "user_id": "f1ead205-d642-4c8f-aa26-7dc7b99bcdc1",
+    "amount": 4051.03,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jamesside",
+    "timestamp": "2026-05-23T23:01:13.221070"
+  },
+  {
+    "transaction_id": "0725c6d5-81b2-4334-a2f7-ed3b0ddcbb73",
+    "user_id": "a789cc47-79b7-410d-8a1b-67e688a3a9ea",
+    "amount": 5023.71,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Ryan",
+    "timestamp": "2026-05-23T23:01:13.719855"
+  },
+  {
+    "transaction_id": "753b7102-e2c1-45d0-8ddb-9b332aea5a0e",
+    "user_id": "ee612e59-1b6d-430a-b8cb-98295f89771b",
+    "amount": 9984.39,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Martinezview",
+    "timestamp": "2026-05-23T23:01:14.221675"
+  }
+]

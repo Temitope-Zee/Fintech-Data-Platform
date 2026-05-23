@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0ade8111-ee0f-4265-8d63-7e0321edb367",
+    "user_id": "23767ecb-b5e7-43be-9dec-1cac39ef8674",
+    "amount": 5807.32,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Janiceville",
+    "timestamp": "2026-05-23T23:01:38.331108"
+  },
+  {
+    "transaction_id": "2a1fa274-6b75-4f60-b39d-a48d2e339aed",
+    "user_id": "069eb412-b938-4d8f-93a7-af43219eb552",
+    "amount": 6027.33,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Elliottville",
+    "timestamp": "2026-05-23T23:01:38.834111"
+  },
+  {
+    "transaction_id": "593b55fd-5276-437b-97a6-030e0129831e",
+    "user_id": "3e27d61e-ee6d-4ab7-b4ac-dec075fd65db",
+    "amount": 4824.85,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Walkerburgh",
+    "timestamp": "2026-05-23T23:01:39.335432"
+  },
+  {
+    "transaction_id": "6b4d627a-b5cf-4d4b-935c-5a6c622439b4",
+    "user_id": "b92b1b84-be6e-4ac3-b191-0f1aa887a9b8",
+    "amount": 3688.6,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Andrewside",
+    "timestamp": "2026-05-23T23:01:39.836914"
+  },
+  {
+    "transaction_id": "99935035-0485-497a-b841-263eed75624d",
+    "user_id": "13f517c5-4e39-4551-a84c-268e83fa5f2b",
+    "amount": 7118.77,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Jeffreyburgh",
+    "timestamp": "2026-05-23T23:01:40.338350"
+  },
+  {
+    "transaction_id": "d040d231-c08e-4bc5-b077-6e29e7ad48bd",
+    "user_id": "e541be88-0be7-4d77-a185-d5374477d6b8",
+    "amount": 8277.4,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Atkinston",
+    "timestamp": "2026-05-23T23:01:40.839735"
+  },
+  {
+    "transaction_id": "7a61a6c8-f5af-40b5-a993-efe270f9fa81",
+    "user_id": "7604c7dd-2950-487f-8b15-7e9c773414a7",
+    "amount": 6878.79,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Markside",
+    "timestamp": "2026-05-23T23:01:41.342100"
+  },
+  {
+    "transaction_id": "4d57442e-2709-45c1-a81d-23700466dda7",
+    "user_id": "9f8481f6-39e6-4d9e-a42a-7224725df57a",
+    "amount": 4722.55,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Kimberlyfort",
+    "timestamp": "2026-05-23T23:01:41.843455"
+  },
+  {
+    "transaction_id": "28318d5c-c2c9-4159-ac41-4a1bc050df96",
+    "user_id": "1f45bb25-fe27-44a3-ad48-0b980854f9a6",
+    "amount": 2968.71,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Charlesview",
+    "timestamp": "2026-05-23T23:01:42.344996"
+  },
+  {
+    "transaction_id": "76af1050-c62f-4544-9549-9530fb364ecd",
+    "user_id": "c2eb6e27-4657-4bfe-bf21-c9bf06b24d9a",
+    "amount": 1027.64,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Michelemouth",
+    "timestamp": "2026-05-23T23:01:42.846899"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7330242f-bf72-480f-8f50-39f803e3a3ae",
+    "user_id": "0b4616aa-49b6-4e5b-bf63-c58e3fe17f8a",
+    "amount": 9923.16,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Lisa",
+    "timestamp": "2026-05-23T23:09:09.517170"
+  },
+  {
+    "transaction_id": "d6d50563-62be-46a0-aeba-a1e0eef1c40e",
+    "user_id": "915a76c4-9031-4ca4-aab4-9027d4ae016a",
+    "amount": 2294.58,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Eric",
+    "timestamp": "2026-05-23T23:09:10.020175"
+  },
+  {
+    "transaction_id": "240baec4-6295-47bb-83e6-0126aeda05f2",
+    "user_id": "3a2c681d-6062-40e5-a4d9-cba1f4ca5441",
+    "amount": 2419.62,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Knappmouth",
+    "timestamp": "2026-05-23T23:09:10.522915"
+  },
+  {
+    "transaction_id": "2dea10d7-ba57-43c9-8e8f-0e4421b3674e",
+    "user_id": "ab3e70c3-6f0b-4f7d-915f-982e9c9731e3",
+    "amount": 6758.15,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Michaelshire",
+    "timestamp": "2026-05-23T23:09:11.025382"
+  },
+  {
+    "transaction_id": "be2be447-260c-42ae-a816-0857e18a9de5",
+    "user_id": "0982dc01-51b3-4a5f-81e9-092d88a3ae58",
+    "amount": 3477.12,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Carla",
+    "timestamp": "2026-05-23T23:09:11.527811"
+  },
+  {
+    "transaction_id": "15086388-0106-4b27-8161-5a70fcfb117c",
+    "user_id": "866c2cc6-5e61-4b23-9948-ca14560b8b70",
+    "amount": 1135.39,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Johnsontown",
+    "timestamp": "2026-05-23T23:09:12.029283"
+  },
+  {
+    "transaction_id": "c5d5d3af-d128-453e-9e6c-cb8485a2ec4a",
+    "user_id": "f0598ca1-ef41-4804-a49f-2b31ac0724df",
+    "amount": 9284.55,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Amy",
+    "timestamp": "2026-05-23T23:09:12.530428"
+  },
+  {
+    "transaction_id": "739bf8a8-0993-4082-8187-a82eddaa54e7",
+    "user_id": "4601a84d-cd5f-404c-b6a6-67bd71ead21b",
+    "amount": 8451.35,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Freyborough",
+    "timestamp": "2026-05-23T23:09:13.032806"
+  },
+  {
+    "transaction_id": "c1c0dc85-b303-48fb-9c52-a77b76cc47f3",
+    "user_id": "239a5b95-40df-4b06-97e4-a07573f3c935",
+    "amount": 7853.5,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Brooke",
+    "timestamp": "2026-05-23T23:09:13.532549"
+  },
+  {
+    "transaction_id": "e1a30097-41ca-4038-b970-6fcbe566ecc3",
+    "user_id": "a5a1e680-691c-4dae-a97a-b272b84b286e",
+    "amount": 9443.52,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Kristie",
+    "timestamp": "2026-05-23T23:09:14.036074"
+  }
+]

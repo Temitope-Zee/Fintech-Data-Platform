@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3bb5c7ff-3b07-4c93-a5cc-8bfd68336f68",
+    "user_id": "cc8558c4-7946-442b-b8c8-732b7e3af2fb",
+    "amount": 7217.92,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Amyshire",
+    "timestamp": "2026-05-23T23:04:32.998919"
+  },
+  {
+    "transaction_id": "f96abf89-02f3-42f5-8a8f-0438cee977b1",
+    "user_id": "f3e08d43-7502-4a3e-96a1-9f551135c694",
+    "amount": 8080.89,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Cruzport",
+    "timestamp": "2026-05-23T23:04:33.501334"
+  },
+  {
+    "transaction_id": "5e61c720-46cd-430e-90a3-9271f3f985ab",
+    "user_id": "6724a7c2-86e8-4cfa-b3b8-01bac1795ffc",
+    "amount": 5660.42,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Cookefurt",
+    "timestamp": "2026-05-23T23:04:34.002696"
+  },
+  {
+    "transaction_id": "5873c92d-6931-4d1d-8934-9b5a08e8e685",
+    "user_id": "604b51db-8f73-45c5-b9f7-1b51a154787d",
+    "amount": 1985.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jesusside",
+    "timestamp": "2026-05-23T23:04:34.505899"
+  },
+  {
+    "transaction_id": "e760a0d3-6fa5-4efd-bd2e-d2fb145131bd",
+    "user_id": "1a6a5f25-c78f-4c4c-b623-4e6e83eb8f8b",
+    "amount": 396.74,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Carterside",
+    "timestamp": "2026-05-23T23:04:35.511316"
+  },
+  {
+    "transaction_id": "b334d0dd-b885-4a58-855e-654494abd530",
+    "user_id": "9c45b14d-1dca-444f-a937-5a3427187f25",
+    "amount": 8147.63,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Joseville",
+    "timestamp": "2026-05-23T23:04:36.013038"
+  },
+  {
+    "transaction_id": "1c9252db-7b60-40e3-a16c-932ca0a1ae93",
+    "user_id": "cf817c1b-76c0-4507-8589-b49b82f2b302",
+    "amount": 8869.18,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Rileymouth",
+    "timestamp": "2026-05-23T23:04:37.520019"
+  },
+  {
+    "transaction_id": "99131a58-642a-4ee3-903d-a60f524ffeb5",
+    "user_id": "074e4886-0c33-4c5a-b561-53a82006b258",
+    "amount": 4683.99,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lewismouth",
+    "timestamp": "2026-05-23T23:04:38.022958"
+  },
+  {
+    "transaction_id": "d3a54d98-9200-4893-832c-31f5ba82f925",
+    "user_id": "d5b7bb37-6dba-4219-a79b-88e6a9324d64",
+    "amount": 7845.41,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Taylor",
+    "timestamp": "2026-05-23T23:04:38.524484"
+  },
+  {
+    "transaction_id": "4798d1b4-b52c-4e6a-b35e-615511dc29bc",
+    "user_id": "1b3ef04d-711e-4517-9f04-211c8b1c746c",
+    "amount": 9573.64,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Whitefort",
+    "timestamp": "2026-05-23T23:04:39.027143"
+  }
+]

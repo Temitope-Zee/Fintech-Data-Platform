@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f169713e-83d1-4683-b4ca-85d332bc0430",
+    "user_id": "8d1224dc-f76f-494d-8709-a59984bd3222",
+    "amount": 7662.36,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Justin",
+    "timestamp": "2026-05-23T23:10:02.734096"
+  },
+  {
+    "transaction_id": "ac2cba96-ecd7-4061-8b94-9f5a2482aa5b",
+    "user_id": "f3216139-b1af-40b5-9946-1187b746625a",
+    "amount": 8647.2,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Brooke",
+    "timestamp": "2026-05-23T23:10:03.236602"
+  },
+  {
+    "transaction_id": "639c2eaa-b06a-47bc-a2b0-072998d6a2fb",
+    "user_id": "f8331352-5eef-4052-a097-9358f3c67c8b",
+    "amount": 6853.41,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Matthewview",
+    "timestamp": "2026-05-23T23:10:04.240659"
+  },
+  {
+    "transaction_id": "d723a297-6759-496c-9cff-0f9a323a3c62",
+    "user_id": "10f5f7e3-9a39-48dd-8331-c88472f7d0f4",
+    "amount": 7195.34,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Jessicaport",
+    "timestamp": "2026-05-23T23:10:04.742188"
+  },
+  {
+    "transaction_id": "492063fe-0c4f-4c77-91fa-29958f030940",
+    "user_id": "e1b768a7-1521-49a5-bb87-f1ba3ecaffd9",
+    "amount": 6353.22,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Shawnland",
+    "timestamp": "2026-05-23T23:10:05.243644"
+  },
+  {
+    "transaction_id": "faaef075-741b-4cdb-870c-b1a661c9108a",
+    "user_id": "33857323-348f-4e22-9d5e-483fb9239328",
+    "amount": 9397.74,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Ashley",
+    "timestamp": "2026-05-23T23:10:05.744846"
+  },
+  {
+    "transaction_id": "fa4fc116-b3da-4077-90e0-5dd98a27713a",
+    "user_id": "2ab5098e-6aa2-495d-862b-2c23312ead13",
+    "amount": 8181.21,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Clarkburgh",
+    "timestamp": "2026-05-23T23:10:06.246136"
+  },
+  {
+    "transaction_id": "6aefe9ff-e803-47e3-98f7-f48f91e7bfa9",
+    "user_id": "4a6ee7a5-d301-495f-af07-3d104b0d0f1f",
+    "amount": 2368.7,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Timothyland",
+    "timestamp": "2026-05-23T23:10:06.747486"
+  },
+  {
+    "transaction_id": "079b4ceb-7af1-4974-ad4f-b3471fdac6ba",
+    "user_id": "e1cdfe2d-cfce-470e-9225-59d4f791263c",
+    "amount": 7428.94,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Kerryside",
+    "timestamp": "2026-05-23T23:10:07.248565"
+  },
+  {
+    "transaction_id": "a3cadc1a-ce8e-46ee-a594-b96d24e63e40",
+    "user_id": "614d4ad8-f9fd-4e8c-9627-819194247183",
+    "amount": 4564.7,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Jose",
+    "timestamp": "2026-05-23T23:10:07.749892"
+  }
+]

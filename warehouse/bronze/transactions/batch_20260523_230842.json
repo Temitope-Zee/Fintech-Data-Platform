@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9f14c945-ce59-4352-b0a6-4b2322da6781",
+    "user_id": "14e8266b-18ed-4259-8a3a-007c5fe731b9",
+    "amount": 264.99,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Gloverburgh",
+    "timestamp": "2026-05-23T23:08:37.397439"
+  },
+  {
+    "transaction_id": "ebafdfe8-aaa9-4e61-86df-c735016d2212",
+    "user_id": "597d2555-ef41-443c-8fbc-58043c5749d7",
+    "amount": 3167.76,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Jacobsmouth",
+    "timestamp": "2026-05-23T23:08:37.900096"
+  },
+  {
+    "transaction_id": "68e9d13a-ab09-40dd-b128-8c06932311d9",
+    "user_id": "bea8b4b2-69f8-4fe0-be7b-18b7da7d4f89",
+    "amount": 2991.13,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Caitlin",
+    "timestamp": "2026-05-23T23:08:38.401362"
+  },
+  {
+    "transaction_id": "61c7cea1-5126-41de-94be-267f98cfa205",
+    "user_id": "12f0e333-a1ca-4e9f-b3c1-57d17f835f68",
+    "amount": 7408.22,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Port Lindseyhaven",
+    "timestamp": "2026-05-23T23:08:38.904077"
+  },
+  {
+    "transaction_id": "9dac39f2-6e0f-414f-8337-3b1523733821",
+    "user_id": "1dae93c0-6635-4b95-a919-407ef1c091ff",
+    "amount": 4266.95,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Jennifer",
+    "timestamp": "2026-05-23T23:08:39.405300"
+  },
+  {
+    "transaction_id": "b1779f42-72c2-4e23-8ddc-aea703c0fc21",
+    "user_id": "c396ffa9-fbfd-4b19-8a9a-82a0650aa56f",
+    "amount": 9857.65,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Armstrongburgh",
+    "timestamp": "2026-05-23T23:08:40.411064"
+  },
+  {
+    "transaction_id": "140ccc01-7f38-46bd-a820-87d3cd7cd58a",
+    "user_id": "fc2c4aad-8926-4375-b0b5-f428b843c374",
+    "amount": 7713.93,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Kevinburgh",
+    "timestamp": "2026-05-23T23:08:40.913905"
+  },
+  {
+    "transaction_id": "b3a42688-f15b-4491-b485-8ae21b8bd816",
+    "user_id": "8ad5a608-bc9a-4a0f-b6f8-a352abae0d83",
+    "amount": 4375.29,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Robertfurt",
+    "timestamp": "2026-05-23T23:08:41.415183"
+  },
+  {
+    "transaction_id": "ad3b3af3-f740-4330-b4e2-cd5beebe04d6",
+    "user_id": "f8107d14-933b-4e51-bc49-bb41880b0850",
+    "amount": 5420.54,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Penny",
+    "timestamp": "2026-05-23T23:08:42.418239"
+  },
+  {
+    "transaction_id": "7cc4cdf9-74d3-4632-941e-f31185960972",
+    "user_id": "4e1ffbe2-7c20-4c88-b6cb-d9e1c9a5f6a5",
+    "amount": 1344.31,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Marcburgh",
+    "timestamp": "2026-05-23T23:08:42.921398"
+  }
+]

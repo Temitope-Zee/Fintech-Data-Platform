@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e3b2b05c-7147-4b8d-a50c-0ba3b5f4bf3b",
+    "user_id": "31ba41c1-ecbf-4026-b5b9-a8127a973621",
+    "amount": 2096.36,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Ashleyville",
+    "timestamp": "2026-05-23T23:05:06.119785"
+  },
+  {
+    "transaction_id": "4f80652c-9cf4-4ee3-b9e5-c3af6cadb7da",
+    "user_id": "4cd88df8-1718-41e1-9300-473879eebbd3",
+    "amount": 743.44,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Melendezton",
+    "timestamp": "2026-05-23T23:05:07.124363"
+  },
+  {
+    "transaction_id": "ae4430be-4ddd-4f09-bdf0-a7336d4ae175",
+    "user_id": "98706f81-faa4-413b-8016-520321db4a3c",
+    "amount": 959.84,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Nancyland",
+    "timestamp": "2026-05-23T23:05:08.128169"
+  },
+  {
+    "transaction_id": "ee24f733-4fca-496a-ae5e-ac9389b05296",
+    "user_id": "54ef8e99-9b77-4011-959e-5bcd4f5c2ca3",
+    "amount": 9334.47,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Christopherborough",
+    "timestamp": "2026-05-23T23:05:08.629216"
+  },
+  {
+    "transaction_id": "d7221195-d5c7-4770-a7df-4fd779cbacea",
+    "user_id": "67e72e89-9592-4d06-a3be-dae6548d54e9",
+    "amount": 8451.28,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Anthonytown",
+    "timestamp": "2026-05-23T23:05:09.131615"
+  },
+  {
+    "transaction_id": "473b9658-f050-4373-9846-ed5b652c69a9",
+    "user_id": "44a4cc32-4de6-4e8c-b628-130f763a56f1",
+    "amount": 887.3,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Millermouth",
+    "timestamp": "2026-05-23T23:05:09.633912"
+  },
+  {
+    "transaction_id": "d1b0c29f-2f89-49c8-8a9f-10d74f556aee",
+    "user_id": "39cf85b5-734c-4610-aa8d-ab2c9612e6e9",
+    "amount": 1986.96,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Jamesland",
+    "timestamp": "2026-05-23T23:05:10.135541"
+  },
+  {
+    "transaction_id": "7428b1b1-6845-493c-bb3b-b3e6bd3774c3",
+    "user_id": "91e0e2bf-9b0a-4717-89ef-18908eb5ee57",
+    "amount": 3097.6,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Whitneyton",
+    "timestamp": "2026-05-23T23:05:10.636730"
+  },
+  {
+    "transaction_id": "1d6a89f3-ae6e-4bbd-a6f9-99625423c2cf",
+    "user_id": "d498d274-c97d-4098-961f-5bba5c200fa6",
+    "amount": 224.66,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Gonzalezview",
+    "timestamp": "2026-05-23T23:05:11.137971"
+  },
+  {
+    "transaction_id": "726766ae-c358-4128-ae46-622703bf8e7b",
+    "user_id": "26171a65-9466-44eb-baf8-3c5cc7b316c1",
+    "amount": 1032.51,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Vanessa",
+    "timestamp": "2026-05-23T23:05:12.140814"
+  }
+]

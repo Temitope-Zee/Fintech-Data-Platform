@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "76e221de-5a08-4f0c-b6dc-f3c463c75c37",
+    "user_id": "53e077ac-b9e8-4cdc-91cd-555a4c9078b8",
+    "amount": 9730.01,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Fisherport",
+    "timestamp": "2026-05-23T23:11:34.604293"
+  },
+  {
+    "transaction_id": "467fd540-9f6e-427f-befa-d53b04ef6a85",
+    "user_id": "24d7bb31-4934-4632-b174-78f2b1e0889e",
+    "amount": 4110.02,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Jeffmouth",
+    "timestamp": "2026-05-23T23:11:35.105828"
+  },
+  {
+    "transaction_id": "0aeb7cb4-932f-4e57-97f7-ebc51cc66775",
+    "user_id": "78673816-345e-49c7-8036-cef57b8a784e",
+    "amount": 8932.9,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Laurenmouth",
+    "timestamp": "2026-05-23T23:11:36.109774"
+  },
+  {
+    "transaction_id": "77de889e-e4e1-45de-8010-f3104923286b",
+    "user_id": "d9fb274d-f107-4ce1-b72c-0ac8ee83708b",
+    "amount": 3701.14,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Marcus",
+    "timestamp": "2026-05-23T23:11:36.611349"
+  },
+  {
+    "transaction_id": "44c8202c-3207-439b-91cf-2cef458fd782",
+    "user_id": "b6e00c5d-a4db-49f2-bdcf-5dab74859de2",
+    "amount": 5549.07,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jenniferland",
+    "timestamp": "2026-05-23T23:11:37.614546"
+  },
+  {
+    "transaction_id": "b2d9579a-3cbe-4e04-8bb5-31bcafa035b3",
+    "user_id": "182bc097-2e03-45cf-a2c2-f02cc8c76ce2",
+    "amount": 5784.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Valerie",
+    "timestamp": "2026-05-23T23:11:38.116107"
+  },
+  {
+    "transaction_id": "d6aca5d5-10e1-4a77-9556-c2d3b26ace6c",
+    "user_id": "bf76729c-3490-402a-a10c-d9cfdd2398a5",
+    "amount": 7112.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Davidmouth",
+    "timestamp": "2026-05-23T23:11:38.617917"
+  },
+  {
+    "transaction_id": "f93db3ac-8452-45ca-b5a5-f3d32f31c7eb",
+    "user_id": "6f20b28b-30dc-486d-a8fc-b3af7be67f54",
+    "amount": 5933.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Donnaville",
+    "timestamp": "2026-05-23T23:11:39.119291"
+  },
+  {
+    "transaction_id": "71da30aa-a31f-4c54-baec-908a58bce7f0",
+    "user_id": "c3c42b34-4588-484e-a47c-1d8edc0b1400",
+    "amount": 1873.98,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Heather",
+    "timestamp": "2026-05-23T23:11:39.620417"
+  },
+  {
+    "transaction_id": "f6342bb6-00c3-411c-87e6-be05c6534a3c",
+    "user_id": "b0cd12f8-7857-490f-96a5-5f9ecc3f24db",
+    "amount": 7550.71,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Hernandezberg",
+    "timestamp": "2026-05-23T23:11:40.121954"
+  }
+]

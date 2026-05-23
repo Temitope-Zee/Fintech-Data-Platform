@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c9084840-bfde-44cb-91fa-1543f2097967",
+    "user_id": "0e9bbeba-f868-4f13-afce-134fc4c0ec42",
+    "amount": 2032.88,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Kristi",
+    "timestamp": "2026-05-23T23:11:04.980189"
+  },
+  {
+    "transaction_id": "cb969e73-5dad-4090-b7ba-74c500ebd4c5",
+    "user_id": "1afabedf-fc10-4103-9096-0c4a22f42595",
+    "amount": 6740.63,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Philipchester",
+    "timestamp": "2026-05-23T23:11:05.481471"
+  },
+  {
+    "transaction_id": "8da03702-db92-4925-8263-d8f8e885d495",
+    "user_id": "4075034f-aa8d-41dd-8c98-89e9beddfabb",
+    "amount": 5463.75,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Torresport",
+    "timestamp": "2026-05-23T23:11:05.984412"
+  },
+  {
+    "transaction_id": "7762b8aa-ae34-4e5a-aff6-709d9cae2f36",
+    "user_id": "b4cf29db-64cc-45c7-9fdf-5f240d10c645",
+    "amount": 6982.38,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Leslieview",
+    "timestamp": "2026-05-23T23:11:06.987516"
+  },
+  {
+    "transaction_id": "70231f0c-79a2-4b40-9676-cc13dcc27df1",
+    "user_id": "fd44f9b1-590a-4a6c-bf26-537168e560f8",
+    "amount": 8014.84,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Briantown",
+    "timestamp": "2026-05-23T23:11:07.990060"
+  },
+  {
+    "transaction_id": "9671ce45-59bd-4cb9-bf34-60cf56787560",
+    "user_id": "3988a12e-c5ff-45e8-a71d-8417b4f77cca",
+    "amount": 9055.0,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Cindyside",
+    "timestamp": "2026-05-23T23:11:08.491502"
+  },
+  {
+    "transaction_id": "f92fd45b-2410-4bc4-91b4-1ff66326d395",
+    "user_id": "cb118c75-87d5-40dd-9117-22a485806b7e",
+    "amount": 5398.7,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port David",
+    "timestamp": "2026-05-23T23:11:08.993030"
+  },
+  {
+    "transaction_id": "68a6a5e6-e6e2-4428-98c1-71c3846cf9f7",
+    "user_id": "4bee515d-f15f-4ea4-93f1-43d716868358",
+    "amount": 3409.75,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Johnsontown",
+    "timestamp": "2026-05-23T23:11:09.494783"
+  },
+  {
+    "transaction_id": "95ff3d7f-ac44-43c7-9873-bf64274b41b7",
+    "user_id": "67fe018b-a6ce-480f-9722-92cfa211dc87",
+    "amount": 4645.55,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Michellebury",
+    "timestamp": "2026-05-23T23:11:09.997129"
+  },
+  {
+    "transaction_id": "20cbdfbb-a31d-445d-b182-6c3d1772aa3c",
+    "user_id": "ef0bfee5-f76f-4613-b90a-03f748e8eb33",
+    "amount": 752.04,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Leslieborough",
+    "timestamp": "2026-05-23T23:11:10.499365"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ad600567-c816-47b1-a011-634d59f2be2c",
+    "user_id": "a9cd2731-5fef-4d43-a852-000c77a6e4ce",
+    "amount": 4820.11,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Johnview",
+    "timestamp": "2026-05-23T23:07:48.210100"
+  },
+  {
+    "transaction_id": "e2263e66-2dde-4639-96ee-7b2ff945fa6a",
+    "user_id": "f5c7ca00-c2f2-4fb0-b59c-7c1d7e27aba1",
+    "amount": 274.68,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Scottchester",
+    "timestamp": "2026-05-23T23:07:48.712466"
+  },
+  {
+    "transaction_id": "fe55c4b4-5e86-4a62-952b-88dc60a2d132",
+    "user_id": "479affc3-21ce-488c-869a-e2f1101547a5",
+    "amount": 6756.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Pamela",
+    "timestamp": "2026-05-23T23:07:49.215279"
+  },
+  {
+    "transaction_id": "b15acd26-cf44-4611-b652-fc36a388d2fd",
+    "user_id": "d0346537-3c8c-4ab1-ad5e-a8c9418b433e",
+    "amount": 2838.93,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Daltonfurt",
+    "timestamp": "2026-05-23T23:07:50.218908"
+  },
+  {
+    "transaction_id": "36d5d4cf-95c5-4bfd-af71-0e44d6f19fae",
+    "user_id": "eaaa31ab-da14-4344-9ec4-86745b101b2c",
+    "amount": 1125.02,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Alyssaland",
+    "timestamp": "2026-05-23T23:07:50.721507"
+  },
+  {
+    "transaction_id": "d8159c46-46cb-42dd-a5a5-b196801b9a23",
+    "user_id": "a3b20e46-fe91-4a3d-a214-d0a99b64399e",
+    "amount": 442.34,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Jameschester",
+    "timestamp": "2026-05-23T23:07:51.224357"
+  },
+  {
+    "transaction_id": "02858ded-f83d-4c5c-be07-ceb9b0a99514",
+    "user_id": "906a5ffb-bef2-4055-b491-54f6560f6758",
+    "amount": 1528.41,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Julieview",
+    "timestamp": "2026-05-23T23:07:51.727100"
+  },
+  {
+    "transaction_id": "3e84c743-b57a-44c2-8215-11ecfe67ae01",
+    "user_id": "0df19b38-3682-4eae-811b-0e0377b1b8ee",
+    "amount": 3038.22,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Frankberg",
+    "timestamp": "2026-05-23T23:07:52.228488"
+  },
+  {
+    "transaction_id": "72a91bc1-508e-476a-b7f7-eb717489c3d0",
+    "user_id": "09829e4a-1047-482f-935d-f21aa90afd6a",
+    "amount": 4560.22,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Christina",
+    "timestamp": "2026-05-23T23:07:52.731406"
+  },
+  {
+    "transaction_id": "44fb5894-a509-4cb8-bde4-a2db0bc2d073",
+    "user_id": "111d46c0-f4dc-4628-a6d8-89c1402e9524",
+    "amount": 6380.34,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Tinaport",
+    "timestamp": "2026-05-23T23:07:53.234218"
+  }
+]

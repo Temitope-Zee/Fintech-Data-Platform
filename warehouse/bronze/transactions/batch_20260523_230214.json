@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "421e846a-4c7c-427f-8125-b971c564504f",
+    "user_id": "499f560c-0018-44c5-889c-7a41c7f29218",
+    "amount": 2141.6,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Aliciaville",
+    "timestamp": "2026-05-23T23:02:08.938215"
+  },
+  {
+    "transaction_id": "7a5fd0c4-ff25-4939-9a3b-d86718f921ca",
+    "user_id": "00a5ee3b-9fe8-41a8-9134-cb03705e6ef6",
+    "amount": 1112.88,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Michaelshire",
+    "timestamp": "2026-05-23T23:02:09.440389"
+  },
+  {
+    "transaction_id": "17280220-dbf4-45ca-9ad1-d7fd58064a90",
+    "user_id": "c5aefc99-194c-49a9-b760-c51c310c78e3",
+    "amount": 2890.2,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Danielside",
+    "timestamp": "2026-05-23T23:02:09.941446"
+  },
+  {
+    "transaction_id": "f4e8b683-af44-44f5-a1de-5b121a97ad4e",
+    "user_id": "d83799f5-ed7c-4813-a3d2-733c8045320e",
+    "amount": 4401.16,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Deannachester",
+    "timestamp": "2026-05-23T23:02:10.442888"
+  },
+  {
+    "transaction_id": "6d0abdc4-aad4-4049-8780-c29323eedce0",
+    "user_id": "26ffbc2b-b0ed-4ded-8ba2-be695357e3b8",
+    "amount": 4771.25,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Brandonchester",
+    "timestamp": "2026-05-23T23:02:10.944173"
+  },
+  {
+    "transaction_id": "3aa68fcc-a334-4222-aeba-c0b79487721e",
+    "user_id": "a8c9b6ef-bf60-42a2-848b-13c4f9cdde5d",
+    "amount": 6927.8,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Parkmouth",
+    "timestamp": "2026-05-23T23:02:11.947554"
+  },
+  {
+    "transaction_id": "77890c11-0dae-48b1-9f0d-c86212f25678",
+    "user_id": "ae4d26ac-6587-44a2-8401-4a9c7305d508",
+    "amount": 841.77,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Michael",
+    "timestamp": "2026-05-23T23:02:12.951278"
+  },
+  {
+    "transaction_id": "8af307d7-a62e-45f2-a169-79fe776ee5d6",
+    "user_id": "eceb26b0-4ae3-4ea1-a05c-09d790b919f6",
+    "amount": 9954.62,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Lauren",
+    "timestamp": "2026-05-23T23:02:13.449187"
+  },
+  {
+    "transaction_id": "ed2e0633-65e6-4044-afa0-b85d9444339d",
+    "user_id": "089d00d6-3853-4ad5-96f9-1d9872c2df92",
+    "amount": 4111.27,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Adamville",
+    "timestamp": "2026-05-23T23:02:13.950529"
+  },
+  {
+    "transaction_id": "f4f4255e-80a6-4e13-9597-9704287ae73a",
+    "user_id": "20b3948d-f871-4c83-931f-c2b965817840",
+    "amount": 8449.86,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Michaelchester",
+    "timestamp": "2026-05-23T23:02:14.452364"
+  }
+]

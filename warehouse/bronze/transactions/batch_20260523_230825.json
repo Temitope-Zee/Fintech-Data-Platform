@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f99520cb-35d4-4024-b5a2-77dd7e9712ae",
+    "user_id": "df6564c8-2e5b-4165-ad7e-7edee2f7a23c",
+    "amount": 2421.29,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jamesburgh",
+    "timestamp": "2026-05-23T23:08:19.832995"
+  },
+  {
+    "transaction_id": "729a3809-9ca4-4b85-844c-d68a1ce64b1a",
+    "user_id": "c4b620de-cef3-4503-9201-70da07559b34",
+    "amount": 7554.35,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lynnmouth",
+    "timestamp": "2026-05-23T23:08:20.334969"
+  },
+  {
+    "transaction_id": "38f4c896-bfaf-4ac8-9070-a923e0db68c6",
+    "user_id": "746fe879-46ad-46c0-b594-774734971b16",
+    "amount": 1984.64,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Meaganfurt",
+    "timestamp": "2026-05-23T23:08:20.836745"
+  },
+  {
+    "transaction_id": "a05ab235-da4c-43eb-b091-dabcb4c23c20",
+    "user_id": "cdbeaf00-c8d5-47d4-ad6b-76ff9055840a",
+    "amount": 3269.81,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Oconnormouth",
+    "timestamp": "2026-05-23T23:08:21.338232"
+  },
+  {
+    "transaction_id": "6a9f4aa9-4196-4883-bc2b-c2ba5648a416",
+    "user_id": "ddbdb6be-3afb-4fda-94c7-df341006d8d1",
+    "amount": 1941.53,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Jerryton",
+    "timestamp": "2026-05-23T23:08:21.839701"
+  },
+  {
+    "transaction_id": "29593f20-0659-4e16-bb5a-beab0eb60c0c",
+    "user_id": "c5147581-975e-4e37-bf3e-0ac5498649f2",
+    "amount": 2065.62,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Jenniferburgh",
+    "timestamp": "2026-05-23T23:08:22.341221"
+  },
+  {
+    "transaction_id": "63770c63-f4a9-4b8a-93ae-34725ae1b2c8",
+    "user_id": "98fe88a7-7539-4558-8d68-89c753f3d3d7",
+    "amount": 8930.86,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Michellestad",
+    "timestamp": "2026-05-23T23:08:22.843815"
+  },
+  {
+    "transaction_id": "3ad1bba6-68e3-4c2c-9980-6c814ff0c3c0",
+    "user_id": "56c9d1f0-e5fb-41fa-85ff-ca93857616ab",
+    "amount": 1643.45,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Walterborough",
+    "timestamp": "2026-05-23T23:08:23.345421"
+  },
+  {
+    "transaction_id": "9f3fea4b-12db-479b-91da-aa5e000251a0",
+    "user_id": "6703df46-fa87-49ed-817b-53e19bfde1b5",
+    "amount": 6281.7,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Mitchellberg",
+    "timestamp": "2026-05-23T23:08:24.852000"
+  },
+  {
+    "transaction_id": "25d670fd-ba50-453b-bee2-de0d8a653d08",
+    "user_id": "2ded4e4b-d40b-4e29-a042-57c64529eefb",
+    "amount": 5370.2,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Meganstad",
+    "timestamp": "2026-05-23T23:08:25.855346"
+  }
+]

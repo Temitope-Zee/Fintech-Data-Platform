@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8409dbf2-5c6e-4241-be7d-8951f575dcc4",
+    "user_id": "c533f423-c119-49dc-8176-9b3a1f692836",
+    "amount": 5370.78,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Mcfarlandborough",
+    "timestamp": "2026-05-23T23:05:57.307350"
+  },
+  {
+    "transaction_id": "ffd9ae08-0f8d-4849-a4f3-63237ed99e0a",
+    "user_id": "9ad9b14e-6cfe-4eed-9b83-3ae00d9b344a",
+    "amount": 4698.57,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Ferrelltown",
+    "timestamp": "2026-05-23T23:05:57.808791"
+  },
+  {
+    "transaction_id": "00e2055e-f4bc-4327-9c33-eef51907cdf9",
+    "user_id": "bffa96ed-3b95-4163-acc2-8bec616a864c",
+    "amount": 47.86,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jonesview",
+    "timestamp": "2026-05-23T23:05:58.310552"
+  },
+  {
+    "transaction_id": "ee5c99ba-0d1a-481f-b712-e16fd3462994",
+    "user_id": "2e60bb4f-53fd-4204-9c30-3ad585e4e11d",
+    "amount": 2762.26,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Joel",
+    "timestamp": "2026-05-23T23:05:58.811641"
+  },
+  {
+    "transaction_id": "a31b2847-4f2c-4872-8bd9-4a6a33b33dd5",
+    "user_id": "cca1c1d0-a451-42cf-852e-f44436ddf1d7",
+    "amount": 2589.52,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Martin",
+    "timestamp": "2026-05-23T23:05:59.313842"
+  },
+  {
+    "transaction_id": "a6f99640-64cf-4cc7-8a73-2fabd1d800ec",
+    "user_id": "8c52997b-2992-4a6b-b794-03bae042dcc9",
+    "amount": 9710.64,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Zacharyburgh",
+    "timestamp": "2026-05-23T23:05:59.815165"
+  },
+  {
+    "transaction_id": "803ebc13-15d5-4eaf-9296-53a59be607ae",
+    "user_id": "bd56bcdf-13b8-40e2-baa2-51ae50059b84",
+    "amount": 246.85,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Michelle",
+    "timestamp": "2026-05-23T23:06:00.818182"
+  },
+  {
+    "transaction_id": "f69e1ea1-751e-42c1-8bf8-6a13ae8bc430",
+    "user_id": "2e3c1b9a-2224-49ee-ac30-8fa4c837ab2f",
+    "amount": 8243.71,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lopezfurt",
+    "timestamp": "2026-05-23T23:06:01.320009"
+  },
+  {
+    "transaction_id": "66d0d340-32ae-40df-bf5b-4171a4fcbd55",
+    "user_id": "bf03957c-b4fc-402f-9940-c75a7db3b249",
+    "amount": 3868.23,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Cheryltown",
+    "timestamp": "2026-05-23T23:06:02.322201"
+  },
+  {
+    "transaction_id": "0963091a-37c5-40de-a891-7be622ae1a2c",
+    "user_id": "20e71edf-cb61-4d63-bc69-f9c9c45c2231",
+    "amount": 6406.83,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Wilsonville",
+    "timestamp": "2026-05-23T23:06:03.325839"
+  }
+]

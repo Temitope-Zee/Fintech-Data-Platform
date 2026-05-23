@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "17b47937-6244-4b49-90dc-9a08982f94ff",
+    "user_id": "dc6c98cd-c51c-4ea2-9915-ed84dddfe7dd",
+    "amount": 1061.21,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Benjaminfurt",
+    "timestamp": "2026-05-23T23:09:20.565999"
+  },
+  {
+    "transaction_id": "75944e1b-c3fa-49f4-8759-1d077787e92b",
+    "user_id": "01e18181-26dd-4451-be6c-2ea5ce118330",
+    "amount": 4353.78,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Sandraberg",
+    "timestamp": "2026-05-23T23:09:21.067444"
+  },
+  {
+    "transaction_id": "f46b97ad-0bc0-4ff6-a96d-39e0ffc489dd",
+    "user_id": "cf9e64ed-c29e-47af-be14-9c069d1e9048",
+    "amount": 1047.94,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Sandra",
+    "timestamp": "2026-05-23T23:09:21.570118"
+  },
+  {
+    "transaction_id": "00da3f11-a857-463f-aa13-0ac67b5c23ee",
+    "user_id": "25a68a4d-5ccb-415a-b4ac-6619bd27b108",
+    "amount": 510.55,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Abigail",
+    "timestamp": "2026-05-23T23:09:22.072742"
+  },
+  {
+    "transaction_id": "e05e1d20-fb75-43b4-9149-380f580067c9",
+    "user_id": "8f6b05c8-a022-445d-9c5c-c6423d1d75ab",
+    "amount": 7700.03,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Kennedyfurt",
+    "timestamp": "2026-05-23T23:09:22.575789"
+  },
+  {
+    "transaction_id": "16693639-2e17-43e2-b2cc-6f2c2e60a122",
+    "user_id": "d07a9f46-c243-4315-ae50-7a04b0deba17",
+    "amount": 1945.36,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Michaelport",
+    "timestamp": "2026-05-23T23:09:23.077289"
+  },
+  {
+    "transaction_id": "844eb8b7-8178-4adc-aa5b-2a658b42098d",
+    "user_id": "1bd425f7-fcb0-4680-a96f-3bd213f08054",
+    "amount": 6665.16,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Mariaberg",
+    "timestamp": "2026-05-23T23:09:23.579902"
+  },
+  {
+    "transaction_id": "25a26863-8dd8-428a-8dac-51df076f26a4",
+    "user_id": "7a2e66c7-a122-4cfe-819d-ee825ac31c3d",
+    "amount": 800.96,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Finleystad",
+    "timestamp": "2026-05-23T23:09:24.080993"
+  },
+  {
+    "transaction_id": "ee798b58-b4ab-41ac-9c85-921ead3a5121",
+    "user_id": "b4552435-c64c-43d7-81f9-21f71b029f5a",
+    "amount": 4354.9,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Jose",
+    "timestamp": "2026-05-23T23:09:24.582332"
+  },
+  {
+    "transaction_id": "6692a848-a64d-4cba-81ad-0026ee69908a",
+    "user_id": "25e6a86e-3d9c-464d-a39d-40dbc58804d5",
+    "amount": 7290.09,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Royhaven",
+    "timestamp": "2026-05-23T23:09:25.085344"
+  }
+]

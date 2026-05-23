@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b9aea9c9-6cee-4bef-8d74-5ae987236142",
+    "user_id": "a3b5d718-438c-4a75-9261-525114d0cf6f",
+    "amount": 5416.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Natalieton",
+    "timestamp": "2026-05-23T23:01:19.751449"
+  },
+  {
+    "transaction_id": "05a3a00f-7866-466c-bf6d-da9883fdaf6f",
+    "user_id": "77e96c44-3993-41c0-8e9c-ceec64ec1191",
+    "amount": 1498.35,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Hessland",
+    "timestamp": "2026-05-23T23:01:20.254537"
+  },
+  {
+    "transaction_id": "ae5e79d4-bf75-40cd-b9a1-da6ba7e97e2c",
+    "user_id": "d9453529-4131-4bb6-ab7d-358511953a5f",
+    "amount": 3382.6,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Beth",
+    "timestamp": "2026-05-23T23:01:20.757000"
+  },
+  {
+    "transaction_id": "57939378-19a4-4ce0-9cc1-1efd9ae1e512",
+    "user_id": "715eb60f-2cc9-45c6-a578-6a79192f8aba",
+    "amount": 9151.17,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Andrea",
+    "timestamp": "2026-05-23T23:01:21.258471"
+  },
+  {
+    "transaction_id": "4acbd6d4-7d63-4f7b-8afc-7769aed7f3e5",
+    "user_id": "d18598b3-65f9-49a9-a6f1-4cbcf698bd58",
+    "amount": 1967.0,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Nataliestad",
+    "timestamp": "2026-05-23T23:01:22.261229"
+  },
+  {
+    "transaction_id": "200af43b-0119-414e-ad87-b371b0e91fd3",
+    "user_id": "5cb4f92d-d05a-4c2e-bc8e-399434b55a11",
+    "amount": 4447.99,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Randallhaven",
+    "timestamp": "2026-05-23T23:01:22.762663"
+  },
+  {
+    "transaction_id": "9bd5daa3-0334-4bd9-aa6f-b9a5b832dcc2",
+    "user_id": "481afa30-30d8-4600-adb6-1bde8c8df34c",
+    "amount": 2482.21,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Harrismouth",
+    "timestamp": "2026-05-23T23:01:23.265880"
+  },
+  {
+    "transaction_id": "cae46249-fdeb-4c84-9b56-016cff5e3d95",
+    "user_id": "c2da3d34-184c-43f7-a4a3-5263b23e2be0",
+    "amount": 3491.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Victorstad",
+    "timestamp": "2026-05-23T23:01:24.268696"
+  },
+  {
+    "transaction_id": "bf82dc9f-4885-430b-8fa6-7acdea08c25e",
+    "user_id": "3969b65b-b7c9-4bc2-9847-5609c5c1ded7",
+    "amount": 9429.34,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Roseberg",
+    "timestamp": "2026-05-23T23:01:24.770410"
+  },
+  {
+    "transaction_id": "65b64f66-3eb8-4ade-9cce-3673550c80cb",
+    "user_id": "76211507-7eff-4fb0-b69a-4c90aa10f880",
+    "amount": 9809.2,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Manuelland",
+    "timestamp": "2026-05-23T23:01:25.273255"
+  }
+]

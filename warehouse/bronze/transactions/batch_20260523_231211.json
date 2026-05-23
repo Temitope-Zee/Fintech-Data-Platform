@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "786cfe26-b7c2-4040-96e4-be919065816c",
+    "user_id": "5342d53e-3870-4776-850b-31bda53672e4",
+    "amount": 8173.19,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Michaelstad",
+    "timestamp": "2026-05-23T23:12:05.714824"
+  },
+  {
+    "transaction_id": "7a3d2785-ee8a-4fbf-abac-8f414b45e864",
+    "user_id": "35f7bf60-0a78-42b8-99c1-035f896b4fad",
+    "amount": 9873.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Crawfordshire",
+    "timestamp": "2026-05-23T23:12:06.217706"
+  },
+  {
+    "transaction_id": "930411d3-b2b4-4948-a2ea-9bbcf723ba6e",
+    "user_id": "935de88c-1edb-4f15-8431-2a01b0ab0683",
+    "amount": 63.86,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake Robertton",
+    "timestamp": "2026-05-23T23:12:06.719389"
+  },
+  {
+    "transaction_id": "4d5cb544-41f5-4305-89fe-bbcc72c8f01b",
+    "user_id": "a93d2698-b35b-46d0-8eb1-2c64dedadf66",
+    "amount": 1227.95,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Angelica",
+    "timestamp": "2026-05-23T23:12:07.221897"
+  },
+  {
+    "transaction_id": "6b0ef741-8b99-47b6-bfbc-6f6e7bbfadc5",
+    "user_id": "2cf403b4-af33-4db6-8935-083a9d211826",
+    "amount": 8918.14,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Pamelaborough",
+    "timestamp": "2026-05-23T23:12:08.225919"
+  },
+  {
+    "transaction_id": "ae423572-fb21-4183-9024-809e32dfff62",
+    "user_id": "91b6d9b3-5fc2-498f-8328-2fd123867cd9",
+    "amount": 7652.91,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Timothyside",
+    "timestamp": "2026-05-23T23:12:08.727366"
+  },
+  {
+    "transaction_id": "9d9ef880-f3dc-43c4-afa1-0a8c5ef90ffe",
+    "user_id": "63fc8047-673d-4e06-81c6-33c702f76cc2",
+    "amount": 9609.19,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Peterberg",
+    "timestamp": "2026-05-23T23:12:09.228850"
+  },
+  {
+    "transaction_id": "a1fb4f94-3032-405f-829e-ef3ece5a00f3",
+    "user_id": "df04a2c4-30c9-493e-90ce-77a89e5b97b6",
+    "amount": 954.14,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Lawrencebury",
+    "timestamp": "2026-05-23T23:12:10.232788"
+  },
+  {
+    "transaction_id": "47ed26f9-e1f8-4731-9f39-c38e78720744",
+    "user_id": "8c0c5906-8770-4d4a-969a-ecfac7004370",
+    "amount": 2594.12,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Riceport",
+    "timestamp": "2026-05-23T23:12:10.734057"
+  },
+  {
+    "transaction_id": "618afa0d-c479-4035-98ba-ec1b923e89fd",
+    "user_id": "27f09f30-5b0f-4086-92ae-c9789603febc",
+    "amount": 898.6,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Sharonburgh",
+    "timestamp": "2026-05-23T23:12:11.236118"
+  }
+]

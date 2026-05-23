@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "03749350-c8ed-4d41-abb7-b79b314616cd",
+    "user_id": "8328212a-bc6f-437b-9c33-e6fbec4337e7",
+    "amount": 1497.1,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Coreytown",
+    "timestamp": "2026-05-23T23:10:27.835257"
+  },
+  {
+    "transaction_id": "28298edd-94b4-4bbb-b567-d68156460478",
+    "user_id": "fca1a598-313c-46a2-aec0-e06ce745a55c",
+    "amount": 6081.83,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West David",
+    "timestamp": "2026-05-23T23:10:28.336401"
+  },
+  {
+    "transaction_id": "3f9c93a5-c4c1-4dff-a2f2-23e2852d4673",
+    "user_id": "2a3b216c-0b55-4ea9-bbfa-a7297a2efafb",
+    "amount": 5711.19,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Mary",
+    "timestamp": "2026-05-23T23:10:28.837702"
+  },
+  {
+    "transaction_id": "1fc04b10-0924-47d4-ad4b-5f363d651375",
+    "user_id": "aaf0de7d-22ab-40ee-a46f-9a7af5f0ddaa",
+    "amount": 8107.0,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Jamesfort",
+    "timestamp": "2026-05-23T23:10:29.339087"
+  },
+  {
+    "transaction_id": "69810ab3-83f2-4007-9415-f8e14583d15c",
+    "user_id": "562f2bd1-dd6d-429b-9598-872aa6042231",
+    "amount": 4605.65,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Kimberlymouth",
+    "timestamp": "2026-05-23T23:10:29.842316"
+  },
+  {
+    "transaction_id": "7a0e337b-f38a-44d9-80fb-0ffd0b91607b",
+    "user_id": "de93e2f9-bbab-474b-ad5c-f8c30fd806cb",
+    "amount": 8691.63,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Lauraland",
+    "timestamp": "2026-05-23T23:10:30.343594"
+  },
+  {
+    "transaction_id": "aee6da09-7158-4282-aeb2-7e7a7423c96d",
+    "user_id": "781bb188-b38c-40b0-aa39-840d67f0edc3",
+    "amount": 8965.08,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Josephchester",
+    "timestamp": "2026-05-23T23:10:30.845101"
+  },
+  {
+    "transaction_id": "15c447ef-9545-45c8-ae70-954529c1f7b7",
+    "user_id": "79142089-4ec1-4a91-975e-1255b12069cc",
+    "amount": 2276.5,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Gregory",
+    "timestamp": "2026-05-23T23:10:31.849355"
+  },
+  {
+    "transaction_id": "911db719-d535-4621-b6ba-ea2bb493ff3f",
+    "user_id": "6c4df3b9-c1bc-4a2a-809f-4c51409041ec",
+    "amount": 8626.5,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Teresabury",
+    "timestamp": "2026-05-23T23:10:32.852237"
+  },
+  {
+    "transaction_id": "904bee00-2b20-4e8f-9fd9-f0518739b788",
+    "user_id": "20cc8847-77a7-451d-9bf6-30736846c1bd",
+    "amount": 3580.03,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Troyshire",
+    "timestamp": "2026-05-23T23:10:33.353967"
+  }
+]

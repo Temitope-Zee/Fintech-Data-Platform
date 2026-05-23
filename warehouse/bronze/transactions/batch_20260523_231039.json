@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5d349749-e73f-4d32-9876-a90195d7d88c",
+    "user_id": "9488959c-4a70-4652-9a1c-b8c746c051a3",
+    "amount": 2870.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Ericfurt",
+    "timestamp": "2026-05-23T23:10:33.855544"
+  },
+  {
+    "transaction_id": "ba56fab7-dcd8-480d-9b58-128a6e58e40d",
+    "user_id": "3a2bf49e-efda-434e-96c5-7be15d7a9c29",
+    "amount": 9712.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Danielton",
+    "timestamp": "2026-05-23T23:10:34.357105"
+  },
+  {
+    "transaction_id": "7932ebbb-3718-4d4f-97b6-9ef3225ada0b",
+    "user_id": "599b0db1-872e-4e9a-8a63-6ca7cccee281",
+    "amount": 3270.1,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Cantrellview",
+    "timestamp": "2026-05-23T23:10:34.859487"
+  },
+  {
+    "transaction_id": "8fae1157-a827-4bb4-b58c-c8403a54510c",
+    "user_id": "39e40f2e-276a-4ea9-85fb-daa3d1f8e3e6",
+    "amount": 1575.08,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Rebeccatown",
+    "timestamp": "2026-05-23T23:10:35.863921"
+  },
+  {
+    "transaction_id": "2cdbb875-89ca-4955-af52-3ec8a21b2d09",
+    "user_id": "2b2b9b9d-1ddd-4629-b26b-ecd6cb0d24aa",
+    "amount": 4787.18,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kellyland",
+    "timestamp": "2026-05-23T23:10:36.365848"
+  },
+  {
+    "transaction_id": "4c9ac4e3-55f5-4089-949f-b5a257a20b51",
+    "user_id": "05b5469f-f10c-43c2-9d62-f93ef74c2990",
+    "amount": 7180.17,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Melissastad",
+    "timestamp": "2026-05-23T23:10:36.867241"
+  },
+  {
+    "transaction_id": "da761545-8b0f-4e8f-8adb-8632351cd833",
+    "user_id": "f7785ba0-ed99-40c2-93e0-ee9ee7ea8910",
+    "amount": 1008.17,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Stephen",
+    "timestamp": "2026-05-23T23:10:37.369468"
+  },
+  {
+    "transaction_id": "8f4f2e53-a063-4524-8b4f-9dd81eb2c632",
+    "user_id": "6917953d-c1f1-4035-b5d4-248f25e44fe7",
+    "amount": 3851.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Taylorport",
+    "timestamp": "2026-05-23T23:10:38.372813"
+  },
+  {
+    "transaction_id": "a49c5fc4-e09d-4d7f-9aa2-68c8a2291d22",
+    "user_id": "844ea2a8-abb1-42e1-a452-109450728685",
+    "amount": 7042.1,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Loveland",
+    "timestamp": "2026-05-23T23:10:38.874239"
+  },
+  {
+    "transaction_id": "612dcf82-7ff0-4776-8f2b-33874d025931",
+    "user_id": "5a720105-b3f2-4c4b-85fc-7e68d1cc29de",
+    "amount": 9285.25,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Timothyborough",
+    "timestamp": "2026-05-23T23:10:39.880511"
+  }
+]

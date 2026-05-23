@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4f6edde1-d32e-493c-ba58-3a06b768b5b3",
+    "user_id": "8d2d0586-5653-4d6c-933a-1c54c56070d5",
+    "amount": 310.25,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Patrickshire",
+    "timestamp": "2026-05-23T23:06:26.915094"
+  },
+  {
+    "transaction_id": "295ef546-9809-4377-a7c4-944d46375337",
+    "user_id": "43208b8a-37b0-4c70-9691-bfa442d59df6",
+    "amount": 9463.44,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Travisland",
+    "timestamp": "2026-05-23T23:06:27.416375"
+  },
+  {
+    "transaction_id": "a7d27e57-7fee-43d0-9bcd-3dfe79de9226",
+    "user_id": "e3347145-668a-4224-a2f8-eae8360c443b",
+    "amount": 1504.77,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Danielland",
+    "timestamp": "2026-05-23T23:06:27.917965"
+  },
+  {
+    "transaction_id": "49f450ec-5d07-4e08-9917-9eb1c487eebc",
+    "user_id": "ccffd83c-55e7-47b5-83ce-2cbbaecb1721",
+    "amount": 3628.22,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Elizabethborough",
+    "timestamp": "2026-05-23T23:06:28.419209"
+  },
+  {
+    "transaction_id": "17a3e802-c57e-4275-a36a-6156bae5f238",
+    "user_id": "690b35a0-abd9-4775-9ad6-76f9ead678f4",
+    "amount": 5090.01,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Port Nancy",
+    "timestamp": "2026-05-23T23:06:28.921494"
+  },
+  {
+    "transaction_id": "2470e98f-76bb-4b84-95d5-d354d9031ef3",
+    "user_id": "d6913d6b-325b-433b-9c67-4ab9d8ddb325",
+    "amount": 7554.99,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Donna",
+    "timestamp": "2026-05-23T23:06:29.423926"
+  },
+  {
+    "transaction_id": "a2c283ae-cd0d-4c05-9699-80d1559bc3d8",
+    "user_id": "bea9f3c5-af3a-49b3-b4be-5ffff50dcc1f",
+    "amount": 3200.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Jamesport",
+    "timestamp": "2026-05-23T23:06:29.926745"
+  },
+  {
+    "transaction_id": "0d6a2274-38f3-4de5-b43d-5dbb5364b41a",
+    "user_id": "2bae7bef-5a1b-40f0-81e6-d0161e86109a",
+    "amount": 7848.97,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Nancyhaven",
+    "timestamp": "2026-05-23T23:06:31.934327"
+  },
+  {
+    "transaction_id": "099367f7-b57e-47b7-984c-1575318ce61b",
+    "user_id": "e445053b-4295-4455-8a37-5056602df8d4",
+    "amount": 8691.5,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Josephfurt",
+    "timestamp": "2026-05-23T23:06:32.938275"
+  },
+  {
+    "transaction_id": "30859a32-39c9-46b5-bdf6-b957c788b339",
+    "user_id": "28f1a413-a034-4a2b-b014-1bd9ca9c25b3",
+    "amount": 6526.17,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kevinport",
+    "timestamp": "2026-05-23T23:06:33.440223"
+  }
+]

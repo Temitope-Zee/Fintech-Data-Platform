@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "488c0158-fb2d-4506-9459-e3e85092fe94",
+    "user_id": "e590ca6a-4835-44db-992a-842bf86cb00b",
+    "amount": 7608.61,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Janetmouth",
+    "timestamp": "2026-05-23T23:08:32.377819"
+  },
+  {
+    "transaction_id": "67851f8d-9004-4cf3-bb63-9b29074e0118",
+    "user_id": "9fe741fc-ec91-49cd-bb1c-6143b6200198",
+    "amount": 7799.0,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Daniel",
+    "timestamp": "2026-05-23T23:08:32.880526"
+  },
+  {
+    "transaction_id": "58703a2f-dcb0-470d-b47a-cbd282b43473",
+    "user_id": "dc4b4ab4-befb-4f06-8872-bb8f49f4eb0f",
+    "amount": 8711.34,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Deantown",
+    "timestamp": "2026-05-23T23:08:33.381989"
+  },
+  {
+    "transaction_id": "442eb2c3-41c2-433b-84b5-f1a0ac3e5504",
+    "user_id": "eeb08dfd-b221-4624-bb0d-7c6b1e1288ab",
+    "amount": 4406.73,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Angelastad",
+    "timestamp": "2026-05-23T23:08:33.884356"
+  },
+  {
+    "transaction_id": "d2ff757a-e5ce-4cbe-bb09-9ebdc24cd52e",
+    "user_id": "90c2f48b-bd22-4c4f-9c0a-40ec01c59f41",
+    "amount": 1597.89,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Richardland",
+    "timestamp": "2026-05-23T23:08:34.386132"
+  },
+  {
+    "transaction_id": "a2ea2b1c-e26d-488e-b82c-c65a95a4d6dd",
+    "user_id": "19a82c28-c538-4065-8fce-19428c4cf573",
+    "amount": 5819.85,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Kristenside",
+    "timestamp": "2026-05-23T23:08:34.888769"
+  },
+  {
+    "transaction_id": "638d0ccc-1732-4948-b85c-9b610721dca8",
+    "user_id": "19d07ebb-523b-4992-abf7-009e3ca94759",
+    "amount": 7182.03,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Jeffrey",
+    "timestamp": "2026-05-23T23:08:35.391752"
+  },
+  {
+    "transaction_id": "6edb8cf5-1d87-4fbb-b00c-884097aceeaf",
+    "user_id": "88a61193-76a5-4867-bdee-9d6996417ad4",
+    "amount": 7226.16,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Joshuaburgh",
+    "timestamp": "2026-05-23T23:08:35.893092"
+  },
+  {
+    "transaction_id": "aa43f3e1-e5bf-4ab5-b390-a9336cd90553",
+    "user_id": "18b12074-59cf-4672-ac4a-41798f7e6b5e",
+    "amount": 6471.32,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Samuelville",
+    "timestamp": "2026-05-23T23:08:36.394487"
+  },
+  {
+    "transaction_id": "e774f070-02b0-4161-ac0f-f491ea54e688",
+    "user_id": "02a09867-2110-412f-bb84-3efbd00264e8",
+    "amount": 112.39,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Whiteheadhaven",
+    "timestamp": "2026-05-23T23:08:36.895889"
+  }
+]

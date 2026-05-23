@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ea6ee9a0-6ebf-4231-8471-826bb3f9ff80",
+    "user_id": "6aee7b69-29ab-480e-842e-151c44034f58",
+    "amount": 3262.49,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Zachary",
+    "timestamp": "2026-05-23T23:04:09.905607"
+  },
+  {
+    "transaction_id": "5bf57ee8-b464-4808-90ad-7817129ae110",
+    "user_id": "9bd1a64c-4e43-4faf-a5a9-f8620b76c425",
+    "amount": 7296.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Chrisport",
+    "timestamp": "2026-05-23T23:04:10.407246"
+  },
+  {
+    "transaction_id": "95d7f90a-6b2a-4e98-84ae-33605e2195b1",
+    "user_id": "243d17b0-03d2-46ea-b64b-28c48406d06b",
+    "amount": 7108.68,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Rhonda",
+    "timestamp": "2026-05-23T23:04:10.908632"
+  },
+  {
+    "transaction_id": "4de649ed-cf92-4737-b810-bd040bf62d9e",
+    "user_id": "4daadaf4-f57e-4f1d-ab93-ad00a90c2f6b",
+    "amount": 8182.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jennifertown",
+    "timestamp": "2026-05-23T23:04:11.411290"
+  },
+  {
+    "transaction_id": "cc8adb9d-682e-402b-b6eb-7063e6320bbb",
+    "user_id": "abbf7a17-ad05-4f95-bcb3-4725a0698145",
+    "amount": 9014.43,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Murphyburgh",
+    "timestamp": "2026-05-23T23:04:12.416853"
+  },
+  {
+    "transaction_id": "16965778-f10e-4138-916b-8f415234c5f2",
+    "user_id": "6ea7ea03-f546-4e34-b6f0-5bf32347b12f",
+    "amount": 5823.35,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Lisa",
+    "timestamp": "2026-05-23T23:04:13.415664"
+  },
+  {
+    "transaction_id": "ff20ba5c-dc80-4b99-9e04-e706b94b2ba2",
+    "user_id": "e823690c-9f9e-469d-bdfa-f4c8204be037",
+    "amount": 6250.68,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Andreamouth",
+    "timestamp": "2026-05-23T23:04:13.918598"
+  },
+  {
+    "transaction_id": "3386202a-5e31-4148-b5f4-c94b6c31a68a",
+    "user_id": "c008e7be-ac1f-42c1-954d-e79a420963f3",
+    "amount": 1553.7,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Deniseton",
+    "timestamp": "2026-05-23T23:04:14.419959"
+  },
+  {
+    "transaction_id": "907403e5-5863-4efd-8a54-0bc0bc940fb8",
+    "user_id": "f834dc0f-080a-4da1-8cd3-960d1bf2a2b1",
+    "amount": 6908.82,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Robinsonchester",
+    "timestamp": "2026-05-23T23:04:14.921543"
+  },
+  {
+    "transaction_id": "1b6a71a5-3dc5-429c-93ca-4a1d4e229c83",
+    "user_id": "0da26d93-c12a-411b-87d9-bb590e16056e",
+    "amount": 7165.69,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Sabrinaberg",
+    "timestamp": "2026-05-23T23:04:15.423546"
+  }
+]

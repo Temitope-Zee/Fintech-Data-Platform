@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4be069d7-5c04-4e29-a8cf-2a37b47db043",
+    "user_id": "5c4ab7b9-c736-46eb-9567-28450037b16b",
+    "amount": 579.35,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Daychester",
+    "timestamp": "2026-05-23T23:07:15.599018"
+  },
+  {
+    "transaction_id": "67df4629-b467-4749-879b-45f1b0181a5a",
+    "user_id": "60f7b31b-42ee-4167-838b-66b7bffcdc6c",
+    "amount": 1635.5,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Jerry",
+    "timestamp": "2026-05-23T23:07:16.100236"
+  },
+  {
+    "transaction_id": "c808a8ed-02bb-4fe7-903c-da6668c899a9",
+    "user_id": "7352e5d4-dadd-452c-9356-af44f921f8ea",
+    "amount": 8436.08,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Jamesport",
+    "timestamp": "2026-05-23T23:07:16.601842"
+  },
+  {
+    "transaction_id": "7bb3390a-1dfa-42cb-9063-8ec0f82cdb48",
+    "user_id": "f573dd7f-2a9d-409d-9a19-ca519a82270b",
+    "amount": 5260.12,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Markburgh",
+    "timestamp": "2026-05-23T23:07:17.104610"
+  },
+  {
+    "transaction_id": "5465199d-6477-4370-9832-fb37059ca6dd",
+    "user_id": "1ed47da8-fc59-4d25-ada5-d99c934cac40",
+    "amount": 4917.03,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "South Jamieland",
+    "timestamp": "2026-05-23T23:07:17.605514"
+  },
+  {
+    "transaction_id": "29076cbd-7b33-4f5f-bd24-366221233828",
+    "user_id": "4527db30-affa-49b7-be3b-eec25784652b",
+    "amount": 1.38,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Marktown",
+    "timestamp": "2026-05-23T23:07:18.106447"
+  },
+  {
+    "transaction_id": "b901ae45-68be-44fd-9d04-8e68675fc56c",
+    "user_id": "ce7c8fad-7f9e-42da-affa-b314ec6f0513",
+    "amount": 913.58,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Carrieland",
+    "timestamp": "2026-05-23T23:07:18.608613"
+  },
+  {
+    "transaction_id": "3df51fcf-e174-4e4b-a7f1-5ed74070ae59",
+    "user_id": "4fa901e4-bc41-4098-9efe-6a1d94cf556b",
+    "amount": 8813.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Toddtown",
+    "timestamp": "2026-05-23T23:07:19.109269"
+  },
+  {
+    "transaction_id": "762c0e5a-aa89-4d44-a36f-af34835d24e0",
+    "user_id": "580fc92e-3d07-457d-bd70-4732d651ea8b",
+    "amount": 3992.62,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Mcneilland",
+    "timestamp": "2026-05-23T23:07:19.610799"
+  },
+  {
+    "transaction_id": "b72c93df-775e-46ee-92cd-b8482171be73",
+    "user_id": "a3dbb814-6d39-45e3-9944-888705e9df19",
+    "amount": 3813.45,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Pamelastad",
+    "timestamp": "2026-05-23T23:07:20.613290"
+  }
+]

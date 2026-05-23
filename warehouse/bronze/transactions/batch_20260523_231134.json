@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f48ba1ee-f190-481c-b089-fb4317d653a8",
+    "user_id": "4598ad02-d197-418a-b0f8-19c6cddaec0b",
+    "amount": 1806.76,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Anneborough",
+    "timestamp": "2026-05-23T23:11:29.078605"
+  },
+  {
+    "transaction_id": "5142be8a-d50f-4ff6-bb40-d687b7310a9e",
+    "user_id": "1676190c-b30f-4c7d-a0bf-2248105d0532",
+    "amount": 7745.7,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Amanda",
+    "timestamp": "2026-05-23T23:11:29.580976"
+  },
+  {
+    "transaction_id": "f966c354-0476-4ebb-b51e-601d2baaba55",
+    "user_id": "aa1883ad-9097-49d0-a83f-6cb8829aabca",
+    "amount": 2092.84,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Frederickshire",
+    "timestamp": "2026-05-23T23:11:30.083910"
+  },
+  {
+    "transaction_id": "7b81b2c1-1477-4477-9d17-28598e9155e4",
+    "user_id": "bcc2a297-186a-44ad-884f-16f31e48d979",
+    "amount": 1704.09,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Carrton",
+    "timestamp": "2026-05-23T23:11:30.586683"
+  },
+  {
+    "transaction_id": "7ccbcf0f-65a5-4c14-be0c-36bb8b5ea3e0",
+    "user_id": "463ae540-336b-47ea-bbc1-b4a1c7ebe327",
+    "amount": 5751.38,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Petertown",
+    "timestamp": "2026-05-23T23:11:31.088240"
+  },
+  {
+    "transaction_id": "de659247-7c4a-443c-8f75-b5330e7e2b1f",
+    "user_id": "5075d1f9-b918-4bcb-be15-64c81b224d4f",
+    "amount": 9762.27,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Danielside",
+    "timestamp": "2026-05-23T23:11:31.590877"
+  },
+  {
+    "transaction_id": "07f22300-c32b-4032-8c35-67b97907a04d",
+    "user_id": "2e1def8c-6e18-4f3e-9d92-797d93579100",
+    "amount": 6876.54,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jonesfurt",
+    "timestamp": "2026-05-23T23:11:32.093517"
+  },
+  {
+    "transaction_id": "772fffdf-76be-416b-bb78-87a50cea7eb5",
+    "user_id": "04a0865b-81fb-4263-ad25-183486860633",
+    "amount": 1146.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Alexisfurt",
+    "timestamp": "2026-05-23T23:11:33.098554"
+  },
+  {
+    "transaction_id": "c3903e53-e53d-420a-9a9c-08829aa58389",
+    "user_id": "f28a5b39-fc56-419b-a501-146fd1f71dd1",
+    "amount": 4584.88,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Donna",
+    "timestamp": "2026-05-23T23:11:33.599753"
+  },
+  {
+    "transaction_id": "84c37aaf-c485-4f6e-ac47-fa9100bfaa41",
+    "user_id": "5e8aecfe-5e93-4162-8fd7-ae1f4caba501",
+    "amount": 7558.0,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Haroldland",
+    "timestamp": "2026-05-23T23:11:34.102415"
+  }
+]

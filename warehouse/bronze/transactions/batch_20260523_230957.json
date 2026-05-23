@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0002c299-9cd3-4c84-803f-fed53de6994e",
+    "user_id": "6093d9bc-9a4c-4f11-9bf5-c2f19a7ba03e",
+    "amount": 1431.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Jamesberg",
+    "timestamp": "2026-05-23T23:09:50.183114"
+  },
+  {
+    "transaction_id": "67aa6988-c192-411e-8ccb-c320fabe6b03",
+    "user_id": "441e4232-77b8-4608-ad30-9cc11320e3bc",
+    "amount": 6011.09,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Vincentbury",
+    "timestamp": "2026-05-23T23:09:51.690821"
+  },
+  {
+    "transaction_id": "903d299a-d917-43da-8b28-4dd859fccf34",
+    "user_id": "e01f896c-97d9-4e07-855b-a8dfde8beba9",
+    "amount": 6471.63,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Stephanie",
+    "timestamp": "2026-05-23T23:09:52.192588"
+  },
+  {
+    "transaction_id": "9642e637-367a-4a57-a6f2-b49d5bcaca62",
+    "user_id": "8aaee5e9-7cf6-44a7-b997-4452cd6adb16",
+    "amount": 6187.53,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Javierport",
+    "timestamp": "2026-05-23T23:09:53.196694"
+  },
+  {
+    "transaction_id": "4cd6d992-4d92-4be0-97e8-1050bf51d6fb",
+    "user_id": "8e0d021a-0ca8-4488-b372-1baf88f1a011",
+    "amount": 7301.22,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West James",
+    "timestamp": "2026-05-23T23:09:54.200841"
+  },
+  {
+    "transaction_id": "10cfde0a-8397-4a2d-be57-3a0125909237",
+    "user_id": "47852762-1a34-4f1e-97ea-f4f3198ebe1e",
+    "amount": 9672.74,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Christinaberg",
+    "timestamp": "2026-05-23T23:09:54.702351"
+  },
+  {
+    "transaction_id": "12a631ca-abc8-4aa2-a121-7891a528ec11",
+    "user_id": "b986ffd9-9373-435a-9ec8-4ceb6d9a7662",
+    "amount": 2575.53,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lewisport",
+    "timestamp": "2026-05-23T23:09:55.705802"
+  },
+  {
+    "transaction_id": "af4fb181-1870-483c-91f6-4d7b271f5d27",
+    "user_id": "b6befad4-38c3-46fe-be85-7a07fad89fdc",
+    "amount": 4304.18,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Clarkland",
+    "timestamp": "2026-05-23T23:09:56.207434"
+  },
+  {
+    "transaction_id": "ff053404-d025-464d-a980-3ec5efe98e73",
+    "user_id": "7f08c9a7-4a2f-45eb-a9a2-2958f573c9c6",
+    "amount": 4400.13,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Anthonyport",
+    "timestamp": "2026-05-23T23:09:56.710373"
+  },
+  {
+    "transaction_id": "19f3418c-b872-413b-a910-17a5ea75eadb",
+    "user_id": "424d2dd5-cc47-43ee-9332-189eb693a98c",
+    "amount": 6951.74,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Amandaport",
+    "timestamp": "2026-05-23T23:09:57.212080"
+  }
+]

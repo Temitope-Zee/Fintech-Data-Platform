@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b8226723-8e5d-412e-b658-8a2807e47098",
+    "user_id": "c9171ec6-9d0f-443c-b8fc-94df4204132f",
+    "amount": 8959.75,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Richard",
+    "timestamp": "2026-05-23T23:04:26.975234"
+  },
+  {
+    "transaction_id": "09bd024a-5755-49e1-86a8-a81298a28117",
+    "user_id": "c0b9efed-c61c-4278-a01e-84e528bcd4b1",
+    "amount": 832.25,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Chadchester",
+    "timestamp": "2026-05-23T23:04:27.477914"
+  },
+  {
+    "transaction_id": "65912fbe-2794-4430-aa51-9345108ce65b",
+    "user_id": "d3ef0367-6e49-487d-958a-065a8c81528f",
+    "amount": 4964.87,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Richardshire",
+    "timestamp": "2026-05-23T23:04:28.481397"
+  },
+  {
+    "transaction_id": "2193d59f-8562-4e62-a6cc-cc12b6aae6ed",
+    "user_id": "ff0764f4-f97d-4b83-ac48-c795ced909c1",
+    "amount": 2498.0,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Reynoldsfurt",
+    "timestamp": "2026-05-23T23:04:28.983743"
+  },
+  {
+    "transaction_id": "d7aad903-1b5e-423c-97d8-a17a9ecb82e5",
+    "user_id": "c5dd5c10-96a1-4947-804a-1c4ce5fde01e",
+    "amount": 3842.05,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Michael",
+    "timestamp": "2026-05-23T23:04:29.484841"
+  },
+  {
+    "transaction_id": "d07fd891-3c65-4ab0-b195-db1f25abcb82",
+    "user_id": "b17ad49d-4d98-4dbc-86fa-cab894cc4eb0",
+    "amount": 8808.17,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Barbaramouth",
+    "timestamp": "2026-05-23T23:04:29.986160"
+  },
+  {
+    "transaction_id": "5ae70959-2118-427c-987e-7ef3990bc81f",
+    "user_id": "34777f21-796e-4ab6-bc2d-bbf537490ca0",
+    "amount": 3882.18,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Gibsonchester",
+    "timestamp": "2026-05-23T23:04:30.487655"
+  },
+  {
+    "transaction_id": "ee9dc37b-d63e-4b28-9b95-01833f46d87c",
+    "user_id": "960d6ef6-d829-4d9a-8804-9dbd001e8477",
+    "amount": 1290.01,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Anthonyport",
+    "timestamp": "2026-05-23T23:04:30.989391"
+  },
+  {
+    "transaction_id": "ca39de92-6015-445f-98b1-32c4754b12e6",
+    "user_id": "eea6f1b2-2a46-4dae-907e-7f4a85a74d4d",
+    "amount": 8.25,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Natashaborough",
+    "timestamp": "2026-05-23T23:04:31.490830"
+  },
+  {
+    "transaction_id": "4275735d-1905-4406-9690-34dc83144a2d",
+    "user_id": "fe31fb40-4b31-4dbf-b5b3-83eb2c76dc12",
+    "amount": 8342.86,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Roberttown",
+    "timestamp": "2026-05-23T23:04:31.994433"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "eea20ec5-d252-4f0b-8c61-f9257c16fc04",
+    "user_id": "9951526a-d5c6-4621-a243-397a1e2fc0d5",
+    "amount": 6740.18,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Bennettberg",
+    "timestamp": "2026-05-23T23:11:52.664597"
+  },
+  {
+    "transaction_id": "11b9c249-950b-4d00-a4e9-e7c89af97b4e",
+    "user_id": "91d86634-6b70-47ab-bb1c-8cc1f2ecdf88",
+    "amount": 6039.82,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Sylviabury",
+    "timestamp": "2026-05-23T23:11:53.167093"
+  },
+  {
+    "transaction_id": "72f3994d-0e5d-4388-8c38-c08849e2622b",
+    "user_id": "1b8b2915-13f1-4c4b-be53-16f27aaed92a",
+    "amount": 6695.6,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Parkburgh",
+    "timestamp": "2026-05-23T23:11:54.173182"
+  },
+  {
+    "transaction_id": "56f45da0-70ca-40b5-8540-5ffb7ed19556",
+    "user_id": "2d478674-92d7-4821-aeb5-25ab69b98ad7",
+    "amount": 3165.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Vincent",
+    "timestamp": "2026-05-23T23:11:55.177702"
+  },
+  {
+    "transaction_id": "12e518b2-c4dc-4660-8b1b-0018e25278f1",
+    "user_id": "7743854a-a4bf-4b42-bac6-0b5222f315b6",
+    "amount": 403.4,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Tommyton",
+    "timestamp": "2026-05-23T23:11:55.678892"
+  },
+  {
+    "transaction_id": "4a9c0c98-2698-4815-b216-ecdeb178f695",
+    "user_id": "dad74869-a7a4-46e1-88c0-dd4cf92b7b70",
+    "amount": 6740.48,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Scott",
+    "timestamp": "2026-05-23T23:11:57.186982"
+  },
+  {
+    "transaction_id": "cf459d3c-e644-46fb-b06a-fced4cbb355d",
+    "user_id": "375bafef-b8e7-4fd3-a252-c07c4bbb49a7",
+    "amount": 3887.16,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Hallland",
+    "timestamp": "2026-05-23T23:11:58.189560"
+  },
+  {
+    "transaction_id": "9a864436-ef78-4b70-ba61-da3999939ed3",
+    "user_id": "926daae0-0ea7-4573-93cf-4771964aa7be",
+    "amount": 9945.3,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Elizabethhaven",
+    "timestamp": "2026-05-23T23:11:58.690859"
+  },
+  {
+    "transaction_id": "8b12e77f-bd93-4bee-9031-3c8691c657a8",
+    "user_id": "d59e951d-c7b7-4694-886f-667315270a53",
+    "amount": 9385.22,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Terrystad",
+    "timestamp": "2026-05-23T23:11:59.192133"
+  },
+  {
+    "transaction_id": "0031d0f0-87d2-4761-abea-9e353e5ef6c9",
+    "user_id": "f697418e-46c1-402b-86e4-bc5fff8ce0e6",
+    "amount": 3044.48,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Donna",
+    "timestamp": "2026-05-23T23:11:59.693979"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "96d62a27-ff72-433c-b424-613488eb1b16",
+    "user_id": "f55bb490-42b3-4de6-b24f-c17b54579a08",
+    "amount": 8360.95,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Crystalchester",
+    "timestamp": "2026-05-23T23:11:11.000798"
+  },
+  {
+    "transaction_id": "a7fd3c16-aacc-4ecc-8376-a301b026ee78",
+    "user_id": "7be55ce6-79f6-4f0d-8a6d-f7e71e69332b",
+    "amount": 5132.88,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Ashleyburgh",
+    "timestamp": "2026-05-23T23:11:11.502017"
+  },
+  {
+    "transaction_id": "6e3ecc9c-29ab-4966-a58a-b126f4955ca4",
+    "user_id": "fae0a3e3-f9aa-4ce6-8626-250e3e5e0632",
+    "amount": 4649.87,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Scottside",
+    "timestamp": "2026-05-23T23:11:12.005088"
+  },
+  {
+    "transaction_id": "0cb2443b-47c3-40df-891a-d4bf76e31eed",
+    "user_id": "c830bf3a-b722-451c-a457-28d96ff6c305",
+    "amount": 7964.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jameston",
+    "timestamp": "2026-05-23T23:11:13.009621"
+  },
+  {
+    "transaction_id": "74a947b8-44b1-490a-8c2c-0a677be47d65",
+    "user_id": "7d0c0cc2-02db-4e7b-9e74-683b709ea4a7",
+    "amount": 9390.84,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Andreaside",
+    "timestamp": "2026-05-23T23:11:13.508191"
+  },
+  {
+    "transaction_id": "fbd4dd2b-a3ba-4d49-9929-58abc1de5af0",
+    "user_id": "dd84c7c1-4334-458b-a9cc-232ab796f123",
+    "amount": 5056.53,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Tara",
+    "timestamp": "2026-05-23T23:11:14.010932"
+  },
+  {
+    "transaction_id": "062139b2-62da-4922-bb0f-8692f2180078",
+    "user_id": "159a5f2e-5e3d-45b4-b64d-1a9965aca377",
+    "amount": 2733.01,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Amandatown",
+    "timestamp": "2026-05-23T23:11:14.513686"
+  },
+  {
+    "transaction_id": "5213ce69-fa7c-4af6-80f6-2bc6bd42deb2",
+    "user_id": "99408c93-1bff-4d98-9bc1-ef2ffe692c73",
+    "amount": 9455.39,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Holly",
+    "timestamp": "2026-05-23T23:11:15.015501"
+  },
+  {
+    "transaction_id": "78a1ff4b-336a-4f15-b0d5-7f2a8a7b132e",
+    "user_id": "5b4ecd4c-1631-4882-8dc3-28298e524a8e",
+    "amount": 4538.86,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Ianfort",
+    "timestamp": "2026-05-23T23:11:15.517991"
+  },
+  {
+    "transaction_id": "ba0df253-15f3-4221-808a-20e23dd57b49",
+    "user_id": "edef6b88-2b7a-45b5-b22e-9ceb963481b3",
+    "amount": 8884.94,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Isabellafurt",
+    "timestamp": "2026-05-23T23:11:16.523616"
+  }
+]
