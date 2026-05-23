@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0da84aee-c0f7-4823-afbd-b7dd46849189",
+    "user_id": "b0f8a1b7-5ad9-4311-8496-940dfb33faaa",
+    "amount": 845.93,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Dennis",
+    "timestamp": "2026-05-23T22:57:36.451073"
+  },
+  {
+    "transaction_id": "a97837c5-e70d-4a9b-b9f7-7888a64cfdbf",
+    "user_id": "2c446b54-399e-4fe9-b186-5ec7e6dfc82b",
+    "amount": 3811.76,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Evansside",
+    "timestamp": "2026-05-23T22:57:37.453789"
+  },
+  {
+    "transaction_id": "be845ac2-3d3f-4eb2-b11a-cc642b82219f",
+    "user_id": "187e8156-e29f-4166-bded-74e1c8080520",
+    "amount": 2291.09,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kimberlystad",
+    "timestamp": "2026-05-23T22:57:37.955210"
+  },
+  {
+    "transaction_id": "aad44b16-28bf-45cd-846a-5636230bc8c4",
+    "user_id": "7c1b50f3-4c4a-4aac-9ca4-94a72dad6f37",
+    "amount": 9523.5,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Amandaview",
+    "timestamp": "2026-05-23T22:57:38.457325"
+  },
+  {
+    "transaction_id": "68de75e1-f8f5-475e-91ed-585d2deb984f",
+    "user_id": "a1f7e8f2-9c9a-4514-9b52-4bec7b759865",
+    "amount": 8958.94,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Katiehaven",
+    "timestamp": "2026-05-23T22:57:38.959140"
+  },
+  {
+    "transaction_id": "5b1e6d65-64a6-4d3f-910a-820d93ffc6b3",
+    "user_id": "f3c0a407-e5a3-434e-9503-1c32af664b39",
+    "amount": 5650.15,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Aguilarport",
+    "timestamp": "2026-05-23T22:57:39.964453"
+  },
+  {
+    "transaction_id": "35782d1d-d501-4d35-beae-dad097f72af4",
+    "user_id": "dfc14b9f-85f4-4fab-b739-59701564eac2",
+    "amount": 5984.99,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Davidbury",
+    "timestamp": "2026-05-23T22:57:40.467093"
+  },
+  {
+    "transaction_id": "40feeff5-aeb0-4c0b-80b9-8010bdc43858",
+    "user_id": "ec9e4ac5-0ad8-48ec-aa79-7c5273281fed",
+    "amount": 9143.69,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Meganfort",
+    "timestamp": "2026-05-23T22:57:40.969442"
+  },
+  {
+    "transaction_id": "5a5348d0-27a6-45c7-b023-17c08a536bed",
+    "user_id": "c718dc10-a40e-473e-9105-3011c50d0fd4",
+    "amount": 6793.09,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Christopherside",
+    "timestamp": "2026-05-23T22:57:41.973700"
+  },
+  {
+    "transaction_id": "8602c4ea-347c-41a4-9feb-ab889b777009",
+    "user_id": "c779b8b3-0b3c-4366-a962-ba579d21bccc",
+    "amount": 9731.07,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Smithside",
+    "timestamp": "2026-05-23T22:57:42.979392"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cc61bd69-f6ce-48dd-8d81-a62a143d1de7",
+    "user_id": "09f4550f-1204-4c69-b18b-15c988133373",
+    "amount": 6822.57,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Ericaland",
+    "timestamp": "2026-05-22T23:13:03.612152"
+  },
+  {
+    "transaction_id": "42699b67-de60-4df3-a466-96144f41c93e",
+    "user_id": "497cf67f-53dc-4783-ad5a-d740c3f0de8d",
+    "amount": 9639.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Georgeview",
+    "timestamp": "2026-05-22T23:13:04.114075"
+  },
+  {
+    "transaction_id": "c781e11d-9ac2-42b3-83b2-47bbff8997fe",
+    "user_id": "773ef2cf-5784-493c-99b7-de4e631ff88e",
+    "amount": 4798.21,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Michele",
+    "timestamp": "2026-05-22T23:13:04.615793"
+  },
+  {
+    "transaction_id": "b94c2928-a7fb-470a-98a1-13d7854a97cc",
+    "user_id": "cc4dad8f-a6b3-45f9-b972-c0bcf740fc51",
+    "amount": 316.39,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port William",
+    "timestamp": "2026-05-22T23:13:05.118492"
+  },
+  {
+    "transaction_id": "7bb3d623-bd62-416f-ac66-e8e640175152",
+    "user_id": "0c5126db-e3ce-41ee-8931-87d8bb908112",
+    "amount": 6522.92,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Waltersland",
+    "timestamp": "2026-05-22T23:13:06.121850"
+  },
+  {
+    "transaction_id": "ab813dd7-4d38-439c-ba60-8b906488c302",
+    "user_id": "cfea9c43-253a-4e44-af48-133411b9ed59",
+    "amount": 1541.66,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Alyssaberg",
+    "timestamp": "2026-05-22T23:13:06.624927"
+  },
+  {
+    "transaction_id": "50b3b1ab-e2b6-44c8-88bf-cbdacfc5c666",
+    "user_id": "5e17f2dc-7419-4686-ad10-7da0b14643f7",
+    "amount": 9802.7,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Marymouth",
+    "timestamp": "2026-05-22T23:13:07.126266"
+  },
+  {
+    "transaction_id": "80c31ef5-616d-46de-a9aa-c990496812fc",
+    "user_id": "838b077f-0542-4fd3-8b59-2c99709acfd5",
+    "amount": 3859.09,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jermainetown",
+    "timestamp": "2026-05-22T23:13:07.627458"
+  },
+  {
+    "transaction_id": "32c7493c-9ba3-47e8-a637-62f8adda422f",
+    "user_id": "735a9ae2-df68-48d8-9a26-c82bc1ca2aaa",
+    "amount": 6126.89,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Cynthiabury",
+    "timestamp": "2026-05-22T23:13:08.129037"
+  },
+  {
+    "transaction_id": "f80f6199-f5ae-43e3-ba64-e950aa51607d",
+    "user_id": "dd4fec05-bb6b-4a9a-821a-5fd815c6441d",
+    "amount": 1491.32,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Kimberly",
+    "timestamp": "2026-05-22T23:13:09.635691"
+  }
+]

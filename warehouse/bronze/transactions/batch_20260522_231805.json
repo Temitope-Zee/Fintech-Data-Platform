@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9ead11d9-db9c-4925-ac6b-e23641cbb1fb",
+    "user_id": "99e46d57-031a-4953-9262-24a131d6a3f3",
+    "amount": 7171.85,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Heatherview",
+    "timestamp": "2026-05-22T23:18:00.812855"
+  },
+  {
+    "transaction_id": "13842238-6340-4032-bf54-46982c72419d",
+    "user_id": "464f3d88-6805-4897-a33a-058afc186766",
+    "amount": 6157.11,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Darrellstad",
+    "timestamp": "2026-05-22T23:18:01.314011"
+  },
+  {
+    "transaction_id": "c18de83d-ec67-48f9-9034-2c796fec3519",
+    "user_id": "671188bf-6421-4665-a364-972244ffc49c",
+    "amount": 8934.29,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Dustinhaven",
+    "timestamp": "2026-05-22T23:18:01.814995"
+  },
+  {
+    "transaction_id": "a0885534-5b62-4ded-a26d-1e15bbbae8a4",
+    "user_id": "ccfb6230-7ecf-43b1-bf7b-0a8b4889a64f",
+    "amount": 6627.14,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Amyborough",
+    "timestamp": "2026-05-22T23:18:02.316024"
+  },
+  {
+    "transaction_id": "6c5b5abe-efbf-42bd-a324-b1b91bb02257",
+    "user_id": "de7883c8-d4d8-494c-8eb9-f0131f111d09",
+    "amount": 3539.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Goodwinfort",
+    "timestamp": "2026-05-22T23:18:02.818768"
+  },
+  {
+    "transaction_id": "230f3e33-1459-476c-9993-deefcccbec40",
+    "user_id": "c76cb854-6975-4fb1-95ca-2fefdcbb4774",
+    "amount": 2953.41,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Melissatown",
+    "timestamp": "2026-05-22T23:18:03.321189"
+  },
+  {
+    "transaction_id": "5fcd7e41-b5cc-4b8b-bff0-79ad5276a846",
+    "user_id": "15753d71-0917-4e0b-9620-4444dfc7ce3c",
+    "amount": 8214.43,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Heather",
+    "timestamp": "2026-05-22T23:18:03.822211"
+  },
+  {
+    "transaction_id": "8ebcc50d-d30e-4b12-aa82-36a90b0a3dbc",
+    "user_id": "c381917a-602b-4c7a-a3a8-71e7027509fe",
+    "amount": 9143.9,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Smithport",
+    "timestamp": "2026-05-22T23:18:04.323278"
+  },
+  {
+    "transaction_id": "6f6e9a90-a955-4244-9ae8-1ba5d62f1aff",
+    "user_id": "34186fac-5e42-41b4-ab27-5a781f010834",
+    "amount": 266.3,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Mccarthyfurt",
+    "timestamp": "2026-05-22T23:18:04.824184"
+  },
+  {
+    "transaction_id": "5ec51662-6034-4fb0-87d0-806cd3cc5e0f",
+    "user_id": "d6815dbc-cbd6-444e-bdc2-7b723ce13bc5",
+    "amount": 1756.82,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West Gregoryfort",
+    "timestamp": "2026-05-22T23:18:05.324872"
+  }
+]

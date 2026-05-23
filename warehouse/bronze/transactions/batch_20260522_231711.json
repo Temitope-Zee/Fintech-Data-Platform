@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1bb12c30-4b7c-45ba-94c2-22bf0a1505f3",
+    "user_id": "0bbdc66a-1cb7-4155-94d6-be73c48f3212",
+    "amount": 8259.09,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Ianview",
+    "timestamp": "2026-05-22T23:17:07.077073"
+  },
+  {
+    "transaction_id": "9052f9d9-c3b6-48c6-8f22-d334d21596c2",
+    "user_id": "a6ee130e-b16e-4c9d-bf49-8575a4ffdcfc",
+    "amount": 4978.67,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Joshua",
+    "timestamp": "2026-05-22T23:17:07.578493"
+  },
+  {
+    "transaction_id": "b6072ef4-8997-4b32-8c2b-6401dc4abd4e",
+    "user_id": "d09940bf-c0f6-4298-b360-65fe021e61e2",
+    "amount": 5032.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Wrightland",
+    "timestamp": "2026-05-22T23:17:08.081105"
+  },
+  {
+    "transaction_id": "c6c04b45-7687-4e46-adeb-0a3d82a44538",
+    "user_id": "cbdf0f39-1d37-4eb5-b0bf-9a6ab2e299de",
+    "amount": 6597.42,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Powellton",
+    "timestamp": "2026-05-22T23:17:08.582641"
+  },
+  {
+    "transaction_id": "b6b162a7-afa6-4d67-8dde-2e84faaeb6bd",
+    "user_id": "a6419e02-45fb-48b9-a232-9371e9bbd37c",
+    "amount": 2290.34,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Jamesmouth",
+    "timestamp": "2026-05-22T23:17:09.085513"
+  },
+  {
+    "transaction_id": "1ecf73ed-5b7b-47fa-b68b-07fc94e2838d",
+    "user_id": "7b66f5c8-9969-4bad-b892-31538348a183",
+    "amount": 6574.03,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Aliciaburgh",
+    "timestamp": "2026-05-22T23:17:09.588358"
+  },
+  {
+    "transaction_id": "29ca4c66-11fd-45cb-be11-947553f90cac",
+    "user_id": "bb5375ea-04e5-4bf7-81d9-d9cda019e555",
+    "amount": 6029.89,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jasontown",
+    "timestamp": "2026-05-22T23:17:10.089914"
+  },
+  {
+    "transaction_id": "29e4dec3-31ce-49af-9339-fd1251616cbe",
+    "user_id": "2e188cac-b565-4aca-87be-42e599750496",
+    "amount": 1518.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Willieton",
+    "timestamp": "2026-05-22T23:17:10.591155"
+  },
+  {
+    "transaction_id": "25d25abe-15b4-46bd-9904-e00653f6c460",
+    "user_id": "4346ff2d-361d-4afe-8606-ce4990db22e6",
+    "amount": 1347.84,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Pamela",
+    "timestamp": "2026-05-22T23:17:11.093551"
+  },
+  {
+    "transaction_id": "af31b84b-f3d5-48bf-ad22-3376c6067a01",
+    "user_id": "037c6f6a-c96a-4102-a680-79b8735d1048",
+    "amount": 9416.38,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Ramirezton",
+    "timestamp": "2026-05-22T23:17:11.595230"
+  }
+]

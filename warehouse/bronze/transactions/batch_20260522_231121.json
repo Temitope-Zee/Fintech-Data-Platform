@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f4f9aaf4-30c3-4459-984d-cdf61cb85389",
+    "user_id": "5a82c5ee-73ce-4339-bf1c-fdf46ef9db12",
+    "amount": 1162.68,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Nicholas",
+    "timestamp": "2026-05-22T23:11:15.712517"
+  },
+  {
+    "transaction_id": "49f84e54-34eb-4c18-9427-1d266db923d6",
+    "user_id": "d282a19a-5015-4fc4-b9f5-9edd7d1d7f50",
+    "amount": 745.28,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Hollymouth",
+    "timestamp": "2026-05-22T23:11:16.213807"
+  },
+  {
+    "transaction_id": "23da895d-b661-4782-bcde-bdbfec94513c",
+    "user_id": "f702ad44-efeb-496e-bf83-add9f8879ee0",
+    "amount": 3707.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Cameronview",
+    "timestamp": "2026-05-22T23:11:17.217058"
+  },
+  {
+    "transaction_id": "c31cadc9-c04f-4b70-b493-d6e9b40fdc46",
+    "user_id": "fc58090f-6ca6-44f4-a5e3-f13e7a4b1266",
+    "amount": 2735.02,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Bullockberg",
+    "timestamp": "2026-05-22T23:11:18.221104"
+  },
+  {
+    "transaction_id": "26aece77-2c70-4aa7-b9a8-47dd448559ff",
+    "user_id": "061bef6d-2f3b-4d6a-81e0-d5e44169ebaa",
+    "amount": 6973.56,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Dianefurt",
+    "timestamp": "2026-05-22T23:11:18.722422"
+  },
+  {
+    "transaction_id": "24bce9ff-0be2-4db1-90bc-2c446480bee9",
+    "user_id": "fb9ec7d9-b21e-4922-9134-1fd179003fe8",
+    "amount": 490.46,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Reginaldside",
+    "timestamp": "2026-05-22T23:11:19.224307"
+  },
+  {
+    "transaction_id": "f9652c3f-5521-42c2-8fba-ab8b02084e4f",
+    "user_id": "080254c3-106d-4f93-a663-e371875144db",
+    "amount": 9574.45,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Meganfort",
+    "timestamp": "2026-05-22T23:11:19.727638"
+  },
+  {
+    "transaction_id": "6cdbfa9f-a1a7-415e-bcaa-ce61464a4d6e",
+    "user_id": "28170272-9246-43e6-a441-bf8347f83c94",
+    "amount": 6041.09,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Tommystad",
+    "timestamp": "2026-05-22T23:11:20.228542"
+  },
+  {
+    "transaction_id": "188a1bdc-5a20-4ed1-ac58-a990e019fa34",
+    "user_id": "45d85ffd-3ece-4500-8c8e-0edfba706208",
+    "amount": 5426.82,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Dawn",
+    "timestamp": "2026-05-22T23:11:20.729589"
+  },
+  {
+    "transaction_id": "105d7aff-63de-4f2a-a6d8-b503eb9c246a",
+    "user_id": "cb9b71f7-ef74-4409-b975-6dd6a6c8bc2e",
+    "amount": 9966.0,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Briggsfurt",
+    "timestamp": "2026-05-22T23:11:21.231183"
+  }
+]

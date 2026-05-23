@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9616063f-9c25-4f2f-ba04-9bf3cd8276dd",
+    "user_id": "1c77d98c-8b9f-47a9-b3eb-b2502bd935fb",
+    "amount": 3990.76,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Vargasmouth",
+    "timestamp": "2026-05-23T22:56:35.228891"
+  },
+  {
+    "transaction_id": "21c00e51-ad73-4c25-8a40-38a6bdc0b101",
+    "user_id": "9c914cec-09cc-494a-971e-da170a9d13b6",
+    "amount": 5610.48,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Hudsonshire",
+    "timestamp": "2026-05-23T22:56:35.730299"
+  },
+  {
+    "transaction_id": "3ffe24fa-0160-4989-a70a-f584430b2359",
+    "user_id": "83c1a1ec-0ece-465c-a824-3110e6229340",
+    "amount": 2064.84,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Danielland",
+    "timestamp": "2026-05-23T22:56:36.232105"
+  },
+  {
+    "transaction_id": "a4bcd777-c3ba-4111-8aa6-c602e262d5ce",
+    "user_id": "0d5e3bff-16ca-4987-b604-76b547dbca42",
+    "amount": 6520.51,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Danielfort",
+    "timestamp": "2026-05-23T22:56:36.734542"
+  },
+  {
+    "transaction_id": "698b4690-da2e-4751-8005-e0a5e7dc2c40",
+    "user_id": "678730a8-da91-4246-9492-fc30e28a6fbe",
+    "amount": 4610.15,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Pattersonshire",
+    "timestamp": "2026-05-23T22:56:37.236761"
+  },
+  {
+    "transaction_id": "0269c699-ca99-424c-93a8-52418fa2ec4c",
+    "user_id": "a14fc268-7871-4cab-813e-7cc34026b5da",
+    "amount": 2180.63,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Elizabethhaven",
+    "timestamp": "2026-05-23T22:56:38.742825"
+  },
+  {
+    "transaction_id": "f34d2370-cf3d-4a33-9c30-1b5b743ea966",
+    "user_id": "c20202ba-7eeb-47b1-a864-9a717bd1a207",
+    "amount": 4382.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Glenn",
+    "timestamp": "2026-05-23T22:56:39.244348"
+  },
+  {
+    "transaction_id": "f1764d38-ac68-40f4-9a5f-45fff782b63d",
+    "user_id": "caf332f1-4446-4aaf-a88f-49caf9f21f39",
+    "amount": 5087.13,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Jerryfurt",
+    "timestamp": "2026-05-23T22:56:39.745830"
+  },
+  {
+    "transaction_id": "977b6125-35e4-492a-bf4b-8082ccae49a1",
+    "user_id": "a3480820-dae5-4d67-8d5b-bc1a9531e1cc",
+    "amount": 9471.63,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Ortizview",
+    "timestamp": "2026-05-23T22:56:40.247084"
+  },
+  {
+    "transaction_id": "8f32b3b7-0e38-4ee3-b7f7-fc5bc9b623c0",
+    "user_id": "6af3064e-47c6-47fb-a1ad-c7bf999af634",
+    "amount": 3004.85,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Richardborough",
+    "timestamp": "2026-05-23T22:56:40.748365"
+  }
+]

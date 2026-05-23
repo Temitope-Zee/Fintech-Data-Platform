@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4fd49e3b-c1e2-4cb8-a4b0-511ccbb0b795",
+    "user_id": "478694aa-bed8-4650-8665-58bdbe080c19",
+    "amount": 9613.31,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Vickietown",
+    "timestamp": "2026-05-22T23:05:16.306929"
+  },
+  {
+    "transaction_id": "18495e00-ba12-4baa-bc8d-a0217959bdaf",
+    "user_id": "055f8535-2b62-4217-8e51-8ddd703be91d",
+    "amount": 8474.09,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Perkinsborough",
+    "timestamp": "2026-05-22T23:05:16.808249"
+  },
+  {
+    "transaction_id": "003b4aa5-2f20-4079-bd51-feba6a5a3361",
+    "user_id": "7ff5ee3d-c28c-40dc-981b-2dbf89415cf8",
+    "amount": 759.83,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Tiffanyville",
+    "timestamp": "2026-05-22T23:05:17.310745"
+  },
+  {
+    "transaction_id": "decefce9-0257-464d-befd-c1742d84a2da",
+    "user_id": "a51a6de6-e1db-4ad6-b0da-79011b495747",
+    "amount": 8046.36,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Monica",
+    "timestamp": "2026-05-22T23:05:17.813078"
+  },
+  {
+    "transaction_id": "9beafa1b-f019-49a3-986a-7510eed67e96",
+    "user_id": "236f0903-3d2e-491a-ad90-0e5844400486",
+    "amount": 4242.8,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Shannon",
+    "timestamp": "2026-05-22T23:05:18.817180"
+  },
+  {
+    "transaction_id": "ed2224c6-3e14-49de-b3fb-2ab3e782669b",
+    "user_id": "fdfc9af9-d48d-4ee6-839c-dd4895b1e0e9",
+    "amount": 1792.68,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Christopherburgh",
+    "timestamp": "2026-05-22T23:05:19.318460"
+  },
+  {
+    "transaction_id": "0eb75297-1b72-4eb2-8db5-8e7736c86d3b",
+    "user_id": "dc7c4ec7-4f00-498d-956f-2c7047530e1c",
+    "amount": 4618.88,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jeannetown",
+    "timestamp": "2026-05-22T23:05:19.820235"
+  },
+  {
+    "transaction_id": "c1835e7a-3336-4298-bde9-d4708de1f368",
+    "user_id": "de82165a-a439-4ef1-947d-0c793315b898",
+    "amount": 7525.19,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Jimenezview",
+    "timestamp": "2026-05-22T23:05:20.323153"
+  },
+  {
+    "transaction_id": "bc36ddd8-e8e5-45ae-b747-d8d15bc67b89",
+    "user_id": "8fb775e9-bc2f-411b-8af4-49b9fa1dc26b",
+    "amount": 7423.74,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Porterport",
+    "timestamp": "2026-05-22T23:05:20.825828"
+  },
+  {
+    "transaction_id": "f70486a1-a6fd-4432-bf5c-dd3985637e64",
+    "user_id": "b9ff3c72-881e-4161-a731-a75c0b325f44",
+    "amount": 9982.89,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Kingmouth",
+    "timestamp": "2026-05-22T23:05:21.327345"
+  }
+]

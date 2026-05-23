@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d7fafaa8-7158-4541-b64b-530d16ff1e86",
+    "user_id": "7e067313-c0e9-4744-98f0-0217eee4d816",
+    "amount": 131.95,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Brookschester",
+    "timestamp": "2026-05-23T22:56:18.664892"
+  },
+  {
+    "transaction_id": "4df53d97-259e-4748-9f48-b9f50b2c7445",
+    "user_id": "55a968a3-5076-4f9a-b981-6b4fa5eb06cf",
+    "amount": 4112.83,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Samuel",
+    "timestamp": "2026-05-23T22:56:19.166271"
+  },
+  {
+    "transaction_id": "db2d92b5-630b-4ed0-a9b4-a2bd18354d61",
+    "user_id": "948f45d5-eaf6-4ce2-85c1-e4e10e639db4",
+    "amount": 6735.48,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Joshua",
+    "timestamp": "2026-05-23T22:56:19.667488"
+  },
+  {
+    "transaction_id": "eb1149b6-c15e-4b36-80e5-e689891a5954",
+    "user_id": "b89d794c-fef4-4b97-a720-3746b30a88c8",
+    "amount": 9223.83,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Kristaburgh",
+    "timestamp": "2026-05-23T22:56:20.168773"
+  },
+  {
+    "transaction_id": "28600db1-2643-4520-bc96-d57a699745c8",
+    "user_id": "a4c65386-9777-458b-bba8-2cc6f20abe35",
+    "amount": 5386.72,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Lauraville",
+    "timestamp": "2026-05-23T22:56:20.670134"
+  },
+  {
+    "transaction_id": "94f920b1-2398-4e1d-ac74-9b928f0ae77c",
+    "user_id": "1920d058-5055-4ad1-bf76-114586f1e079",
+    "amount": 2832.42,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Salazarville",
+    "timestamp": "2026-05-23T22:56:21.171675"
+  },
+  {
+    "transaction_id": "093a6dea-eb96-4990-b687-25f509c77724",
+    "user_id": "3dc8c36c-e1da-453d-b6b8-56ccbd4ebc6e",
+    "amount": 2718.55,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Shannonport",
+    "timestamp": "2026-05-23T22:56:21.674519"
+  },
+  {
+    "transaction_id": "6045dc17-e461-48ee-8c16-64150acf618e",
+    "user_id": "067f22bc-3d74-4358-b5dd-3e5806abb017",
+    "amount": 1443.81,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Jessehaven",
+    "timestamp": "2026-05-23T22:56:22.175961"
+  },
+  {
+    "transaction_id": "3baba05b-e69b-40de-ab9d-f7a6b71b0a77",
+    "user_id": "d7a090ac-f0d7-49a3-8b58-8579922e07b3",
+    "amount": 6613.24,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Danielle",
+    "timestamp": "2026-05-23T22:56:22.677369"
+  },
+  {
+    "transaction_id": "d2f5fecc-3402-426d-bc5d-2d91a2449dec",
+    "user_id": "f04cda10-8b23-4c1b-bcca-0a423d5dffce",
+    "amount": 701.98,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Thomasmouth",
+    "timestamp": "2026-05-23T22:56:23.178881"
+  }
+]

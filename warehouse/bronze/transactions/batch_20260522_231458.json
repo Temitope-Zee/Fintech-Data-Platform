@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "468e8be4-2004-44e8-a9d4-5fc6970dfdb5",
+    "user_id": "4ddcbdb4-17da-4f27-9d71-e3117e0c0d35",
+    "amount": 1372.08,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Stephanie",
+    "timestamp": "2026-05-22T23:14:49.521326"
+  },
+  {
+    "transaction_id": "31610aae-dfb9-4af4-a93e-e016187f15ff",
+    "user_id": "e069bcb8-ae88-40de-a5b2-09aeb882c69e",
+    "amount": 4226.48,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Cody",
+    "timestamp": "2026-05-22T23:14:50.023794"
+  },
+  {
+    "transaction_id": "107d0abe-f190-4a7b-94e0-cccddd009ad4",
+    "user_id": "75b3ef06-0828-491e-95fb-51da96f73ba4",
+    "amount": 5830.85,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bryanstad",
+    "timestamp": "2026-05-22T23:14:51.529261"
+  },
+  {
+    "transaction_id": "ed68bec1-7d3c-4368-8d6a-eb8bdfb1fb13",
+    "user_id": "f7536c69-15be-4141-965b-c2f6cd1e2b80",
+    "amount": 8210.95,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Robinfort",
+    "timestamp": "2026-05-22T23:14:52.533423"
+  },
+  {
+    "transaction_id": "49066959-6d7d-4400-8762-5b2a4bdc772f",
+    "user_id": "3f262804-9142-4846-9b56-387d6c7ebfda",
+    "amount": 8537.28,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Andersonfort",
+    "timestamp": "2026-05-22T23:14:53.035117"
+  },
+  {
+    "transaction_id": "2a6eb2a5-d985-4118-a504-503cdbb09905",
+    "user_id": "af44809f-5d79-40d7-b849-597e9981c40c",
+    "amount": 1705.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Cuevasland",
+    "timestamp": "2026-05-22T23:14:53.536652"
+  },
+  {
+    "transaction_id": "d23c52e5-0551-40a5-8804-9b206d968607",
+    "user_id": "83065395-7a65-4363-bbfa-e8683075c34a",
+    "amount": 9282.13,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North John",
+    "timestamp": "2026-05-22T23:14:54.040441"
+  },
+  {
+    "transaction_id": "ca86a19e-55ff-408c-85b1-ca0a4da4677d",
+    "user_id": "aa8ebb83-c668-451b-980e-8b781bfcf6a1",
+    "amount": 2486.14,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Daniel",
+    "timestamp": "2026-05-22T23:14:55.547791"
+  },
+  {
+    "transaction_id": "b7bdde76-19b5-467e-92bd-6bec07da7355",
+    "user_id": "5ce28677-213b-4a70-9f07-0e76e52bd029",
+    "amount": 8577.27,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Adamsberg",
+    "timestamp": "2026-05-22T23:14:57.555292"
+  },
+  {
+    "transaction_id": "6042127d-67e8-4b64-a2d5-e952dccf47f4",
+    "user_id": "9f76815c-1656-4356-9e71-f92b01c5838b",
+    "amount": 3756.85,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Lake Robert",
+    "timestamp": "2026-05-22T23:14:58.058005"
+  }
+]

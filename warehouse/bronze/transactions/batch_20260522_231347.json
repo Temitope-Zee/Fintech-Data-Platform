@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "30e3db14-5e61-49c6-8cae-9bc769bae9d7",
+    "user_id": "64055b91-f533-4ffa-970e-6883b31c050e",
+    "amount": 3723.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Ricemouth",
+    "timestamp": "2026-05-22T23:13:41.248416"
+  },
+  {
+    "transaction_id": "6fbe4bc1-5820-4798-bd07-b773ecfa016c",
+    "user_id": "e5d79f64-827d-4ec2-8b3e-ed060a4d645a",
+    "amount": 4633.34,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Jillhaven",
+    "timestamp": "2026-05-22T23:13:41.750976"
+  },
+  {
+    "transaction_id": "7c5c18de-577f-4f6f-be99-fe19b9bbc202",
+    "user_id": "d1ad946c-3315-4b70-abe2-e5f43b10f579",
+    "amount": 3754.67,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jilltown",
+    "timestamp": "2026-05-22T23:13:43.254692"
+  },
+  {
+    "transaction_id": "72b2ed56-0aa3-4430-aea4-288411057b41",
+    "user_id": "0683aa7f-8d8e-40ae-a63c-5819fb7d8ca0",
+    "amount": 8850.99,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Jessicaville",
+    "timestamp": "2026-05-22T23:13:43.757623"
+  },
+  {
+    "transaction_id": "a07b8db7-e226-4e9c-abc2-58bf27912470",
+    "user_id": "20490f32-2ce5-48e7-9880-1c1ddce0ca4e",
+    "amount": 9459.52,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Huntertown",
+    "timestamp": "2026-05-22T23:13:44.260089"
+  },
+  {
+    "transaction_id": "36432998-a48a-4d42-9bb8-b011a8fe0fb6",
+    "user_id": "ae5324cc-8577-41a6-b95e-6414352d5f76",
+    "amount": 6800.28,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Jamesbury",
+    "timestamp": "2026-05-22T23:13:45.262800"
+  },
+  {
+    "transaction_id": "ccc2c3b3-14a0-465c-b2bb-c762649ad6b4",
+    "user_id": "65982f4a-6061-4f82-831c-8aced1d460fc",
+    "amount": 9360.22,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Christopher",
+    "timestamp": "2026-05-22T23:13:45.764376"
+  },
+  {
+    "transaction_id": "c19ed2da-9e0a-4841-bcd3-dc9cdb938da8",
+    "user_id": "9b8c71e9-ef10-42cc-afb3-9ade20e567ce",
+    "amount": 5605.94,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Joanview",
+    "timestamp": "2026-05-22T23:13:46.267004"
+  },
+  {
+    "transaction_id": "919cff94-d9d2-4b73-85ad-2e2fbfd8beb6",
+    "user_id": "195375ac-bf7a-4a57-ba57-5ccb4442f59a",
+    "amount": 9221.48,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Cynthialand",
+    "timestamp": "2026-05-22T23:13:47.270500"
+  },
+  {
+    "transaction_id": "adf38db0-85e1-4729-be8d-3bec1d35f820",
+    "user_id": "313e67c7-56d1-464a-9481-89c14b2c549e",
+    "amount": 9052.73,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Robert",
+    "timestamp": "2026-05-22T23:13:47.771503"
+  }
+]

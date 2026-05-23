@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5823f7c6-9940-4cd1-9c38-84a2dc4bd65c",
+    "user_id": "3ed9ae4a-a70f-4fe9-8e2d-6995f4ccaeed",
+    "amount": 595.01,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Stephanieside",
+    "timestamp": "2026-05-22T23:11:46.817348"
+  },
+  {
+    "transaction_id": "09023cb9-8047-4238-af6c-cff604b34c4d",
+    "user_id": "789793dc-c306-45ee-a64e-750093deeec4",
+    "amount": 500.52,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Bobby",
+    "timestamp": "2026-05-22T23:11:47.819575"
+  },
+  {
+    "transaction_id": "6d226111-af97-4ed7-a0a2-c52545f31571",
+    "user_id": "a37bebdd-068b-4d53-b5cd-01d9a8528ed2",
+    "amount": 4507.25,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Lisa",
+    "timestamp": "2026-05-22T23:11:48.321061"
+  },
+  {
+    "transaction_id": "0e4d2b8e-936b-49af-b54d-800b34464325",
+    "user_id": "aaf9de43-b0c2-4871-8902-f77294825a06",
+    "amount": 5020.4,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jefferyport",
+    "timestamp": "2026-05-22T23:11:48.824476"
+  },
+  {
+    "transaction_id": "d7f95673-bec8-43ce-a36c-cc3700234172",
+    "user_id": "68f44513-54f5-488a-a82e-eb411f7e9aea",
+    "amount": 3465.81,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Jody",
+    "timestamp": "2026-05-22T23:11:49.327669"
+  },
+  {
+    "transaction_id": "23bc513a-25c8-42ed-a9ae-fdff9a59a8f7",
+    "user_id": "b73926f3-0236-4278-9dd9-2c5f35e1f7ce",
+    "amount": 7028.1,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Christineborough",
+    "timestamp": "2026-05-22T23:11:49.829153"
+  },
+  {
+    "transaction_id": "ea51ac16-2618-4ce9-89da-a4741a9fb3f8",
+    "user_id": "8c781372-232e-4474-8e28-3e4bb426740a",
+    "amount": 9386.55,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Alisonshire",
+    "timestamp": "2026-05-22T23:11:50.330683"
+  },
+  {
+    "transaction_id": "0a86fbc6-3b75-4553-8cb8-53f70278216e",
+    "user_id": "7eefa19e-e992-4295-9536-ca36deb9a9f7",
+    "amount": 4800.4,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Christinabury",
+    "timestamp": "2026-05-22T23:11:50.832310"
+  },
+  {
+    "transaction_id": "b8cec539-9060-4876-861b-a36ed04b3047",
+    "user_id": "71705586-957a-452a-b331-359a060848d1",
+    "amount": 5871.41,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Josephberg",
+    "timestamp": "2026-05-22T23:11:51.333787"
+  },
+  {
+    "transaction_id": "fb644058-5566-4497-950e-16f915e0c57d",
+    "user_id": "f5c0f5a0-97ef-480b-9895-2b6b8c23fd7c",
+    "amount": 4561.67,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Williamberg",
+    "timestamp": "2026-05-22T23:11:51.836551"
+  }
+]

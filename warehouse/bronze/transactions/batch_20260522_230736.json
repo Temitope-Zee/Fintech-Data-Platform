@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9d490879-96f5-4133-86ba-9435dc27dcac",
+    "user_id": "163bf717-566e-43e7-b313-d64918049cfc",
+    "amount": 6766.41,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Jeffreyborough",
+    "timestamp": "2026-05-22T23:07:30.809675"
+  },
+  {
+    "transaction_id": "3c37c70f-ec90-4959-808f-77938145d313",
+    "user_id": "8632d0eb-8da3-4393-a567-f30eaaf91ae6",
+    "amount": 7713.08,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South James",
+    "timestamp": "2026-05-22T23:07:31.311930"
+  },
+  {
+    "transaction_id": "69c4db2b-cbe0-40f2-9410-02c4a0abf847",
+    "user_id": "7ebc89f5-b911-4509-bd6b-e0c8b3c3e7e3",
+    "amount": 9932.41,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Dennis",
+    "timestamp": "2026-05-22T23:07:32.316733"
+  },
+  {
+    "transaction_id": "49ba37f4-a3ca-4318-9a06-4ecd5135e84b",
+    "user_id": "2b02eb7a-9e76-4765-9e68-9efa6142b9e1",
+    "amount": 8137.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Ambermouth",
+    "timestamp": "2026-05-22T23:07:32.818404"
+  },
+  {
+    "transaction_id": "07d47c42-5b7e-46c2-962b-fc79e766e54a",
+    "user_id": "87bd0b1e-769e-4fa3-b82e-ba30382fa5a9",
+    "amount": 7956.77,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Kimberly",
+    "timestamp": "2026-05-22T23:07:33.320616"
+  },
+  {
+    "transaction_id": "3bd51ccd-dbed-42c4-adb9-82dbadcb4637",
+    "user_id": "44989971-f456-41dc-b49f-46a5061c33de",
+    "amount": 6096.59,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Hannahfort",
+    "timestamp": "2026-05-22T23:07:33.823120"
+  },
+  {
+    "transaction_id": "007e94b8-6a28-41c1-9d93-aecb23091b78",
+    "user_id": "138bc9c9-2031-451c-b5df-2447c227dc02",
+    "amount": 6082.07,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Teresashire",
+    "timestamp": "2026-05-22T23:07:34.325280"
+  },
+  {
+    "transaction_id": "8b36d6b7-0bf7-4941-b2aa-f231cf66e155",
+    "user_id": "05f88503-ca2f-4597-a457-3bcb74e97b26",
+    "amount": 2987.02,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Robert",
+    "timestamp": "2026-05-22T23:07:35.330277"
+  },
+  {
+    "transaction_id": "1732ad8d-2935-4caf-9485-50a4dc883df9",
+    "user_id": "5c6e47b6-9177-44b3-9d05-2bcb9b5c74f3",
+    "amount": 778.72,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Lisastad",
+    "timestamp": "2026-05-22T23:07:35.833167"
+  },
+  {
+    "transaction_id": "7f4ddee9-4051-481b-8921-841ed9200c81",
+    "user_id": "2da780a2-107f-4da9-8e12-f9e900cf9b56",
+    "amount": 2425.0,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jamesfurt",
+    "timestamp": "2026-05-22T23:07:36.334570"
+  }
+]

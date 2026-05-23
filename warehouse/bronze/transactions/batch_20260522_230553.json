@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d00aa4ac-7994-45a4-9474-4061d5686078",
+    "user_id": "c5841f1e-98c8-4e30-8170-90eaf903473c",
+    "amount": 8877.39,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "East Christinaside",
+    "timestamp": "2026-05-22T23:05:48.424401"
+  },
+  {
+    "transaction_id": "688ca2a4-fc08-47e2-a8a0-c7bc200b2bbf",
+    "user_id": "70c98b78-fe27-47f3-b42a-262ab4a720eb",
+    "amount": 2154.4,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Cantuchester",
+    "timestamp": "2026-05-22T23:05:48.925367"
+  },
+  {
+    "transaction_id": "e0b61615-9f31-4fc6-b361-f24a1830ccab",
+    "user_id": "f4e6349f-1184-4a18-8c0b-8c3958169f28",
+    "amount": 7290.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Amyton",
+    "timestamp": "2026-05-22T23:05:49.426837"
+  },
+  {
+    "transaction_id": "ec7a7450-ec7d-40b4-b6b4-2868fa69ceb3",
+    "user_id": "0b334b7e-c416-40d8-a855-16b4632cbebe",
+    "amount": 8878.42,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Rogertown",
+    "timestamp": "2026-05-22T23:05:50.430066"
+  },
+  {
+    "transaction_id": "bfea615c-c173-400d-9285-bd2b1c001aa3",
+    "user_id": "8f1e191d-ece9-40dd-9dee-c91270096a21",
+    "amount": 2031.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "East Samuelmouth",
+    "timestamp": "2026-05-22T23:05:50.931734"
+  },
+  {
+    "transaction_id": "3ad94c62-c522-44d7-99c2-565131dca4eb",
+    "user_id": "b66bd7de-5601-4e0c-9e6a-4e67172542f9",
+    "amount": 6760.58,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Port Paul",
+    "timestamp": "2026-05-22T23:05:51.434550"
+  },
+  {
+    "transaction_id": "d90afe64-928b-4337-b3d6-46c92eb5b576",
+    "user_id": "19b3fcb5-cc1e-4abb-a424-4071c37529b6",
+    "amount": 144.97,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Aaronberg",
+    "timestamp": "2026-05-22T23:05:52.440875"
+  },
+  {
+    "transaction_id": "6096d6eb-09ee-4acc-ac3d-3b4a2eb61a67",
+    "user_id": "0a9462ce-f592-49ea-9594-920f21ba7180",
+    "amount": 3709.32,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Turnerside",
+    "timestamp": "2026-05-22T23:05:52.942230"
+  },
+  {
+    "transaction_id": "8c65094f-883f-4da1-8810-6aa49f528832",
+    "user_id": "573b6564-02bf-4ee4-ac8c-0af1b8004e30",
+    "amount": 5742.86,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Arthurfort",
+    "timestamp": "2026-05-22T23:05:53.443616"
+  },
+  {
+    "transaction_id": "1f02b43f-502f-4d69-81fb-c3b6d4467da5",
+    "user_id": "988fdc50-386a-4db0-a697-da1a3aee7bd1",
+    "amount": 9646.24,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Rickey",
+    "timestamp": "2026-05-22T23:05:53.944756"
+  }
+]

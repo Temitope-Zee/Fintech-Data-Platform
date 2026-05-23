@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ada67e4b-6055-4a26-abe3-adef61bf4bce",
+    "user_id": "a0f7f5ad-3198-4e15-a122-1d23e386ff03",
+    "amount": 5954.74,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Louis",
+    "timestamp": "2026-05-23T22:54:34.255635"
+  },
+  {
+    "transaction_id": "4fabb2f5-8796-4a66-a19e-f2a751d48ec7",
+    "user_id": "fa546b10-09d6-433a-b9c6-5fb37f7b3c39",
+    "amount": 6242.87,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Christopherview",
+    "timestamp": "2026-05-23T22:54:34.757047"
+  },
+  {
+    "transaction_id": "7c786cfe-b280-4dfe-b448-3b84be9cb070",
+    "user_id": "901866af-6b40-41e5-9272-f7aa9119bd51",
+    "amount": 5582.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Robert",
+    "timestamp": "2026-05-23T22:54:35.258743"
+  },
+  {
+    "transaction_id": "472ebcfa-27b1-41bf-ae14-42e98641c841",
+    "user_id": "086d1f12-5579-4b0c-ad8c-7fd7c85d695d",
+    "amount": 8050.93,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Kyleside",
+    "timestamp": "2026-05-23T22:54:35.760209"
+  },
+  {
+    "transaction_id": "ed5a8071-d3bc-4439-aec5-5a3359af9603",
+    "user_id": "edfef401-a311-4128-bfc3-90c45ad9bdec",
+    "amount": 7122.64,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Janetport",
+    "timestamp": "2026-05-23T22:54:36.261557"
+  },
+  {
+    "transaction_id": "5c9323c0-63a6-4f68-af3d-ce0871b35117",
+    "user_id": "e51c18e2-f9a7-4784-a08c-328379e0cf06",
+    "amount": 7974.09,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Kevinhaven",
+    "timestamp": "2026-05-23T22:54:36.762894"
+  },
+  {
+    "transaction_id": "a8877bd9-3ca7-4e4e-8468-1a85f92f0231",
+    "user_id": "c0859b7d-1901-4760-ae12-df19ceb272f0",
+    "amount": 4236.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Fullerstad",
+    "timestamp": "2026-05-23T22:54:37.265828"
+  },
+  {
+    "transaction_id": "b276123b-a46b-428c-814d-c8da72d3cf78",
+    "user_id": "65facd03-19ad-4150-b7df-6abdf5dc0464",
+    "amount": 1305.59,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Paul",
+    "timestamp": "2026-05-23T22:54:37.767273"
+  },
+  {
+    "transaction_id": "82a7a7db-4e5b-4a74-8885-eb1bdf0f0d46",
+    "user_id": "717a9fc2-27e9-44d4-9b4f-e920a2484858",
+    "amount": 3200.51,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Rebecca",
+    "timestamp": "2026-05-23T22:54:38.269477"
+  },
+  {
+    "transaction_id": "3c823618-243b-4cb1-86e0-518c45cd4e1c",
+    "user_id": "bfa8b625-38e3-4007-be59-de0e8c01aa82",
+    "amount": 3030.57,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Andrewshire",
+    "timestamp": "2026-05-23T22:54:40.276740"
+  }
+]

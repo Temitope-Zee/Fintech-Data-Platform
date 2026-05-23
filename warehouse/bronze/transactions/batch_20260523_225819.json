@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7972e458-be6d-470b-834c-79c5c7f7fe39",
+    "user_id": "8bcfea6a-e3cf-4839-84e9-24f918866c89",
+    "amount": 6126.58,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Rossberg",
+    "timestamp": "2026-05-23T22:58:14.082236"
+  },
+  {
+    "transaction_id": "a79a5c90-7519-4216-b857-62f3bb5b75b0",
+    "user_id": "894afa56-f721-4eaf-b2a4-f092173db2b7",
+    "amount": 6373.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wandaborough",
+    "timestamp": "2026-05-23T22:58:14.583309"
+  },
+  {
+    "transaction_id": "3c318e41-0b41-4d00-b2f0-a10053c5dcdf",
+    "user_id": "d5f71424-7ad3-4ac8-be37-3f3bc8c96b56",
+    "amount": 2141.81,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Gary",
+    "timestamp": "2026-05-23T22:58:15.084411"
+  },
+  {
+    "transaction_id": "efe1e2f5-3c89-4797-8aa5-6df8639add50",
+    "user_id": "c5dbf827-6b8f-426d-876e-2dd3389b06f0",
+    "amount": 4061.45,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Shannontown",
+    "timestamp": "2026-05-23T22:58:15.586398"
+  },
+  {
+    "transaction_id": "4d0eac7c-874a-49b7-b3f1-4956b4471c63",
+    "user_id": "f6571f0d-3723-48b4-b216-1a066d444a79",
+    "amount": 65.29,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Desiree",
+    "timestamp": "2026-05-23T22:58:16.087310"
+  },
+  {
+    "transaction_id": "61f9600b-b12c-4934-a4ce-bc8bdaa37e8b",
+    "user_id": "1370b88d-0569-4d7b-b8a0-da473e10ac71",
+    "amount": 3232.82,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "New Jeffrey",
+    "timestamp": "2026-05-23T22:58:16.588332"
+  },
+  {
+    "transaction_id": "f01727ab-7b8c-4f48-a826-0616f73b5bcb",
+    "user_id": "c8a6360a-a2ab-43f6-b82a-16cd8ad471d9",
+    "amount": 1040.44,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Emilyland",
+    "timestamp": "2026-05-23T22:58:17.591220"
+  },
+  {
+    "transaction_id": "be056880-0951-4036-a87b-86010d8b8744",
+    "user_id": "54272a0d-8bf1-4839-8e97-3beac295af33",
+    "amount": 1710.35,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Khanfort",
+    "timestamp": "2026-05-23T22:58:18.092527"
+  },
+  {
+    "transaction_id": "d672ad40-b305-434c-897b-4389c632f42f",
+    "user_id": "c5b9f8b0-2289-4b10-a32b-80547c718f87",
+    "amount": 1968.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Heather",
+    "timestamp": "2026-05-23T22:58:18.594396"
+  },
+  {
+    "transaction_id": "fdf252e9-e6e4-480b-8d03-9294c35f7f93",
+    "user_id": "a189f54e-f79e-4110-9c70-2045704bd0eb",
+    "amount": 5029.01,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Fergusonside",
+    "timestamp": "2026-05-23T22:58:19.096763"
+  }
+]

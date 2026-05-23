@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "691434bb-ccf5-4f1e-b55e-353ef488454b",
+    "user_id": "05c9dd7b-1602-4a4b-a53b-2a2020465667",
+    "amount": 6304.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Brendashire",
+    "timestamp": "2026-05-23T23:00:12.503194"
+  },
+  {
+    "transaction_id": "0815bc9c-f2be-41ec-b41e-504db4c0c327",
+    "user_id": "c9fee444-a604-4f37-a852-5268cd9b16d3",
+    "amount": 542.31,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Tracy",
+    "timestamp": "2026-05-23T23:00:13.004622"
+  },
+  {
+    "transaction_id": "85abcccd-6855-4806-9adb-8633eddccc88",
+    "user_id": "3ff2a5ba-2819-4f61-b9f9-a4bc5904e40b",
+    "amount": 3482.37,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Michelle",
+    "timestamp": "2026-05-23T23:00:13.503811"
+  },
+  {
+    "transaction_id": "4a4e511e-87a8-46ae-be84-29519aaf0e7a",
+    "user_id": "eb7b9850-964b-4c7c-a0a6-79e16b362529",
+    "amount": 4941.89,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Heather",
+    "timestamp": "2026-05-23T23:00:14.006696"
+  },
+  {
+    "transaction_id": "ca0279cd-d708-4dc7-8bbf-33a3cf755313",
+    "user_id": "af442fdb-c2d7-44e7-b201-8fa748e08e72",
+    "amount": 1021.44,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Thomasbury",
+    "timestamp": "2026-05-23T23:00:14.508140"
+  },
+  {
+    "transaction_id": "944afcb3-08a2-4374-b4fa-b0eff7f8a6db",
+    "user_id": "9010e8c9-7660-43a8-871e-784c249043b0",
+    "amount": 2766.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Robert",
+    "timestamp": "2026-05-23T23:00:16.014005"
+  },
+  {
+    "transaction_id": "15be3ce0-5362-41ab-a192-17e5bd0a299e",
+    "user_id": "4d185109-a9b8-4b8e-b1bc-bf049b1a5d08",
+    "amount": 5984.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Maysfort",
+    "timestamp": "2026-05-23T23:00:17.019358"
+  },
+  {
+    "transaction_id": "79c26682-8ff0-40d7-ad6a-2ccfce7a06cb",
+    "user_id": "326165c0-640f-493f-91c1-de4521ffd8fe",
+    "amount": 6947.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Melissaton",
+    "timestamp": "2026-05-23T23:00:17.521633"
+  },
+  {
+    "transaction_id": "f3b39f73-1760-4611-91c1-971eb77217f1",
+    "user_id": "53de06a9-9b8a-404a-9bbe-5fd3c633e6dc",
+    "amount": 5463.11,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Megan",
+    "timestamp": "2026-05-23T23:00:18.023474"
+  },
+  {
+    "transaction_id": "5b6ef17a-ebf0-44c0-9b50-42a655c0003e",
+    "user_id": "c943c783-60eb-4ba4-aedb-316421d8fecc",
+    "amount": 2086.04,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Edwardhaven",
+    "timestamp": "2026-05-23T23:00:18.526509"
+  }
+]

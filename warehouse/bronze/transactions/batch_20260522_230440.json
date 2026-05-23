@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a0d8c3ad-872f-4bda-bc45-14c534f7f519",
+    "user_id": "173cfebe-c524-49fb-b148-8c70ab60462c",
+    "amount": 9178.94,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Kathleenfurt",
+    "timestamp": "2026-05-22T23:04:34.126093"
+  },
+  {
+    "transaction_id": "ac2d2525-575c-4189-a299-21b854637a5a",
+    "user_id": "8c4ca8ba-c8db-49eb-be22-16a985f950ff",
+    "amount": 510.91,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Michaelville",
+    "timestamp": "2026-05-22T23:04:34.627701"
+  },
+  {
+    "transaction_id": "a3803d1d-8857-43ad-ad65-c2e5e319f50a",
+    "user_id": "3c421609-0931-4725-8c94-7c9375836d91",
+    "amount": 9666.03,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Rebeccafort",
+    "timestamp": "2026-05-22T23:04:35.128943"
+  },
+  {
+    "transaction_id": "40c70435-4206-4aa1-b96c-68b54e6f67d0",
+    "user_id": "6982bce4-c6f3-4050-8e6f-339148e20000",
+    "amount": 2590.5,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Sarahshire",
+    "timestamp": "2026-05-22T23:04:35.630427"
+  },
+  {
+    "transaction_id": "77270b53-5230-489b-9bcb-4d2380e1ea03",
+    "user_id": "ab4f4dbb-2a8e-4980-b0f8-f51693c0ddee",
+    "amount": 2610.28,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Veronicachester",
+    "timestamp": "2026-05-22T23:04:36.132999"
+  },
+  {
+    "transaction_id": "a7fffb3d-0496-4032-a494-ff61a45db71a",
+    "user_id": "053e37be-43e3-4608-9a81-4d818d6beb50",
+    "amount": 9415.67,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Franciscomouth",
+    "timestamp": "2026-05-22T23:04:37.137719"
+  },
+  {
+    "transaction_id": "75629ce1-52ce-45ba-88f8-3d837b9204b7",
+    "user_id": "8d90dbdc-4408-4c6b-8e05-2ab58b31041f",
+    "amount": 338.01,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Hensleyview",
+    "timestamp": "2026-05-22T23:04:37.641168"
+  },
+  {
+    "transaction_id": "2d3c4d48-7d45-4f35-a5af-e20f469a8f6a",
+    "user_id": "62b9776f-a80f-4b8d-af80-42168fb18421",
+    "amount": 2371.7,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Amanda",
+    "timestamp": "2026-05-22T23:04:38.647574"
+  },
+  {
+    "transaction_id": "e44284d3-9a37-40c4-8a0f-36e99ae1d452",
+    "user_id": "dbab9edd-ac78-43c1-b8dc-3b2006c93ebf",
+    "amount": 8977.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Rodriguezville",
+    "timestamp": "2026-05-22T23:04:39.149079"
+  },
+  {
+    "transaction_id": "24be0660-edeb-4bc8-be20-0b200e655e3b",
+    "user_id": "faada3a7-4d21-4f71-9f9f-069641e927af",
+    "amount": 5976.43,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Joshuaberg",
+    "timestamp": "2026-05-22T23:04:40.154882"
+  }
+]

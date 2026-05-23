@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "94a447ef-1ab8-4cfc-879c-93d3cb799088",
+    "user_id": "2fb7ca0a-33b2-4cc7-ac62-9e4a02fdaa9e",
+    "amount": 4479.83,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Jessicabury",
+    "timestamp": "2026-05-22T23:06:55.680100"
+  },
+  {
+    "transaction_id": "459b04a5-1679-48be-8531-df61eff42be4",
+    "user_id": "bc5d3b62-1e24-4468-acbf-8f82cdbc143a",
+    "amount": 8427.71,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Seanview",
+    "timestamp": "2026-05-22T23:06:56.182766"
+  },
+  {
+    "transaction_id": "9af72bd4-9fdd-49f2-80df-eb8aa8fc9a8a",
+    "user_id": "0501dd72-1cbd-4a6f-bf7e-889ac5bc3988",
+    "amount": 2225.83,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Kennethborough",
+    "timestamp": "2026-05-22T23:06:56.685925"
+  },
+  {
+    "transaction_id": "4612102a-172a-4d1c-91ec-00cabd5cf3fd",
+    "user_id": "f483ab69-f2b3-4154-8da5-92739d8ed935",
+    "amount": 9443.56,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Juliefort",
+    "timestamp": "2026-05-22T23:06:57.182432"
+  },
+  {
+    "transaction_id": "3c08dad7-67bb-4e74-b26a-16b0c72a3987",
+    "user_id": "ee7c16d1-ff14-4935-a445-7b712daf3db9",
+    "amount": 3040.63,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Vaughnchester",
+    "timestamp": "2026-05-22T23:06:57.684609"
+  },
+  {
+    "transaction_id": "9ee11d0a-c45d-47a2-a6d0-7e2c4740b93a",
+    "user_id": "c990f545-299f-4219-966d-421fc73d854d",
+    "amount": 4804.62,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Danielstad",
+    "timestamp": "2026-05-22T23:06:58.187153"
+  },
+  {
+    "transaction_id": "f949e8ee-7011-466b-9b45-e006d1bf18bf",
+    "user_id": "d09648ad-0635-4873-b4f8-f3a1f18b87a2",
+    "amount": 8912.37,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Tammieview",
+    "timestamp": "2026-05-22T23:06:58.689084"
+  },
+  {
+    "transaction_id": "07389448-f138-45bb-9314-f1848891e8f4",
+    "user_id": "850861d3-86b9-48bb-96c2-75894c98562c",
+    "amount": 7753.15,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Josephhaven",
+    "timestamp": "2026-05-22T23:06:59.191094"
+  },
+  {
+    "transaction_id": "0b7eb069-0e63-4c74-89a0-b79ccfe16dbd",
+    "user_id": "1d52542f-1536-4080-8c13-91dc50615d94",
+    "amount": 9537.01,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Reynoldsmouth",
+    "timestamp": "2026-05-22T23:07:00.194565"
+  },
+  {
+    "transaction_id": "49d21a57-0d37-42ef-bec3-b5bb5fa8d310",
+    "user_id": "2ba29d39-05ec-4740-9103-48f9e5f17296",
+    "amount": 1624.5,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Johnsonland",
+    "timestamp": "2026-05-22T23:07:00.696564"
+  }
+]

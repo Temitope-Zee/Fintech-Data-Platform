@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0c3048da-4b84-4ee6-a635-d180f652f310",
+    "user_id": "0dc559da-ffa3-420c-ae48-c7911630f895",
+    "amount": 4324.72,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Millerfurt",
+    "timestamp": "2026-05-22T23:14:38.476699"
+  },
+  {
+    "transaction_id": "38defe5b-be4d-423f-9415-44808fe10b4d",
+    "user_id": "f62812d1-dfc4-4056-80d1-35c5df2fd116",
+    "amount": 4925.01,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jesseview",
+    "timestamp": "2026-05-22T23:14:38.978624"
+  },
+  {
+    "transaction_id": "c4a77b95-f021-426f-8927-b672a84f0f5b",
+    "user_id": "9c21c3ba-7a88-47f7-af77-f2276c015632",
+    "amount": 8562.1,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Ramirezview",
+    "timestamp": "2026-05-22T23:14:39.481652"
+  },
+  {
+    "transaction_id": "8d2ccee5-7bc6-4ab3-8095-7807c2bfa55b",
+    "user_id": "b9a64eac-39df-4548-9880-4292d38b8237",
+    "amount": 7513.74,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Stevenport",
+    "timestamp": "2026-05-22T23:14:39.984539"
+  },
+  {
+    "transaction_id": "51f3aefd-10aa-45f7-a9fc-0db0b3a85c7c",
+    "user_id": "8383b533-b4ac-48e6-bfdc-a647480a8124",
+    "amount": 2485.93,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Fergusonstad",
+    "timestamp": "2026-05-22T23:14:40.486512"
+  },
+  {
+    "transaction_id": "17587460-5d6c-4d8a-9b4f-67a83a3d1bde",
+    "user_id": "70b84492-df89-4644-8d3f-c15b41bc50e7",
+    "amount": 7701.93,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Leahton",
+    "timestamp": "2026-05-22T23:14:40.989229"
+  },
+  {
+    "transaction_id": "3fc2955f-5e54-4789-98d8-2997fd8a52de",
+    "user_id": "454875ba-1743-4c4d-86b8-3604927ecdf5",
+    "amount": 9860.29,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Megan",
+    "timestamp": "2026-05-22T23:14:41.491005"
+  },
+  {
+    "transaction_id": "3c20a9de-ffe2-4c9c-8cfd-535958c76cf0",
+    "user_id": "cca769b9-d307-4a53-bc51-02fb2df5e3bc",
+    "amount": 9875.93,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jenniferport",
+    "timestamp": "2026-05-22T23:14:42.495141"
+  },
+  {
+    "transaction_id": "7bb41076-a5d2-4263-9da4-2924421afdb0",
+    "user_id": "b16444d7-3ae3-493f-ac81-a46181e00c3e",
+    "amount": 1125.93,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Richardsville",
+    "timestamp": "2026-05-22T23:14:42.996695"
+  },
+  {
+    "transaction_id": "38bed9d8-c40c-4cc3-a45f-7ef5587b57a2",
+    "user_id": "2029c6e7-8e42-490b-b6e4-fe3c1b54bac8",
+    "amount": 8774.67,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Taraton",
+    "timestamp": "2026-05-22T23:14:43.498347"
+  }
+]

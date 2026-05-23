@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "308027a9-d3cd-450d-a4c7-e60b0ac7dab5",
+    "user_id": "029155e9-a3f3-42c1-96cd-403b7ab81c1b",
+    "amount": 2423.36,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Davisfort",
+    "timestamp": "2026-05-22T23:17:41.239025"
+  },
+  {
+    "transaction_id": "a3c7a9f1-c4a5-47b8-90b8-3fddfb4f9038",
+    "user_id": "9f3d992e-7638-4176-b312-8c970daa01cf",
+    "amount": 9025.62,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Morrisbury",
+    "timestamp": "2026-05-22T23:17:41.740737"
+  },
+  {
+    "transaction_id": "89120ef6-dbcd-4730-b498-761f71669c62",
+    "user_id": "59afb309-024a-4837-befd-828ef2d6eb7e",
+    "amount": 6892.66,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Carlamouth",
+    "timestamp": "2026-05-22T23:17:42.242190"
+  },
+  {
+    "transaction_id": "a7a141d6-2c10-43aa-9984-4b4d319e8ce7",
+    "user_id": "f334e8f0-209d-4e65-b22b-53edfc274897",
+    "amount": 4284.16,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Matthewstad",
+    "timestamp": "2026-05-22T23:17:42.744907"
+  },
+  {
+    "transaction_id": "6eac1e75-7f30-4c76-8d92-53fcd0641213",
+    "user_id": "697efbc6-cb32-4e33-9540-05db7d04414b",
+    "amount": 7766.96,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Millerchester",
+    "timestamp": "2026-05-22T23:17:43.247788"
+  },
+  {
+    "transaction_id": "810f7c6b-8d2b-4a93-9571-678ec1122c58",
+    "user_id": "43899195-6d49-4e70-9597-7a02a0252dd6",
+    "amount": 9760.24,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Davisburgh",
+    "timestamp": "2026-05-22T23:17:43.750550"
+  },
+  {
+    "transaction_id": "08f588c4-a7eb-4b29-a918-ea887ffe82a0",
+    "user_id": "679db685-9572-4cce-9a30-641763b3ac10",
+    "amount": 5659.79,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Janet",
+    "timestamp": "2026-05-22T23:17:44.753446"
+  },
+  {
+    "transaction_id": "1a8debfc-72c9-48cb-84dc-9eb665fc0ddc",
+    "user_id": "858c8f17-2e46-4fea-9aa7-e546f4794d62",
+    "amount": 7865.46,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Kelseymouth",
+    "timestamp": "2026-05-22T23:17:45.255144"
+  },
+  {
+    "transaction_id": "be8038b8-b8de-45b7-a5c9-ebdc89d42e6d",
+    "user_id": "4ed0a819-3c9c-4962-acae-55d15fdd7d70",
+    "amount": 7926.51,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Isaacland",
+    "timestamp": "2026-05-22T23:17:45.757341"
+  },
+  {
+    "transaction_id": "d6e40d0a-6c61-4948-a7de-fbadaeed4c23",
+    "user_id": "b42f1274-9c59-4cf3-a912-fc6e01e9f51b",
+    "amount": 3120.29,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Phillipsbury",
+    "timestamp": "2026-05-22T23:17:46.258718"
+  }
+]

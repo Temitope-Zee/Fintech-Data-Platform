@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f8b60bb4-8ad8-4fee-83af-5eccbfe69fbe",
+    "user_id": "daa14325-f760-491d-844f-becb0e7b4a81",
+    "amount": 5066.69,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Carriestad",
+    "timestamp": "2026-05-22T23:04:59.240906"
+  },
+  {
+    "transaction_id": "cfe5183d-e5e8-449d-b840-2990e2539e1a",
+    "user_id": "9a49f65e-6293-4206-83f3-e319fc12c861",
+    "amount": 673.41,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Thomasport",
+    "timestamp": "2026-05-22T23:04:59.742099"
+  },
+  {
+    "transaction_id": "436044be-dad2-4968-8be7-178b172ef160",
+    "user_id": "1c50baa0-bbe0-4f4f-8325-ffd436877d21",
+    "amount": 3715.06,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Andrewville",
+    "timestamp": "2026-05-22T23:05:00.243897"
+  },
+  {
+    "transaction_id": "df27c075-1084-4ff2-8ff6-3efff832221d",
+    "user_id": "27e2d915-1671-40c3-9cc6-1896ea6da3a1",
+    "amount": 3541.07,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Mitchellport",
+    "timestamp": "2026-05-22T23:05:00.746296"
+  },
+  {
+    "transaction_id": "4afa869d-40d5-43be-9082-d16597b3ad7e",
+    "user_id": "e0a494df-ae5d-4acb-9628-6e4071a3e3a5",
+    "amount": 4109.25,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Frankberg",
+    "timestamp": "2026-05-22T23:05:01.248425"
+  },
+  {
+    "transaction_id": "f7856146-92f2-4b38-8424-4072929a785e",
+    "user_id": "365eb597-1eda-420b-b0fd-891b9490bb3c",
+    "amount": 5601.74,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Wilkersonport",
+    "timestamp": "2026-05-22T23:05:01.749694"
+  },
+  {
+    "transaction_id": "3ce681a7-123b-4c09-a6f6-4471938bd7e4",
+    "user_id": "0cec85ef-7d23-4f35-9f9e-65b459b680f0",
+    "amount": 2657.43,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Patricia",
+    "timestamp": "2026-05-22T23:05:02.251255"
+  },
+  {
+    "transaction_id": "17848429-5218-4962-a227-4a57152a7494",
+    "user_id": "5417cb79-f741-44ad-b565-2b5efe2f6f02",
+    "amount": 4316.53,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Rogersbury",
+    "timestamp": "2026-05-22T23:05:02.752842"
+  },
+  {
+    "transaction_id": "166425f2-6d40-4e88-a5b0-1d1762712413",
+    "user_id": "cf922849-45ce-4508-95cc-d7d67d7dd3c6",
+    "amount": 9887.65,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "East Larryshire",
+    "timestamp": "2026-05-22T23:05:03.255122"
+  },
+  {
+    "transaction_id": "ac44b417-331e-4b3f-88c6-490400da4acd",
+    "user_id": "c8ce5fb7-28bf-430d-af96-40535e0bf510",
+    "amount": 1307.62,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Juliemouth",
+    "timestamp": "2026-05-22T23:05:03.757064"
+  }
+]

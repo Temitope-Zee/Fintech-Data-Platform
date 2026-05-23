@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3b345eb1-de56-4460-9b91-4dff7d3cefef",
+    "user_id": "231cd9e4-6445-4717-afa8-55b4cc05de6b",
+    "amount": 5615.47,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Cynthiaport",
+    "timestamp": "2026-05-23T23:00:37.088891"
+  },
+  {
+    "transaction_id": "8b6d1394-73c4-4872-a219-74e62ac3d91c",
+    "user_id": "b085ce95-f283-4f11-b710-04dffcca0964",
+    "amount": 9689.71,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Rebeccaborough",
+    "timestamp": "2026-05-23T23:00:37.590323"
+  },
+  {
+    "transaction_id": "017d3cb6-0040-424a-930a-05ec0ae8c01d",
+    "user_id": "1fb5d64e-e24c-4490-81e0-c2d8d683f71e",
+    "amount": 2952.92,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Lake Dustin",
+    "timestamp": "2026-05-23T23:00:38.091405"
+  },
+  {
+    "transaction_id": "fb22ecd8-6cc9-4d56-b232-49da36374ee5",
+    "user_id": "c7da38eb-a981-4b26-9a60-424be458620f",
+    "amount": 2092.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Grant",
+    "timestamp": "2026-05-23T23:00:38.592340"
+  },
+  {
+    "transaction_id": "76e82a8a-8b2e-43c1-bf70-6b19fc602c6c",
+    "user_id": "1a84d4d6-a393-4f0d-a802-27feaf3d318a",
+    "amount": 524.02,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Hamiltonshire",
+    "timestamp": "2026-05-23T23:00:39.596543"
+  },
+  {
+    "transaction_id": "a64f01b6-194f-4ec5-97f5-b02290b95941",
+    "user_id": "1e9270b8-9ac3-4511-b9b6-35d5b2cefe43",
+    "amount": 5013.93,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Marshallview",
+    "timestamp": "2026-05-23T23:00:40.098978"
+  },
+  {
+    "transaction_id": "81d1bd90-e5b9-4fd4-abf0-1e953876e6de",
+    "user_id": "63d269be-efff-4de1-a62e-d3380cbb0f6d",
+    "amount": 5380.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Williamshaven",
+    "timestamp": "2026-05-23T23:00:40.601356"
+  },
+  {
+    "transaction_id": "9081457e-b958-4a83-9df3-57512464de0f",
+    "user_id": "9d561363-de56-44c8-ad2e-ad5015f6c6cf",
+    "amount": 3771.01,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Charles",
+    "timestamp": "2026-05-23T23:00:41.103782"
+  },
+  {
+    "transaction_id": "e4d5972d-0888-446e-abde-0534b50230d0",
+    "user_id": "74c8e861-3e5d-4eec-9d16-3ae5147ada47",
+    "amount": 3412.58,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jaclynside",
+    "timestamp": "2026-05-23T23:00:41.606291"
+  },
+  {
+    "transaction_id": "a810595a-2c7d-460b-becf-317fd41d4f3c",
+    "user_id": "7100bbc2-e97b-460b-a91e-58183fe3bf54",
+    "amount": 3089.27,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South James",
+    "timestamp": "2026-05-23T23:00:42.107905"
+  }
+]

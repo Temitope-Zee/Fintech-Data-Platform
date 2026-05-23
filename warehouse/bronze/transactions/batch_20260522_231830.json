@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "783a92b4-98d5-413c-81f7-cfd74133835a",
+    "user_id": "0565f946-b870-41a6-b923-19df6f8e0077",
+    "amount": 2411.54,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Sparksfurt",
+    "timestamp": "2026-05-22T23:18:24.895274"
+  },
+  {
+    "transaction_id": "d30627fa-6c3f-44f0-bb77-1a560970988f",
+    "user_id": "e9567c43-01cd-4b01-997e-85872feedf97",
+    "amount": 4471.13,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Angel",
+    "timestamp": "2026-05-22T23:18:25.396848"
+  },
+  {
+    "transaction_id": "b161f64b-08dd-4a3b-b96b-f43adf8269f8",
+    "user_id": "e81462d1-626f-456e-a59b-5f8715d4f39e",
+    "amount": 4598.08,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Alexander",
+    "timestamp": "2026-05-22T23:18:25.898632"
+  },
+  {
+    "transaction_id": "fa136496-2ae8-4cd5-b089-fa779e92b4a3",
+    "user_id": "57c67bba-20ce-4641-abbd-8afe618d7640",
+    "amount": 8435.81,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Chadtown",
+    "timestamp": "2026-05-22T23:18:26.400189"
+  },
+  {
+    "transaction_id": "2df7ade8-a37c-47eb-841e-5bcd49956694",
+    "user_id": "c941e494-04d3-4ee8-8dec-fbd1916d6ecd",
+    "amount": 3557.92,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Darleneview",
+    "timestamp": "2026-05-22T23:18:26.901848"
+  },
+  {
+    "transaction_id": "c9e0df48-3be8-46ee-a4d1-aa483ed7b1bb",
+    "user_id": "d056e32e-7eb2-43db-b8f7-98e8aa7ff7a5",
+    "amount": 6912.35,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Harrisside",
+    "timestamp": "2026-05-22T23:18:27.399696"
+  },
+  {
+    "transaction_id": "e6a44d28-1e5d-4a2e-a49a-679b85ccbda6",
+    "user_id": "cf659caa-b32b-4803-a12a-fa99b39052a0",
+    "amount": 2458.0,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Wardfort",
+    "timestamp": "2026-05-22T23:18:27.901221"
+  },
+  {
+    "transaction_id": "04d401cf-3f8e-4c27-9831-3a70fd23701d",
+    "user_id": "907de612-d88a-45d3-bcf2-1312ea15b982",
+    "amount": 4763.51,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Mark",
+    "timestamp": "2026-05-22T23:18:28.402022"
+  },
+  {
+    "transaction_id": "24e09c22-ba2c-4f1d-bea6-1352a00451c7",
+    "user_id": "c591415b-c50e-4440-b473-e0daeed7caaf",
+    "amount": 9735.58,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Jessicatown",
+    "timestamp": "2026-05-22T23:18:29.904266"
+  },
+  {
+    "transaction_id": "cdf637d9-3da7-48dc-9ee5-32337f679ec3",
+    "user_id": "ca493d1e-3da7-44a7-8169-9c748a17c10b",
+    "amount": 1435.46,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Douglas",
+    "timestamp": "2026-05-22T23:18:30.404785"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ecc6113e-779a-4b87-9f06-bcdad950541f",
+    "user_id": "8bc72fd3-0fac-47ba-91c5-6d3b1f73b9e8",
+    "amount": 3521.31,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Johnmouth",
+    "timestamp": "2026-05-23T22:54:51.821837"
+  },
+  {
+    "transaction_id": "789b8e7c-be58-4258-b2df-c3878bba0205",
+    "user_id": "f9d30af8-4e01-498f-88f9-50eec2faf447",
+    "amount": 2017.94,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Cherylville",
+    "timestamp": "2026-05-23T22:54:52.324166"
+  },
+  {
+    "transaction_id": "e0f7f88f-9873-497c-b612-34062f909eb3",
+    "user_id": "5ce20816-2a72-45af-a4ce-ef902d588c91",
+    "amount": 4610.57,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Port Bethany",
+    "timestamp": "2026-05-23T22:54:52.825841"
+  },
+  {
+    "transaction_id": "8d725086-b9a3-49fa-88bc-8b20e3fdb8df",
+    "user_id": "0c7a7384-6a23-411d-9bce-ff69dfdb9508",
+    "amount": 3146.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Josephville",
+    "timestamp": "2026-05-23T22:54:53.326638"
+  },
+  {
+    "transaction_id": "54313d3b-df9b-43f5-b810-52c3e0a9b860",
+    "user_id": "22ec42bb-943b-46d5-89fe-36dadb3b4203",
+    "amount": 6556.1,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Manuel",
+    "timestamp": "2026-05-23T22:54:53.827552"
+  },
+  {
+    "transaction_id": "2c136450-e0d9-4cb1-ac29-5856b93574cb",
+    "user_id": "10b65987-7911-4087-b79b-13da0b288086",
+    "amount": 7903.35,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Kristinamouth",
+    "timestamp": "2026-05-23T22:54:54.328288"
+  },
+  {
+    "transaction_id": "77d199ec-dfa3-4175-bd23-e363750edb89",
+    "user_id": "3ae56a62-d3f0-4a56-b634-b367eb75eff0",
+    "amount": 5648.92,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Rodrigueztown",
+    "timestamp": "2026-05-23T22:54:54.829200"
+  },
+  {
+    "transaction_id": "73f40449-47dc-490a-8551-bca3484c69ab",
+    "user_id": "7b91a730-d9ff-4b32-a92c-5a568aac75d0",
+    "amount": 7828.72,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Toddshire",
+    "timestamp": "2026-05-23T22:54:55.330065"
+  },
+  {
+    "transaction_id": "483b486c-614e-47cb-9291-515d849db823",
+    "user_id": "2fd6274a-2ec7-44c7-be16-c24d27355097",
+    "amount": 1986.37,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Juliaside",
+    "timestamp": "2026-05-23T22:54:55.831701"
+  },
+  {
+    "transaction_id": "05508221-c489-45dd-a79e-2a3847b1f128",
+    "user_id": "40e52286-616a-4891-b433-a597bc563eb6",
+    "amount": 6139.01,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Valerieborough",
+    "timestamp": "2026-05-23T22:54:56.835620"
+  }
+]

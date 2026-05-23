@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "47c30d4d-a669-42a2-87f0-b27555e8b3ea",
+    "user_id": "adf61e7a-9c2b-4712-b2c7-5402d91e75b0",
+    "amount": 8146.29,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Brittany",
+    "timestamp": "2026-05-23T22:55:15.897401"
+  },
+  {
+    "transaction_id": "e050d083-57e8-46f7-8716-cd5ed24d9bb6",
+    "user_id": "6210beb3-5907-4ac5-aeec-9c972f4cb877",
+    "amount": 4707.86,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Mark",
+    "timestamp": "2026-05-23T22:55:16.399871"
+  },
+  {
+    "transaction_id": "59c37255-ce1d-4a0c-ba1a-00767d59a564",
+    "user_id": "898830b4-8c92-4fd4-805e-fa03dcfb0e49",
+    "amount": 6084.44,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Anna",
+    "timestamp": "2026-05-23T22:55:16.901422"
+  },
+  {
+    "transaction_id": "0712b8e3-12dd-4415-890f-30baac46fa6e",
+    "user_id": "4f1eea33-bf0a-445b-ac26-a4045c497d0f",
+    "amount": 7952.99,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Jermaine",
+    "timestamp": "2026-05-23T22:55:19.412745"
+  },
+  {
+    "transaction_id": "33eb35db-1317-4281-933c-a4a1173e3f05",
+    "user_id": "f4ec2f37-bbe1-412a-8b9c-39caf271a051",
+    "amount": 5293.05,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Sarahland",
+    "timestamp": "2026-05-23T22:55:19.915621"
+  },
+  {
+    "transaction_id": "a30e3a4a-1c84-4d7a-9723-3dc698e93100",
+    "user_id": "921e925b-f399-4bd1-a62e-70f473cefb98",
+    "amount": 8709.06,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Stevemouth",
+    "timestamp": "2026-05-23T22:55:20.417297"
+  },
+  {
+    "transaction_id": "e4200984-37a5-4564-8ff2-705ffa0a2e2a",
+    "user_id": "86d69e9f-015c-4d1f-9fe6-7cc293268fe4",
+    "amount": 6729.83,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "New Patricialand",
+    "timestamp": "2026-05-23T22:55:20.920218"
+  },
+  {
+    "transaction_id": "41ebdd3a-4dbd-4ee6-b6dd-ec8c745d0b35",
+    "user_id": "f19b7441-e83d-4796-adeb-91aae28afe89",
+    "amount": 2914.42,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Tammyfurt",
+    "timestamp": "2026-05-23T22:55:21.421630"
+  },
+  {
+    "transaction_id": "1e117b2b-7724-4dbb-9e1c-8f5491478c18",
+    "user_id": "dba0f245-fb61-4f3d-bcab-55725e60c93a",
+    "amount": 2559.83,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Port Hollymouth",
+    "timestamp": "2026-05-23T22:55:21.923199"
+  },
+  {
+    "transaction_id": "5e879a15-df5b-4401-bc14-ab82f17210b1",
+    "user_id": "3c475754-f4b2-4355-87d1-f72e1abb1516",
+    "amount": 5630.59,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Millerhaven",
+    "timestamp": "2026-05-23T22:55:22.426246"
+  }
+]

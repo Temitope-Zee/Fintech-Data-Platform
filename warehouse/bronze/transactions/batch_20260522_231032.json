@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1af88270-8fa2-4d58-bb99-bb7d0c7f167a",
+    "user_id": "4ef8dcee-2aa3-4a3a-aa9a-59caa9abd790",
+    "amount": 7668.78,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Donnaberg",
+    "timestamp": "2026-05-22T23:10:27.016537"
+  },
+  {
+    "transaction_id": "0a5bb3b4-b28f-402a-9e70-98751847c7d4",
+    "user_id": "a3ee5554-644d-4530-9aca-45633b61ab57",
+    "amount": 2411.12,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Garrettshire",
+    "timestamp": "2026-05-22T23:10:27.516118"
+  },
+  {
+    "transaction_id": "290a6def-2260-4482-83a9-1299b2ce6ac7",
+    "user_id": "26f4d20d-e1d6-4870-a856-91933290ff96",
+    "amount": 754.47,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Jeffreychester",
+    "timestamp": "2026-05-22T23:10:28.017508"
+  },
+  {
+    "transaction_id": "6bed390f-c7d9-4388-83de-8d9ce19203ec",
+    "user_id": "9166e4e3-7668-4884-baf9-e7d0c3bcdfb2",
+    "amount": 5705.79,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Michaelton",
+    "timestamp": "2026-05-22T23:10:29.022207"
+  },
+  {
+    "transaction_id": "b7f103b2-96f3-4d4d-8dbc-bacf6c49bf93",
+    "user_id": "97e9fe45-da54-46f3-8dca-f9459affdaf8",
+    "amount": 8439.54,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Janet",
+    "timestamp": "2026-05-22T23:10:29.524711"
+  },
+  {
+    "transaction_id": "07e15221-039c-44ae-a9b6-9ad98a0c6edf",
+    "user_id": "cf1ae97c-a5ae-498c-99c4-fb996af42604",
+    "amount": 9789.55,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Chelsey",
+    "timestamp": "2026-05-22T23:10:30.027774"
+  },
+  {
+    "transaction_id": "57bc62cb-0107-45ef-a4c6-85a05acf53f5",
+    "user_id": "05b4834a-80be-4623-8dd0-644838cd3ce3",
+    "amount": 8938.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Priceville",
+    "timestamp": "2026-05-22T23:10:30.529158"
+  },
+  {
+    "transaction_id": "6ce9364b-12d2-48d6-9dcf-f0cee827d863",
+    "user_id": "5a7576c5-3237-4639-bf86-eabb3bdd0f17",
+    "amount": 6064.14,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Caitlinburgh",
+    "timestamp": "2026-05-22T23:10:31.032621"
+  },
+  {
+    "transaction_id": "682a1bd7-fcc6-4dd5-931c-29267d8b7eb6",
+    "user_id": "3f8f3f3d-645c-4126-9c9b-0bdfbcda22b7",
+    "amount": 2165.19,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Antonioside",
+    "timestamp": "2026-05-22T23:10:31.535303"
+  },
+  {
+    "transaction_id": "427d73bc-3835-42b0-8cc9-d42961860084",
+    "user_id": "c8c6e11b-e37d-4bab-9f99-552b8d3f27c2",
+    "amount": 5884.73,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Anthonyfort",
+    "timestamp": "2026-05-22T23:10:32.036701"
+  }
+]

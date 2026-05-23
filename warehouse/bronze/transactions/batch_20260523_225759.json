@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "76956beb-797f-48d1-884c-f30757d45130",
+    "user_id": "fac18d81-ec69-4765-b150-d36075c3204d",
+    "amount": 4803.96,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Richard",
+    "timestamp": "2026-05-23T22:57:54.524627"
+  },
+  {
+    "transaction_id": "8d9cd26c-45bb-4211-bdc0-8ec65958c86d",
+    "user_id": "124823ff-63ef-4fae-ac64-123858aa7733",
+    "amount": 2715.73,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Garciafurt",
+    "timestamp": "2026-05-23T22:57:55.025936"
+  },
+  {
+    "transaction_id": "bc29f390-412d-446d-b769-cd45da136704",
+    "user_id": "b8ab4166-5bc8-4827-b4ec-f6314957c9fc",
+    "amount": 3942.09,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Adamburgh",
+    "timestamp": "2026-05-23T22:57:55.526896"
+  },
+  {
+    "transaction_id": "666540ab-237d-4d3d-918c-48407840e077",
+    "user_id": "da9a1ab6-dbfe-4f2b-9ce3-df00e9a464a7",
+    "amount": 8635.32,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Pamelabury",
+    "timestamp": "2026-05-23T22:57:56.027871"
+  },
+  {
+    "transaction_id": "9c931375-8406-4fff-988a-0e5614d8aff7",
+    "user_id": "b0c2bba0-6227-4af8-abfb-4a5f6e4e808b",
+    "amount": 9180.0,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Kathrynborough",
+    "timestamp": "2026-05-23T22:57:56.529025"
+  },
+  {
+    "transaction_id": "2bd591a1-ffda-4806-bcf7-2a1e4a3626ef",
+    "user_id": "19671d07-bd8b-4a34-8f72-08f88457e02e",
+    "amount": 1072.56,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Stacey",
+    "timestamp": "2026-05-23T22:57:57.029950"
+  },
+  {
+    "transaction_id": "920ee684-eeec-4f09-aaaf-c5cbe46b8616",
+    "user_id": "35e83181-6b90-4eb1-a25c-694b981483d3",
+    "amount": 6558.32,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Josephmouth",
+    "timestamp": "2026-05-23T22:57:57.530933"
+  },
+  {
+    "transaction_id": "c79ff196-ac32-47a1-a67f-5ecb26b028b7",
+    "user_id": "c0f34ba8-e05d-4b62-abc6-2a30b1a90de6",
+    "amount": 8656.14,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "East Erin",
+    "timestamp": "2026-05-23T22:57:58.032464"
+  },
+  {
+    "transaction_id": "f1e741e9-17fe-4337-9806-3c473f9f80ce",
+    "user_id": "e68771dc-56aa-4b36-9e12-6461bf963eb9",
+    "amount": 1141.0,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Sarah",
+    "timestamp": "2026-05-23T22:57:59.035154"
+  },
+  {
+    "transaction_id": "435456c8-2b1f-4cb0-bf3b-448e812bcf35",
+    "user_id": "a713c809-1336-4da1-95a1-7713b8a69442",
+    "amount": 3726.52,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Melissa",
+    "timestamp": "2026-05-23T22:57:59.537543"
+  }
+]

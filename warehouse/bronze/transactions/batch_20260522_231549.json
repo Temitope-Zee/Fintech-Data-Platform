@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6844e3ee-4fdf-4e1a-b1fd-98a2c4029a58",
+    "user_id": "680db837-009a-4e5d-bc3b-6ef27c673d3a",
+    "amount": 4783.88,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Velasquezborough",
+    "timestamp": "2026-05-22T23:15:42.737586"
+  },
+  {
+    "transaction_id": "0b873d94-4b60-4270-9f55-aa5623c6441e",
+    "user_id": "69845156-4024-48ac-9ffe-e638baeabe4a",
+    "amount": 1154.07,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Julieshire",
+    "timestamp": "2026-05-22T23:15:43.240803"
+  },
+  {
+    "transaction_id": "24fe40b8-3e72-4f50-b06c-b176259d464f",
+    "user_id": "e4c1f2d4-6021-484b-b7e8-b05a778139b1",
+    "amount": 2604.58,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Ramirezside",
+    "timestamp": "2026-05-22T23:15:43.742591"
+  },
+  {
+    "transaction_id": "7c8a71ea-7042-4deb-a229-a51b81c820c6",
+    "user_id": "e2b4189f-ecac-48ca-819d-b04e16305560",
+    "amount": 8229.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Melissa",
+    "timestamp": "2026-05-22T23:15:44.244254"
+  },
+  {
+    "transaction_id": "483bf8ea-d19a-41e0-ad59-3d429aaab0ac",
+    "user_id": "9a7464f7-e395-4052-82fc-7ed7f79ef806",
+    "amount": 5331.92,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Nelsonside",
+    "timestamp": "2026-05-22T23:15:44.746810"
+  },
+  {
+    "transaction_id": "f5a0ef54-ec44-4660-840f-144104ca971d",
+    "user_id": "378e23c7-ae21-4944-8e63-e736aa7a6c6c",
+    "amount": 6841.69,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Reidtown",
+    "timestamp": "2026-05-22T23:15:45.750532"
+  },
+  {
+    "transaction_id": "441c66b9-3590-493d-ad56-cb3cf630942b",
+    "user_id": "2baa9b75-061a-425f-af7d-bcb1b4facb0b",
+    "amount": 5702.95,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Christopherside",
+    "timestamp": "2026-05-22T23:15:46.755145"
+  },
+  {
+    "transaction_id": "1a0e3aa1-652d-4fdb-ba8d-84352049c23a",
+    "user_id": "beb50da7-b32e-4ca0-9ccd-0ec3d7757098",
+    "amount": 4677.1,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Payneton",
+    "timestamp": "2026-05-22T23:15:48.261090"
+  },
+  {
+    "transaction_id": "2e12560c-8c67-445f-8e89-5afd41b152df",
+    "user_id": "111722e0-3788-4825-8a5f-a83c64f54198",
+    "amount": 8443.98,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "East Williamborough",
+    "timestamp": "2026-05-22T23:15:48.764370"
+  },
+  {
+    "transaction_id": "2554897e-4933-495c-a5c9-8eae9616e649",
+    "user_id": "748fb5a2-c74f-4c0c-a3da-91fcdb21e6c0",
+    "amount": 9029.32,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Danielleburgh",
+    "timestamp": "2026-05-22T23:15:49.266296"
+  }
+]

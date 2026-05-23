@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "74427033-8201-4eed-ac70-94bfeb59a1db",
+    "user_id": "f5d4f5b2-8f8c-485f-8029-04ec47c12b0a",
+    "amount": 3789.44,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jackland",
+    "timestamp": "2026-05-22T23:06:42.628253"
+  },
+  {
+    "transaction_id": "eb45ef61-bfa1-43da-9577-d55a9950a77e",
+    "user_id": "871f56fc-1416-4fe8-a818-a99d8dc0a042",
+    "amount": 5276.59,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Markshire",
+    "timestamp": "2026-05-22T23:06:43.130794"
+  },
+  {
+    "transaction_id": "23c6528f-87e2-4ef4-ad5d-6634781f654e",
+    "user_id": "e906db8b-54c3-49a5-9a8e-8561c1d095f4",
+    "amount": 5976.57,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Amanda",
+    "timestamp": "2026-05-22T23:06:43.633693"
+  },
+  {
+    "transaction_id": "84756236-ac3b-478e-9bed-fa8f4045b832",
+    "user_id": "f40e1db0-83b9-4b93-9094-be1d7303f5b9",
+    "amount": 9818.73,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Michelle",
+    "timestamp": "2026-05-22T23:06:44.636947"
+  },
+  {
+    "transaction_id": "29722dd4-9255-4bc5-bf9f-be1a13fde90d",
+    "user_id": "5c5d3089-817c-4785-acf5-48264854ce0d",
+    "amount": 3730.94,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Normaview",
+    "timestamp": "2026-05-22T23:06:45.140069"
+  },
+  {
+    "transaction_id": "2cf0988a-f97a-43c1-af4b-614730106d9f",
+    "user_id": "17f7ec01-0e3b-4971-8ce3-b41700d4064e",
+    "amount": 2559.07,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Rachelland",
+    "timestamp": "2026-05-22T23:06:45.641478"
+  },
+  {
+    "transaction_id": "b33f65b0-76a6-4e66-9d14-5b153ef533d4",
+    "user_id": "ffc384e5-5227-4c28-a5d3-82202d03dde9",
+    "amount": 8992.97,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Charles",
+    "timestamp": "2026-05-22T23:06:46.144295"
+  },
+  {
+    "transaction_id": "bb00e54a-1097-4151-970d-d109a664522a",
+    "user_id": "61d66bac-6d7b-4f57-a1dc-a8911b99081c",
+    "amount": 2756.95,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Cruzton",
+    "timestamp": "2026-05-22T23:06:46.647323"
+  },
+  {
+    "transaction_id": "55e6cc34-8f09-4233-a9ca-fee8bbb10952",
+    "user_id": "7174fc02-0cc4-43bf-a876-bf43a9aedddf",
+    "amount": 3004.54,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Terry",
+    "timestamp": "2026-05-22T23:06:47.650275"
+  },
+  {
+    "transaction_id": "39b4620d-5abb-4a53-8967-e137972105d3",
+    "user_id": "a23fd79a-26a9-4590-b4ea-ca8e78826e7f",
+    "amount": 902.64,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Walkerberg",
+    "timestamp": "2026-05-22T23:06:48.653028"
+  }
+]

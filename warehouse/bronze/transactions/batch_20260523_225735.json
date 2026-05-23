@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "840233ce-d6f6-49aa-b075-be331e4c5a03",
+    "user_id": "d7e66d82-fe42-4542-9e07-9f06d147fcb8",
+    "amount": 3451.11,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Morseberg",
+    "timestamp": "2026-05-23T22:57:30.927527"
+  },
+  {
+    "transaction_id": "676e99b7-7e94-4be2-941c-0c1c5027675f",
+    "user_id": "ca2593f7-15ca-4797-aa54-c9e64adeaeef",
+    "amount": 1812.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Joannland",
+    "timestamp": "2026-05-23T22:57:31.429808"
+  },
+  {
+    "transaction_id": "c2373544-93e8-4bad-9c7d-edb8cefeaeed",
+    "user_id": "55a39632-6590-46ea-8237-ab625e11d13d",
+    "amount": 6698.37,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Wilsonfurt",
+    "timestamp": "2026-05-23T22:57:31.933062"
+  },
+  {
+    "transaction_id": "c0a93d7c-9299-4296-9e58-e529a2b454db",
+    "user_id": "0683c743-0f31-4c08-8952-1c7f8773ac68",
+    "amount": 1122.95,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Sarahhaven",
+    "timestamp": "2026-05-23T22:57:32.435963"
+  },
+  {
+    "transaction_id": "a7ec1ede-fef1-4d59-9b8d-a9fe3bc88da9",
+    "user_id": "cf3f3aaf-4205-4b13-9531-c8e50010e9d3",
+    "amount": 7998.94,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jonesville",
+    "timestamp": "2026-05-23T22:57:32.937035"
+  },
+  {
+    "transaction_id": "24079abd-88ac-498d-b0b8-d04d2c43f591",
+    "user_id": "c5096c63-2cf0-47b9-9043-3cb0d844e9e1",
+    "amount": 7205.53,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Knightbury",
+    "timestamp": "2026-05-23T22:57:33.438468"
+  },
+  {
+    "transaction_id": "d6da6db7-2856-480c-91e7-9d8895f92bed",
+    "user_id": "fdd38d63-c4d0-43f1-9781-c59d8677c5c9",
+    "amount": 9663.43,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Jasonhaven",
+    "timestamp": "2026-05-23T22:57:33.939826"
+  },
+  {
+    "transaction_id": "20d10504-c308-4e48-9ec8-26ffa0ec3bae",
+    "user_id": "d9f2fd71-32ba-4d77-a0c0-a526e41e8ccf",
+    "amount": 1862.67,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Gonzalezberg",
+    "timestamp": "2026-05-23T22:57:34.442557"
+  },
+  {
+    "transaction_id": "7e9bd1c3-9501-4dfa-a8ff-13bfd28c5596",
+    "user_id": "621d1656-f7b8-493a-8da1-aa72314d68a1",
+    "amount": 9316.53,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Annette",
+    "timestamp": "2026-05-23T22:57:35.446971"
+  },
+  {
+    "transaction_id": "680df3b9-2436-402f-83a8-f639e83d1452",
+    "user_id": "d3a13e42-12de-44ee-ad52-ab14cfd43e59",
+    "amount": 7003.8,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Breannashire",
+    "timestamp": "2026-05-23T22:57:35.949387"
+  }
+]

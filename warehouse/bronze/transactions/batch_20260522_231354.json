@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "84628b2c-9c17-408b-8fe9-cb9aeb82c619",
+    "user_id": "57194eaa-7519-4d50-bd53-0df6807dd02f",
+    "amount": 7802.92,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Suzanneton",
+    "timestamp": "2026-05-22T23:13:49.277244"
+  },
+  {
+    "transaction_id": "f03e9952-7254-49c4-a73d-b6dfde531bf7",
+    "user_id": "220041e7-c276-41ae-8b23-2f6fad6c6f80",
+    "amount": 9177.39,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Kevin",
+    "timestamp": "2026-05-22T23:13:49.778621"
+  },
+  {
+    "transaction_id": "214d11af-739b-4c22-b73a-b1f4e45ca8b3",
+    "user_id": "17b74664-83ee-4829-84b5-9d6503950716",
+    "amount": 1205.42,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "East Tiffany",
+    "timestamp": "2026-05-22T23:13:50.280138"
+  },
+  {
+    "transaction_id": "01d0eac8-4b60-462b-b468-ff9417e7b23f",
+    "user_id": "7d6cccb7-90d8-4c8b-aa0a-c142cbec1026",
+    "amount": 9889.92,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Soniaview",
+    "timestamp": "2026-05-22T23:13:50.781526"
+  },
+  {
+    "transaction_id": "318bb24a-56cd-4b6b-8929-7d5754ac7f75",
+    "user_id": "61add749-3ad6-44d2-bd95-b4c6622efd54",
+    "amount": 8812.08,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Meyersshire",
+    "timestamp": "2026-05-22T23:13:51.282633"
+  },
+  {
+    "transaction_id": "1f81e347-c530-4f3b-8ce6-ab09d60c2837",
+    "user_id": "8bf9f8b2-5852-4e2b-ac61-2d66ede29070",
+    "amount": 110.21,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Jamestown",
+    "timestamp": "2026-05-22T23:13:51.784845"
+  },
+  {
+    "transaction_id": "0ae31e91-9e5f-40ff-8092-afcd8aed2e3e",
+    "user_id": "37e6feca-0df7-47db-b9fc-4d974b65d178",
+    "amount": 9643.64,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Heidi",
+    "timestamp": "2026-05-22T23:13:52.285799"
+  },
+  {
+    "transaction_id": "f1e82fd7-35f8-4ed0-84c0-2fa0e8ec70e7",
+    "user_id": "91aaeed3-5e64-4f28-aceb-80b7989573ce",
+    "amount": 3699.87,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Richardbury",
+    "timestamp": "2026-05-22T23:13:52.788059"
+  },
+  {
+    "transaction_id": "70eeacf3-01ce-4d98-82ed-c6aec5927f91",
+    "user_id": "b17f9c3c-5c50-4baf-a1fc-eaa78f7618f2",
+    "amount": 4492.72,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Stephaniebury",
+    "timestamp": "2026-05-22T23:13:53.792881"
+  },
+  {
+    "transaction_id": "5eb01480-6205-4a09-8977-1a376f5cc355",
+    "user_id": "4352b7a8-2fa8-4954-84f6-05bcea5382f2",
+    "amount": 9267.22,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Michaelside",
+    "timestamp": "2026-05-22T23:13:54.295489"
+  }
+]

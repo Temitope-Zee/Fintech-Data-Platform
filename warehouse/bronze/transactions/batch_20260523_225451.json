@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "63c6db74-b583-47e7-8153-01cf5a0a77a3",
+    "user_id": "343b9ee0-ab9b-4ead-ae77-cab8c1e809f8",
+    "amount": 4571.96,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Christyland",
+    "timestamp": "2026-05-23T22:54:46.298415"
+  },
+  {
+    "transaction_id": "dd19dd67-e532-41d7-b8b7-7c7c0eca7a1d",
+    "user_id": "abb650e2-b90b-4968-accd-7d957baf0e3b",
+    "amount": 9125.36,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Angelicaberg",
+    "timestamp": "2026-05-23T22:54:46.801175"
+  },
+  {
+    "transaction_id": "15edfc94-8d57-4f17-9b97-9c7b2712c042",
+    "user_id": "26e403be-a322-4364-9a09-1dfa890509f2",
+    "amount": 8286.74,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Gary",
+    "timestamp": "2026-05-23T22:54:47.807228"
+  },
+  {
+    "transaction_id": "275460de-e4ab-4742-961d-a730f4cb5fa8",
+    "user_id": "5d475fd6-3033-4f13-bb8b-b9840a6e441b",
+    "amount": 1050.44,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Feliciaview",
+    "timestamp": "2026-05-23T22:54:48.309070"
+  },
+  {
+    "transaction_id": "672fe986-e996-40d0-bc63-e83086d0cf57",
+    "user_id": "179df049-78df-44c1-9947-21d3829ff202",
+    "amount": 1656.83,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Briannamouth",
+    "timestamp": "2026-05-23T22:54:48.810285"
+  },
+  {
+    "transaction_id": "3f4db28f-67bc-4aec-8104-1a2a933af395",
+    "user_id": "ebac54a9-b812-46d7-888e-086b1975f2fa",
+    "amount": 8074.57,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Harrisside",
+    "timestamp": "2026-05-23T22:54:49.312564"
+  },
+  {
+    "transaction_id": "f62af4ff-1d4a-4af6-a897-5bc9d5ead82e",
+    "user_id": "f93957eb-d1dc-4278-85d7-1f76e8b98fd8",
+    "amount": 1008.16,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Harrisontown",
+    "timestamp": "2026-05-23T22:54:49.816308"
+  },
+  {
+    "transaction_id": "06889929-71b8-457a-a04d-e7e99e6c3e95",
+    "user_id": "7863bd32-b817-4fc6-9670-bb9669521c13",
+    "amount": 5309.83,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jorgeberg",
+    "timestamp": "2026-05-23T22:54:50.317747"
+  },
+  {
+    "transaction_id": "e4ddca0f-66a2-43aa-9962-8da7b25831a3",
+    "user_id": "1fc6b200-75b7-4bb6-b2b7-7dd64653ac95",
+    "amount": 5292.12,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Danielborough",
+    "timestamp": "2026-05-23T22:54:50.819756"
+  },
+  {
+    "transaction_id": "328d8e6d-8ce1-4d97-bb23-dac184ee21fb",
+    "user_id": "3d2bd489-d0cc-41c1-8c52-fdf1b3ed01ef",
+    "amount": 3318.88,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Alexborough",
+    "timestamp": "2026-05-23T22:54:51.320591"
+  }
+]

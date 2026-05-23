@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2064cb15-3744-4cf8-aae8-2b1945aa17d4",
+    "user_id": "bb0d28fa-d851-4e54-be4c-ee96d2ef0f6d",
+    "amount": 1642.03,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Dannyview",
+    "timestamp": "2026-05-22T23:14:32.948693"
+  },
+  {
+    "transaction_id": "206fd66b-54e4-46d6-9ec4-85c9d251ed5e",
+    "user_id": "bc7ce01f-b7a0-4206-8be8-f77819cf44f9",
+    "amount": 6539.9,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Catherineton",
+    "timestamp": "2026-05-22T23:14:33.451323"
+  },
+  {
+    "transaction_id": "724fd4a8-82ee-45f5-af3b-aa54064ef175",
+    "user_id": "211b9601-eb1b-453d-8d81-1dba1fa75937",
+    "amount": 2618.25,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Moorebury",
+    "timestamp": "2026-05-22T23:14:33.954731"
+  },
+  {
+    "transaction_id": "18909055-042e-42ca-8f27-49b109b611c0",
+    "user_id": "26d3445d-1f1b-4507-84f1-0b0878a00983",
+    "amount": 4922.87,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Melissa",
+    "timestamp": "2026-05-22T23:14:34.458282"
+  },
+  {
+    "transaction_id": "29a5b69c-2d86-4ce2-ba9d-9bfc02062e61",
+    "user_id": "3e89a5c2-201c-4005-ae3d-4f36f3e99254",
+    "amount": 8358.31,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Oliviamouth",
+    "timestamp": "2026-05-22T23:14:34.960824"
+  },
+  {
+    "transaction_id": "ccf382c8-3ab8-423b-adf6-ed1598665488",
+    "user_id": "72f79a75-e289-4d27-90a9-15eeed2d3aa6",
+    "amount": 22.51,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "New Davidport",
+    "timestamp": "2026-05-22T23:14:35.463652"
+  },
+  {
+    "transaction_id": "aff98e3d-c53a-4ebf-829f-a58b68799900",
+    "user_id": "13efe4b8-d4b7-46a0-916e-0b56e18ea886",
+    "amount": 8359.29,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Eric",
+    "timestamp": "2026-05-22T23:14:35.965790"
+  },
+  {
+    "transaction_id": "2553cdf4-5100-4cab-9592-3a3f07a7bf0e",
+    "user_id": "d9d34cea-3b8b-4d33-80e4-da809a9f0c77",
+    "amount": 78.21,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Sharonland",
+    "timestamp": "2026-05-22T23:14:36.969560"
+  },
+  {
+    "transaction_id": "e4b3d53d-b298-4ebc-b56b-1c595fa05367",
+    "user_id": "343b2c71-f00c-480e-af72-5b076ddcb795",
+    "amount": 3374.38,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Grantview",
+    "timestamp": "2026-05-22T23:14:37.472871"
+  },
+  {
+    "transaction_id": "1ce9f6b7-8970-4282-8f48-1ebba2d8428a",
+    "user_id": "3eb5fc3e-f8c8-4c2c-bb81-f865edf8a88c",
+    "amount": 7302.76,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Staceyborough",
+    "timestamp": "2026-05-22T23:14:37.975630"
+  }
+]

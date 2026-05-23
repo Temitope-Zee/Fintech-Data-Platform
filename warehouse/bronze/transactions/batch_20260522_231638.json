@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5df4e3dd-6a00-4b19-9004-c91b35964530",
+    "user_id": "e49c5218-17ca-4045-baee-15d2020dce87",
+    "amount": 1955.3,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Hufffort",
+    "timestamp": "2026-05-22T23:16:32.438258"
+  },
+  {
+    "transaction_id": "4c6ab3b4-4c7f-4d3d-a8c6-2894e43647ba",
+    "user_id": "31964568-a79c-4683-a35f-90fbbb1a5c5e",
+    "amount": 6952.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Patrick",
+    "timestamp": "2026-05-22T23:16:32.940520"
+  },
+  {
+    "transaction_id": "bac099f5-16fe-45a1-b57b-255ad2f2bf4a",
+    "user_id": "bfda9a4f-68b6-461e-bda0-78400f616389",
+    "amount": 407.95,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Knightburgh",
+    "timestamp": "2026-05-22T23:16:33.944766"
+  },
+  {
+    "transaction_id": "d8d41d80-b608-455f-bb06-29d43139b3f4",
+    "user_id": "fb4a06fe-6705-4ce1-88bd-3f43c768b53d",
+    "amount": 4083.89,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Munozfurt",
+    "timestamp": "2026-05-22T23:16:34.447746"
+  },
+  {
+    "transaction_id": "c407f05d-382a-4365-91e0-cb9cebf5b757",
+    "user_id": "b014a3e8-31dc-4ba1-a0d5-3c829690e330",
+    "amount": 7504.22,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Shepherdhaven",
+    "timestamp": "2026-05-22T23:16:35.953614"
+  },
+  {
+    "transaction_id": "a83a2c92-ed88-4c9e-8d3f-fb8a768f40b7",
+    "user_id": "ad15a335-c39c-4036-89df-f5ddd21fbd87",
+    "amount": 5483.37,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Vickiburgh",
+    "timestamp": "2026-05-22T23:16:36.454727"
+  },
+  {
+    "transaction_id": "af921366-e9c3-4a31-b725-f223ed657c25",
+    "user_id": "bacb5ef0-f287-4dcd-96bd-4fe7a0c01e2c",
+    "amount": 6858.8,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Bethview",
+    "timestamp": "2026-05-22T23:16:36.956119"
+  },
+  {
+    "transaction_id": "23754e71-128c-4b65-acee-f13bbf982219",
+    "user_id": "04497f06-255c-46b3-a455-c802cf705431",
+    "amount": 2304.35,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Charlesview",
+    "timestamp": "2026-05-22T23:16:37.458957"
+  },
+  {
+    "transaction_id": "e5081dfa-71a2-49ac-bc2a-48728c940872",
+    "user_id": "e09bd8ba-65ad-4d16-94c2-653517751d1d",
+    "amount": 719.74,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Priscilla",
+    "timestamp": "2026-05-22T23:16:37.962048"
+  },
+  {
+    "transaction_id": "62cd0dbd-f10c-411e-87f5-8e42b1b1ce35",
+    "user_id": "509d52ad-8274-4629-8276-e99cefd5aa1e",
+    "amount": 6228.27,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Wallerton",
+    "timestamp": "2026-05-22T23:16:38.464361"
+  }
+]

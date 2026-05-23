@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3ea7b165-bd23-4fda-b7ac-3f86a1540588",
+    "user_id": "3eee59af-9a28-404a-9135-14dbe6105a16",
+    "amount": 3587.25,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Jorge",
+    "timestamp": "2026-05-22T23:08:32.532764"
+  },
+  {
+    "transaction_id": "5540e610-c826-490c-b2ff-fedd74bed0c5",
+    "user_id": "e0c29dd6-524f-444e-9a12-8acfdc8f06dc",
+    "amount": 5552.55,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Tylermouth",
+    "timestamp": "2026-05-22T23:08:33.034279"
+  },
+  {
+    "transaction_id": "7b4e8a6e-498d-48e6-85b3-26123916c36d",
+    "user_id": "fa4d3c9a-e35b-4f15-a1bb-db8d6ff0c898",
+    "amount": 1911.42,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Brandonfurt",
+    "timestamp": "2026-05-22T23:08:33.537007"
+  },
+  {
+    "transaction_id": "6df47664-c4b6-426d-b52c-13fc02142c50",
+    "user_id": "c87c5478-f1cf-4376-9990-0bde7468884b",
+    "amount": 6635.55,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Michelleside",
+    "timestamp": "2026-05-22T23:08:34.039911"
+  },
+  {
+    "transaction_id": "556bb926-f834-4e48-8318-b3ec2b42519a",
+    "user_id": "6675e0a6-2d5c-4c27-8616-2d2cd5c2a25e",
+    "amount": 693.84,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Petermouth",
+    "timestamp": "2026-05-22T23:08:35.044793"
+  },
+  {
+    "transaction_id": "429a1752-236b-4378-972b-4bcf3beda42c",
+    "user_id": "9edfa66c-d262-4974-8a9a-e5646a63b1ce",
+    "amount": 8120.48,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Alec",
+    "timestamp": "2026-05-22T23:08:35.547513"
+  },
+  {
+    "transaction_id": "b6a1faf3-6dfa-4813-ae6c-8f685cdc0350",
+    "user_id": "ed2fdcaf-beeb-496d-adf6-356c4198c88e",
+    "amount": 6412.08,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Daniel",
+    "timestamp": "2026-05-22T23:08:36.048770"
+  },
+  {
+    "transaction_id": "4dd53eb1-f522-431c-818b-4249d6732653",
+    "user_id": "9e321d80-aaa5-4cd5-995e-d2d3d0d8bade",
+    "amount": 4851.9,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Martinton",
+    "timestamp": "2026-05-22T23:08:36.550053"
+  },
+  {
+    "transaction_id": "8ea84ba9-37ee-4d18-ad24-1703de237fcd",
+    "user_id": "0abcd9db-6c28-4c69-b1bb-740a2ccf724c",
+    "amount": 5369.26,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "South Megan",
+    "timestamp": "2026-05-22T23:08:37.051537"
+  },
+  {
+    "transaction_id": "e8614284-ecd1-4ef9-86cf-01ca330f60e1",
+    "user_id": "035cfc06-d803-4801-a6b6-4a0eb8065521",
+    "amount": 5965.79,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Robertshire",
+    "timestamp": "2026-05-22T23:08:37.552739"
+  }
+]

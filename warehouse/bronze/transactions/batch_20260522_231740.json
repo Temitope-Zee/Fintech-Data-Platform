@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d3a33a0-1f49-41d3-958d-e28f5018cd03",
+    "user_id": "1e094b51-f924-4677-92a7-7833e407f772",
+    "amount": 1893.02,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Lauren",
+    "timestamp": "2026-05-22T23:17:36.211340"
+  },
+  {
+    "transaction_id": "009507ef-3b49-4382-9a7b-d5f15806c7d6",
+    "user_id": "934b6b79-0838-4c2a-9cdb-a0683a06fa73",
+    "amount": 8529.18,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Matthew",
+    "timestamp": "2026-05-22T23:17:36.714197"
+  },
+  {
+    "transaction_id": "ddd11fd3-2a25-4722-a4d9-6a10adf76daa",
+    "user_id": "64895bfe-b2c5-4da7-84f5-dc66dc6c922d",
+    "amount": 6391.63,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jimenezfort",
+    "timestamp": "2026-05-22T23:17:37.215896"
+  },
+  {
+    "transaction_id": "273a1561-ebec-4489-ad98-430c716d5d46",
+    "user_id": "f29a0efb-1a2f-42d5-9197-992e752553a0",
+    "amount": 7151.23,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Steven",
+    "timestamp": "2026-05-22T23:17:37.717731"
+  },
+  {
+    "transaction_id": "7d4573b6-9049-494a-be93-6e8cbd6bd3e9",
+    "user_id": "e87d3d0c-2916-4da9-87cc-f90a9a6a27f1",
+    "amount": 4710.94,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Evansfurt",
+    "timestamp": "2026-05-22T23:17:38.223981"
+  },
+  {
+    "transaction_id": "a088f381-9a3f-4107-9a62-9514a143a248",
+    "user_id": "ce6c6915-03e0-4117-9c70-93e5d9a07e18",
+    "amount": 366.63,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Annview",
+    "timestamp": "2026-05-22T23:17:38.726940"
+  },
+  {
+    "transaction_id": "31a5ba3c-355f-40da-8db3-e626a668a70f",
+    "user_id": "c0437799-ffd6-4daf-b184-d07431c4aceb",
+    "amount": 3989.71,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Cassandraton",
+    "timestamp": "2026-05-22T23:17:39.228729"
+  },
+  {
+    "transaction_id": "d5b25fc5-2f81-47a6-9bf3-7610ee48b10b",
+    "user_id": "913c41e2-760c-4d2b-95ca-41d437a17956",
+    "amount": 9046.09,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Walkermouth",
+    "timestamp": "2026-05-22T23:17:39.731785"
+  },
+  {
+    "transaction_id": "3e4cf5e5-685d-4901-bf7b-3784cedf7143",
+    "user_id": "b9643677-ec8e-4cb5-a109-25c5aa92273d",
+    "amount": 5783.61,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Russell",
+    "timestamp": "2026-05-22T23:17:40.234319"
+  },
+  {
+    "transaction_id": "a919d12b-044e-4ea7-9e86-ad309163a936",
+    "user_id": "f951560d-f19c-4546-8298-d8d9b0e93734",
+    "amount": 4657.16,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Tinahaven",
+    "timestamp": "2026-05-22T23:17:40.735935"
+  }
+]

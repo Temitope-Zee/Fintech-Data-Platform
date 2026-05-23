@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2be84c00-f966-4177-b981-9240e5e66cf3",
+    "user_id": "8c923f49-f3e5-4676-8981-b05ef8247798",
+    "amount": 141.03,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Jessicashire",
+    "timestamp": "2026-05-22T23:14:19.396361"
+  },
+  {
+    "transaction_id": "9bbadf92-a10e-48d4-94e5-112cd73ee2b4",
+    "user_id": "405396ea-dbbd-4c63-a322-782881e157bd",
+    "amount": 9041.25,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Jenniferchester",
+    "timestamp": "2026-05-22T23:14:19.898964"
+  },
+  {
+    "transaction_id": "7ce4952f-e300-49e7-bacb-8f9dbceb3593",
+    "user_id": "2d85625e-28ea-4123-98dd-f69596be4803",
+    "amount": 7166.13,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Jamesville",
+    "timestamp": "2026-05-22T23:14:20.901599"
+  },
+  {
+    "transaction_id": "78d45f9c-6719-42e7-ad8b-2a03b6b1c3e7",
+    "user_id": "4a9bfc0b-9236-4d6d-924f-ebafc450cea7",
+    "amount": 5369.44,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Port Jamesmouth",
+    "timestamp": "2026-05-22T23:14:21.404335"
+  },
+  {
+    "transaction_id": "dda5cddf-1c09-4cb8-867c-1bd6ad894909",
+    "user_id": "5c108534-613f-4c6a-b9e9-6746eddc57a4",
+    "amount": 7077.52,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Jayfort",
+    "timestamp": "2026-05-22T23:14:22.408547"
+  },
+  {
+    "transaction_id": "2b853d84-2594-48e3-92f9-0d1c41876e47",
+    "user_id": "f5cf4414-1fbc-4b05-93a9-4bd301f2136b",
+    "amount": 9876.16,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Valerieburgh",
+    "timestamp": "2026-05-22T23:14:22.909760"
+  },
+  {
+    "transaction_id": "f445c033-8f12-4a8c-b3f2-edc3154d9080",
+    "user_id": "b70de80e-09ce-4951-98d4-b8ad20436b08",
+    "amount": 1389.99,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Harrymouth",
+    "timestamp": "2026-05-22T23:14:23.410994"
+  },
+  {
+    "transaction_id": "f95ba5ab-6a91-4c60-b261-399b38ca1ef1",
+    "user_id": "c46a6e1b-a928-4680-aa37-422bbf74761d",
+    "amount": 2611.68,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Michaelstad",
+    "timestamp": "2026-05-22T23:14:23.912701"
+  },
+  {
+    "transaction_id": "e12de56b-0ae2-462a-8478-c8a5ed968d32",
+    "user_id": "99f52d95-9749-4dec-aecb-f424a3a5b70d",
+    "amount": 611.98,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Danielfort",
+    "timestamp": "2026-05-22T23:14:24.414524"
+  },
+  {
+    "transaction_id": "45f08286-f9b1-4ab0-989e-acc6c91ac861",
+    "user_id": "c075e8fc-e6f4-427a-9270-376225d8ae9a",
+    "amount": 861.57,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Adamberg",
+    "timestamp": "2026-05-22T23:14:24.917120"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "99f17699-f6dc-41ac-bcb4-f5ba8e525be0",
+    "user_id": "76913c79-f446-4d8a-a904-3a9de6842c13",
+    "amount": 5705.3,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Brownville",
+    "timestamp": "2026-05-22T23:15:55.793228"
+  },
+  {
+    "transaction_id": "ef111a72-bcb1-4d48-889c-51239c489726",
+    "user_id": "64b5db98-f7da-468e-8303-d007e9f080c1",
+    "amount": 4682.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Davidfort",
+    "timestamp": "2026-05-22T23:15:56.295201"
+  },
+  {
+    "transaction_id": "f6d5f759-2c27-4cd3-8029-6638918150d8",
+    "user_id": "909e45f2-10b6-4fc8-9946-26bf5a36ffff",
+    "amount": 8842.28,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Bonnie",
+    "timestamp": "2026-05-22T23:15:57.298729"
+  },
+  {
+    "transaction_id": "339edb92-9c0f-4d35-aa5e-5eaffd484fd1",
+    "user_id": "ddfadebe-5efe-4d27-bfcc-a7a26399728c",
+    "amount": 4982.22,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Harmonfort",
+    "timestamp": "2026-05-22T23:15:57.799885"
+  },
+  {
+    "transaction_id": "5f9b0c06-5ac1-40c3-b267-894a6eec8b0f",
+    "user_id": "71f391fb-afd8-4866-8950-0d577594dc80",
+    "amount": 3776.93,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Markmouth",
+    "timestamp": "2026-05-22T23:15:58.301283"
+  },
+  {
+    "transaction_id": "52f8484f-1460-4ba2-af03-9da834cf4cac",
+    "user_id": "b99fb52a-7c06-4e28-bdcc-6c44b38b9bae",
+    "amount": 8609.47,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Masonstad",
+    "timestamp": "2026-05-22T23:15:59.307765"
+  },
+  {
+    "transaction_id": "af8eeed1-da87-4920-98e6-46d895226487",
+    "user_id": "bd56ccd3-5573-4819-ae2d-567c274bb351",
+    "amount": 7543.74,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Kathleenmouth",
+    "timestamp": "2026-05-22T23:15:59.811078"
+  },
+  {
+    "transaction_id": "1e8bbbb8-664c-42b7-bb70-485642b3a091",
+    "user_id": "0478a46a-341b-49f1-92c2-98b484f8e9c8",
+    "amount": 9911.78,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Christian",
+    "timestamp": "2026-05-22T23:16:00.815744"
+  },
+  {
+    "transaction_id": "94717e55-2727-4cc7-b7fb-19773f3db486",
+    "user_id": "1a181b71-5785-4b24-834a-38e04ddab730",
+    "amount": 3779.32,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Roberthaven",
+    "timestamp": "2026-05-22T23:16:01.318559"
+  },
+  {
+    "transaction_id": "cab9cac4-4821-47cb-becd-4a98a9594d7b",
+    "user_id": "2dcb13d5-b0a2-43a6-bea6-d9d0905382fe",
+    "amount": 8500.45,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Collinsville",
+    "timestamp": "2026-05-22T23:16:01.821363"
+  }
+]

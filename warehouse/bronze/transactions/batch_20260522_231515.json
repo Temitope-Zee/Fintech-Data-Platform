@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fb80a33c-5577-46fa-af66-3af9f5bbe318",
+    "user_id": "0871c097-7ef7-4326-9bdf-d242cff0766b",
+    "amount": 884.17,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Andreshire",
+    "timestamp": "2026-05-22T23:15:10.103571"
+  },
+  {
+    "transaction_id": "aaa30670-f2af-4f63-b541-896f71e67df7",
+    "user_id": "b9747133-bb58-4c06-ab18-e227bf963f58",
+    "amount": 3259.58,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Kelleyborough",
+    "timestamp": "2026-05-22T23:15:10.604587"
+  },
+  {
+    "transaction_id": "e94166a2-bd14-46a9-8a8d-08645bd7ef13",
+    "user_id": "23c76ec1-1b04-4333-918d-2d94c6cc1bf4",
+    "amount": 3596.66,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Angelaburgh",
+    "timestamp": "2026-05-22T23:15:11.607251"
+  },
+  {
+    "transaction_id": "de071376-a220-4546-b82a-f9e125541fb6",
+    "user_id": "ce089be8-18af-45b7-9650-ed26306e32c3",
+    "amount": 8854.14,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Brownshire",
+    "timestamp": "2026-05-22T23:15:12.108145"
+  },
+  {
+    "transaction_id": "0307ca3e-070d-4978-a349-5bc254824ab4",
+    "user_id": "cf44bdbf-5791-4817-9961-6ad6d0f9d1ea",
+    "amount": 5145.04,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Natalie",
+    "timestamp": "2026-05-22T23:15:13.110330"
+  },
+  {
+    "transaction_id": "97f59794-401f-4632-b39f-b0c0eaab4e25",
+    "user_id": "2c8f3a2c-33a9-41fb-97aa-ed022d5351e4",
+    "amount": 1255.74,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Carrilloport",
+    "timestamp": "2026-05-22T23:15:13.613097"
+  },
+  {
+    "transaction_id": "390891d5-d98d-4add-8685-270912090023",
+    "user_id": "726e29bb-eff6-43c8-ba9c-c361dab64203",
+    "amount": 5119.46,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Brandi",
+    "timestamp": "2026-05-22T23:15:14.114135"
+  },
+  {
+    "transaction_id": "f6d877f2-a64e-490d-a6dc-72874298d9e4",
+    "user_id": "44c371de-d23f-4e9c-a313-f8beb26e8e93",
+    "amount": 4490.65,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Haysport",
+    "timestamp": "2026-05-22T23:15:14.615266"
+  },
+  {
+    "transaction_id": "0ba51f18-15cc-4572-ad5d-c3d4aecc0ef5",
+    "user_id": "299fc2b8-07f3-44ff-a8d0-c520b5915c7b",
+    "amount": 2972.22,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Todd",
+    "timestamp": "2026-05-22T23:15:15.117877"
+  },
+  {
+    "transaction_id": "1b348171-992a-416e-875e-2e2fc3a498f7",
+    "user_id": "df81a650-d5ed-42db-a3e4-a74ba1402602",
+    "amount": 3407.75,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Philip",
+    "timestamp": "2026-05-22T23:15:15.620801"
+  }
+]

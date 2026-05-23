@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "26b057a7-4216-4d58-a8e9-c25aff52cbd1",
+    "user_id": "a588f00a-60b1-40c1-b5a5-62fd136cacb8",
+    "amount": 9530.19,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Ruizburgh",
+    "timestamp": "2026-05-22T23:04:52.211482"
+  },
+  {
+    "transaction_id": "86bdb7d3-21fe-4f51-a96a-4b62cc4f7445",
+    "user_id": "00303351-99d0-4b10-b930-e81bd5b74c99",
+    "amount": 3801.32,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Kennedymouth",
+    "timestamp": "2026-05-22T23:04:54.218693"
+  },
+  {
+    "transaction_id": "36714235-ff30-4c5a-8f2a-642f9d138b45",
+    "user_id": "567413d8-e06e-49fc-bb76-da265911584c",
+    "amount": 4636.08,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Williamston",
+    "timestamp": "2026-05-22T23:04:54.720693"
+  },
+  {
+    "transaction_id": "e25b1b3c-67fe-4fa1-a1c9-df69d7f58ed8",
+    "user_id": "a27ce7ba-a968-448f-86ea-b1045c8c866e",
+    "amount": 6344.3,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Williamside",
+    "timestamp": "2026-05-22T23:04:55.222032"
+  },
+  {
+    "transaction_id": "c1c1fd2c-fb3d-4520-8fba-c8fb73a98421",
+    "user_id": "24b4ef16-48b6-4634-9959-3e99f57ca984",
+    "amount": 3294.87,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Jamie",
+    "timestamp": "2026-05-22T23:04:55.725015"
+  },
+  {
+    "transaction_id": "e16363f4-99b7-47b2-ab6e-47a676856cd2",
+    "user_id": "3efb3e07-aacf-426c-94cc-4045eb1fac3b",
+    "amount": 4631.1,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Sueberg",
+    "timestamp": "2026-05-22T23:04:56.731334"
+  },
+  {
+    "transaction_id": "250b43a9-69c8-4437-9936-8f2ddca1e916",
+    "user_id": "11da755c-659f-49b4-bbe6-3f39b4b91525",
+    "amount": 7709.16,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Millershire",
+    "timestamp": "2026-05-22T23:04:57.230383"
+  },
+  {
+    "transaction_id": "e8f21c5a-42ce-4d8c-bc0c-9076daeec4ba",
+    "user_id": "04ba6d7d-06e5-4f7d-bd37-f21bf31f8af1",
+    "amount": 6706.11,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Lake Donnamouth",
+    "timestamp": "2026-05-22T23:04:57.732696"
+  },
+  {
+    "transaction_id": "02d5e5be-ff06-4cab-9993-603430b832f6",
+    "user_id": "e9631a8f-2989-4a56-8999-247db02638ff",
+    "amount": 9004.69,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Lori",
+    "timestamp": "2026-05-22T23:04:58.235290"
+  },
+  {
+    "transaction_id": "3a1caa27-1490-4ed8-92dd-71e0bafec68c",
+    "user_id": "b9344899-8685-4bde-9f5e-e2ffd35d5497",
+    "amount": 1653.62,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "North Heatherton",
+    "timestamp": "2026-05-22T23:04:58.737275"
+  }
+]

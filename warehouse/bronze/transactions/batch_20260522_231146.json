@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ed39b702-1c08-48e4-9ce4-9e8ba62c6af4",
+    "user_id": "049cee87-c58c-45f1-a98a-8c733ad1824a",
+    "amount": 2525.55,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Christineshire",
+    "timestamp": "2026-05-22T23:11:39.289911"
+  },
+  {
+    "transaction_id": "cbda3b24-2fd7-4b24-a41f-63a8bc2eefc1",
+    "user_id": "e198855a-a153-476e-bd63-2d3aa2eb9cdb",
+    "amount": 8251.56,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Vasquezton",
+    "timestamp": "2026-05-22T23:11:40.293562"
+  },
+  {
+    "transaction_id": "eec3ff40-9871-429e-a924-d52a67e66bcd",
+    "user_id": "f61433c8-51b0-4193-9a69-171ea5ea616c",
+    "amount": 3542.68,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kathrynberg",
+    "timestamp": "2026-05-22T23:11:41.798294"
+  },
+  {
+    "transaction_id": "4e1b8296-c9ac-4088-980f-a0f6d36b0da5",
+    "user_id": "746f3bce-952e-4435-9a13-534bd4398bbf",
+    "amount": 3983.22,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Riggsburgh",
+    "timestamp": "2026-05-22T23:11:42.301068"
+  },
+  {
+    "transaction_id": "f4db3dca-fb00-4826-a2b5-7d2855197c3a",
+    "user_id": "6590e675-679a-40d0-8dce-d6865d1f09cf",
+    "amount": 8683.59,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Christopher",
+    "timestamp": "2026-05-22T23:11:43.805845"
+  },
+  {
+    "transaction_id": "fa2acb09-3e74-46f8-a4d6-3a173a1136af",
+    "user_id": "b97fc509-01d1-4c70-8b30-f55894471081",
+    "amount": 2331.79,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Isaiahton",
+    "timestamp": "2026-05-22T23:11:44.307367"
+  },
+  {
+    "transaction_id": "004f5f90-a841-4b6e-9bf7-e6dcb63aae1d",
+    "user_id": "4c15dfec-3913-4dcc-819c-485131603a28",
+    "amount": 1458.36,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Stevenhaven",
+    "timestamp": "2026-05-22T23:11:44.809980"
+  },
+  {
+    "transaction_id": "4f4f2ef0-d5b2-4020-8931-46c5d28ee6fd",
+    "user_id": "6cac2b3d-9945-4eac-a7a9-5bf9341c991b",
+    "amount": 6201.72,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Smithchester",
+    "timestamp": "2026-05-22T23:11:45.311491"
+  },
+  {
+    "transaction_id": "b38e91f5-e7ef-4c74-a420-83eebf983d4c",
+    "user_id": "ecbecf7c-30c0-4a58-a0a2-f4712671a7ea",
+    "amount": 1316.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Michael",
+    "timestamp": "2026-05-22T23:11:45.812814"
+  },
+  {
+    "transaction_id": "28b101b3-d750-4df5-968d-0cb1d5307b5a",
+    "user_id": "8052594a-5260-4d1c-a439-6528d3fdbc89",
+    "amount": 7322.51,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Flynntown",
+    "timestamp": "2026-05-22T23:11:46.315586"
+  }
+]

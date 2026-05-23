@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1a077d4b-c40b-468e-990c-31f4226df77f",
+    "user_id": "739c8bbb-bcf5-49c1-b902-20c6ad36ddc5",
+    "amount": 1851.43,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Timothyfurt",
+    "timestamp": "2026-05-22T23:11:58.863187"
+  },
+  {
+    "transaction_id": "b8a9c0ed-6117-4ca2-8824-d1b9b3ebbfd8",
+    "user_id": "1606baef-ba4e-4aac-8fe6-c4efea245a89",
+    "amount": 6535.02,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lewisshire",
+    "timestamp": "2026-05-22T23:11:59.364907"
+  },
+  {
+    "transaction_id": "f2dd5b76-ad00-4cd4-964a-370f7d01881c",
+    "user_id": "3e376ca5-683b-4f4a-97b6-fe6f09470420",
+    "amount": 4001.98,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Smithburgh",
+    "timestamp": "2026-05-22T23:12:00.869629"
+  },
+  {
+    "transaction_id": "40be2cc9-a111-4591-8a84-f725d88c9466",
+    "user_id": "87e1082c-268d-4951-bbc7-ff126a3eb05b",
+    "amount": 2252.3,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Marshallshire",
+    "timestamp": "2026-05-22T23:12:01.371419"
+  },
+  {
+    "transaction_id": "02043a1f-cb0b-4496-a7a7-191b3e4d45d6",
+    "user_id": "332b8c3d-1a03-4f7b-8ee8-10a0c05334c7",
+    "amount": 1594.05,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Tinatown",
+    "timestamp": "2026-05-22T23:12:01.873507"
+  },
+  {
+    "transaction_id": "ac5e0fb6-72ec-41b2-a9d6-5b8577b1d441",
+    "user_id": "a9e6558e-8003-49e4-b432-3cfaa6f30d6a",
+    "amount": 5953.05,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Tylerport",
+    "timestamp": "2026-05-22T23:12:02.878171"
+  },
+  {
+    "transaction_id": "b67ac0a7-94d1-4f27-8071-5005d5e9ac3c",
+    "user_id": "afee24e6-06d9-4cee-822a-6d6f9eb02d42",
+    "amount": 4963.27,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Angelafort",
+    "timestamp": "2026-05-22T23:12:03.379468"
+  },
+  {
+    "transaction_id": "a3885de2-0263-4ee2-8c2e-119497a4e5fe",
+    "user_id": "bba94eea-7ca3-4137-a0a2-904e947180dd",
+    "amount": 5787.14,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Burnsberg",
+    "timestamp": "2026-05-22T23:12:03.880942"
+  },
+  {
+    "transaction_id": "5d2d009f-4e94-4311-81de-769d41a0c93a",
+    "user_id": "c4cded73-9277-4856-ad3f-a50bccf321d0",
+    "amount": 3368.59,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Matthew",
+    "timestamp": "2026-05-22T23:12:04.382592"
+  },
+  {
+    "transaction_id": "bca1a418-934f-4876-bef4-2b99f3ab47de",
+    "user_id": "73e5bb5f-42a3-4958-8d21-15db3d76abe3",
+    "amount": 839.82,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port William",
+    "timestamp": "2026-05-22T23:12:04.885884"
+  }
+]

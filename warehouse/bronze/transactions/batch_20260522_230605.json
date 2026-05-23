@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5a7bffce-768d-4111-84ca-76d077f46493",
+    "user_id": "c024159d-7b05-4e4e-b810-fc84e185f298",
+    "amount": 5048.35,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Emmafort",
+    "timestamp": "2026-05-22T23:06:00.466093"
+  },
+  {
+    "transaction_id": "ac24a59e-6dde-43e3-ac2e-cfa7cde9c5bb",
+    "user_id": "be655c5c-9721-4d65-947a-4982715597d3",
+    "amount": 6575.61,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Frankside",
+    "timestamp": "2026-05-22T23:06:01.470084"
+  },
+  {
+    "transaction_id": "3939f624-32ed-4e08-8ef5-568f9a1f96db",
+    "user_id": "0144527c-abac-41d9-a133-5ba04beea71c",
+    "amount": 5023.57,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Frederick",
+    "timestamp": "2026-05-22T23:06:01.971242"
+  },
+  {
+    "transaction_id": "8e177f5c-8cdc-46ea-8fb5-c4a36488193b",
+    "user_id": "0ea5cced-03c4-4a1c-b022-341ea5092374",
+    "amount": 3524.26,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Craigbury",
+    "timestamp": "2026-05-22T23:06:02.473081"
+  },
+  {
+    "transaction_id": "03e403af-a647-4191-b650-3996e0787134",
+    "user_id": "f01c9604-41c0-4a87-8489-1d8bb6a5a598",
+    "amount": 5967.58,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Pattersonport",
+    "timestamp": "2026-05-22T23:06:03.476043"
+  },
+  {
+    "transaction_id": "36efdc57-0b95-49e0-bd7e-c58aca8f6bd0",
+    "user_id": "bd557cb5-a5fd-4667-85de-5c3a376041d4",
+    "amount": 4530.74,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Amy",
+    "timestamp": "2026-05-22T23:06:03.977334"
+  },
+  {
+    "transaction_id": "53f9406b-3b3c-4137-87a2-8fe9470403f0",
+    "user_id": "063bc9b3-c96f-415f-a075-838e18bceea9",
+    "amount": 524.44,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Brendafort",
+    "timestamp": "2026-05-22T23:06:04.478955"
+  },
+  {
+    "transaction_id": "0f491094-b93f-44e0-8d06-786753d21632",
+    "user_id": "007a61a1-1659-4a05-b859-4eb0be5de9cb",
+    "amount": 8993.28,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Emilymouth",
+    "timestamp": "2026-05-22T23:06:04.981290"
+  },
+  {
+    "transaction_id": "3812fcd0-ddd0-47c6-aef7-8c46fceea5b6",
+    "user_id": "9e7d3d74-65c7-4650-98af-d10c05552d79",
+    "amount": 5080.97,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Kenneth",
+    "timestamp": "2026-05-22T23:06:05.483289"
+  },
+  {
+    "transaction_id": "a283ccc0-2b5f-46ca-8e55-ee881ad845c1",
+    "user_id": "c21923fa-f170-4b58-8ff5-086afe64e1b6",
+    "amount": 4017.98,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Gonzalesstad",
+    "timestamp": "2026-05-22T23:06:05.986047"
+  }
+]

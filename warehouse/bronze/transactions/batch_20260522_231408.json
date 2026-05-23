@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "16880801-1adc-4a26-88f7-190bf2e72167",
+    "user_id": "bf289039-c75c-4f37-9c84-acd6d827190c",
+    "amount": 6864.21,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Michele",
+    "timestamp": "2026-05-22T23:14:02.822711"
+  },
+  {
+    "transaction_id": "d09a803c-2f47-4895-a80a-043a8fcd7eb3",
+    "user_id": "ad4316a5-af26-4b4a-ab49-1a5332d960b8",
+    "amount": 3228.54,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Ericside",
+    "timestamp": "2026-05-22T23:14:04.328982"
+  },
+  {
+    "transaction_id": "56cbf1b6-40fa-4af5-947d-241737018932",
+    "user_id": "b6b9ac4c-1939-467e-aab2-169d1412fb5b",
+    "amount": 916.54,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Joshuaton",
+    "timestamp": "2026-05-22T23:14:04.832692"
+  },
+  {
+    "transaction_id": "d0d5d42d-7cea-4ace-8193-34241127e4e8",
+    "user_id": "5ddb48b5-8e1f-4543-89fa-cd2bed81b1a9",
+    "amount": 7604.5,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Pamelaborough",
+    "timestamp": "2026-05-22T23:14:05.334247"
+  },
+  {
+    "transaction_id": "be5fe614-c78f-4d62-a17b-5a27a6e9e4d9",
+    "user_id": "69fd03f5-64b5-49cc-9519-d744955d7d0b",
+    "amount": 6545.02,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Floresside",
+    "timestamp": "2026-05-22T23:14:05.836783"
+  },
+  {
+    "transaction_id": "03dafc75-9e6d-4fdb-9ed7-a0ebdd2c1909",
+    "user_id": "8d58c195-d18b-4ced-a603-e45734652153",
+    "amount": 4629.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Michael",
+    "timestamp": "2026-05-22T23:14:06.339641"
+  },
+  {
+    "transaction_id": "422726a5-6ce8-435a-8827-954a786c2837",
+    "user_id": "0fead209-ff75-45c5-9f26-cb9294437987",
+    "amount": 365.85,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Rioshaven",
+    "timestamp": "2026-05-22T23:14:06.841361"
+  },
+  {
+    "transaction_id": "b589ace0-3576-4771-9b31-8095ca5e08c1",
+    "user_id": "9602eeef-4c58-473d-a8d3-e1abb7869c2e",
+    "amount": 5675.04,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Parkerside",
+    "timestamp": "2026-05-22T23:14:07.344214"
+  },
+  {
+    "transaction_id": "70dd4a24-2c64-4d21-b57a-1f749742750d",
+    "user_id": "4c306001-567c-4366-9354-8e893b87eec6",
+    "amount": 4567.77,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lisaport",
+    "timestamp": "2026-05-22T23:14:07.847052"
+  },
+  {
+    "transaction_id": "c82b983b-94cd-4bce-97d6-77002e3f83cb",
+    "user_id": "f5914189-363c-42c0-8b65-fae2ca3b8259",
+    "amount": 8349.84,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Kristafurt",
+    "timestamp": "2026-05-22T23:14:08.348402"
+  }
+]

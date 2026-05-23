@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "00101a90-da7e-49de-bd46-8ee6b2cb82f9",
+    "user_id": "f7c3f9a4-fa11-4bbe-868c-688a0084043c",
+    "amount": 2819.48,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Tonyville",
+    "timestamp": "2026-05-22T23:06:29.076701"
+  },
+  {
+    "transaction_id": "f1ba7898-c483-4ef0-8804-c1dad031b72d",
+    "user_id": "2d4acc8e-7d31-4bde-8502-a92d8d680d9f",
+    "amount": 3390.7,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "New Kathleen",
+    "timestamp": "2026-05-22T23:06:29.578044"
+  },
+  {
+    "transaction_id": "fc53bcf1-4e51-40b3-a277-6fa8bfa73717",
+    "user_id": "25de4b7b-675f-4f95-89ef-13f5ef1858b7",
+    "amount": 5192.54,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Stephanie",
+    "timestamp": "2026-05-22T23:06:30.079359"
+  },
+  {
+    "transaction_id": "527ebfe7-11a9-4f1a-9af3-e1ad7dba6c3b",
+    "user_id": "267b375a-dfbf-41ac-83da-56ee39a9c21f",
+    "amount": 4639.57,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Pattersonton",
+    "timestamp": "2026-05-22T23:06:31.081867"
+  },
+  {
+    "transaction_id": "371e7f15-ba1a-4fa4-af53-35a37563d380",
+    "user_id": "d4fd721a-ef80-4aee-a3d1-1271ae222fbe",
+    "amount": 9285.47,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Michaelside",
+    "timestamp": "2026-05-22T23:06:31.583352"
+  },
+  {
+    "transaction_id": "8e23e64d-f910-4463-834e-1c015d9375aa",
+    "user_id": "f7360ed4-50a3-4076-a957-6bc4c2f60257",
+    "amount": 1184.67,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Donaldhaven",
+    "timestamp": "2026-05-22T23:06:32.084601"
+  },
+  {
+    "transaction_id": "64b80f11-aa8c-48f7-bc33-1e2dc7510f16",
+    "user_id": "1e23dd1d-66df-450b-9045-c269cd990ca9",
+    "amount": 5623.43,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Kathleenberg",
+    "timestamp": "2026-05-22T23:06:32.585937"
+  },
+  {
+    "transaction_id": "e919e64a-771f-4f2e-b444-0f0b1fcf66b8",
+    "user_id": "357b71c9-3f80-4b27-b321-2887a1c9cb23",
+    "amount": 5144.26,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Tylershire",
+    "timestamp": "2026-05-22T23:06:33.088021"
+  },
+  {
+    "transaction_id": "5cc1f10a-612f-431e-bc4c-6bd3abceed72",
+    "user_id": "abbc482b-21dc-4e09-9880-157aade2e11e",
+    "amount": 8173.77,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Mandytown",
+    "timestamp": "2026-05-22T23:06:33.591486"
+  },
+  {
+    "transaction_id": "2747f982-45e5-4de9-83e8-342b25eea9bf",
+    "user_id": "ad3a85cc-0f92-4c24-9765-af2aca96bafc",
+    "amount": 8621.45,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Millerborough",
+    "timestamp": "2026-05-22T23:06:34.598377"
+  }
+]

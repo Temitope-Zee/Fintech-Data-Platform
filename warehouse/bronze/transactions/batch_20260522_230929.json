@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "898e41b8-2d98-4184-bf8a-50018c055647",
+    "user_id": "701510d5-1c38-40b6-b7a2-661e49eab117",
+    "amount": 2565.46,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Danahaven",
+    "timestamp": "2026-05-22T23:09:24.743644"
+  },
+  {
+    "transaction_id": "211d61e2-d1b4-4fe9-89e3-2da57fff31f7",
+    "user_id": "1d90b49c-92e9-4167-a61f-95342e34fcb5",
+    "amount": 7955.4,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Annberg",
+    "timestamp": "2026-05-22T23:09:25.269149"
+  },
+  {
+    "transaction_id": "87b0a556-6cc7-4e4a-88a0-87c118ceaa9e",
+    "user_id": "0961f88e-4c63-4cfa-8007-ac51f29de045",
+    "amount": 3713.49,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Michaelfort",
+    "timestamp": "2026-05-22T23:09:25.773532"
+  },
+  {
+    "transaction_id": "897bbd40-7536-45cb-8da4-c164dfa54758",
+    "user_id": "521565f8-ce9e-48ef-9aa9-18ba3b7d545c",
+    "amount": 5528.51,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Linda",
+    "timestamp": "2026-05-22T23:09:26.276343"
+  },
+  {
+    "transaction_id": "31269da1-a540-49d9-bbb8-63adeaca2f0f",
+    "user_id": "dcf4b63b-eba8-4d99-afed-211fd537c923",
+    "amount": 2908.63,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Wallsville",
+    "timestamp": "2026-05-22T23:09:26.778848"
+  },
+  {
+    "transaction_id": "43f98cda-7dff-4444-a277-5b9fbede014b",
+    "user_id": "9fe3c80a-c1b3-44ea-b6cc-ed3674d81950",
+    "amount": 3889.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Jamesfurt",
+    "timestamp": "2026-05-22T23:09:27.277633"
+  },
+  {
+    "transaction_id": "d7e4befb-bf7a-425f-a211-1524d401e3d9",
+    "user_id": "42e4e781-db55-4419-b529-a14cc1ab7117",
+    "amount": 6761.91,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Carltown",
+    "timestamp": "2026-05-22T23:09:27.779245"
+  },
+  {
+    "transaction_id": "2e7d31c1-300b-4989-94e5-39e47323d9e3",
+    "user_id": "b7bd3e3c-9d54-4ceb-bdd1-91d6a117eb3b",
+    "amount": 1948.3,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Catherineburgh",
+    "timestamp": "2026-05-22T23:09:28.282933"
+  },
+  {
+    "transaction_id": "94a50e4f-fe0b-4481-ab4e-9cc2ef55ffb3",
+    "user_id": "da03ad95-89a3-4668-b426-98c91cb5773c",
+    "amount": 4757.45,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Christopherland",
+    "timestamp": "2026-05-22T23:09:28.785833"
+  },
+  {
+    "transaction_id": "81544ebc-56ef-4273-b6ee-fe439ad77a4b",
+    "user_id": "24b709f3-32f9-40cb-a49e-6c57772affb1",
+    "amount": 9019.38,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Ritaborough",
+    "timestamp": "2026-05-22T23:09:29.287263"
+  }
+]

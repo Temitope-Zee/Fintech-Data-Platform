@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "76848607-d431-4673-ac2a-4596ac034ade",
+    "user_id": "8b63c34b-d6f9-44d2-a53e-5890c45da2d9",
+    "amount": 6361.05,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Jeffrey",
+    "timestamp": "2026-05-23T22:58:25.621859"
+  },
+  {
+    "transaction_id": "664b4f93-fee5-4adc-9cd6-d748da4bb69d",
+    "user_id": "76f26ab4-5125-4337-a51a-9fa6240d700b",
+    "amount": 7644.92,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Haroldberg",
+    "timestamp": "2026-05-23T22:58:26.627092"
+  },
+  {
+    "transaction_id": "99023933-24bf-4d2f-bee9-183c65dbb54c",
+    "user_id": "60c94855-a058-4e99-818f-799a62b781cc",
+    "amount": 47.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Barnesshire",
+    "timestamp": "2026-05-23T22:58:27.630450"
+  },
+  {
+    "transaction_id": "5af5fcf7-6137-40fd-9d24-aa5f2440eba2",
+    "user_id": "55920922-6740-46a8-b560-004f0aca2c23",
+    "amount": 6477.73,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "West Laurie",
+    "timestamp": "2026-05-23T22:58:28.634768"
+  },
+  {
+    "transaction_id": "22969df3-e14a-48ab-ba1f-efa9d201f129",
+    "user_id": "0dad30c0-0510-4fdc-b57c-5e72304c7ad9",
+    "amount": 3326.56,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Rachelbury",
+    "timestamp": "2026-05-23T22:58:29.639980"
+  },
+  {
+    "transaction_id": "a53acbb7-8309-4b7e-a252-cacd46a62a26",
+    "user_id": "981e2cbc-9db0-4dfe-a3c3-95d7880df0a6",
+    "amount": 4200.15,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Douglasville",
+    "timestamp": "2026-05-23T22:58:30.141115"
+  },
+  {
+    "transaction_id": "605b786e-5d12-4b32-b3d8-bea2947c357f",
+    "user_id": "43e0ac2c-2d59-445f-998d-3f5ee13309cc",
+    "amount": 8210.35,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Michaelhaven",
+    "timestamp": "2026-05-23T22:58:31.145536"
+  },
+  {
+    "transaction_id": "02ae81ec-eea4-4996-9f2e-ba2a6e650732",
+    "user_id": "5e3983e8-8c8e-48ed-84c7-f046ae11cfc0",
+    "amount": 2376.28,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Rebekahbury",
+    "timestamp": "2026-05-23T22:58:31.646715"
+  },
+  {
+    "transaction_id": "78e70af7-7551-4303-be72-0a06f9f81c60",
+    "user_id": "9106f763-0f4f-4e7b-b854-f45061fce753",
+    "amount": 7855.47,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Crystalberg",
+    "timestamp": "2026-05-23T22:58:32.148205"
+  },
+  {
+    "transaction_id": "e1c3ee07-2a2a-48c4-9fd2-d75a5fd9b766",
+    "user_id": "e439656f-0515-4bb1-970b-8f40b4426759",
+    "amount": 1904.58,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Donald",
+    "timestamp": "2026-05-23T22:58:32.649655"
+  }
+]

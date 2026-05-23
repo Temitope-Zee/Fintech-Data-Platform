@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7652ae12-43b6-46b6-8fb6-4decf3edd186",
+    "user_id": "c2ecb1c9-1819-41bc-b8b3-5bf7f5bc04b1",
+    "amount": 7996.42,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Anthony",
+    "timestamp": "2026-05-22T23:04:00.497459"
+  },
+  {
+    "transaction_id": "2bf48953-9ea0-46e3-aede-db39708a4b6f",
+    "user_id": "ada33a71-a776-4db6-9782-6f37522fcaf4",
+    "amount": 3797.24,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Nicholasview",
+    "timestamp": "2026-05-22T23:04:00.999142"
+  },
+  {
+    "transaction_id": "16c47e8b-53bf-4a6f-941e-b5fb97cbc474",
+    "user_id": "d1bb00ab-086d-4957-b92d-c217e54117bb",
+    "amount": 9157.37,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "New Davidberg",
+    "timestamp": "2026-05-22T23:04:02.505530"
+  },
+  {
+    "transaction_id": "d1a36a1b-677c-4316-801c-a3a325177ad6",
+    "user_id": "4d541711-b089-4520-9954-a7a834ea4054",
+    "amount": 7603.07,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Brownmouth",
+    "timestamp": "2026-05-22T23:04:03.509692"
+  },
+  {
+    "transaction_id": "bd5097b2-4faa-4fbb-91d0-456e5aa1dcd9",
+    "user_id": "52522d4f-ef25-416b-829b-9f18b5c8b80b",
+    "amount": 4998.74,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Joshuafort",
+    "timestamp": "2026-05-22T23:04:04.515397"
+  },
+  {
+    "transaction_id": "0375f37e-5c6b-4e0a-9f11-b97a00f4acab",
+    "user_id": "4b66ff61-05c2-4008-8ec6-215fa5badf9c",
+    "amount": 8799.82,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Amandaland",
+    "timestamp": "2026-05-22T23:04:05.017586"
+  },
+  {
+    "transaction_id": "ecaf81e3-caf0-49b9-a120-e5ade4a8e937",
+    "user_id": "5dce953e-18bf-4bcc-9036-593ea614c425",
+    "amount": 6602.67,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Laurenfort",
+    "timestamp": "2026-05-22T23:04:05.518959"
+  },
+  {
+    "transaction_id": "6658ee7c-fae0-43ac-84b5-7aa947830489",
+    "user_id": "d72bdcfc-7012-4afd-9bfd-f79bf09fa3b9",
+    "amount": 9015.73,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Lauramouth",
+    "timestamp": "2026-05-22T23:04:06.020346"
+  },
+  {
+    "transaction_id": "09c87d65-72dd-4b5a-9a01-3f82fc672317",
+    "user_id": "122bdcf9-dd37-4346-87b5-71c8e5aae972",
+    "amount": 496.67,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Port Chelsea",
+    "timestamp": "2026-05-22T23:04:06.523456"
+  },
+  {
+    "transaction_id": "718ce0a8-8cb3-4c7f-94fb-dca0e10fc09a",
+    "user_id": "37bd1286-5d83-4acf-a6a0-3ca83f879763",
+    "amount": 8617.42,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "West Stephen",
+    "timestamp": "2026-05-22T23:04:07.024631"
+  }
+]

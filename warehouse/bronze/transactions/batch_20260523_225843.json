@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "82a3d6b1-0795-4910-970f-20c5cd1b7b16",
+    "user_id": "1332a563-2c72-43b3-93e7-a40fe4e93e31",
+    "amount": 5031.53,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Cherylfort",
+    "timestamp": "2026-05-23T22:58:38.676568"
+  },
+  {
+    "transaction_id": "088ffef9-37ab-49b6-b449-9fe52efbb8f5",
+    "user_id": "c4870f9d-9fc5-4675-9c2f-d0c144285e55",
+    "amount": 5631.26,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "North Jamieberg",
+    "timestamp": "2026-05-23T22:58:39.177818"
+  },
+  {
+    "transaction_id": "81764fc4-5559-4c34-b5d5-dafe9d2de107",
+    "user_id": "7163b2d7-0125-4146-a04a-24e0c9d503ec",
+    "amount": 2423.83,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Sharon",
+    "timestamp": "2026-05-23T22:58:40.183968"
+  },
+  {
+    "transaction_id": "89635463-e501-4767-beb5-077c3241e0f5",
+    "user_id": "bc01f964-cff5-43be-9f6a-e781af53ce70",
+    "amount": 3353.71,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Hannahchester",
+    "timestamp": "2026-05-23T22:58:40.685757"
+  },
+  {
+    "transaction_id": "2002f466-239a-4c6e-aaad-67b6b148eb56",
+    "user_id": "25d24cd1-182c-40d8-811d-c90a189d740c",
+    "amount": 5499.65,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Bradshawstad",
+    "timestamp": "2026-05-23T22:58:41.188793"
+  },
+  {
+    "transaction_id": "9db864c7-f50e-4bfa-a404-17f740d481b9",
+    "user_id": "97c9b128-ba55-45cf-a333-d98b02a0245c",
+    "amount": 4030.08,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Adamberg",
+    "timestamp": "2026-05-23T22:58:41.691338"
+  },
+  {
+    "transaction_id": "d61412ac-0e32-475f-9436-73c6ac607123",
+    "user_id": "61543af4-700e-4a60-973d-d42326718c27",
+    "amount": 6150.37,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Timothymouth",
+    "timestamp": "2026-05-23T22:58:42.192546"
+  },
+  {
+    "transaction_id": "220161fb-b493-4488-b525-6a312e473318",
+    "user_id": "4e95b5f9-1bd7-4368-98fa-0cf0eafc390a",
+    "amount": 5859.04,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Bakerville",
+    "timestamp": "2026-05-23T22:58:42.694551"
+  },
+  {
+    "transaction_id": "cc5d2446-37e1-4594-83ea-79d510111582",
+    "user_id": "8e40541f-6195-4e01-b050-1cfef0fef259",
+    "amount": 6221.96,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Ortizland",
+    "timestamp": "2026-05-23T22:58:43.195938"
+  },
+  {
+    "transaction_id": "eb0a0a26-9fdb-4581-98ed-1d5fa13e7c4f",
+    "user_id": "b6e4b443-4cb4-4a3b-a7ba-fd1af08f4638",
+    "amount": 2408.52,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Charles",
+    "timestamp": "2026-05-23T22:58:43.694000"
+  }
+]

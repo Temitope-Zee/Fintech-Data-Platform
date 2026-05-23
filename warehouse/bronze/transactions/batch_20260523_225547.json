@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e36b6502-ceb7-4c5f-af5a-fc6f692a9118",
+    "user_id": "9ac4c991-4b90-4ab0-bec8-08f231116626",
+    "amount": 5144.58,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Jamietown",
+    "timestamp": "2026-05-23T22:55:42.004642"
+  },
+  {
+    "transaction_id": "ba366fee-4726-4ebf-9073-48ca19b4dc1f",
+    "user_id": "2e09a699-909b-4a94-8de7-94308ef04762",
+    "amount": 308.24,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Patricia",
+    "timestamp": "2026-05-23T22:55:42.506864"
+  },
+  {
+    "transaction_id": "e67703be-a147-46bc-b1f6-50125e8d672a",
+    "user_id": "854b0251-9648-4edf-ad86-b20aa4aaf318",
+    "amount": 3270.82,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Davidland",
+    "timestamp": "2026-05-23T22:55:43.010686"
+  },
+  {
+    "transaction_id": "e7f85c40-f692-4b62-8dc2-d5ef5985d15e",
+    "user_id": "b1cffe1a-6d60-492f-a286-b067ad6e6aef",
+    "amount": 5704.78,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Brittanyside",
+    "timestamp": "2026-05-23T22:55:43.509704"
+  },
+  {
+    "transaction_id": "5bd5e4fa-3d07-47f0-91f3-d470f7a9f672",
+    "user_id": "27eb3a60-4cac-470c-b453-069d55054fe3",
+    "amount": 4529.8,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Danielbury",
+    "timestamp": "2026-05-23T22:55:44.012567"
+  },
+  {
+    "transaction_id": "be948f4d-6887-4b52-8f6d-ccec20ef4f88",
+    "user_id": "989f158f-ae50-492e-9043-85d4656151e0",
+    "amount": 6018.55,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "South Samanthamouth",
+    "timestamp": "2026-05-23T22:55:44.515022"
+  },
+  {
+    "transaction_id": "ede0cb4d-e168-449b-9b23-af458e403a14",
+    "user_id": "d8e5ed58-4105-45e6-aa51-18890336eaee",
+    "amount": 7184.04,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Jacquelineton",
+    "timestamp": "2026-05-23T22:55:46.024051"
+  },
+  {
+    "transaction_id": "99cc654a-d609-4af5-a251-2cf03ffe5e03",
+    "user_id": "1f1a2466-e504-4088-b8ad-72e87bdf7a12",
+    "amount": 8007.73,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Janice",
+    "timestamp": "2026-05-23T22:55:46.526680"
+  },
+  {
+    "transaction_id": "1b89cab6-ed2d-4729-ba4e-a487ca08b74a",
+    "user_id": "2f0a4a2a-566a-4fdb-b836-f0b5c7223fb8",
+    "amount": 472.92,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Juanmouth",
+    "timestamp": "2026-05-23T22:55:47.029662"
+  },
+  {
+    "transaction_id": "cf3c30eb-cdaf-4f63-8a6a-0b70ec0f8ec9",
+    "user_id": "bf18507b-349d-4ff0-a22a-d6e7c3fedfac",
+    "amount": 3712.75,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "New Joshua",
+    "timestamp": "2026-05-23T22:55:47.531042"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e20f95a1-2c4e-4a50-b87c-0156db09da44",
+    "user_id": "3fb40dc9-f35a-4f49-96c3-f5d112881296",
+    "amount": 6610.1,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Philip",
+    "timestamp": "2026-05-23T22:54:27.229705"
+  },
+  {
+    "transaction_id": "2c5a94b5-6f7a-4b30-8bb2-398db95075ba",
+    "user_id": "f13ac8d3-87c0-4918-b603-d2dbc1b206d2",
+    "amount": 7469.77,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East David",
+    "timestamp": "2026-05-23T22:54:27.731060"
+  },
+  {
+    "transaction_id": "afe65ed1-1ca6-4e63-b621-ec7a5bc0b8e7",
+    "user_id": "bbcd0d57-f8d8-474d-8b67-ee40f62d58b3",
+    "amount": 4716.53,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Ebony",
+    "timestamp": "2026-05-23T22:54:28.232610"
+  },
+  {
+    "transaction_id": "4531a2e4-d010-4eba-a7cb-cbea2dcb38bd",
+    "user_id": "c522957d-4592-4d9a-9670-764969f35172",
+    "amount": 7589.95,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Port Thomasshire",
+    "timestamp": "2026-05-23T22:54:29.235556"
+  },
+  {
+    "transaction_id": "7b3cb964-2d31-49af-9e8c-fb4e55ffa7e5",
+    "user_id": "32afd288-f994-42ae-9ac4-31dc88ea698e",
+    "amount": 4668.56,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Brucefurt",
+    "timestamp": "2026-05-23T22:54:29.737366"
+  },
+  {
+    "transaction_id": "86cd76ba-3a1f-4cfb-8362-98a1144bf8b6",
+    "user_id": "99d5fef0-873d-4486-9398-3ff264a99d49",
+    "amount": 3186.54,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Maryborough",
+    "timestamp": "2026-05-23T22:54:30.239811"
+  },
+  {
+    "transaction_id": "8a77e5a4-bad9-4de1-8161-546c9b5860f2",
+    "user_id": "98f6afd2-bd44-47d9-8b52-b7959986cb4b",
+    "amount": 3112.16,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Stephanie",
+    "timestamp": "2026-05-23T22:54:31.244157"
+  },
+  {
+    "transaction_id": "bb183831-ca2b-454e-a22b-cca0d259d549",
+    "user_id": "51e66db7-ca5c-45f6-8e81-df97324b1bdd",
+    "amount": 4377.64,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "West Paulbury",
+    "timestamp": "2026-05-23T22:54:32.750204"
+  },
+  {
+    "transaction_id": "01339bed-7325-4616-a7fc-e4a5585c6891",
+    "user_id": "246ad14e-4e8e-4555-9076-a22164d699f1",
+    "amount": 7838.06,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Dennisbury",
+    "timestamp": "2026-05-23T22:54:33.252796"
+  },
+  {
+    "transaction_id": "c8193e55-0fb1-492d-a7a3-2ce4e1318555",
+    "user_id": "038f7d99-28cb-493e-b5cf-d4f3499e81b7",
+    "amount": 878.31,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Dylanbury",
+    "timestamp": "2026-05-23T22:54:33.754342"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "173470cb-4736-453e-961f-96ce0a4de53b",
+    "user_id": "cc2acaab-8534-4a38-965a-2d674193d472",
+    "amount": 5142.0,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Hermanside",
+    "timestamp": "2026-05-23T22:59:41.891120"
+  },
+  {
+    "transaction_id": "4622ecfb-0279-40a6-b608-cdc0a263f343",
+    "user_id": "82bb0857-83ba-48a3-b6fe-f79713a95c1f",
+    "amount": 9321.28,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "East Robert",
+    "timestamp": "2026-05-23T22:59:42.392404"
+  },
+  {
+    "transaction_id": "1783fdad-a5a9-48fa-b3b0-7ef97aa82d91",
+    "user_id": "6d57eb96-c651-4141-9f71-48a2d4bfe4ab",
+    "amount": 5542.92,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Powellfurt",
+    "timestamp": "2026-05-23T22:59:42.894890"
+  },
+  {
+    "transaction_id": "7dcc12ff-7042-4ccf-aea2-a8572e8c70ba",
+    "user_id": "a04ffe7d-51d7-44e6-a683-3026052b305c",
+    "amount": 9172.96,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Paulmouth",
+    "timestamp": "2026-05-23T22:59:43.894106"
+  },
+  {
+    "transaction_id": "1a9ac677-6019-44ff-8bfd-50c5ec24cba1",
+    "user_id": "c9a9e1c0-57a7-4a5c-a177-a320ecee00e9",
+    "amount": 1881.29,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Michaelport",
+    "timestamp": "2026-05-23T22:59:45.397750"
+  },
+  {
+    "transaction_id": "8621f76a-b7a1-4687-8465-32c8bc713256",
+    "user_id": "2b0223d7-d2a8-4ecb-9f73-5b6b0e74d221",
+    "amount": 4662.82,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Heidi",
+    "timestamp": "2026-05-23T22:59:45.899117"
+  },
+  {
+    "transaction_id": "dae5981b-af56-47a4-a174-5b9d8a5ff440",
+    "user_id": "10cbcdfe-4e49-42d1-8019-57c438fdd342",
+    "amount": 3734.95,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Robertsport",
+    "timestamp": "2026-05-23T22:59:46.400315"
+  },
+  {
+    "transaction_id": "46a0470a-4bec-4880-8ec1-e50d552e730f",
+    "user_id": "2923c99d-c3b0-45b9-ba05-27d16d457802",
+    "amount": 9829.22,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Dianechester",
+    "timestamp": "2026-05-23T22:59:46.901815"
+  },
+  {
+    "transaction_id": "4bded2d3-4c9f-4767-863f-0499ecebdb1a",
+    "user_id": "6e3ad7de-9912-4715-8074-e7cd81aa9fe7",
+    "amount": 5309.07,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Mariaside",
+    "timestamp": "2026-05-23T22:59:47.404967"
+  },
+  {
+    "transaction_id": "35dfdbfb-a8c8-4d93-b9be-8dd6004b19a0",
+    "user_id": "5d63f068-1475-4e03-a056-cdbbcfa5e8da",
+    "amount": 8524.42,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Joelfurt",
+    "timestamp": "2026-05-23T22:59:47.906497"
+  }
+]

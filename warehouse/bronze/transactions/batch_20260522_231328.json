@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "cf7782db-46b5-4359-8a56-8de62a616813",
+    "user_id": "4eff2a99-301d-4567-ae00-7da8f8ab7eec",
+    "amount": 5299.94,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Georgestad",
+    "timestamp": "2026-05-22T23:13:22.183337"
+  },
+  {
+    "transaction_id": "8ec99bd5-2537-4f3a-a60f-92b880430c0a",
+    "user_id": "da13d998-0375-4ee4-9947-e653ef990d77",
+    "amount": 1234.16,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Robinsonberg",
+    "timestamp": "2026-05-22T23:13:22.684669"
+  },
+  {
+    "transaction_id": "f4dc0f49-45d0-4477-875b-310e5f994e65",
+    "user_id": "405020f7-118f-4293-a8cd-91192a87bc0c",
+    "amount": 6692.47,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Riverashire",
+    "timestamp": "2026-05-22T23:13:23.186315"
+  },
+  {
+    "transaction_id": "49ca77ba-f04c-4338-8903-9effab89a571",
+    "user_id": "8aa56602-2821-483f-877c-a45866314475",
+    "amount": 3181.24,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Janetshire",
+    "timestamp": "2026-05-22T23:13:24.189316"
+  },
+  {
+    "transaction_id": "06b5c96f-4e97-45eb-9018-6be23da9e930",
+    "user_id": "cd0e6559-325d-4096-9262-0f286b4de8cd",
+    "amount": 9138.49,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Morganmouth",
+    "timestamp": "2026-05-22T23:13:24.690702"
+  },
+  {
+    "transaction_id": "426e7b53-0ff0-4800-886d-9dfade7a1be2",
+    "user_id": "e778a17c-9ebd-4730-8be5-9f222c6572e2",
+    "amount": 6377.79,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Pamelafurt",
+    "timestamp": "2026-05-22T23:13:25.694467"
+  },
+  {
+    "transaction_id": "bcbfa438-3bc4-4515-8ca6-cdb67dbacd5e",
+    "user_id": "160525a6-2268-41c0-8fff-76d008235052",
+    "amount": 6130.95,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stewartport",
+    "timestamp": "2026-05-22T23:13:26.195916"
+  },
+  {
+    "transaction_id": "8bc46f4f-efd4-414a-ad2f-d8e641a9b1d6",
+    "user_id": "c34da493-c4b1-41c6-83d6-3a5004c8bd97",
+    "amount": 7424.11,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Rosefurt",
+    "timestamp": "2026-05-22T23:13:26.697014"
+  },
+  {
+    "transaction_id": "4a7c47ea-f8a2-4cbb-9753-4442fce8cee4",
+    "user_id": "d11275b5-74e9-4620-9cde-e2781580c12f",
+    "amount": 6788.06,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Troyhaven",
+    "timestamp": "2026-05-22T23:13:27.696337"
+  },
+  {
+    "transaction_id": "ae09b0a2-e3f7-4137-bb1e-611a220426d8",
+    "user_id": "e135df0f-f4fe-4e54-bf21-aaf80fb0bcd9",
+    "amount": 874.61,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Grimesstad",
+    "timestamp": "2026-05-22T23:13:28.199088"
+  }
+]

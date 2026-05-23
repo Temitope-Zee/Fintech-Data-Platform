@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "494b1fb7-c12a-47f6-b0b7-dc77d35229ef",
+    "user_id": "5f79c6a9-b390-493c-ae83-cc2c7ccbfd31",
+    "amount": 7159.92,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Bryanland",
+    "timestamp": "2026-05-23T22:59:28.343264"
+  },
+  {
+    "transaction_id": "c273d42d-54f2-4618-b5fc-33efc2879ce8",
+    "user_id": "3c0d8a66-566c-4861-9ec5-12bf7eb56da7",
+    "amount": 7073.9,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South John",
+    "timestamp": "2026-05-23T22:59:29.347366"
+  },
+  {
+    "transaction_id": "a0914708-3f91-48c4-87f3-e6553a2f0c67",
+    "user_id": "15fab639-00ec-46da-8843-a9bdbf6a0a61",
+    "amount": 7581.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Mendozastad",
+    "timestamp": "2026-05-23T22:59:29.849097"
+  },
+  {
+    "transaction_id": "8b69b805-7a1c-43ec-8866-62eba7062911",
+    "user_id": "e9e56719-9d63-4f3a-9f6a-dd4e169d4978",
+    "amount": 619.55,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Lake Virginiaburgh",
+    "timestamp": "2026-05-23T22:59:30.352095"
+  },
+  {
+    "transaction_id": "abc2406d-c6a7-4453-82ae-055dfd00f4e2",
+    "user_id": "235dadb8-3da7-4f5c-a16c-1906cb89fb01",
+    "amount": 2409.3,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Kevinton",
+    "timestamp": "2026-05-23T22:59:30.854688"
+  },
+  {
+    "transaction_id": "b4d7045f-a8c7-4c9b-8729-60142311b049",
+    "user_id": "57d82df3-7d68-44e3-9313-a5b29777ec94",
+    "amount": 2998.64,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Bradfort",
+    "timestamp": "2026-05-23T22:59:31.355791"
+  },
+  {
+    "transaction_id": "af0b8b53-3f02-45a5-b5bf-2238e3d35f2e",
+    "user_id": "ec408b00-97a5-4fce-b4b0-dcbd0eb95bb7",
+    "amount": 5008.01,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Kimberlyport",
+    "timestamp": "2026-05-23T22:59:31.857085"
+  },
+  {
+    "transaction_id": "f1713a7c-4bfe-4eea-95e2-01de4ba705ce",
+    "user_id": "a7748371-eb39-45e0-a750-ae8d14c0eeb2",
+    "amount": 5250.39,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Salazarton",
+    "timestamp": "2026-05-23T22:59:32.358988"
+  },
+  {
+    "transaction_id": "c96e234e-971e-41a2-95ce-feba74ab1c77",
+    "user_id": "edd9ebb7-d05d-4fd6-9a56-3613a2471566",
+    "amount": 546.33,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Dwaynestad",
+    "timestamp": "2026-05-23T22:59:32.860529"
+  },
+  {
+    "transaction_id": "8b8b9a62-6546-4cb8-9dd4-e7699e7e813b",
+    "user_id": "3e709ff6-5d3c-4e4f-80f9-f39b84de04b3",
+    "amount": 4417.37,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Kevinland",
+    "timestamp": "2026-05-23T22:59:33.361471"
+  }
+]

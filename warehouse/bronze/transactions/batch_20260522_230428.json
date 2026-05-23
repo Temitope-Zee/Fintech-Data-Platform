@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "19ada497-3dae-4f48-b72c-8a52714ba988",
+    "user_id": "300294c3-aaca-4e9f-b11c-2c448d8c5bfe",
+    "amount": 3203.19,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Anthony",
+    "timestamp": "2026-05-22T23:04:24.094760"
+  },
+  {
+    "transaction_id": "436185dd-32dc-4742-aef6-007f837a63ab",
+    "user_id": "1ed15515-fb92-47ac-9008-e986c0efb95e",
+    "amount": 947.26,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "New Joshualand",
+    "timestamp": "2026-05-22T23:04:24.596145"
+  },
+  {
+    "transaction_id": "02240bb9-0390-4b01-be7c-5f9f096c89d6",
+    "user_id": "e593f78c-6c2f-4883-a31d-b094cd61a7de",
+    "amount": 1653.14,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Nelsonfurt",
+    "timestamp": "2026-05-22T23:04:25.098172"
+  },
+  {
+    "transaction_id": "0ed0bf2d-c2c7-4898-a21d-7472ba7c8d10",
+    "user_id": "08ad4357-dd50-4989-bc3c-ade26ae3a41e",
+    "amount": 7091.09,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Christianborough",
+    "timestamp": "2026-05-22T23:04:25.599606"
+  },
+  {
+    "transaction_id": "26aadee8-db3a-4121-8bbb-380ee2c15b6d",
+    "user_id": "f312e4b5-3a93-40db-92e1-0911189843a6",
+    "amount": 7047.93,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Emily",
+    "timestamp": "2026-05-22T23:04:26.101374"
+  },
+  {
+    "transaction_id": "6dac9b04-e536-451c-8698-41e33e87fd9e",
+    "user_id": "d04b6958-56e9-4b13-8d27-09e4b58eb828",
+    "amount": 1962.96,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Lake Kellistad",
+    "timestamp": "2026-05-22T23:04:26.602808"
+  },
+  {
+    "transaction_id": "393d894a-2725-4e3c-9b0b-07d3106f2034",
+    "user_id": "424a6506-c731-4829-9404-89251afef4f1",
+    "amount": 2727.17,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Carlosview",
+    "timestamp": "2026-05-22T23:04:27.105622"
+  },
+  {
+    "transaction_id": "6a77bc01-3f21-40d9-bfd3-8e522edd6f12",
+    "user_id": "7ebb4ac4-6667-45d5-8c22-63f68babaa5e",
+    "amount": 2756.7,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Erikport",
+    "timestamp": "2026-05-22T23:04:27.605644"
+  },
+  {
+    "transaction_id": "9064c27e-86dc-4108-b5c2-0f0745aa9bed",
+    "user_id": "a0d20165-e40d-44f0-9e34-b5bff91f9fbe",
+    "amount": 2923.87,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Ericview",
+    "timestamp": "2026-05-22T23:04:28.108537"
+  },
+  {
+    "transaction_id": "a0e44110-f9da-45b2-b13e-54bd0a657ff5",
+    "user_id": "00c0d377-4e6f-48cf-ad52-8eef74125a9c",
+    "amount": 3986.72,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Craighaven",
+    "timestamp": "2026-05-22T23:04:28.609699"
+  }
+]

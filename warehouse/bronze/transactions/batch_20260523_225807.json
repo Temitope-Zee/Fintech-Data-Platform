@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f5c5f364-68af-4e36-aa92-d01339d5ca1c",
+    "user_id": "0f38b185-717d-471b-a3d8-dcc34c0b4b4b",
+    "amount": 9959.01,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Port Kaylastad",
+    "timestamp": "2026-05-23T22:58:00.038824"
+  },
+  {
+    "transaction_id": "76871c4b-d415-49c7-8cba-6544557834dd",
+    "user_id": "a9137420-31a0-43c1-ade5-3cae6849f7c7",
+    "amount": 315.09,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Victoriahaven",
+    "timestamp": "2026-05-23T22:58:01.542916"
+  },
+  {
+    "transaction_id": "66017a42-39e2-49fa-93f7-57e2cb64bb3a",
+    "user_id": "2487b613-ec65-49cb-8809-973dde8f07be",
+    "amount": 9441.83,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Courtneyview",
+    "timestamp": "2026-05-23T22:58:02.045309"
+  },
+  {
+    "transaction_id": "4c2fa955-2b8c-4142-92b7-6632faf3e0d8",
+    "user_id": "f76837fa-132a-4282-9e18-d07b3e2df3a2",
+    "amount": 5307.62,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Masonport",
+    "timestamp": "2026-05-23T22:58:02.546803"
+  },
+  {
+    "transaction_id": "371b28a8-b2ff-4a3f-9c70-2588effdda70",
+    "user_id": "c68a1f42-933a-46ac-892c-12428538e7df",
+    "amount": 9252.94,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Sandra",
+    "timestamp": "2026-05-23T22:58:03.048360"
+  },
+  {
+    "transaction_id": "fd086ed2-671e-4c7b-90f8-5bac58281723",
+    "user_id": "b0284696-dac7-43ad-b264-81be56ca9316",
+    "amount": 3761.96,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Riversstad",
+    "timestamp": "2026-05-23T22:58:03.550818"
+  },
+  {
+    "transaction_id": "84034571-9a2e-4327-80d5-b93d3becfe20",
+    "user_id": "b81f895e-88c0-45f8-9f0f-8731364de103",
+    "amount": 2219.37,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Marc",
+    "timestamp": "2026-05-23T22:58:04.052253"
+  },
+  {
+    "transaction_id": "2af32345-b190-4b79-80da-f0c68c6698d0",
+    "user_id": "61123b2b-a2ed-462f-a9a7-ea3f320ca7da",
+    "amount": 368.68,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "West Arthur",
+    "timestamp": "2026-05-23T22:58:05.055817"
+  },
+  {
+    "transaction_id": "e24e60ac-650c-4b54-a820-81408b4881db",
+    "user_id": "1767dda9-de56-42c0-bf1b-f25719818207",
+    "amount": 3243.98,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Johnsonton",
+    "timestamp": "2026-05-23T22:58:05.557349"
+  },
+  {
+    "transaction_id": "59625ee4-3b01-4483-963b-b3a715c62cb5",
+    "user_id": "6e6bfa7d-3a1e-47c0-a53b-ff020e6c31c1",
+    "amount": 5.06,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Garyburgh",
+    "timestamp": "2026-05-23T22:58:07.565188"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "d58c6f50-9ce2-4cb2-be66-1c86ecf1d19a",
+    "user_id": "ff172d39-5a6c-4915-adee-fcfae3157a01",
+    "amount": 2477.21,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Anthonyburgh",
+    "timestamp": "2026-05-22T23:16:02.824065"
+  },
+  {
+    "transaction_id": "896b1ae6-5cd1-43e1-b795-a0a579003d2f",
+    "user_id": "4c339e91-6e32-4510-8092-c90092e43d91",
+    "amount": 7478.91,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Jamesshire",
+    "timestamp": "2026-05-22T23:16:03.829328"
+  },
+  {
+    "transaction_id": "791f05aa-7a41-4dcc-952c-df7e90495e72",
+    "user_id": "2a9e02f5-d52d-48fd-b4c7-d215963e81fb",
+    "amount": 8580.08,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Johnsonberg",
+    "timestamp": "2026-05-22T23:16:04.332037"
+  },
+  {
+    "transaction_id": "e6ed8f8d-d22c-4d01-939e-2f6a1c407398",
+    "user_id": "6de18cd3-7b38-4455-800d-347b284942ef",
+    "amount": 2754.39,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Luismouth",
+    "timestamp": "2026-05-22T23:16:04.835139"
+  },
+  {
+    "transaction_id": "cee166f8-63fd-47d5-9523-a3852f22d07e",
+    "user_id": "b6a8a958-8d76-48bf-9252-03920a6d5e0a",
+    "amount": 8597.24,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Donnaton",
+    "timestamp": "2026-05-22T23:16:05.337550"
+  },
+  {
+    "transaction_id": "95369de2-927b-42a4-949e-862f53173cb0",
+    "user_id": "79d744fd-7641-40f8-8369-6b1a26f2564f",
+    "amount": 1804.95,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Manuel",
+    "timestamp": "2026-05-22T23:16:05.840003"
+  },
+  {
+    "transaction_id": "8d9081b8-a159-44ed-9bdd-e632d171f4b7",
+    "user_id": "52ebe46a-b644-4443-a8d5-dae1b6a6762a",
+    "amount": 629.09,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Justin",
+    "timestamp": "2026-05-22T23:16:06.342634"
+  },
+  {
+    "transaction_id": "293658a8-1b73-40e3-b11f-54022b4c02dc",
+    "user_id": "77fa5bc6-5c30-4aee-98c5-a0a1d9b818df",
+    "amount": 3140.07,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Kevinstad",
+    "timestamp": "2026-05-22T23:16:06.845914"
+  },
+  {
+    "transaction_id": "a9337fde-5bee-4a7e-9e35-5b19c632385f",
+    "user_id": "f1cbc9eb-1a75-4eed-80be-a3f2e298c5f5",
+    "amount": 4263.14,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Tammyburgh",
+    "timestamp": "2026-05-22T23:16:07.347598"
+  },
+  {
+    "transaction_id": "bb704ef5-c07a-4673-bc94-ca04e9834e6e",
+    "user_id": "bdeff665-7a77-46a1-a362-267b1405301b",
+    "amount": 591.22,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Amber",
+    "timestamp": "2026-05-22T23:16:07.848671"
+  }
+]

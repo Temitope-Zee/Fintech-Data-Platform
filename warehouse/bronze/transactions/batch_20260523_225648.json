@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a499d897-bdf4-4926-8957-35fd6809eb4e",
+    "user_id": "27340079-3711-4a50-aac9-969d7ffd94da",
+    "amount": 5280.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Bruce",
+    "timestamp": "2026-05-23T22:56:41.251236"
+  },
+  {
+    "transaction_id": "507edd86-2239-4064-a00f-9896ccf03871",
+    "user_id": "2a772345-7401-4225-b935-5247454e7569",
+    "amount": 8132.05,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Camposbury",
+    "timestamp": "2026-05-23T22:56:41.752632"
+  },
+  {
+    "transaction_id": "1dbacbdb-bda3-4f7c-95e5-a9dd50d67eee",
+    "user_id": "c0019a1a-884b-4f57-8758-5102551241fb",
+    "amount": 6212.53,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Rodriguezport",
+    "timestamp": "2026-05-23T22:56:42.757122"
+  },
+  {
+    "transaction_id": "4a88664d-aeaa-4c58-b8cf-b5a22cff5c1f",
+    "user_id": "3d3235c7-a6c8-4101-b710-2f22927d81fe",
+    "amount": 7729.75,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Christopherville",
+    "timestamp": "2026-05-23T22:56:43.258522"
+  },
+  {
+    "transaction_id": "55659ef4-c528-4346-8143-5e7d7cd34c9d",
+    "user_id": "c4dbecb8-e15b-493d-b39e-cbf5cbb32a50",
+    "amount": 3134.93,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Mary",
+    "timestamp": "2026-05-23T22:56:44.260116"
+  },
+  {
+    "transaction_id": "4d8559c8-93a7-401f-b10e-bab3480da5d5",
+    "user_id": "628680dc-7004-4c13-bc5d-c2776e9dc1c2",
+    "amount": 7106.58,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Christopher",
+    "timestamp": "2026-05-23T22:56:44.763325"
+  },
+  {
+    "transaction_id": "e8808564-3015-49ec-b14b-c4cda21172a5",
+    "user_id": "e27e24af-3345-43ad-b6c7-0e65942b1a2f",
+    "amount": 117.04,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Tracyport",
+    "timestamp": "2026-05-23T22:56:45.264692"
+  },
+  {
+    "transaction_id": "25248fe4-bf52-4891-965d-925766d77709",
+    "user_id": "17b47403-a249-4177-b8db-246b03929777",
+    "amount": 4977.84,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "East Yvonneberg",
+    "timestamp": "2026-05-23T22:56:46.768119"
+  },
+  {
+    "transaction_id": "1af719f4-ef51-43a8-bd6d-3bf5d6e1a92a",
+    "user_id": "c49341ca-5271-472c-9f83-1a6a1bc1ea30",
+    "amount": 5504.64,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Stephaniemouth",
+    "timestamp": "2026-05-23T22:56:47.771683"
+  },
+  {
+    "transaction_id": "009278e3-5689-4b23-b7d6-579cc45b1af8",
+    "user_id": "6e5e11b8-1b2f-4ff3-bec1-6f8e93661cc9",
+    "amount": 8813.01,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Paula",
+    "timestamp": "2026-05-23T22:56:48.273238"
+  }
+]

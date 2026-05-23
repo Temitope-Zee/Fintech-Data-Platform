@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "df4f7d5e-2fa0-47a3-afc9-540c350ad47d",
+    "user_id": "71473947-6e6b-428b-a71d-578c871fe110",
+    "amount": 1379.33,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Vanessa",
+    "timestamp": "2026-05-22T23:12:29.468572"
+  },
+  {
+    "transaction_id": "f890e8fe-c96d-45db-8819-dc37b2332618",
+    "user_id": "48c73c10-7156-425c-a892-918ac0237740",
+    "amount": 6343.36,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Williamsville",
+    "timestamp": "2026-05-22T23:12:29.969866"
+  },
+  {
+    "transaction_id": "216720bb-3810-48b7-bef4-99210c61ab66",
+    "user_id": "b60486af-1762-4051-aab3-1fce6e0f8dcb",
+    "amount": 7374.48,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Vegashire",
+    "timestamp": "2026-05-22T23:12:30.972318"
+  },
+  {
+    "transaction_id": "39882346-2276-4381-b380-a1efb3a79721",
+    "user_id": "c6d08d43-4539-402e-87c6-498a29bd75fb",
+    "amount": 7430.03,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Leslieview",
+    "timestamp": "2026-05-22T23:12:31.473787"
+  },
+  {
+    "transaction_id": "5bfa9ea8-1428-4914-a699-b871884a1962",
+    "user_id": "3067082c-8d2f-4088-9ed7-6ac75e9154f2",
+    "amount": 1083.74,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Nicoleshire",
+    "timestamp": "2026-05-22T23:12:31.976132"
+  },
+  {
+    "transaction_id": "86d18be6-aa08-4124-8d5e-07e7d64994fc",
+    "user_id": "8121a8cc-c84c-40f4-be79-eac73ee17c63",
+    "amount": 5090.57,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Ashleyville",
+    "timestamp": "2026-05-22T23:12:32.477732"
+  },
+  {
+    "transaction_id": "11965e86-3e46-42c2-bd02-a9946c194451",
+    "user_id": "1a7b3d92-12fb-4ce6-b2f2-bb877f02c9cd",
+    "amount": 3233.27,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Morrisonton",
+    "timestamp": "2026-05-22T23:12:32.979723"
+  },
+  {
+    "transaction_id": "95322c1b-fe45-40c2-b8aa-82dbcea6a4dd",
+    "user_id": "bcc5ce6d-c018-4c1c-b700-a5d2c49f583c",
+    "amount": 5991.6,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Christina",
+    "timestamp": "2026-05-22T23:12:33.484533"
+  },
+  {
+    "transaction_id": "cecda1a0-4e0c-4c83-a7fa-d72eac439b43",
+    "user_id": "d20f539d-9c64-4d46-94ff-5159b6a34224",
+    "amount": 7112.02,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Cookmouth",
+    "timestamp": "2026-05-22T23:12:33.987640"
+  },
+  {
+    "transaction_id": "b0221dc4-e247-4302-af96-1861016a56c3",
+    "user_id": "28ba6578-2911-42a5-bd34-023c90d1f49e",
+    "amount": 8453.07,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Kaylashire",
+    "timestamp": "2026-05-22T23:12:34.991126"
+  }
+]

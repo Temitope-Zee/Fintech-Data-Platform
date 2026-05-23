@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5c80ba5a-6d4a-4aab-92a9-2cd1c297ed05",
+    "user_id": "45e79508-6d98-4b50-9b56-5121b235ec7b",
+    "amount": 4309.12,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Foxville",
+    "timestamp": "2026-05-22T23:10:45.092202"
+  },
+  {
+    "transaction_id": "3b6d859c-907a-49fa-a4e7-778806ccf14a",
+    "user_id": "a9c7c081-d6e8-4fa3-9af7-d8fbff68ee67",
+    "amount": 1806.8,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Johnburgh",
+    "timestamp": "2026-05-22T23:10:45.594789"
+  },
+  {
+    "transaction_id": "22679297-b4b3-4532-9f73-96e9cd11c213",
+    "user_id": "7fedf2f2-53fc-4528-bbd2-6829d5f71f30",
+    "amount": 4608.57,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Kevinberg",
+    "timestamp": "2026-05-22T23:10:46.097335"
+  },
+  {
+    "transaction_id": "8aa7215f-4dc3-4a91-bf23-1b4de97c09fb",
+    "user_id": "40489e2a-5783-4a48-9ade-42b794e86c9b",
+    "amount": 9296.09,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Robertfort",
+    "timestamp": "2026-05-22T23:10:46.599546"
+  },
+  {
+    "transaction_id": "0c1787b8-3c9c-46ce-9af8-9649852dfb75",
+    "user_id": "7386e55d-def4-40ea-884f-5d655b5a59e1",
+    "amount": 7890.7,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Mallory",
+    "timestamp": "2026-05-22T23:10:47.101215"
+  },
+  {
+    "transaction_id": "5d053ec9-3dd2-49e1-9a31-3c64dff3343f",
+    "user_id": "7e10ed18-35ab-4f0c-8ab8-9c86e83cd19f",
+    "amount": 7897.24,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Tiffanyshire",
+    "timestamp": "2026-05-22T23:10:47.602402"
+  },
+  {
+    "transaction_id": "c23a3ecd-69fd-4f82-9c2f-9816dc7b2c2e",
+    "user_id": "3124bc58-8c5a-4502-9404-e3b6a1863a70",
+    "amount": 3119.04,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Jacksonfort",
+    "timestamp": "2026-05-22T23:10:48.104259"
+  },
+  {
+    "transaction_id": "6d0d06eb-525f-4427-8943-0521c8cb730e",
+    "user_id": "1982d05d-2335-4878-8e3c-bc9992dc79a7",
+    "amount": 5274.41,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Richardstown",
+    "timestamp": "2026-05-22T23:10:48.605779"
+  },
+  {
+    "transaction_id": "437abc0e-4180-4ca0-9b02-85515cfdac88",
+    "user_id": "a0af8d3c-bb34-4f02-8567-2b8e3e9c465d",
+    "amount": 2240.55,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Glenn",
+    "timestamp": "2026-05-22T23:10:49.106958"
+  },
+  {
+    "transaction_id": "f250098d-8ba4-4985-9a2c-424cb040dd61",
+    "user_id": "af67855a-a61e-4b3b-aaa6-c5e04ad00412",
+    "amount": 9959.81,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Yolandatown",
+    "timestamp": "2026-05-22T23:10:49.609672"
+  }
+]

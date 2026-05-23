@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "3b889905-e8d3-48b1-8016-14ae3db9d098",
+    "user_id": "195b0d41-a6d3-4f3b-bed2-d9a459def6f2",
+    "amount": 7305.6,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Michelleland",
+    "timestamp": "2026-05-22T23:10:50.112212"
+  },
+  {
+    "transaction_id": "855214bf-3198-4bcb-a3a5-420cde5ca374",
+    "user_id": "287ec74b-0051-4a3c-8865-76e93a7d7187",
+    "amount": 348.72,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Crystalhaven",
+    "timestamp": "2026-05-22T23:10:50.614136"
+  },
+  {
+    "transaction_id": "dd215323-e83b-492e-8c17-139bfce69da2",
+    "user_id": "ea071674-ae46-42d0-b169-d7ecbd7aaab3",
+    "amount": 3481.96,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Reedhaven",
+    "timestamp": "2026-05-22T23:10:51.618256"
+  },
+  {
+    "transaction_id": "04ab6603-3174-4e72-bab3-f0e7d40da1dc",
+    "user_id": "748b9e87-8e7b-4f1c-9bba-6116cfb41129",
+    "amount": 3069.14,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Davismouth",
+    "timestamp": "2026-05-22T23:10:52.120702"
+  },
+  {
+    "transaction_id": "b7356cf8-bf68-41ff-b23f-e6be051e012f",
+    "user_id": "4b297e69-1794-49c2-94de-137cd54a192a",
+    "amount": 5313.85,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Jeremiahport",
+    "timestamp": "2026-05-22T23:10:52.622312"
+  },
+  {
+    "transaction_id": "84ac4d73-4b14-4843-9236-bb3bac0503e6",
+    "user_id": "4ab87f41-dae5-4e5a-af36-c8accdb957d6",
+    "amount": 4650.2,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Jasonbury",
+    "timestamp": "2026-05-22T23:10:53.123920"
+  },
+  {
+    "transaction_id": "32586729-1bdb-4fe3-8954-8095477dea3e",
+    "user_id": "b1dc4357-1375-4541-979e-fa6dcc0113dc",
+    "amount": 5355.6,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Smithland",
+    "timestamp": "2026-05-22T23:10:53.628524"
+  },
+  {
+    "transaction_id": "09ae8b26-871e-417f-85fc-1d5b416da679",
+    "user_id": "8ab09102-c93b-4705-b6e5-a283559dfbfc",
+    "amount": 1144.74,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Edwardmouth",
+    "timestamp": "2026-05-22T23:10:54.131043"
+  },
+  {
+    "transaction_id": "7b8e0225-3e6b-474a-b0b6-dba8c127e090",
+    "user_id": "8fc04e63-e121-489e-ba95-9cfffeec3348",
+    "amount": 6010.0,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Evansport",
+    "timestamp": "2026-05-22T23:10:54.633690"
+  },
+  {
+    "transaction_id": "b73b14fb-b198-4d59-a894-4d03684c9407",
+    "user_id": "081dd8d0-0845-4c96-a4b8-6a12c210d327",
+    "amount": 1094.19,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Goodmanport",
+    "timestamp": "2026-05-22T23:10:55.136482"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "9ecb9406-321c-4a4e-a261-99e8847d1730",
+    "user_id": "ac26e36d-52f4-4efa-bcab-de8a2024dfad",
+    "amount": 5637.53,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Jason",
+    "timestamp": "2026-05-23T22:57:24.905702"
+  },
+  {
+    "transaction_id": "554642dc-b2a9-473a-b3e9-136fe63226e3",
+    "user_id": "bc48b113-f6e7-4ddf-b41c-ef46be8685a7",
+    "amount": 708.79,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "West Mark",
+    "timestamp": "2026-05-23T22:57:25.911142"
+  },
+  {
+    "transaction_id": "3d07e84b-e346-4cd3-9905-9b554478833f",
+    "user_id": "54fbfdd4-a13c-4e2d-9620-3314d57c6458",
+    "amount": 4008.08,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Pierceborough",
+    "timestamp": "2026-05-23T22:57:26.412908"
+  },
+  {
+    "transaction_id": "7235c150-3c00-410e-967f-6d6723c6688b",
+    "user_id": "ab68404a-aa25-4f3c-a385-0ebc0bed35cd",
+    "amount": 3480.68,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "North Kennethside",
+    "timestamp": "2026-05-23T22:57:26.915564"
+  },
+  {
+    "transaction_id": "079c825e-cc54-4799-910d-24956dee7d35",
+    "user_id": "16919c57-5914-4c50-a534-cfbe4ac8c6a6",
+    "amount": 3888.46,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Joshuaside",
+    "timestamp": "2026-05-23T22:57:27.416747"
+  },
+  {
+    "transaction_id": "ec491eee-ea2c-4a23-89cb-01fe5ce2425f",
+    "user_id": "254d5e95-b2ff-4828-9583-3ad230d05097",
+    "amount": 6542.29,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Vickishire",
+    "timestamp": "2026-05-23T22:57:27.918329"
+  },
+  {
+    "transaction_id": "c81ac1c2-4191-485b-8ac1-bcb479bcf6aa",
+    "user_id": "441f9426-91e5-4195-b4eb-16e5ae8a21d0",
+    "amount": 5860.73,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Dana",
+    "timestamp": "2026-05-23T22:57:28.419466"
+  },
+  {
+    "transaction_id": "d29c87af-5e57-4960-9a31-e93750486c92",
+    "user_id": "f91d4c76-2b8c-4719-b357-b526ff5c0a1f",
+    "amount": 3383.77,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Melissahaven",
+    "timestamp": "2026-05-23T22:57:29.422527"
+  },
+  {
+    "transaction_id": "1cc885e6-0ffc-4f14-9bd1-89f5051b85cc",
+    "user_id": "3c2065de-3ece-492a-be31-a1ff727e6985",
+    "amount": 1554.55,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Jordantown",
+    "timestamp": "2026-05-23T22:57:29.923585"
+  },
+  {
+    "transaction_id": "a21788b4-6ffe-4759-b569-80972a7564f9",
+    "user_id": "bb534cff-4ebe-4124-956f-cdbfebe03420",
+    "amount": 6225.8,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "South Ginaborough",
+    "timestamp": "2026-05-23T22:57:30.424856"
+  }
+]

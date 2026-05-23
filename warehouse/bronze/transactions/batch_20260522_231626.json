@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ec5c57c3-6bf6-4a2e-8d4f-9e968199a578",
+    "user_id": "15db4b72-f553-4610-ab49-f62e02d27859",
+    "amount": 4334.17,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Rebeccaville",
+    "timestamp": "2026-05-22T23:16:21.403336"
+  },
+  {
+    "transaction_id": "94683455-6d80-4a54-835d-b004bedf9d2f",
+    "user_id": "b010d7cd-babe-4f1b-8734-b63d67bc0cda",
+    "amount": 2977.78,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Mark",
+    "timestamp": "2026-05-22T23:16:21.904303"
+  },
+  {
+    "transaction_id": "49ff2f3f-d3d1-4b47-a57e-e47442a2c69e",
+    "user_id": "6e9e81bf-331c-42e8-b4fc-66d7fb31d766",
+    "amount": 191.12,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Marie",
+    "timestamp": "2026-05-22T23:16:22.405309"
+  },
+  {
+    "transaction_id": "e6ed67f7-d808-4e8d-a29c-3b19061d677c",
+    "user_id": "c2434964-9f3b-4c96-9ec1-eab47e00a3f6",
+    "amount": 1026.61,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Williamsview",
+    "timestamp": "2026-05-22T23:16:22.906221"
+  },
+  {
+    "transaction_id": "cb915335-7343-4ed6-aed0-cb09226e52be",
+    "user_id": "90b1d15f-9769-4056-bfd9-a97ab8591588",
+    "amount": 5650.74,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Kimberly",
+    "timestamp": "2026-05-22T23:16:23.407602"
+  },
+  {
+    "transaction_id": "b661e893-4346-44f8-8263-23aee1af5fa7",
+    "user_id": "bfcaa1af-7596-453e-9388-8296a6a45d40",
+    "amount": 2274.46,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Richardsstad",
+    "timestamp": "2026-05-22T23:16:23.909054"
+  },
+  {
+    "transaction_id": "9b392338-9dbd-4d8e-8510-9b23cb97258a",
+    "user_id": "1aa12db4-4ece-4600-b3a9-e946a5a0a93e",
+    "amount": 5302.15,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Chapmanmouth",
+    "timestamp": "2026-05-22T23:16:24.410163"
+  },
+  {
+    "transaction_id": "441dc8ed-fa0c-4f82-b6f5-9f6fc9adf3d0",
+    "user_id": "151a8b59-d408-4a79-a3e2-3749cabfdbcd",
+    "amount": 5279.96,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Martinbury",
+    "timestamp": "2026-05-22T23:16:25.413898"
+  },
+  {
+    "transaction_id": "7bc22449-4333-43f8-97bd-465da1c6ea51",
+    "user_id": "6f3079fb-41f8-4480-9892-c04870e85b85",
+    "amount": 9988.54,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Pittsview",
+    "timestamp": "2026-05-22T23:16:26.416542"
+  },
+  {
+    "transaction_id": "f7c8a35b-fa1b-49f2-a0d3-162d927d1301",
+    "user_id": "b4c5d037-60a8-4933-8f57-42519f7ebff8",
+    "amount": 8318.37,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Aprilmouth",
+    "timestamp": "2026-05-22T23:16:26.918338"
+  }
+]

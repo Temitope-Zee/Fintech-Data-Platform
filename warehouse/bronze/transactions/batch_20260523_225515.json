@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a5a49fc8-84f1-4aa3-8c0b-e88622b83908",
+    "user_id": "3d745724-7fb3-4f54-9e28-0dea655990a5",
+    "amount": 7515.96,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Natalieville",
+    "timestamp": "2026-05-23T22:55:09.881606"
+  },
+  {
+    "transaction_id": "bec1c0fd-8360-4d17-a650-7cbe7660f0f8",
+    "user_id": "73bdbab6-d96c-4e9f-8fd4-bb288deca228",
+    "amount": 7516.55,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Hernandezchester",
+    "timestamp": "2026-05-23T22:55:10.383573"
+  },
+  {
+    "transaction_id": "63c9dedb-da4d-468b-a271-3332d54f402e",
+    "user_id": "7100d914-7e27-4e33-8267-5b196256b189",
+    "amount": 1735.58,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Chavezstad",
+    "timestamp": "2026-05-23T22:55:10.885033"
+  },
+  {
+    "transaction_id": "8d5c0f50-3600-4548-9ccb-bae735bc4ef2",
+    "user_id": "70b78d22-1155-46f5-bb17-1abc85ef2413",
+    "amount": 2656.58,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mooreburgh",
+    "timestamp": "2026-05-23T22:55:11.889348"
+  },
+  {
+    "transaction_id": "5f9f8887-ee3a-482e-b6c1-b2e68bc501b3",
+    "user_id": "b560eaf9-cd47-4d9e-a5a5-f3f3d2386108",
+    "amount": 4500.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "North Christina",
+    "timestamp": "2026-05-23T22:55:12.390796"
+  },
+  {
+    "transaction_id": "d1535981-17e7-4bf0-ab96-9a3433e80ad3",
+    "user_id": "3b71ba9a-853a-4a31-b94f-80734e94e029",
+    "amount": 4022.46,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Amandaville",
+    "timestamp": "2026-05-23T22:55:12.892576"
+  },
+  {
+    "transaction_id": "6ddd0343-5fd5-4ebf-bc9d-d88cdd64e9ae",
+    "user_id": "08faaa0d-0ef0-4d05-9b3e-fd8fdc81d678",
+    "amount": 3471.18,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Jason",
+    "timestamp": "2026-05-23T22:55:13.386647"
+  },
+  {
+    "transaction_id": "dfd79434-07f0-4275-bbb3-8fc1670eb122",
+    "user_id": "a09ec253-8b9c-4181-8c66-a08f2daf8e21",
+    "amount": 2257.81,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Deannaport",
+    "timestamp": "2026-05-23T22:55:13.888127"
+  },
+  {
+    "transaction_id": "5b315641-c0a9-4471-abc8-b463c9cd20b3",
+    "user_id": "db45d19c-00b8-40fb-9763-60cb9bd5cac9",
+    "amount": 1873.99,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Scott",
+    "timestamp": "2026-05-23T22:55:14.389485"
+  },
+  {
+    "transaction_id": "1b0a5113-0fbe-41fd-bf52-832ce03ce0ff",
+    "user_id": "238ff501-0583-4df8-b13e-a17e2c87dbf3",
+    "amount": 5457.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Morganville",
+    "timestamp": "2026-05-23T22:55:15.394512"
+  }
+]

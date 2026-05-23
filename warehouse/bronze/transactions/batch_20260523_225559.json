@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fe01ce59-284d-4278-951c-b35716f8bbb2",
+    "user_id": "cf16d0b9-3488-47aa-a4b1-2489e0ae764d",
+    "amount": 2656.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Hollowayfort",
+    "timestamp": "2026-05-23T22:55:55.060694"
+  },
+  {
+    "transaction_id": "ecf80631-4b5c-4fd0-81d6-6a96698f501c",
+    "user_id": "fbd79eda-9b67-4fee-b7f2-f4c351fe6f11",
+    "amount": 824.76,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Reesemouth",
+    "timestamp": "2026-05-23T22:55:55.563098"
+  },
+  {
+    "transaction_id": "7d4936d7-98e5-480f-80bf-8f9af478bdb2",
+    "user_id": "b02dcc08-4b77-41cc-97a9-c31a44b0981f",
+    "amount": 1606.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "South Johnnychester",
+    "timestamp": "2026-05-23T22:55:56.067031"
+  },
+  {
+    "transaction_id": "174bf3f7-d1b2-4730-98cf-2f1f07052b34",
+    "user_id": "a1028d6b-e44b-46c7-8f0e-54bc43460e2a",
+    "amount": 7425.71,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Sean",
+    "timestamp": "2026-05-23T22:55:56.571024"
+  },
+  {
+    "transaction_id": "f002b92a-d3a4-41d1-9e67-d951482ab1b3",
+    "user_id": "0f8719d0-1f3f-427c-bfb3-d2a364b0fb32",
+    "amount": 1392.46,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Ashleystad",
+    "timestamp": "2026-05-23T22:55:57.073800"
+  },
+  {
+    "transaction_id": "8b5a74c5-e59a-48fb-ad77-87cae587ceba",
+    "user_id": "0798bb52-7689-4f67-86e3-2b876d91f264",
+    "amount": 7860.48,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "North Sarah",
+    "timestamp": "2026-05-23T22:55:57.576325"
+  },
+  {
+    "transaction_id": "f25b070c-7f4c-47cb-8204-cc71436078bd",
+    "user_id": "56dbdc9e-1c53-4cfd-abaa-3a811a37dc86",
+    "amount": 8515.76,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Alexis",
+    "timestamp": "2026-05-23T22:55:58.078060"
+  },
+  {
+    "transaction_id": "bf1bed89-0ec2-4ed6-a3f7-e4cddcd6c3d9",
+    "user_id": "e294c484-6c5c-4869-8a5a-ed4971cb3137",
+    "amount": 9007.29,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Lake Nicole",
+    "timestamp": "2026-05-23T22:55:58.580987"
+  },
+  {
+    "transaction_id": "1828dcd5-273b-475b-927d-04d888c9844c",
+    "user_id": "3b8628f2-0a08-4b52-83fe-9d71c626353f",
+    "amount": 4937.17,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Robertamouth",
+    "timestamp": "2026-05-23T22:55:59.082672"
+  },
+  {
+    "transaction_id": "108af87d-99ec-479b-a2c2-467a72611892",
+    "user_id": "b9acdcc3-ab21-4956-9c0a-1084d41a1000",
+    "amount": 2526.32,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "South Jamie",
+    "timestamp": "2026-05-23T22:55:59.584197"
+  }
+]

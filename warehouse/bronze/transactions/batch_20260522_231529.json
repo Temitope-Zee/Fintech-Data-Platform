@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "797eb41c-1bc0-4235-b3a7-3896edd47084",
+    "user_id": "1b5de22d-a8f2-4b81-bb3d-a9608b8c45a4",
+    "amount": 5367.22,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Fredshire",
+    "timestamp": "2026-05-22T23:15:22.651015"
+  },
+  {
+    "transaction_id": "5b11c1ab-a1f2-4acd-944b-04a07741adb7",
+    "user_id": "4e196d81-bc6e-4620-b4f8-36e963968713",
+    "amount": 5068.86,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Rickyton",
+    "timestamp": "2026-05-22T23:15:23.153623"
+  },
+  {
+    "transaction_id": "451c6964-9578-4fc1-ad76-b9f0f26968ea",
+    "user_id": "9aa661ae-99ef-40c9-bf02-63fc3ebb72d6",
+    "amount": 8169.9,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Saraburgh",
+    "timestamp": "2026-05-22T23:15:23.655180"
+  },
+  {
+    "transaction_id": "03d4b95c-fa99-44df-b7f3-4041b63ef088",
+    "user_id": "d254c0fe-ff40-42df-a5e2-932ac678d90a",
+    "amount": 3029.48,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Frederick",
+    "timestamp": "2026-05-22T23:15:24.157005"
+  },
+  {
+    "transaction_id": "ab026e40-8824-440b-86a4-a14161b478f8",
+    "user_id": "98248591-e9d9-43a4-9ba8-4dd1f547a08d",
+    "amount": 4364.84,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Carriechester",
+    "timestamp": "2026-05-22T23:15:25.161555"
+  },
+  {
+    "transaction_id": "ffb669c9-238b-4c13-9c88-9474bb813617",
+    "user_id": "660b26d8-7c64-48aa-bd67-8f94fd9ae5a3",
+    "amount": 2864.97,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New John",
+    "timestamp": "2026-05-22T23:15:25.664931"
+  },
+  {
+    "transaction_id": "d04c966b-a2ea-437f-a0f4-fcd8a34f3686",
+    "user_id": "215fd5f6-15ca-48e1-bd12-f3046926bb21",
+    "amount": 4735.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Dylan",
+    "timestamp": "2026-05-22T23:15:26.670570"
+  },
+  {
+    "transaction_id": "274f30fb-b0f2-4804-a7d3-a73871786d92",
+    "user_id": "59c50588-e849-4eb6-b630-e70e405f4551",
+    "amount": 8928.75,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Francisport",
+    "timestamp": "2026-05-22T23:15:27.672398"
+  },
+  {
+    "transaction_id": "c5340cff-b9e7-4aaf-b895-31393964b0aa",
+    "user_id": "853a4c8b-2f6a-4aab-af61-de4d142c9c1e",
+    "amount": 9927.89,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Fisherstad",
+    "timestamp": "2026-05-22T23:15:28.175154"
+  },
+  {
+    "transaction_id": "2c667b8d-ce6b-46db-8b2a-4aa3cf0b16cc",
+    "user_id": "e9b4933a-f27c-4941-8a2a-a80c844cb9da",
+    "amount": 6985.91,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "South Heatherburgh",
+    "timestamp": "2026-05-22T23:15:29.180878"
+  }
+]

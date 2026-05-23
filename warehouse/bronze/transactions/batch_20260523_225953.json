@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "22192af8-5241-47cc-b6d1-78b08cb572ed",
+    "user_id": "4d00d435-b676-4361-ba2b-5651752acb62",
+    "amount": 1637.07,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Higginsborough",
+    "timestamp": "2026-05-23T22:59:48.408833"
+  },
+  {
+    "transaction_id": "65f455fb-9b2e-4e33-acc1-523bb6e0b777",
+    "user_id": "592429ac-0018-4440-8d13-1ad5270571cc",
+    "amount": 9113.56,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Scott",
+    "timestamp": "2026-05-23T22:59:48.910927"
+  },
+  {
+    "transaction_id": "0710aa08-ecb2-4c7b-9cc3-b4cbb3af10bd",
+    "user_id": "78fb2f22-b785-4cb3-874c-0b82244f3040",
+    "amount": 6381.84,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South David",
+    "timestamp": "2026-05-23T22:59:49.914644"
+  },
+  {
+    "transaction_id": "6e4631f5-bbab-4b8a-8e35-ba07717d8c17",
+    "user_id": "505d2f34-c92f-4e60-9703-346bff749cf6",
+    "amount": 675.02,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Victoria",
+    "timestamp": "2026-05-23T22:59:50.417651"
+  },
+  {
+    "transaction_id": "8127fef2-135f-49df-93ba-29c9c76af391",
+    "user_id": "7031d4e8-db06-4b7a-816a-1ffcf0159e1e",
+    "amount": 5383.37,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Kathleenshire",
+    "timestamp": "2026-05-23T22:59:50.919497"
+  },
+  {
+    "transaction_id": "83088f8e-36d4-4ca1-927f-b453ab1068d7",
+    "user_id": "d6f8eb8f-84e9-465e-8e9c-ecbb6e9ddd03",
+    "amount": 9346.15,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Hamiltonfurt",
+    "timestamp": "2026-05-23T22:59:51.420896"
+  },
+  {
+    "transaction_id": "d3769cea-c3d1-469f-974c-e66b5419d779",
+    "user_id": "5dc6af13-fd6d-4208-a4fd-be746f07c1da",
+    "amount": 7452.89,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Marissa",
+    "timestamp": "2026-05-23T22:59:51.923375"
+  },
+  {
+    "transaction_id": "781d88d9-ca53-470f-84c7-6bad99b73fb5",
+    "user_id": "7c63b9c5-4789-41e1-8619-0bc18393c0b3",
+    "amount": 8653.75,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Cynthiaburgh",
+    "timestamp": "2026-05-23T22:59:52.424996"
+  },
+  {
+    "transaction_id": "c5f15ae9-9e1a-4c40-8cb7-db3af531291d",
+    "user_id": "94c80caa-d916-4777-a905-03b118d86e34",
+    "amount": 7705.03,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Christopherburgh",
+    "timestamp": "2026-05-23T22:59:52.926334"
+  },
+  {
+    "transaction_id": "e4f6489b-5058-4c17-bf51-311f587d3603",
+    "user_id": "08dbde24-1bef-40b2-be91-6efa780dae62",
+    "amount": 4644.52,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Cory",
+    "timestamp": "2026-05-23T22:59:53.427587"
+  }
+]

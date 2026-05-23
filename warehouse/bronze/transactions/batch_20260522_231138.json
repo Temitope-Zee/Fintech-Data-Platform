@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "4fdc37bb-d003-46fe-8e2b-d09f7332d3f4",
+    "user_id": "774410f2-4aa0-439e-9f45-8b91ce4decf1",
+    "amount": 7839.45,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Migueltown",
+    "timestamp": "2026-05-22T23:11:33.768048"
+  },
+  {
+    "transaction_id": "7d54d049-61c2-4fe1-a9a7-4ff309a3e62d",
+    "user_id": "e3dc66af-fa8d-4ae9-b4fa-abb68b5dd99c",
+    "amount": 9013.33,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Petermouth",
+    "timestamp": "2026-05-22T23:11:34.269912"
+  },
+  {
+    "transaction_id": "c859585a-c037-401b-b2af-3233c6aa586d",
+    "user_id": "fac888be-4080-4e50-bbe9-2946c8ccbeee",
+    "amount": 2102.72,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Courtney",
+    "timestamp": "2026-05-22T23:11:34.771286"
+  },
+  {
+    "transaction_id": "1b958afa-9c9f-4059-b770-fc493290a2f1",
+    "user_id": "8591c774-ea17-4d9c-91fc-dbcbe113c788",
+    "amount": 6886.09,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West James",
+    "timestamp": "2026-05-22T23:11:35.274266"
+  },
+  {
+    "transaction_id": "88d044a2-99e4-4ae5-99e8-08dea881de17",
+    "user_id": "1fbc490e-8cd3-4c2d-bffa-693c6b477fd6",
+    "amount": 8914.06,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Diane",
+    "timestamp": "2026-05-22T23:11:35.777129"
+  },
+  {
+    "transaction_id": "e9ab11c4-fe34-4f87-ada7-d35b608b3776",
+    "user_id": "510af993-88c1-4a3c-afac-becd0f68d431",
+    "amount": 7219.8,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Kevin",
+    "timestamp": "2026-05-22T23:11:36.278719"
+  },
+  {
+    "transaction_id": "9e4a0383-6c3c-4d8f-b034-f8a475dad74c",
+    "user_id": "97aab60f-56d1-4aed-954a-94e677dc8eab",
+    "amount": 2677.37,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Port Seanport",
+    "timestamp": "2026-05-22T23:11:36.781509"
+  },
+  {
+    "transaction_id": "96342929-d17d-490a-8374-e5b2c1db07ae",
+    "user_id": "2f4b7374-8169-423e-8cb0-fb77d70518b1",
+    "amount": 6069.99,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Bautistaville",
+    "timestamp": "2026-05-22T23:11:37.284231"
+  },
+  {
+    "transaction_id": "ba55d144-4abe-4d76-99d4-e3e90836a435",
+    "user_id": "80cb3eeb-9e1a-4ae8-b77b-cac25cb4a08d",
+    "amount": 396.51,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Andrewland",
+    "timestamp": "2026-05-22T23:11:38.286776"
+  },
+  {
+    "transaction_id": "95963b10-3efd-456a-8226-1eb1d691a6a4",
+    "user_id": "43f497c1-f2fb-492a-a7d4-7ce5154a9914",
+    "amount": 9493.39,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Melanie",
+    "timestamp": "2026-05-22T23:11:38.788418"
+  }
+]

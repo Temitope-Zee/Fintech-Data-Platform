@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "88c48c6a-09ce-4429-a382-186c17b5e590",
+    "user_id": "13033ae7-5964-4d05-8afc-1e25a6150b56",
+    "amount": 6683.01,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Jamesberg",
+    "timestamp": "2026-05-22T23:10:33.542018"
+  },
+  {
+    "transaction_id": "d417c8f2-2636-42d6-8175-05e681d34c97",
+    "user_id": "4af0bc56-231e-4620-8527-ed24b6892bde",
+    "amount": 8470.93,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Christy",
+    "timestamp": "2026-05-22T23:10:34.043157"
+  },
+  {
+    "transaction_id": "f44853a7-fc34-402a-9a24-447dc25ca001",
+    "user_id": "30ec404b-33f0-4464-9c35-61d4827fe386",
+    "amount": 927.61,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Brandi",
+    "timestamp": "2026-05-22T23:10:34.544311"
+  },
+  {
+    "transaction_id": "ab760d6b-1e47-4c8d-a626-57ed16229b1c",
+    "user_id": "b3414e18-7a0c-450a-9515-c8ae85fe1520",
+    "amount": 2589.81,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Greenburgh",
+    "timestamp": "2026-05-22T23:10:35.046063"
+  },
+  {
+    "transaction_id": "dbe7beaf-c05b-48fb-8790-04ec27ec33b4",
+    "user_id": "2d45ca1c-e79c-4a2a-a811-80c9adbe490a",
+    "amount": 7847.0,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "New Joshuabury",
+    "timestamp": "2026-05-22T23:10:35.547553"
+  },
+  {
+    "transaction_id": "ca507e4f-d215-4fd6-99ae-979bb12b5ced",
+    "user_id": "ef07c124-7d15-4d38-99d7-d81ccc7f6116",
+    "amount": 8271.64,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Nicholasshire",
+    "timestamp": "2026-05-22T23:10:36.050240"
+  },
+  {
+    "transaction_id": "94cada48-8903-4d12-b556-2156f901a96c",
+    "user_id": "9bd98a27-8563-4be3-ae39-e8bf0e02c1df",
+    "amount": 4776.08,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Oconnellstad",
+    "timestamp": "2026-05-22T23:10:36.553183"
+  },
+  {
+    "transaction_id": "1a20b09f-10fb-4d30-992f-33f8d4c22f68",
+    "user_id": "7b5ec511-c831-4316-827b-18fb284ab238",
+    "amount": 8833.75,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Dennischester",
+    "timestamp": "2026-05-22T23:10:37.054871"
+  },
+  {
+    "transaction_id": "5c51ccc1-ae29-4b46-91ab-73238628e166",
+    "user_id": "66e9ea6f-bb02-4174-88b3-366641b68da4",
+    "amount": 4751.86,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Andersonland",
+    "timestamp": "2026-05-22T23:10:37.556250"
+  },
+  {
+    "transaction_id": "ca09b805-d56f-428f-949e-e877b6e226c6",
+    "user_id": "1cc491df-ad92-4b8e-bc11-e268c02490f4",
+    "amount": 3297.38,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Jesus",
+    "timestamp": "2026-05-22T23:10:38.058200"
+  }
+]

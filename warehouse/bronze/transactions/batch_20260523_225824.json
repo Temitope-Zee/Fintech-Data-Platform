@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5442ab28-13a6-4f2c-94f0-f477925b511c",
+    "user_id": "1815a325-4fb2-49f5-8665-4d3b1690bf7b",
+    "amount": 4307.27,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Katherinefurt",
+    "timestamp": "2026-05-23T22:58:19.599103"
+  },
+  {
+    "transaction_id": "d7a0d73f-d866-4a11-b253-9ee9a27bb33a",
+    "user_id": "8cd8cd49-52f9-43cf-9ff0-0d8e2fb1ecb6",
+    "amount": 8762.91,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Mary",
+    "timestamp": "2026-05-23T22:58:20.101531"
+  },
+  {
+    "transaction_id": "d2e23f2d-f782-4539-8ce1-3041f05629b3",
+    "user_id": "08ec12e1-9d7b-4ca2-a2fc-1d3f415179fe",
+    "amount": 7533.89,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "North Jefferyview",
+    "timestamp": "2026-05-23T22:58:20.602602"
+  },
+  {
+    "transaction_id": "d6e4ac32-d3dc-4455-8586-9fa77ebdd08d",
+    "user_id": "2a0a8748-27b4-4e86-91e7-c207b246f949",
+    "amount": 3524.04,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Ronaldfurt",
+    "timestamp": "2026-05-23T22:58:21.605917"
+  },
+  {
+    "transaction_id": "c53f95aa-ee2c-472d-897f-48664e73833e",
+    "user_id": "fb29522c-8587-40d7-8af5-52c4713edf26",
+    "amount": 6921.17,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "New Martin",
+    "timestamp": "2026-05-23T22:58:22.108656"
+  },
+  {
+    "transaction_id": "ca7de4b9-3061-415d-bde4-23088a5ba0cb",
+    "user_id": "2eab41aa-09a8-491e-b532-818860ab5214",
+    "amount": 5384.26,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Christine",
+    "timestamp": "2026-05-23T22:58:22.610125"
+  },
+  {
+    "transaction_id": "ec4196e1-a1ab-4aca-814b-31ba0024c043",
+    "user_id": "54bba006-3cbf-440d-b46c-a661fe6ddf89",
+    "amount": 2357.83,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Jonathanmouth",
+    "timestamp": "2026-05-23T22:58:23.111541"
+  },
+  {
+    "transaction_id": "e66ded9f-f568-499e-85f2-79296a32149c",
+    "user_id": "5acff6bb-04ec-419b-8126-23683b015844",
+    "amount": 185.91,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Reidchester",
+    "timestamp": "2026-05-23T22:58:23.613626"
+  },
+  {
+    "transaction_id": "d7a48219-ac74-458f-ad25-c00329909fa0",
+    "user_id": "dd0a7116-c220-4cda-82cb-5705e79355f1",
+    "amount": 5842.06,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Barberland",
+    "timestamp": "2026-05-23T22:58:24.116397"
+  },
+  {
+    "transaction_id": "ca171918-0b61-4af6-ba83-c2e48137baf5",
+    "user_id": "026d9bb3-631a-45b8-8924-ead68533e89d",
+    "amount": 4812.6,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Randall",
+    "timestamp": "2026-05-23T22:58:24.619132"
+  }
+]

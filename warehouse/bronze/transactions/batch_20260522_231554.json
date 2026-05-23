@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5fc2ff21-a8fc-48b1-8167-d7fe8100f105",
+    "user_id": "bd86f112-337f-4b86-9098-aeed39304aad",
+    "amount": 8660.83,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Adamland",
+    "timestamp": "2026-05-22T23:15:49.767907"
+  },
+  {
+    "transaction_id": "5c7fd3f8-b1f8-4e04-a06c-c1d8aa8616bc",
+    "user_id": "82a89fa3-e54a-424a-87db-2f9ac8d30e16",
+    "amount": 1589.51,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Bergside",
+    "timestamp": "2026-05-22T23:15:50.269452"
+  },
+  {
+    "transaction_id": "d4f61702-9516-4492-a2d2-d70043f7dfac",
+    "user_id": "1ceede3a-d87a-493d-9bf2-8db4d6525946",
+    "amount": 2206.62,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Jamieberg",
+    "timestamp": "2026-05-22T23:15:50.772451"
+  },
+  {
+    "transaction_id": "2254e1cf-5a5f-4af1-a730-f4b7c0f635cf",
+    "user_id": "41f201c6-0afd-41ac-ba22-c7906c07ffe9",
+    "amount": 3312.69,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Donald",
+    "timestamp": "2026-05-22T23:15:51.275076"
+  },
+  {
+    "transaction_id": "1164045c-a2c8-48dc-afb0-8333708d0652",
+    "user_id": "d29d3a66-cc13-427d-8688-f6c3fc71c410",
+    "amount": 129.27,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Frybury",
+    "timestamp": "2026-05-22T23:15:51.777344"
+  },
+  {
+    "transaction_id": "9d3858d0-50ab-46b9-824e-3513fef60ac2",
+    "user_id": "da29c9b3-c79a-4e65-bc6c-48acf43b99fa",
+    "amount": 8601.81,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Amandaport",
+    "timestamp": "2026-05-22T23:15:52.278867"
+  },
+  {
+    "transaction_id": "e47acd5e-a7ef-4c1f-a605-8db2e3305c1a",
+    "user_id": "d857a0f4-8fd2-42a4-bc9d-37afe1cdfbae",
+    "amount": 5342.88,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Vanessaport",
+    "timestamp": "2026-05-22T23:15:52.780473"
+  },
+  {
+    "transaction_id": "43d0926b-5ed6-4cc2-bd35-fd100459510f",
+    "user_id": "407989ad-5009-43e6-8980-819c3977f733",
+    "amount": 4666.81,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Larry",
+    "timestamp": "2026-05-22T23:15:53.784460"
+  },
+  {
+    "transaction_id": "4a82d8b6-41dc-4cda-bc21-a8958eeb509f",
+    "user_id": "139d6f4b-b497-4ac1-b570-ac99a54ed399",
+    "amount": 2995.6,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Josefort",
+    "timestamp": "2026-05-22T23:15:54.287088"
+  },
+  {
+    "transaction_id": "2c9614ec-7ebb-471d-8e45-1c6e5e2327a7",
+    "user_id": "75c852c1-5d80-4cfd-9444-fa868abdd25c",
+    "amount": 8295.29,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Kevin",
+    "timestamp": "2026-05-22T23:15:54.789857"
+  }
+]

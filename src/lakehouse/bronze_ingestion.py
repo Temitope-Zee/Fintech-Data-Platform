@@ -2,25 +2,43 @@ import json
 import os
 import time
 import boto3
+from botocore.client import Config
 from datetime import datetime
 from kafka import KafkaConsumer
 from kafka.errors import NoBrokersAvailable
 
 KAFKA_BOOTSTRAP_SERVERS = os.environ.get('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
-AWS_REGION = os.environ.get('AWS_REGION', 'eu-north-1')
-S3_BUCKET = os.environ.get('S3_BUCKET', 'fintech-lakehouse-zainab-2026')
 
-# Also keep local backup
+MINIO_ENDPOINT = os.environ.get('MINIO_ENDPOINT', 'http://localhost:9000')
+MINIO_ACCESS_KEY = os.environ.get('MINIO_ACCESS_KEY', 'minioadmin')
+MINIO_SECRET_KEY = os.environ.get('MINIO_SECRET_KEY', 'minioadmin123')
+MINIO_BUCKET = os.environ.get('MINIO_BUCKET', 'fintech-lakehouse')
+
 WAREHOUSE_PATH = os.environ.get('WAREHOUSE_PATH', '/app/warehouse')
 BRONZE_PATH = f'{WAREHOUSE_PATH}/bronze/transactions'
 os.makedirs(BRONZE_PATH, exist_ok=True)
 
-# Connect to S3
-s3_client = boto3.client('s3', region_name=AWS_REGION)
+# Connect to MinIO using boto3
+s3_client = boto3.client(
+    's3',
+    endpoint_url=MINIO_ENDPOINT,
+    aws_access_key_id=MINIO_ACCESS_KEY,
+    aws_secret_access_key=MINIO_SECRET_KEY,
+    config=Config(signature_version='s3v4'),
+    region_name='us-east-1'
+)
+
+# Create bucket if it doesn't exist
+try:
+    s3_client.head_bucket(Bucket=MINIO_BUCKET)
+    print(f"Bucket {MINIO_BUCKET} already exists")
+except:
+    s3_client.create_bucket(Bucket=MINIO_BUCKET)
+    print(f"Created bucket: {MINIO_BUCKET}")
 
 print(f"Bronze ingestion starting...")
 print(f"Kafka: {KAFKA_BOOTSTRAP_SERVERS}")
-print(f"S3 Bucket: {S3_BUCKET}")
+print(f"MinIO: {MINIO_ENDPOINT} | Bucket: {MINIO_BUCKET}")
 
 # Retry connecting to Kafka
 consumer = None
@@ -65,10 +83,10 @@ for message in consumer:
         with open(local_file, 'w') as f:
             json.dump(batch, f, indent=2)
 
-        # Upload to S3
+        # Upload to MinIO
         s3_key = f'bronze/transactions/batch_{timestamp}.json'
         s3_client.put_object(
-            Bucket=S3_BUCKET,
+            Bucket=MINIO_BUCKET,
             Key=s3_key,
             Body=json.dumps(batch, indent=2),
             ContentType='application/json'
@@ -76,5 +94,5 @@ for message in consumer:
 
         print(f"\nWritten {len(batch)} records to:")
         print(f"  Local: {local_file}")
-        print(f"  S3: s3://{S3_BUCKET}/{s3_key}\n")
+        print(f"  MinIO: minio://{MINIO_BUCKET}/{s3_key}\n")
         batch = []

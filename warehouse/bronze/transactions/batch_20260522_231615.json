@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6267bfcd-560c-41d5-8d52-846681b039ad",
+    "user_id": "baa4249a-0898-4fc1-8e8f-9da9e1cd9113",
+    "amount": 2604.3,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Charles",
+    "timestamp": "2026-05-22T23:16:08.853663"
+  },
+  {
+    "transaction_id": "b6183ba2-38a3-426e-9fe4-489f0eb74b6c",
+    "user_id": "31f9728d-ee89-47ad-8869-f857ac1d3fdf",
+    "amount": 9457.26,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Brendaport",
+    "timestamp": "2026-05-22T23:16:09.357257"
+  },
+  {
+    "transaction_id": "790483b0-6805-4978-b994-9c579521f778",
+    "user_id": "9599bd65-1660-433a-b9f6-3b73da1c8e79",
+    "amount": 1533.54,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Barbara",
+    "timestamp": "2026-05-22T23:16:10.862842"
+  },
+  {
+    "transaction_id": "cb223291-5b56-40de-b130-6d3b0a7be98b",
+    "user_id": "f499e228-c9be-49de-ba62-7239e726ed11",
+    "amount": 3561.81,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Maynardview",
+    "timestamp": "2026-05-22T23:16:11.364283"
+  },
+  {
+    "transaction_id": "92acf6ac-c26c-4c22-a271-444d3747c844",
+    "user_id": "e741f4f3-5640-4055-bb4a-b1d81ac0dedd",
+    "amount": 8114.38,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Chavezhaven",
+    "timestamp": "2026-05-22T23:16:11.867165"
+  },
+  {
+    "transaction_id": "1103ebeb-233d-40f7-871b-2cce0b4ed7d7",
+    "user_id": "c03b8853-e0aa-4958-9509-8c8e275aec5a",
+    "amount": 6514.46,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Deanmouth",
+    "timestamp": "2026-05-22T23:16:12.368604"
+  },
+  {
+    "transaction_id": "e315c64c-d1b2-4c88-a5ad-b1e1638592f3",
+    "user_id": "43fe7bd8-c7ad-430e-ab74-773d4210de0b",
+    "amount": 9217.69,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Daybury",
+    "timestamp": "2026-05-22T23:16:13.373547"
+  },
+  {
+    "transaction_id": "3d0c62a5-6543-42af-9a82-ba95a54b210a",
+    "user_id": "38a25727-f97c-4e5b-9ef7-33bea1ff13d1",
+    "amount": 9436.22,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Kevinfurt",
+    "timestamp": "2026-05-22T23:16:13.875459"
+  },
+  {
+    "transaction_id": "aa59ef01-9bda-4393-8235-a3bc45ecb7f6",
+    "user_id": "6c4b9035-1192-4ed0-891f-533a2c9874be",
+    "amount": 3012.82,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Matthewland",
+    "timestamp": "2026-05-22T23:16:14.879738"
+  },
+  {
+    "transaction_id": "eb5682af-91a5-40e1-928e-e6df6e5cd792",
+    "user_id": "c77e5101-c78c-40b2-b169-d257cb369bbc",
+    "amount": 3144.2,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Emmaport",
+    "timestamp": "2026-05-22T23:16:15.381127"
+  }
+]

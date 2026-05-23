@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bac8460b-655f-44b7-b7f4-0e18a0eea41f",
+    "user_id": "b430726c-5ff9-40fa-bd17-af2bc711de62",
+    "amount": 6052.41,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Kathyside",
+    "timestamp": "2026-05-23T23:00:06.986171"
+  },
+  {
+    "transaction_id": "0b8940d9-a5d9-492f-9da7-10af71ff25f0",
+    "user_id": "4b776bc9-a2f1-4b72-8f97-754dc5cb65b7",
+    "amount": 9164.88,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Scottton",
+    "timestamp": "2026-05-23T23:00:07.487616"
+  },
+  {
+    "transaction_id": "fdae9444-5cbd-4c17-8bfd-f3e5ac5076c7",
+    "user_id": "28b1c96f-2ddc-4e66-a14c-234dee6afc58",
+    "amount": 3339.66,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Cheyenne",
+    "timestamp": "2026-05-23T23:00:07.988945"
+  },
+  {
+    "transaction_id": "f3553bb0-77b1-41a4-8c56-9240c9f8e15c",
+    "user_id": "7b934d1d-cdaf-4bbf-8ae2-9c195d53784c",
+    "amount": 1135.13,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Craigchester",
+    "timestamp": "2026-05-23T23:00:08.491109"
+  },
+  {
+    "transaction_id": "95af9bab-31c2-4a64-8d32-d6e75c563db3",
+    "user_id": "a19e6602-3a8d-42e6-a60a-904e0178621b",
+    "amount": 8751.01,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Dannychester",
+    "timestamp": "2026-05-23T23:00:08.992154"
+  },
+  {
+    "transaction_id": "3e1553ca-62ed-4cea-a126-d18f4888efa9",
+    "user_id": "c2a64352-72fa-43f8-88ef-c7531af14a1b",
+    "amount": 4242.94,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Palmerview",
+    "timestamp": "2026-05-23T23:00:09.995142"
+  },
+  {
+    "transaction_id": "4b130098-15d9-4f36-ae6d-5c1a45653bcb",
+    "user_id": "b253f893-6375-48d0-b2e1-3e8e10437b4a",
+    "amount": 7839.15,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "New Richardburgh",
+    "timestamp": "2026-05-23T23:00:10.496297"
+  },
+  {
+    "transaction_id": "aac0abac-0c85-4d93-bb07-a07036721a46",
+    "user_id": "a3485483-8e2c-4630-8a18-170d523d2495",
+    "amount": 8625.49,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Danielton",
+    "timestamp": "2026-05-23T23:00:10.999389"
+  },
+  {
+    "transaction_id": "ebe78899-ad8d-4f13-bcf6-9e8e016660d7",
+    "user_id": "38ca9e41-bd50-4740-9408-d318bd5c6a37",
+    "amount": 9845.89,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Jenniferberg",
+    "timestamp": "2026-05-23T23:00:11.500578"
+  },
+  {
+    "transaction_id": "b9fb9036-1b6e-4e42-9eb5-e7c9e1bb1ba6",
+    "user_id": "d8317c14-e052-4d37-96b4-14fe39784f84",
+    "amount": 8564.9,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "West Brittanyfurt",
+    "timestamp": "2026-05-23T23:00:12.001689"
+  }
+]

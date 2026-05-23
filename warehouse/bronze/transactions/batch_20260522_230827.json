@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "2d9ea04f-a314-4d2f-b520-29186fd70496",
+    "user_id": "57a18993-6106-4694-b9f5-924f7a8b19fa",
+    "amount": 2880.88,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Dakotaburgh",
+    "timestamp": "2026-05-22T23:08:21.994205"
+  },
+  {
+    "transaction_id": "cd7dc304-7990-4c17-b345-2e91aa2a1ae5",
+    "user_id": "e0cf12ab-facb-425f-816c-ce8d0ca29f1a",
+    "amount": 9940.7,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Smithville",
+    "timestamp": "2026-05-22T23:08:22.497724"
+  },
+  {
+    "transaction_id": "d70bb439-839c-4c3b-bae8-8a24103fecc2",
+    "user_id": "f47d85a0-f272-4f3a-bba4-cf10b2042440",
+    "amount": 9498.34,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Lake Matthewshire",
+    "timestamp": "2026-05-22T23:08:22.999583"
+  },
+  {
+    "transaction_id": "e9ea6ee9-c35e-4113-a25a-2f6289d56705",
+    "user_id": "c7b1aa99-0bbf-4158-9658-01e36d26826c",
+    "amount": 8538.73,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jerryland",
+    "timestamp": "2026-05-22T23:08:23.501157"
+  },
+  {
+    "transaction_id": "7f41bc30-3da6-43d9-b76a-81ae44bed275",
+    "user_id": "03d156a7-b6df-4c8e-b6c9-137fb3e8e52c",
+    "amount": 6443.97,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Dakotaton",
+    "timestamp": "2026-05-22T23:08:24.003842"
+  },
+  {
+    "transaction_id": "cf9e5153-de31-484c-8922-fc92af344b44",
+    "user_id": "f2753468-75ae-49ae-bf71-b204799faaa0",
+    "amount": 5637.02,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "North Stephenfort",
+    "timestamp": "2026-05-22T23:08:25.008109"
+  },
+  {
+    "transaction_id": "e6589cd2-5b1e-48ad-9c32-b5960fffba0f",
+    "user_id": "41715253-5d70-4631-b624-34e643405a5a",
+    "amount": 6307.6,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Arnoldport",
+    "timestamp": "2026-05-22T23:08:25.509622"
+  },
+  {
+    "transaction_id": "99ea10f9-8d58-480f-8e8b-bf3b7cac5a51",
+    "user_id": "85ec4a17-bb3c-460e-a8b1-c522d6650246",
+    "amount": 2226.84,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "West Shaun",
+    "timestamp": "2026-05-22T23:08:26.011373"
+  },
+  {
+    "transaction_id": "56233491-39d3-4bf1-8bdd-727167780e0d",
+    "user_id": "62257a4f-c7e8-42ec-93dd-75dfbb911fe2",
+    "amount": 6473.96,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Rachelbury",
+    "timestamp": "2026-05-22T23:08:26.513551"
+  },
+  {
+    "transaction_id": "3755b238-cadd-4c50-8c5e-33c552b884e0",
+    "user_id": "b97f3ce9-39f3-4dfe-88f7-2319de06116f",
+    "amount": 9310.81,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "North Shannonview",
+    "timestamp": "2026-05-22T23:08:27.015040"
+  }
+]

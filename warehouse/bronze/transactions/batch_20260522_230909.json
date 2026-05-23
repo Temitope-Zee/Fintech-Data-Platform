@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "11eaad1f-a7ff-45b9-8b11-8fad04374646",
+    "user_id": "0a549b72-8e6f-48f2-ba2d-b1941945e983",
+    "amount": 5281.63,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "West Regina",
+    "timestamp": "2026-05-22T23:09:02.149121"
+  },
+  {
+    "transaction_id": "f3912b5e-3f75-4050-a7a5-5845411503e6",
+    "user_id": "54395ae5-d6db-4d8f-ba19-ecadd01e6a9b",
+    "amount": 4358.96,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Samuel",
+    "timestamp": "2026-05-22T23:09:02.650486"
+  },
+  {
+    "transaction_id": "f69ade78-7df8-4639-bf61-edb617d33fff",
+    "user_id": "92be80b7-3c8a-4ac2-a7f6-eaf3f6e42bc2",
+    "amount": 4475.89,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Martineztown",
+    "timestamp": "2026-05-22T23:09:03.655217"
+  },
+  {
+    "transaction_id": "b87209e3-e651-4f88-9f19-bd979f98655c",
+    "user_id": "03dc576e-6422-4967-9b09-0990df213d4e",
+    "amount": 5111.94,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Andersonmouth",
+    "timestamp": "2026-05-22T23:09:05.162412"
+  },
+  {
+    "transaction_id": "47a9a847-25af-450e-8a10-756954ae8cc3",
+    "user_id": "d03c737b-08ed-43f3-a2ee-297afd465ec9",
+    "amount": 3598.06,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Stevenbury",
+    "timestamp": "2026-05-22T23:09:06.169012"
+  },
+  {
+    "transaction_id": "524b8b1f-7803-4415-95ef-fa4d3422a4bf",
+    "user_id": "0bdcd45c-b287-4284-9fab-ae7d32d40d65",
+    "amount": 4388.85,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Millerbury",
+    "timestamp": "2026-05-22T23:09:06.670936"
+  },
+  {
+    "transaction_id": "6f8084d0-2471-425b-838d-a07a779e5f1d",
+    "user_id": "31ec374f-e53a-4eb6-b8de-7fe8de1e31b4",
+    "amount": 2253.11,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Aaronstad",
+    "timestamp": "2026-05-22T23:09:07.675176"
+  },
+  {
+    "transaction_id": "1e9effba-4126-4528-bf6d-58248b694ccd",
+    "user_id": "7daaa16c-5ea0-4fa1-a84f-36b5bdf0d409",
+    "amount": 3674.06,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Connorhaven",
+    "timestamp": "2026-05-22T23:09:08.177618"
+  },
+  {
+    "transaction_id": "22af9696-769b-4df9-8ac3-c89fc93efaa5",
+    "user_id": "bb0b6ced-476a-4d75-ab0a-95d8d2b26334",
+    "amount": 4060.74,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "East Robertfurt",
+    "timestamp": "2026-05-22T23:09:09.181503"
+  },
+  {
+    "transaction_id": "c569fa20-9387-4578-b7f1-b4b17add39c2",
+    "user_id": "dc478981-c30f-4779-b864-ec5d9c1a920a",
+    "amount": 9840.28,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Shawnton",
+    "timestamp": "2026-05-22T23:09:09.684391"
+  }
+]

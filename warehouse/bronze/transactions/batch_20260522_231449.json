@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f5f26c27-c005-493e-bfdf-829ec9ac0360",
+    "user_id": "9eaf72da-079e-45a3-8f0a-ba7c707b2e04",
+    "amount": 7107.95,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Port Joseview",
+    "timestamp": "2026-05-22T23:14:44.000374"
+  },
+  {
+    "transaction_id": "60e25fc5-dc54-45d7-81d8-f074fef682bc",
+    "user_id": "e80715b3-f50f-4d44-be70-366ad3423247",
+    "amount": 2342.92,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "New Bruce",
+    "timestamp": "2026-05-22T23:14:44.501755"
+  },
+  {
+    "transaction_id": "a8457764-d7de-4f94-9510-94ff46164cc5",
+    "user_id": "63c81895-1919-4090-9ddc-2e1f27b7e8dd",
+    "amount": 5437.12,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Youngchester",
+    "timestamp": "2026-05-22T23:14:45.003378"
+  },
+  {
+    "transaction_id": "04a97fda-8171-4e99-a53f-a501a1b68511",
+    "user_id": "1cd55e16-28a5-4df9-bcf5-3da6097783e5",
+    "amount": 7944.88,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Edwardville",
+    "timestamp": "2026-05-22T23:14:45.505387"
+  },
+  {
+    "transaction_id": "0608fda9-e234-4c62-8eb1-c9736f8c3327",
+    "user_id": "d14d47e1-311b-4a00-b46a-962f5ce8168c",
+    "amount": 872.23,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Ayersborough",
+    "timestamp": "2026-05-22T23:14:46.008892"
+  },
+  {
+    "transaction_id": "5867364d-fcfc-43a3-b293-627f8e6a3e36",
+    "user_id": "12efa1b3-50c9-4fdc-8b92-21ad6e80a48b",
+    "amount": 9258.17,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Ramirezborough",
+    "timestamp": "2026-05-22T23:14:46.510375"
+  },
+  {
+    "transaction_id": "57606352-d6d6-4649-b9c0-f075108ba18c",
+    "user_id": "63c548e6-ddb5-4b5b-b1e1-e6ea2d944fb2",
+    "amount": 332.45,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Port Diamondberg",
+    "timestamp": "2026-05-22T23:14:47.012254"
+  },
+  {
+    "transaction_id": "8a2c216b-2530-4e1a-a401-39826d913612",
+    "user_id": "96e617b8-5d4f-4d77-a98f-119742b17d11",
+    "amount": 2031.22,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "West Katherine",
+    "timestamp": "2026-05-22T23:14:48.015496"
+  },
+  {
+    "transaction_id": "130f11e5-246c-44c9-9d12-87ada798c31f",
+    "user_id": "ad96d992-88e3-4a6e-859a-de690f347949",
+    "amount": 9897.2,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Byrdshire",
+    "timestamp": "2026-05-22T23:14:48.517304"
+  },
+  {
+    "transaction_id": "c15f1506-20cf-40c7-882b-185a1aa62166",
+    "user_id": "a6ea7b62-6a2e-46a6-8928-fc1f2914f9f0",
+    "amount": 1645.35,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East David",
+    "timestamp": "2026-05-22T23:14:49.020034"
+  }
+]

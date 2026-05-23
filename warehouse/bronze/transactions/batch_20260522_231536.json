@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "520f0647-c3f3-4142-a702-3f344c627678",
+    "user_id": "fb826982-b13d-4229-b610-7292082bf410",
+    "amount": 8937.76,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "West Melissa",
+    "timestamp": "2026-05-22T23:15:29.683323"
+  },
+  {
+    "transaction_id": "b81d4719-2b93-4573-b49b-2111e4b45427",
+    "user_id": "e75c9447-ddd8-49e5-bb3c-19be66e1ae01",
+    "amount": 2460.07,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Woodville",
+    "timestamp": "2026-05-22T23:15:30.688380"
+  },
+  {
+    "transaction_id": "4ea607c8-100c-4f22-ac6e-4d724c3e9437",
+    "user_id": "05542952-307a-4d45-9d01-68da40f060ad",
+    "amount": 2353.91,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Brittany",
+    "timestamp": "2026-05-22T23:15:31.191245"
+  },
+  {
+    "transaction_id": "5c8ac9e8-b0ff-4fdd-ba0f-07a42ee7ef75",
+    "user_id": "099e61f7-724d-4f39-8eb7-8a93b79b724b",
+    "amount": 8862.85,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Kimberlystad",
+    "timestamp": "2026-05-22T23:15:31.694224"
+  },
+  {
+    "transaction_id": "47284f8c-91dd-431e-98ec-aadab1bcd92a",
+    "user_id": "3e53e236-7285-4128-ba6f-d275ecd1e4ce",
+    "amount": 6356.11,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kevinborough",
+    "timestamp": "2026-05-22T23:15:32.195826"
+  },
+  {
+    "transaction_id": "d1f598d1-624c-4a37-b4ec-4692fc1eb40e",
+    "user_id": "cc53df4f-4595-4222-a9b7-bda5fda0e2fe",
+    "amount": 7187.67,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Joseph",
+    "timestamp": "2026-05-22T23:15:32.698589"
+  },
+  {
+    "transaction_id": "d03dcc14-dd70-4275-af8a-d73beb1b7e74",
+    "user_id": "a23d16a1-0b54-43ef-aa38-ebfb73ca4ab2",
+    "amount": 6469.68,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Danielleport",
+    "timestamp": "2026-05-22T23:15:33.200956"
+  },
+  {
+    "transaction_id": "dbca7f98-c38c-4f2d-adb7-c645a2ab6010",
+    "user_id": "68d3f53a-df1c-4439-9dc9-50cccb3d5e43",
+    "amount": 6385.54,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "East Andrew",
+    "timestamp": "2026-05-22T23:15:35.208116"
+  },
+  {
+    "transaction_id": "084622c4-3939-4d95-85c9-cc5ad1dc77cd",
+    "user_id": "3a6bbda2-d592-4ed3-82d8-694cc062aabe",
+    "amount": 1163.81,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Johnchester",
+    "timestamp": "2026-05-22T23:15:35.710584"
+  },
+  {
+    "transaction_id": "7f9e2ee1-e69c-4450-9122-b9171ee14bda",
+    "user_id": "35c4d33b-c1c0-4085-aa14-26b557137138",
+    "amount": 3660.0,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Mooretown",
+    "timestamp": "2026-05-22T23:15:36.713637"
+  }
+]

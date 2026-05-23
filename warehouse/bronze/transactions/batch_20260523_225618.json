@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "18d35740-8998-4e62-87f6-f3312d3dadbe",
+    "user_id": "79086bd4-e679-4915-93f9-70c5d8f22c72",
+    "amount": 6803.31,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Jeffrey",
+    "timestamp": "2026-05-23T22:56:12.142195"
+  },
+  {
+    "transaction_id": "532e6d3a-0ed0-439e-abcf-41ac72a7fc7c",
+    "user_id": "e5a7d4da-c10c-4e68-a6c3-eef0ae98b411",
+    "amount": 146.38,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Christinetown",
+    "timestamp": "2026-05-23T22:56:12.644724"
+  },
+  {
+    "transaction_id": "6559119b-a986-4865-bfed-2a44ed162bb4",
+    "user_id": "6e48beaf-5152-4779-9e9f-b8f4cc5a2b02",
+    "amount": 31.63,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Nicholasberg",
+    "timestamp": "2026-05-23T22:56:13.147155"
+  },
+  {
+    "transaction_id": "057ebb0a-19ec-4e19-9e3c-63de663bb687",
+    "user_id": "19e86d55-53a4-4984-a5bc-83c755685362",
+    "amount": 9808.71,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "New Jimmy",
+    "timestamp": "2026-05-23T22:56:14.650705"
+  },
+  {
+    "transaction_id": "0f748797-b686-4f57-b390-b88b7257be4f",
+    "user_id": "510dcd59-531e-4eb1-ad4a-6ac98ef3c03c",
+    "amount": 4722.43,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Kristenborough",
+    "timestamp": "2026-05-23T22:56:15.653435"
+  },
+  {
+    "transaction_id": "ffc75e47-e60b-4643-8024-ac05f4a747aa",
+    "user_id": "24f269f6-d3e3-48cf-8e81-c9914198322d",
+    "amount": 4809.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Tapiashire",
+    "timestamp": "2026-05-23T22:56:16.155514"
+  },
+  {
+    "transaction_id": "b9f9686a-f28f-47e6-8a62-e3ec7fead87e",
+    "user_id": "d7825b1d-9999-4bba-ae75-574cfbbea426",
+    "amount": 2832.79,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "West Denise",
+    "timestamp": "2026-05-23T22:56:16.656932"
+  },
+  {
+    "transaction_id": "4b428a27-72c3-45e9-a424-2549cae04694",
+    "user_id": "0212a2fb-a94d-470c-8915-400b6c9fca81",
+    "amount": 7431.14,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Clarkton",
+    "timestamp": "2026-05-23T22:56:17.159629"
+  },
+  {
+    "transaction_id": "0de1ffb1-f40b-44c4-988b-100f10bbc32e",
+    "user_id": "c8f5d4d0-1eed-4a5b-98a9-87fe20426a24",
+    "amount": 4770.37,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Samanthafurt",
+    "timestamp": "2026-05-23T22:56:17.660905"
+  },
+  {
+    "transaction_id": "8ceb11b9-226c-43d8-a773-c61c5e962c24",
+    "user_id": "6b21d23b-600a-402f-9302-152bea17927a",
+    "amount": 6598.84,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Pattonfurt",
+    "timestamp": "2026-05-23T22:56:18.162206"
+  }
+]

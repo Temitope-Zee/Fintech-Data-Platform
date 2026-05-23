@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7381b0c8-0240-4ff6-8cc0-00673123628c",
+    "user_id": "ac7aad68-6521-4f66-935a-6d3a81846bf9",
+    "amount": 6193.2,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Joshuaton",
+    "timestamp": "2026-05-22T23:04:13.550431"
+  },
+  {
+    "transaction_id": "9106d3b6-eecd-4785-86f0-5e34e361ccfc",
+    "user_id": "65991085-ccd7-46d8-8a40-eb8f67cf8c5a",
+    "amount": 6757.46,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Cassandramouth",
+    "timestamp": "2026-05-22T23:04:14.052456"
+  },
+  {
+    "transaction_id": "f092e127-1ffc-46a3-8e24-a92e35aa149d",
+    "user_id": "028994f2-2390-4610-a006-d27d3b1a0bee",
+    "amount": 3476.94,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Dorseyland",
+    "timestamp": "2026-05-22T23:04:14.555678"
+  },
+  {
+    "transaction_id": "71e4acce-38ee-4e8a-ac6e-ec035163a31d",
+    "user_id": "216b4e37-7c94-4574-bd02-9b064845c38c",
+    "amount": 9513.88,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Glendamouth",
+    "timestamp": "2026-05-22T23:04:15.059779"
+  },
+  {
+    "transaction_id": "e7c1254d-0887-43db-89c2-79eecd0386ce",
+    "user_id": "5de43937-7975-4413-8e68-355fcad219de",
+    "amount": 9703.53,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Wendyview",
+    "timestamp": "2026-05-22T23:04:15.561294"
+  },
+  {
+    "transaction_id": "86429a64-0c95-42b5-828a-ab09b4db44b0",
+    "user_id": "ece00809-6ff4-48d9-8dd1-3182443859d1",
+    "amount": 4018.92,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Davidstad",
+    "timestamp": "2026-05-22T23:04:16.062639"
+  },
+  {
+    "transaction_id": "56a9ac63-e5b3-4c5c-b4cf-897c660c71db",
+    "user_id": "719658ed-24db-4cde-88db-b6f3eb93eb7c",
+    "amount": 6846.01,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Julieburgh",
+    "timestamp": "2026-05-22T23:04:16.565560"
+  },
+  {
+    "transaction_id": "4214dc2f-9aae-4bad-82b8-84619b6915ab",
+    "user_id": "4f195e55-df3b-4f89-a58a-b16f30f9e0de",
+    "amount": 8261.51,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Stephaniefort",
+    "timestamp": "2026-05-22T23:04:17.067430"
+  },
+  {
+    "transaction_id": "e930637a-2b48-4050-b143-b91204788048",
+    "user_id": "165d636e-5b70-4fc2-a45f-f6bda8077e0a",
+    "amount": 8930.51,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "South Anita",
+    "timestamp": "2026-05-22T23:04:17.569121"
+  },
+  {
+    "transaction_id": "c0e0195d-b206-49c9-a835-4506e8677b2f",
+    "user_id": "68b4eebf-1db2-45f2-ac74-ed5fd278fb5c",
+    "amount": 8235.3,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Heidi",
+    "timestamp": "2026-05-22T23:04:18.071553"
+  }
+]

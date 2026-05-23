@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "aca77a86-020f-435f-9d0e-bbf121d2e551",
+    "user_id": "821159e3-5988-461b-ba15-80283a2693a4",
+    "amount": 3079.29,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Victoriamouth",
+    "timestamp": "2026-05-22T23:14:14.377326"
+  },
+  {
+    "transaction_id": "915b2064-5a0d-48eb-a98a-83c52b830ab7",
+    "user_id": "815b00d2-99f5-4cbd-aa1a-aac518749e27",
+    "amount": 8677.57,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Charlesfort",
+    "timestamp": "2026-05-22T23:14:14.880101"
+  },
+  {
+    "transaction_id": "81e07b1d-b42d-4fb1-b297-b28e9621f9db",
+    "user_id": "d9a3e0f3-745c-4aba-9cdc-bf825bf61d2a",
+    "amount": 2991.26,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Autumn",
+    "timestamp": "2026-05-22T23:14:15.381875"
+  },
+  {
+    "transaction_id": "98bf89b6-6f8a-4a39-8f61-618654efda2b",
+    "user_id": "a7c325b0-4b69-41f0-a4e0-552e04611495",
+    "amount": 9218.19,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "North Veronicabury",
+    "timestamp": "2026-05-22T23:14:15.883274"
+  },
+  {
+    "transaction_id": "60569491-1d2e-48f1-ba5d-0c2039af349d",
+    "user_id": "3ef6924d-9832-4f29-ad1f-05c431c62346",
+    "amount": 7382.67,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Keithchester",
+    "timestamp": "2026-05-22T23:14:16.386418"
+  },
+  {
+    "transaction_id": "c2e27666-cd16-4f3e-934d-1624f288df01",
+    "user_id": "139adea5-6a2e-44c7-b6f2-d56893d7a57c",
+    "amount": 170.27,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Katrinabury",
+    "timestamp": "2026-05-22T23:14:16.887758"
+  },
+  {
+    "transaction_id": "51c7d77d-27c4-42d8-9ba6-979c5604e744",
+    "user_id": "9cf22a85-c26a-47ea-87a8-656ea0cbe048",
+    "amount": 5780.1,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Ethanberg",
+    "timestamp": "2026-05-22T23:14:17.389578"
+  },
+  {
+    "transaction_id": "c4e5e77f-14b7-4ad2-a8c2-741ec5425934",
+    "user_id": "8f1640e3-0b4a-429e-ac8d-7000089fe6b6",
+    "amount": 6455.16,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Robertsbury",
+    "timestamp": "2026-05-22T23:14:17.891091"
+  },
+  {
+    "transaction_id": "39767335-751b-4069-b714-ea9bb5b85fd5",
+    "user_id": "88e13d9c-1b57-47ac-8147-7836ef9c61e0",
+    "amount": 6544.38,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Michaelborough",
+    "timestamp": "2026-05-22T23:14:18.393261"
+  },
+  {
+    "transaction_id": "c0a55607-44a4-4bb3-98a4-894ce91c3be0",
+    "user_id": "d60e874e-ee78-4eff-8896-53f9dddb5fde",
+    "amount": 7402.13,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "New Michelleview",
+    "timestamp": "2026-05-22T23:14:18.894689"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "904394d7-7ee6-4f73-9740-08e3c8df9d58",
+    "user_id": "a27736f2-4c60-427e-a3d4-14a10cd5c691",
+    "amount": 2762.83,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "East Lindahaven",
+    "timestamp": "2026-05-22T23:04:29.110642"
+  },
+  {
+    "transaction_id": "6460b736-5f0e-4806-8972-99aafd462a7e",
+    "user_id": "2a0144f2-884b-46dd-92ae-6205ce6c6a27",
+    "amount": 4870.32,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Michealville",
+    "timestamp": "2026-05-22T23:04:29.613041"
+  },
+  {
+    "transaction_id": "8dc11798-e31d-41af-9028-32d38619e9fe",
+    "user_id": "72f54d69-c009-4d06-bbf1-ca7d93b129e7",
+    "amount": 210.78,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Lake Christopher",
+    "timestamp": "2026-05-22T23:04:30.114164"
+  },
+  {
+    "transaction_id": "b6921ca4-5cef-4d34-b0ac-9a7262c82d21",
+    "user_id": "1a49545a-aba4-423c-8624-701b43471fde",
+    "amount": 4679.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Muellerton",
+    "timestamp": "2026-05-22T23:04:30.616362"
+  },
+  {
+    "transaction_id": "383a25b4-ef45-4f0d-91e5-fe1c19c9853d",
+    "user_id": "c0490b1d-bde6-402a-b8a1-8217543e8a87",
+    "amount": 302.56,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Tiffanyburgh",
+    "timestamp": "2026-05-22T23:04:31.117800"
+  },
+  {
+    "transaction_id": "9e3a60b3-1a1b-465c-b75c-20e0b018a95e",
+    "user_id": "86029af4-2876-42f2-9bfa-70df58b9646b",
+    "amount": 4906.05,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Port Stephen",
+    "timestamp": "2026-05-22T23:04:31.619506"
+  },
+  {
+    "transaction_id": "c27b30b4-62f8-4c8c-9191-c51035aa971c",
+    "user_id": "f578e6b3-a114-4db5-839b-cc9af1a43eeb",
+    "amount": 3960.68,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "West Emmatown",
+    "timestamp": "2026-05-22T23:04:32.120774"
+  },
+  {
+    "transaction_id": "b56b8ba7-1933-4ac2-86fc-e8d83ebffb80",
+    "user_id": "4c98627d-29f1-4062-a893-6f5efee5dc65",
+    "amount": 2966.94,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Foleyfort",
+    "timestamp": "2026-05-22T23:04:32.622461"
+  },
+  {
+    "transaction_id": "ddcec627-0089-440c-a9c7-79ba67cc904c",
+    "user_id": "b276723c-9ff4-4d5c-9630-8f8df1b9d957",
+    "amount": 2569.57,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Jerryfort",
+    "timestamp": "2026-05-22T23:04:33.123570"
+  },
+  {
+    "transaction_id": "e82c0154-1107-455a-af4c-cc9788be15b3",
+    "user_id": "40060949-39af-4b08-b6ec-2dc98dbbdad9",
+    "amount": 9411.75,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Saratown",
+    "timestamp": "2026-05-22T23:04:33.624730"
+  }
+]

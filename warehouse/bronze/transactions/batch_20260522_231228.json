@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "7860adf0-0eda-411d-947d-84948050045b",
+    "user_id": "d934385d-6f93-42d4-a79b-144da7194156",
+    "amount": 3336.43,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Holmesmouth",
+    "timestamp": "2026-05-22T23:12:24.458119"
+  },
+  {
+    "transaction_id": "3ff40b8e-90d3-49fb-8754-fa13f4ad8f7d",
+    "user_id": "5088ada2-543f-47bc-a4d2-df189b6b365e",
+    "amount": 751.32,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Jeffreyton",
+    "timestamp": "2026-05-22T23:12:24.959380"
+  },
+  {
+    "transaction_id": "3e730e2d-d2d4-45d1-bb69-5cdab3d30f80",
+    "user_id": "843a1d57-accb-45b0-903e-09646cb1561a",
+    "amount": 3262.23,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "South Michaelville",
+    "timestamp": "2026-05-22T23:12:25.460748"
+  },
+  {
+    "transaction_id": "f8127fe3-da50-4bd0-be45-2d7cc4e57f62",
+    "user_id": "9d9c1481-2de5-440a-9268-23ae130ffc65",
+    "amount": 5690.61,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Scottstad",
+    "timestamp": "2026-05-22T23:12:25.963015"
+  },
+  {
+    "transaction_id": "e2182944-51d7-4edb-bac3-27f3ad191ba5",
+    "user_id": "c44358dd-0cfd-415c-9daf-886e8831dc71",
+    "amount": 9851.55,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Christopherside",
+    "timestamp": "2026-05-22T23:12:26.464010"
+  },
+  {
+    "transaction_id": "a09401da-518e-4e8c-ad70-372506ca6b87",
+    "user_id": "4875e25c-813e-42e4-9d40-081252fea009",
+    "amount": 7730.95,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Susanport",
+    "timestamp": "2026-05-22T23:12:26.964834"
+  },
+  {
+    "transaction_id": "537fbb17-f27e-48f3-8cdc-779731b120e6",
+    "user_id": "01ab2615-fd80-47df-a7a9-bbd3b9352abf",
+    "amount": 8936.45,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Teresamouth",
+    "timestamp": "2026-05-22T23:12:27.462361"
+  },
+  {
+    "transaction_id": "9476c13d-16a0-4bd1-8378-5d96262a725a",
+    "user_id": "c650d8fd-6277-46bc-9eaa-8e97a1c176d8",
+    "amount": 7484.23,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "East Carolchester",
+    "timestamp": "2026-05-22T23:12:27.964342"
+  },
+  {
+    "transaction_id": "445b9ff5-0471-4b2c-b81b-575eb554d9e4",
+    "user_id": "f655008b-c662-46ba-b39f-6d97bfef46e8",
+    "amount": 9615.4,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Biancaton",
+    "timestamp": "2026-05-22T23:12:28.465157"
+  },
+  {
+    "transaction_id": "bea93fa4-5a34-4d73-9565-560bc58478ef",
+    "user_id": "814befb2-f930-429c-b49c-862c48a8aeed",
+    "amount": 6053.54,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Hahnland",
+    "timestamp": "2026-05-22T23:12:28.967495"
+  }
+]

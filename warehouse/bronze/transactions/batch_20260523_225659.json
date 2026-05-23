@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "800fcb1a-b436-4ee5-a881-753ce27509c5",
+    "user_id": "9890288a-c58a-48af-bcb9-7afb3c960797",
+    "amount": 5592.16,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "North Leslie",
+    "timestamp": "2026-05-23T22:56:54.298152"
+  },
+  {
+    "transaction_id": "c03aa802-1702-4039-b30b-6c5a25f727dc",
+    "user_id": "a4069029-12e5-49cf-b63b-dfd41907c56d",
+    "amount": 4529.78,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Lake Tony",
+    "timestamp": "2026-05-23T22:56:54.799646"
+  },
+  {
+    "transaction_id": "ee3bb5d2-f85c-41b1-9437-af27ec70bc52",
+    "user_id": "c03a4b71-7f73-42bb-a20f-c3e68b5b420f",
+    "amount": 6330.81,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Mathew",
+    "timestamp": "2026-05-23T22:56:55.300915"
+  },
+  {
+    "transaction_id": "6b5eb7c4-d20d-4f09-80ce-4aead538701b",
+    "user_id": "d7f7457b-f04f-4c09-bd75-6f40b8f7e58d",
+    "amount": 4915.37,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "South Christinashire",
+    "timestamp": "2026-05-23T22:56:55.802877"
+  },
+  {
+    "transaction_id": "3f643f2c-3e3a-4e55-93b1-ce175c4461c2",
+    "user_id": "8141784f-1c25-47e3-9cac-d56417f9df35",
+    "amount": 6937.19,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Robertborough",
+    "timestamp": "2026-05-23T22:56:56.304335"
+  },
+  {
+    "transaction_id": "3cf454e7-5386-4e68-b2be-b44589c265ff",
+    "user_id": "d2b844a6-b6e7-455c-b69e-c3f4da9b9974",
+    "amount": 4645.31,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Gregoryburgh",
+    "timestamp": "2026-05-23T22:56:56.805722"
+  },
+  {
+    "transaction_id": "dc892f35-6609-4a00-a5b1-6a654c317691",
+    "user_id": "d04c1533-f472-41e7-9817-7928066fce11",
+    "amount": 2561.75,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Jenniferburgh",
+    "timestamp": "2026-05-23T22:56:57.306786"
+  },
+  {
+    "transaction_id": "6f8ad94d-5c6a-4c20-850b-5517250b92be",
+    "user_id": "f2d794f4-9c34-48b3-80ac-cb79c6ed3e22",
+    "amount": 1567.74,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Anthonyshire",
+    "timestamp": "2026-05-23T22:56:57.808097"
+  },
+  {
+    "transaction_id": "e2d7141c-00eb-446c-a777-1a5ecafaf7b6",
+    "user_id": "a8a4fb91-8051-42ec-b0ef-41cc5ff76202",
+    "amount": 4781.31,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Michaelmouth",
+    "timestamp": "2026-05-23T22:56:58.812446"
+  },
+  {
+    "transaction_id": "ea185b95-07c6-48fc-95b3-6a5898b196d5",
+    "user_id": "6a237a03-e43f-48a1-93fb-e2997c5a17ff",
+    "amount": 1640.79,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Burgessberg",
+    "timestamp": "2026-05-23T22:56:59.314280"
+  }
+]

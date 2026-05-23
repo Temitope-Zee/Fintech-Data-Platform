@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f065bcb6-30e1-45df-91e6-b1af757c11b5",
+    "user_id": "2c5c1420-5b0c-42b1-87bb-e56f688fa481",
+    "amount": 8761.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Wallaceside",
+    "timestamp": "2026-05-23T22:55:30.962896"
+  },
+  {
+    "transaction_id": "ae8c33d1-5b5f-46b8-82a3-6622883fe8b3",
+    "user_id": "46eaebc9-052f-493f-ba26-80ce4a3b008c",
+    "amount": 1705.75,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Williamside",
+    "timestamp": "2026-05-23T22:55:31.464420"
+  },
+  {
+    "transaction_id": "9dac285e-5421-491f-be6e-5a3aea15941b",
+    "user_id": "43b681f2-e8b7-4290-a593-9e5a393cef15",
+    "amount": 7264.91,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "West Whitneyborough",
+    "timestamp": "2026-05-23T22:55:31.966252"
+  },
+  {
+    "transaction_id": "5177c602-e0bc-48f9-a9a5-40e7ae79a3a3",
+    "user_id": "bd97bbbc-6e14-42a7-9944-b891454e18ef",
+    "amount": 4376.7,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Monica",
+    "timestamp": "2026-05-23T22:55:32.467979"
+  },
+  {
+    "transaction_id": "62e4d33b-d793-4980-9d9e-0d47b4bba71e",
+    "user_id": "3739a42f-0757-4950-a2c9-9270b6239fdd",
+    "amount": 1144.98,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Valentineville",
+    "timestamp": "2026-05-23T22:55:32.970496"
+  },
+  {
+    "transaction_id": "73aa4630-0424-45e9-932e-1efdb5c43354",
+    "user_id": "ce6051e4-b9df-4f12-99eb-5aeb6aa89aa7",
+    "amount": 2468.7,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Simpsonshire",
+    "timestamp": "2026-05-23T22:55:33.472374"
+  },
+  {
+    "transaction_id": "4ee099da-659c-4204-91b1-4bc6ab85733f",
+    "user_id": "04e85c56-7184-4277-b4e5-4ea20137bf3a",
+    "amount": 1472.2,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Christopher",
+    "timestamp": "2026-05-23T22:55:34.476954"
+  },
+  {
+    "transaction_id": "7dbc94c2-9020-497d-95a3-cb240441547d",
+    "user_id": "b60783d0-1e22-42e3-b3a3-ae4a31121204",
+    "amount": 6872.89,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Christopher",
+    "timestamp": "2026-05-23T22:55:34.979939"
+  },
+  {
+    "transaction_id": "62645096-48cc-4435-ac71-b0c67d823c82",
+    "user_id": "f099a0cf-c5d1-4465-9e0c-4bae3827a7f2",
+    "amount": 708.69,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Brianaside",
+    "timestamp": "2026-05-23T22:55:35.481616"
+  },
+  {
+    "transaction_id": "68134918-e2bc-4983-b72c-94d44f5f0b73",
+    "user_id": "6a997236-2dc6-43a1-93c1-4604024d5068",
+    "amount": 9821.43,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake David",
+    "timestamp": "2026-05-23T22:55:35.984753"
+  }
+]

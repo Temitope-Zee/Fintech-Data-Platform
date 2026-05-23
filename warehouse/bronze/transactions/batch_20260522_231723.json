@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "96654901-a2cd-4c83-8dd9-e3a440d38f7c",
+    "user_id": "5d7f5730-91bf-44b2-984f-3110a05b1ad8",
+    "amount": 8881.19,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Brianstad",
+    "timestamp": "2026-05-22T23:17:18.123199"
+  },
+  {
+    "transaction_id": "3bc1ffbc-99d5-4d87-a843-18444f21813d",
+    "user_id": "633ecc8c-bbef-41b5-97e9-fc5d176d461a",
+    "amount": 9744.83,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Thomasstad",
+    "timestamp": "2026-05-22T23:17:19.127682"
+  },
+  {
+    "transaction_id": "e51cdffd-6214-4f4e-bbba-a7b6cdfdc09d",
+    "user_id": "b17b2608-184d-4848-b712-0fb6b3d7de52",
+    "amount": 5799.88,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "North Ralph",
+    "timestamp": "2026-05-22T23:17:19.630422"
+  },
+  {
+    "transaction_id": "6c5dbc68-47a4-4cbd-b953-8bc96c443a91",
+    "user_id": "ee9fae03-867e-40d2-b280-02129877b1a7",
+    "amount": 9964.3,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Andreaville",
+    "timestamp": "2026-05-22T23:17:20.132648"
+  },
+  {
+    "transaction_id": "0d1539ec-db7d-4e2a-be4d-910674172b09",
+    "user_id": "9a8a5f5f-d41b-49d4-8584-c5381e0ecb7a",
+    "amount": 5875.03,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Staciestad",
+    "timestamp": "2026-05-22T23:17:20.635721"
+  },
+  {
+    "transaction_id": "8777f00d-fd65-45fc-95f6-571fa9375bb2",
+    "user_id": "a185f016-d11c-41c7-9e6a-f1228a83e031",
+    "amount": 1592.63,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kathleenmouth",
+    "timestamp": "2026-05-22T23:17:21.137593"
+  },
+  {
+    "transaction_id": "50a59735-b281-480b-854a-891377e30db6",
+    "user_id": "c1000d18-8b96-4948-b7a5-4144b2fb974e",
+    "amount": 999.18,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "West Jerry",
+    "timestamp": "2026-05-22T23:17:21.640415"
+  },
+  {
+    "transaction_id": "f73dba99-da4d-4d83-ac88-c53dadd6ab62",
+    "user_id": "e6832794-d180-4131-8af7-ac5e78085a7c",
+    "amount": 8756.66,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Lake Michaelhaven",
+    "timestamp": "2026-05-22T23:17:22.143325"
+  },
+  {
+    "transaction_id": "833e5ac1-7ab5-42ae-ad6b-a6bc4f42b54d",
+    "user_id": "5d587938-8881-4562-8eb6-d470b05a1d02",
+    "amount": 5951.34,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Javier",
+    "timestamp": "2026-05-22T23:17:22.645916"
+  },
+  {
+    "transaction_id": "fcec2ddd-939c-48d4-b403-37c1fe0ac1ff",
+    "user_id": "5bf34cc9-068a-4ae4-88e2-277721a573a2",
+    "amount": 3258.97,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Richardchester",
+    "timestamp": "2026-05-22T23:17:23.148039"
+  }
+]

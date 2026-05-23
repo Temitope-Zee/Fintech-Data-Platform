@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "c75a5a16-5583-4359-a72c-605962f81ddb",
+    "user_id": "1b0a33a4-a450-45ae-8cd1-92761e734488",
+    "amount": 6527.39,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Walkerhaven",
+    "timestamp": "2026-05-22T23:09:41.830291"
+  },
+  {
+    "transaction_id": "ad491ada-7bba-4676-941b-05d38cb3ddcf",
+    "user_id": "d15f90a7-8181-4c62-9dc2-9069a2c07648",
+    "amount": 4263.62,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Thomasside",
+    "timestamp": "2026-05-22T23:09:42.331211"
+  },
+  {
+    "transaction_id": "5c33ed6d-5ccd-4779-a956-66439531aadb",
+    "user_id": "31515aa6-5079-4b66-93ca-50c4314b7e08",
+    "amount": 3502.51,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Davidburgh",
+    "timestamp": "2026-05-22T23:09:42.833339"
+  },
+  {
+    "transaction_id": "24658b72-e07d-43ca-a068-6b1c86d95473",
+    "user_id": "3dae8a15-da38-448d-92f9-f670c8c841d1",
+    "amount": 8336.01,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Michaelborough",
+    "timestamp": "2026-05-22T23:09:43.335970"
+  },
+  {
+    "transaction_id": "5276d17b-d100-456a-aa2e-8d7ad20ac280",
+    "user_id": "9a8dd846-8138-4abe-8e50-7ad1781f3315",
+    "amount": 9790.72,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Saraborough",
+    "timestamp": "2026-05-22T23:09:43.838687"
+  },
+  {
+    "transaction_id": "c5c80747-2818-4652-adc8-308df64f5e85",
+    "user_id": "dd7b09b7-6203-4e42-8dc4-966d9e696a08",
+    "amount": 5679.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Robertview",
+    "timestamp": "2026-05-22T23:09:44.339767"
+  },
+  {
+    "transaction_id": "7b2e0c27-fe0e-4ea3-af77-0a8877cb8c94",
+    "user_id": "ce0231fc-220b-4ca6-adc2-00f21330c30e",
+    "amount": 7008.88,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Lake Cindyshire",
+    "timestamp": "2026-05-22T23:09:45.344712"
+  },
+  {
+    "transaction_id": "6c346de4-52b0-43fd-8c75-7939c9d1c775",
+    "user_id": "61a87c76-dff9-4ab0-818d-c8afe489b157",
+    "amount": 5606.72,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Raytown",
+    "timestamp": "2026-05-22T23:09:45.846313"
+  },
+  {
+    "transaction_id": "b56aa0c4-6930-454b-b494-f78c0c112e7d",
+    "user_id": "6ddd03c0-fe10-4ed1-b1a9-19be5ca293f9",
+    "amount": 7871.18,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Brian",
+    "timestamp": "2026-05-22T23:09:46.347659"
+  },
+  {
+    "transaction_id": "3fa7e607-31ef-4d62-be33-ac84fd17648b",
+    "user_id": "2d9b34b4-1849-47bb-98cf-a4fc78349e73",
+    "amount": 2180.31,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "East Samanthaville",
+    "timestamp": "2026-05-22T23:09:46.849264"
+  }
+]

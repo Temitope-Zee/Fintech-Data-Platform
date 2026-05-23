@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "74134610-8bb3-4443-beda-7a0121f75ff0",
+    "user_id": "b838a0d9-55f8-40d4-8574-43a77a3af5ca",
+    "amount": 669.7,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Natashahaven",
+    "timestamp": "2026-05-23T22:58:49.714941"
+  },
+  {
+    "transaction_id": "091d5370-c212-4954-926c-3e51a10605cd",
+    "user_id": "9279c6a7-4026-4746-a33b-cd3d85b5e6ec",
+    "amount": 3229.13,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "East Tammychester",
+    "timestamp": "2026-05-23T22:58:50.216455"
+  },
+  {
+    "transaction_id": "ef066887-e893-4ee0-9b37-b046df5d007b",
+    "user_id": "08568a9e-0f0a-4681-9cee-6a08591e5bc2",
+    "amount": 4217.04,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "South Kimberly",
+    "timestamp": "2026-05-23T22:58:50.718548"
+  },
+  {
+    "transaction_id": "db0c3322-3429-445d-97b5-75df139d3d75",
+    "user_id": "376c75a7-cf35-4c25-8203-3120f4b44f3c",
+    "amount": 2487.95,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Larry",
+    "timestamp": "2026-05-23T22:58:51.722204"
+  },
+  {
+    "transaction_id": "a39a97e6-1496-4453-b198-0dac0e4d979d",
+    "user_id": "20f9f8d8-866e-424c-a3ed-09dadeb6d266",
+    "amount": 1818.79,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Hollybury",
+    "timestamp": "2026-05-23T22:58:52.223369"
+  },
+  {
+    "transaction_id": "1918ad66-686a-492c-abf9-16d82313f4ce",
+    "user_id": "0e62dc16-541e-4048-aafd-9a670e0b42fe",
+    "amount": 314.14,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "West Kevinmouth",
+    "timestamp": "2026-05-23T22:58:52.724413"
+  },
+  {
+    "transaction_id": "a87a7f70-7060-4bfe-b7d5-13ef025c4b93",
+    "user_id": "93580698-565a-484b-b895-f4263a6865b0",
+    "amount": 4546.51,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Dawn",
+    "timestamp": "2026-05-23T22:58:53.225559"
+  },
+  {
+    "transaction_id": "7fd748e6-0026-4c30-b72e-3b59ed556c3e",
+    "user_id": "ebe4d85c-1a24-40b9-89ff-462eaae3d999",
+    "amount": 3839.83,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Tonya",
+    "timestamp": "2026-05-23T22:58:54.730065"
+  },
+  {
+    "transaction_id": "cf8d37c6-e431-4200-a304-64325d2af548",
+    "user_id": "deba62d2-e02d-4667-adbb-f89db11ad9ad",
+    "amount": 2558.58,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Adamport",
+    "timestamp": "2026-05-23T22:58:56.234012"
+  },
+  {
+    "transaction_id": "cc892541-39c8-4465-a3f3-c23c67d64033",
+    "user_id": "292b0f64-6272-42ce-b868-8a6e9bd1ae06",
+    "amount": 7954.92,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "New Shannonport",
+    "timestamp": "2026-05-23T22:58:56.735854"
+  }
+]

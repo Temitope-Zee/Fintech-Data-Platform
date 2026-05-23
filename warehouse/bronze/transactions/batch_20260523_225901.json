@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8d8f1b58-bdf0-46cd-b096-c76fe98ff796",
+    "user_id": "e8e73915-4eec-4f5c-8204-21fefd17d074",
+    "amount": 5576.18,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnsonview",
+    "timestamp": "2026-05-23T22:58:57.237315"
+  },
+  {
+    "transaction_id": "400a8bcc-26f2-44a4-ad86-9405b6c4d595",
+    "user_id": "62c32bcd-4803-4c6b-b417-e4c7a2bb2541",
+    "amount": 8752.14,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Garyville",
+    "timestamp": "2026-05-23T22:58:57.738458"
+  },
+  {
+    "transaction_id": "4fadfe5b-677d-4f75-b51b-5a8b4fa6a83f",
+    "user_id": "a10cbd6f-351a-4ca3-9488-000a5db2414a",
+    "amount": 8588.58,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Kevinhaven",
+    "timestamp": "2026-05-23T22:58:58.240034"
+  },
+  {
+    "transaction_id": "8513d502-b811-413d-8ad7-60f6920d5c7c",
+    "user_id": "49919fec-ba0d-47a0-9077-d1edecb51b39",
+    "amount": 8511.26,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Aprilfort",
+    "timestamp": "2026-05-23T22:58:58.741190"
+  },
+  {
+    "transaction_id": "2e8adf65-cdfc-4f06-b7ea-e0770c2136f9",
+    "user_id": "2dd5be6d-da0d-4ea0-85c6-68bd91dc2ef8",
+    "amount": 2430.41,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lewistown",
+    "timestamp": "2026-05-23T22:58:59.242648"
+  },
+  {
+    "transaction_id": "a9e83fa5-39c1-4cdd-98ad-47a77d26a4bd",
+    "user_id": "76a1797d-1b82-4ad8-bae6-3445b21c2186",
+    "amount": 8017.96,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Robertberg",
+    "timestamp": "2026-05-23T22:58:59.744041"
+  },
+  {
+    "transaction_id": "cc6130c3-934c-42ea-900f-762c318860a1",
+    "user_id": "f5455be1-63b3-4e9f-89e5-d95d59845c30",
+    "amount": 8180.67,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Mcdonaldside",
+    "timestamp": "2026-05-23T22:59:00.245842"
+  },
+  {
+    "transaction_id": "de4b0d1a-9394-4910-85bd-c074653bb18c",
+    "user_id": "49eb0719-147e-4f7e-8e0b-92a86c86f338",
+    "amount": 9947.82,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Gregoryton",
+    "timestamp": "2026-05-23T22:59:00.748594"
+  },
+  {
+    "transaction_id": "8b8eb8bc-d984-49d3-8163-a7f4a8fe809d",
+    "user_id": "a8c6ed97-5e71-4b81-9e07-485c7dca8c35",
+    "amount": 7798.89,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Brianland",
+    "timestamp": "2026-05-23T22:59:01.249822"
+  },
+  {
+    "transaction_id": "90539727-d7ad-4952-9631-0d3429312e77",
+    "user_id": "0be74ff7-ca22-4a59-a164-812bcd3951c2",
+    "amount": 284.38,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Jacksonberg",
+    "timestamp": "2026-05-23T22:59:01.751086"
+  }
+]

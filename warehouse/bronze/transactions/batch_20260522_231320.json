@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "5fdfccf7-b63e-445a-bd1c-8e4e728596ee",
+    "user_id": "02f0f30e-39e0-4d19-8567-d1742ba0c634",
+    "amount": 9603.44,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Moniqueview",
+    "timestamp": "2026-05-22T23:13:15.157794"
+  },
+  {
+    "transaction_id": "9aa01aea-21c7-4769-896b-7b35a694ec8b",
+    "user_id": "50a546de-0b45-4fc5-aef9-d4d3700cc651",
+    "amount": 6441.18,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "West Rick",
+    "timestamp": "2026-05-22T23:13:16.160986"
+  },
+  {
+    "transaction_id": "69e5a27c-1387-4c67-9949-d69ca98a35b2",
+    "user_id": "54b52b51-aaf4-4b49-a68b-f7c3fd4b772d",
+    "amount": 4058.35,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Rebeccahaven",
+    "timestamp": "2026-05-22T23:13:17.166089"
+  },
+  {
+    "transaction_id": "259d212d-b8a3-465a-b9bc-08c7137a4e51",
+    "user_id": "6ad12e80-4be7-4aeb-8c5d-4ad7feb7b7f6",
+    "amount": 1837.76,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Kennethfort",
+    "timestamp": "2026-05-22T23:13:17.668676"
+  },
+  {
+    "transaction_id": "415982c2-7cd5-44f5-ae74-2b07b80369d9",
+    "user_id": "30c36a95-555d-4d63-be09-963493952e72",
+    "amount": 570.66,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Codyville",
+    "timestamp": "2026-05-22T23:13:18.169686"
+  },
+  {
+    "transaction_id": "a3849201-ce38-4168-b06f-d5a224e78178",
+    "user_id": "09052044-f64b-45ed-b18b-b876b857b7f6",
+    "amount": 7433.96,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Jeffreychester",
+    "timestamp": "2026-05-22T23:13:18.670928"
+  },
+  {
+    "transaction_id": "12a4df3c-d366-4f14-a362-44eb1a3e2a09",
+    "user_id": "609b6e64-0eeb-4701-903d-20eff1fd00ab",
+    "amount": 1407.66,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Russellburgh",
+    "timestamp": "2026-05-22T23:13:19.172119"
+  },
+  {
+    "transaction_id": "67bcf928-2843-445f-8912-d1fb2a55ad10",
+    "user_id": "0ebac64a-132b-4f5a-a414-c678690c3a77",
+    "amount": 858.86,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T23:13:19.674667"
+  },
+  {
+    "transaction_id": "809d861d-bbc6-4ac9-88d9-254463fcf3b3",
+    "user_id": "7647fc55-0e98-4802-a6f2-0d74753da915",
+    "amount": 7119.93,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "South Meganshire",
+    "timestamp": "2026-05-22T23:13:20.177880"
+  },
+  {
+    "transaction_id": "fcec9feb-c88b-4c79-b0f7-6908c8dd8766",
+    "user_id": "0dec8dd7-1ddd-47ed-b801-d5508dc3da3b",
+    "amount": 1585.33,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Walkerburgh",
+    "timestamp": "2026-05-22T23:13:20.679519"
+  }
+]

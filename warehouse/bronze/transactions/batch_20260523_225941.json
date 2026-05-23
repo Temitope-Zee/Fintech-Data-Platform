@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "f55278c3-02b4-4c2a-92e2-2b11ce914ed8",
+    "user_id": "f1ce5df4-08ff-4970-ab21-d1bb8e5a2525",
+    "amount": 5923.3,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Stevenside",
+    "timestamp": "2026-05-23T22:59:33.862619"
+  },
+  {
+    "transaction_id": "ee14270d-8f2c-416e-8130-c6b28035037e",
+    "user_id": "72f52725-bb26-459b-97b0-f50f08a64752",
+    "amount": 9030.82,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Rhonda",
+    "timestamp": "2026-05-23T22:59:34.363800"
+  },
+  {
+    "transaction_id": "d0d951d4-b19c-47d0-903c-7dd11519b91a",
+    "user_id": "58866c2b-d493-4873-9ccb-2b7a74e88a8c",
+    "amount": 7425.82,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "North Joseph",
+    "timestamp": "2026-05-23T22:59:35.366964"
+  },
+  {
+    "transaction_id": "c48275e6-e369-4ee1-86e8-1a880aa55f0f",
+    "user_id": "eb2c624d-7091-46ca-8602-877d44c4be2d",
+    "amount": 4835.38,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Rachelside",
+    "timestamp": "2026-05-23T22:59:35.868513"
+  },
+  {
+    "transaction_id": "d4f363ef-9d8a-4325-9c00-f28db598054d",
+    "user_id": "49627ef3-6b0c-438e-bcf0-eb62b096de0e",
+    "amount": 1367.65,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Leemouth",
+    "timestamp": "2026-05-23T22:59:36.371381"
+  },
+  {
+    "transaction_id": "6c9ee7f6-39a5-4f55-8fd5-1f33f1872bab",
+    "user_id": "943cf03f-37cd-4b87-9d56-5502d75f7b68",
+    "amount": 1594.27,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake John",
+    "timestamp": "2026-05-23T22:59:36.874158"
+  },
+  {
+    "transaction_id": "7c7e332e-0d51-443d-be22-32df2cd96439",
+    "user_id": "b81d5b8c-cf24-4b95-a728-5b840732d05a",
+    "amount": 197.54,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Vaughnview",
+    "timestamp": "2026-05-23T22:59:37.376890"
+  },
+  {
+    "transaction_id": "e6fd2c34-26f7-40d6-a7c9-2fca27b65b17",
+    "user_id": "b9b74d29-32e6-4ffa-b4ba-81fb2f5a6ebd",
+    "amount": 8355.51,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Shannonmouth",
+    "timestamp": "2026-05-23T22:59:39.382328"
+  },
+  {
+    "transaction_id": "2f6cbda4-a19b-4d8c-8417-fed29433d858",
+    "user_id": "e014fda1-fdc1-4226-9046-a487338376ec",
+    "amount": 2633.35,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Williamport",
+    "timestamp": "2026-05-23T22:59:39.883628"
+  },
+  {
+    "transaction_id": "21a0441c-89a6-49a8-8a36-e70280ef9607",
+    "user_id": "482ec27e-7b57-4daf-b297-ec4418330b10",
+    "amount": 5496.43,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Port Charles",
+    "timestamp": "2026-05-23T22:59:41.388048"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "fb6f4a67-63a9-4e38-aa7a-fd0a667473b8",
+    "user_id": "c8c0e863-0555-4200-bf4e-3f21991aa2a2",
+    "amount": 4008.04,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Lake Jeremiahmouth",
+    "timestamp": "2026-05-22T23:09:47.350881"
+  },
+  {
+    "transaction_id": "a9a3b217-d3c5-4f43-855a-6a98c809f0a5",
+    "user_id": "486e2086-b4b5-4e37-a1b7-f971996891ed",
+    "amount": 8272.45,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Robertville",
+    "timestamp": "2026-05-22T23:09:47.852119"
+  },
+  {
+    "transaction_id": "2c63e428-de6d-4c35-8314-cbab52ebcd72",
+    "user_id": "2aa90516-12e4-4a9c-bfec-83e82f241426",
+    "amount": 3028.6,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Perryborough",
+    "timestamp": "2026-05-22T23:09:48.354691"
+  },
+  {
+    "transaction_id": "1872e28b-94eb-42cd-b0a3-4ea2edb8d714",
+    "user_id": "639e87a8-5764-4e97-99ac-cd34afd0432d",
+    "amount": 4069.25,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Mooneytown",
+    "timestamp": "2026-05-22T23:09:48.857014"
+  },
+  {
+    "transaction_id": "73df8a1f-9057-4122-9126-6d94377b66ff",
+    "user_id": "5abd881c-d7be-4b09-9ddc-e138e71239c6",
+    "amount": 7994.01,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Joshuaview",
+    "timestamp": "2026-05-22T23:09:49.358424"
+  },
+  {
+    "transaction_id": "85d329d5-b15d-45ff-9a93-6d36de85688a",
+    "user_id": "3802d34f-159b-4167-98aa-e1cb666be97d",
+    "amount": 7156.23,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Shawn",
+    "timestamp": "2026-05-22T23:09:49.859684"
+  },
+  {
+    "transaction_id": "0bc20dcb-7d6b-470a-9c11-15820a72c298",
+    "user_id": "6eb50f6f-1c73-46a5-9870-911431483023",
+    "amount": 9012.77,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Karenborough",
+    "timestamp": "2026-05-22T23:09:50.362298"
+  },
+  {
+    "transaction_id": "f7950f13-1fb8-4f75-99d5-7f4492f34988",
+    "user_id": "aaaa6c5f-acd4-4419-ad24-d34cfa78f57c",
+    "amount": 9996.48,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "West Charleschester",
+    "timestamp": "2026-05-22T23:09:50.863494"
+  },
+  {
+    "transaction_id": "3bacf13c-940c-4032-b466-07b049623b03",
+    "user_id": "23df477f-0eae-4192-bfd1-0c8a37075161",
+    "amount": 2242.7,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Watkinstown",
+    "timestamp": "2026-05-22T23:09:51.364973"
+  },
+  {
+    "transaction_id": "48ab5f18-3360-456e-9aa9-e90d64b3fc53",
+    "user_id": "f0695a80-f5c3-4a8f-baea-8ac21eddafc7",
+    "amount": 3227.88,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Allisonhaven",
+    "timestamp": "2026-05-22T23:09:51.867543"
+  }
+]

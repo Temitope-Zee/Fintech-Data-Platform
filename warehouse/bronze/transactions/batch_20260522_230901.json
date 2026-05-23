@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "02a32146-15df-4510-ad35-6a8d28f2512e",
+    "user_id": "6220fb0e-5a97-48b0-8a13-6c39a86bc473",
+    "amount": 5159.24,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Lauraton",
+    "timestamp": "2026-05-22T23:08:57.129028"
+  },
+  {
+    "transaction_id": "b9ba852d-35ef-42d4-99b8-466d5ea9de0c",
+    "user_id": "accce504-73c8-4373-8007-64474ac7f183",
+    "amount": 3575.36,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Kathrynview",
+    "timestamp": "2026-05-22T23:08:57.628955"
+  },
+  {
+    "transaction_id": "8ee18f3a-5d47-48da-b1b0-eb3f53cade3b",
+    "user_id": "c223c657-a7ab-4b12-84db-0d233bbb0257",
+    "amount": 6992.67,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Hansenchester",
+    "timestamp": "2026-05-22T23:08:58.130511"
+  },
+  {
+    "transaction_id": "847f9415-c481-4113-9312-f005789ec17f",
+    "user_id": "6a5b87c1-68b8-4236-81b6-93a5a01199be",
+    "amount": 6874.09,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Amandastad",
+    "timestamp": "2026-05-22T23:08:58.632586"
+  },
+  {
+    "transaction_id": "03a9220f-a77b-44ef-86a0-c4eb53e419cc",
+    "user_id": "31c2e946-81f2-4efc-8e69-880aa2497897",
+    "amount": 2710.32,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Keithland",
+    "timestamp": "2026-05-22T23:08:59.135346"
+  },
+  {
+    "transaction_id": "d41536b6-05c1-4841-888a-80f851461524",
+    "user_id": "fcfd6f14-e87a-41a9-9f42-1fe56d5b3ddb",
+    "amount": 1773.7,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Pughview",
+    "timestamp": "2026-05-22T23:08:59.637599"
+  },
+  {
+    "transaction_id": "4adbffac-7fdf-460e-b8d2-1d5b67dfdd86",
+    "user_id": "abf652bd-99d4-40f9-bcdc-db6f5206809f",
+    "amount": 7649.7,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Thomas",
+    "timestamp": "2026-05-22T23:09:00.138708"
+  },
+  {
+    "transaction_id": "50fd9758-a331-4aa2-9acd-96f3d06d0a5b",
+    "user_id": "9eab4726-7d1c-4ab4-af8a-595322b25b39",
+    "amount": 5247.96,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Benjaminside",
+    "timestamp": "2026-05-22T23:09:00.640313"
+  },
+  {
+    "transaction_id": "a4547238-9afd-463f-8446-fe4026ba0685",
+    "user_id": "6936acd1-7b9d-48d7-b17d-a3341072befe",
+    "amount": 2078.86,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "New Travisshire",
+    "timestamp": "2026-05-22T23:09:01.143667"
+  },
+  {
+    "transaction_id": "af06abc2-bd5a-43c0-bb79-26bf7ddb5248",
+    "user_id": "5c64f55d-2993-4224-84c2-d9a9e5353aaf",
+    "amount": 9570.62,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Alexandraburgh",
+    "timestamp": "2026-05-22T23:09:01.646570"
+  }
+]

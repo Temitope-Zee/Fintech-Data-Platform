@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "387583bd-6cc2-41c1-90b2-7de6dcbf6d71",
+    "user_id": "991635bf-572e-4d99-a247-d851ec98743c",
+    "amount": 9943.26,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Curtismouth",
+    "timestamp": "2026-05-23T22:57:43.477928"
+  },
+  {
+    "transaction_id": "9a64029b-69e5-4f01-b21b-259a4ba7b5a2",
+    "user_id": "b05b3be2-8e4d-4c28-9872-cebb993eb9da",
+    "amount": 2001.67,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Coxland",
+    "timestamp": "2026-05-23T22:57:43.980844"
+  },
+  {
+    "transaction_id": "a8086699-b17d-407c-a626-97fc30dddfba",
+    "user_id": "3d60427e-6dc5-4d9a-814e-bd9508b86062",
+    "amount": 3804.08,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Ashley",
+    "timestamp": "2026-05-23T22:57:44.481871"
+  },
+  {
+    "transaction_id": "fec60028-f749-4a75-91d6-8f8248e09a0c",
+    "user_id": "57a29122-81a1-4af0-bc9e-f151f41d466c",
+    "amount": 671.69,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "East Ashleeborough",
+    "timestamp": "2026-05-23T22:57:44.983138"
+  },
+  {
+    "transaction_id": "e30a2e6e-8da5-49d9-8c3d-b8cd1d1248a6",
+    "user_id": "d02419de-096c-4ae2-a5c5-0afab79130bc",
+    "amount": 3944.14,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "East Julieberg",
+    "timestamp": "2026-05-23T22:57:45.485846"
+  },
+  {
+    "transaction_id": "98e7a96a-7193-49df-a850-8339e177f2af",
+    "user_id": "b7758dd2-bbc8-4372-adce-091efc421cb3",
+    "amount": 8316.49,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Snowside",
+    "timestamp": "2026-05-23T22:57:45.987428"
+  },
+  {
+    "transaction_id": "b12c5761-81e1-40d0-a9a4-88453f89add8",
+    "user_id": "6b7bdbc6-5231-4cde-8405-1bbbfd1822db",
+    "amount": 9203.68,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Greeneton",
+    "timestamp": "2026-05-23T22:57:46.490348"
+  },
+  {
+    "transaction_id": "9a71a3f3-837c-439d-83db-8514c94dde72",
+    "user_id": "5b2d4360-103e-4c28-9e36-535909a3d70b",
+    "amount": 4514.32,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Samanthaborough",
+    "timestamp": "2026-05-23T22:57:46.992929"
+  },
+  {
+    "transaction_id": "d6f2775b-a4bb-40ff-9d1f-bd5dedc603c6",
+    "user_id": "01aebd23-54b6-48b3-95e3-4a18bd31dc10",
+    "amount": 6169.72,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Nicholas",
+    "timestamp": "2026-05-23T22:57:47.495786"
+  },
+  {
+    "transaction_id": "ef370028-a0de-4828-b6c4-5bbb3ac57656",
+    "user_id": "cfabd923-8ec3-4db2-a8d3-bc91f22018e8",
+    "amount": 8586.5,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Adamborough",
+    "timestamp": "2026-05-23T22:57:47.998272"
+  }
+]

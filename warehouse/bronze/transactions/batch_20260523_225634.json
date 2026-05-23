@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "ae03358b-34b0-4e30-b00e-25c2101e81a2",
+    "user_id": "37cec539-375a-4f9e-b7bd-9709f15a83eb",
+    "amount": 7393.68,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Andrewfort",
+    "timestamp": "2026-05-23T22:56:29.205356"
+  },
+  {
+    "transaction_id": "f76b6ade-fc36-4255-a8db-1cf73b7c425e",
+    "user_id": "40b324c5-f717-4dc7-b408-4e7e48531380",
+    "amount": 7474.6,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Crystalstad",
+    "timestamp": "2026-05-23T22:56:29.706665"
+  },
+  {
+    "transaction_id": "a2f44b5b-81bc-44ec-8238-1a67210cfbdb",
+    "user_id": "62328c8f-a047-404c-83b0-14fc2699baef",
+    "amount": 6449.34,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Joshualand",
+    "timestamp": "2026-05-23T22:56:30.209239"
+  },
+  {
+    "transaction_id": "4e18de9d-35b7-44b0-b6ce-55e3fc0ac562",
+    "user_id": "84c24cdc-6749-4eb2-9271-e4c25098c2e5",
+    "amount": 8542.93,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Forbesside",
+    "timestamp": "2026-05-23T22:56:30.710277"
+  },
+  {
+    "transaction_id": "218834e8-0aca-4eb2-be39-22ef54a1ce31",
+    "user_id": "e57d78ad-8dc8-470d-9cc0-ad679c953c6d",
+    "amount": 1343.81,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Sanchezton",
+    "timestamp": "2026-05-23T22:56:31.211909"
+  },
+  {
+    "transaction_id": "c7962616-579c-4519-8c16-47c5c0e778be",
+    "user_id": "26b74f42-7df5-4f03-9d9d-210cd095cf3c",
+    "amount": 5460.65,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "West Joshua",
+    "timestamp": "2026-05-23T22:56:31.713178"
+  },
+  {
+    "transaction_id": "7b3991c5-d081-44a3-9c70-6c095b3c3791",
+    "user_id": "bc0237ce-66e6-4f70-9e03-706de008e05c",
+    "amount": 7759.7,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Kristineborough",
+    "timestamp": "2026-05-23T22:56:32.214310"
+  },
+  {
+    "transaction_id": "20a8ea49-44aa-4e19-88ee-a900f76f5eda",
+    "user_id": "51eaa626-756e-4d60-9ac6-1323b8c9525b",
+    "amount": 2711.74,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Cheyenneview",
+    "timestamp": "2026-05-23T22:56:33.218631"
+  },
+  {
+    "transaction_id": "782604f2-649b-4e1a-b915-c8432a3f98cd",
+    "user_id": "8f6c181a-a8c2-4073-ba91-8078ce070104",
+    "amount": 2461.68,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Jerrystad",
+    "timestamp": "2026-05-23T22:56:33.721311"
+  },
+  {
+    "transaction_id": "bfabe0ce-3029-40e8-b550-78e9e3eb0a93",
+    "user_id": "a8837083-7735-47d0-8294-fc31ce6b3f35",
+    "amount": 4183.89,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Ashley",
+    "timestamp": "2026-05-23T22:56:34.224492"
+  }
+]

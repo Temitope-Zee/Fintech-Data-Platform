@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "bdb831c8-376e-4930-bd3c-574b34391ca4",
+    "user_id": "35a995d2-78f2-4ca7-8328-3b4075da94e0",
+    "amount": 1644.1,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "New Kathystad",
+    "timestamp": "2026-05-22T23:06:12.007590"
+  },
+  {
+    "transaction_id": "cb7f6b4c-7e2b-4e1a-be79-d6effd9bf547",
+    "user_id": "88b44cbb-1fcd-4855-a3da-c12904ee622f",
+    "amount": 8391.61,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lozanoport",
+    "timestamp": "2026-05-22T23:06:12.510967"
+  },
+  {
+    "transaction_id": "c2389ad4-8e72-46ef-aaa3-257c8e34cf14",
+    "user_id": "3171e972-0cbf-407b-a5c0-a9c3104b5a4c",
+    "amount": 8023.38,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "South Nancystad",
+    "timestamp": "2026-05-22T23:06:13.013236"
+  },
+  {
+    "transaction_id": "ea5fd29f-68ed-474b-b15e-bd44bb968e45",
+    "user_id": "67c71494-a252-4fc6-98d7-2424bde82573",
+    "amount": 8115.18,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West James",
+    "timestamp": "2026-05-22T23:06:13.516274"
+  },
+  {
+    "transaction_id": "5d43a70a-e699-4769-8a27-87bb65062d86",
+    "user_id": "7a344c66-1906-48e2-bdef-aa09904a456c",
+    "amount": 208.16,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Jonport",
+    "timestamp": "2026-05-22T23:06:14.017648"
+  },
+  {
+    "transaction_id": "36ff4351-64bf-4fbd-b7b5-3d2bf73f6a47",
+    "user_id": "188c0774-0175-4ea6-94be-800d34f47499",
+    "amount": 342.86,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Crystalstad",
+    "timestamp": "2026-05-22T23:06:14.520859"
+  },
+  {
+    "transaction_id": "afb9390b-d9da-454f-9383-15fa254f77a1",
+    "user_id": "96844194-2194-4929-9203-341aa5aac193",
+    "amount": 9126.11,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Brownfort",
+    "timestamp": "2026-05-22T23:06:15.022500"
+  },
+  {
+    "transaction_id": "cdac102a-7db4-4b77-a4e9-d385e3697e4d",
+    "user_id": "e7fe18cb-4600-49ae-be53-f17ee3ec71a6",
+    "amount": 7770.47,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Anthonyside",
+    "timestamp": "2026-05-22T23:06:15.524113"
+  },
+  {
+    "transaction_id": "d985592d-8a26-4737-8119-cd2cc419e98b",
+    "user_id": "05e429a8-5182-4b36-84f1-4dcb6af1b116",
+    "amount": 7381.91,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "South Peter",
+    "timestamp": "2026-05-22T23:06:16.026877"
+  },
+  {
+    "transaction_id": "1f84d696-83cb-4d2f-b5b9-249bd496ea44",
+    "user_id": "aa105f1e-d6ac-4bed-b18e-3351c17e1568",
+    "amount": 9899.1,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Ferrellstad",
+    "timestamp": "2026-05-22T23:06:17.030762"
+  }
+]

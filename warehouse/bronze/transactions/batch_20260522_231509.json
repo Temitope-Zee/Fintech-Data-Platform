@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1c41830c-10da-4908-b2b7-d3211b24ce7a",
+    "user_id": "9d0f2176-ebf6-40c4-ae6d-bf4ddfe089cb",
+    "amount": 4125.31,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Jamesport",
+    "timestamp": "2026-05-22T23:15:04.584611"
+  },
+  {
+    "transaction_id": "41ce77f2-6018-47ef-b225-2f12cf91029e",
+    "user_id": "c502eec4-a165-46ab-9db9-282d66a78917",
+    "amount": 9005.86,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Nicholas",
+    "timestamp": "2026-05-22T23:15:05.086376"
+  },
+  {
+    "transaction_id": "4f94d6ba-dabf-486b-810e-bf82c6132926",
+    "user_id": "357b8b80-3355-4548-9131-5297ca8d9e49",
+    "amount": 4652.24,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "New Michaelamouth",
+    "timestamp": "2026-05-22T23:15:05.587730"
+  },
+  {
+    "transaction_id": "44565d56-ee7c-43a6-a9cd-46b1be7295ac",
+    "user_id": "5d2a5669-54c4-49da-8a33-2b4d7bdb59ef",
+    "amount": 3431.25,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Rachelland",
+    "timestamp": "2026-05-22T23:15:06.088680"
+  },
+  {
+    "transaction_id": "bfca016a-6fd4-413b-bd59-39e2cb03a5c1",
+    "user_id": "a88975cb-0aab-4125-9424-bbfc00ee6353",
+    "amount": 5006.28,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Kingshire",
+    "timestamp": "2026-05-22T23:15:06.589745"
+  },
+  {
+    "transaction_id": "0f7b9422-1498-4487-8db2-fb5e617fe117",
+    "user_id": "5aca84a8-5508-4cff-9367-d72354f3fc1a",
+    "amount": 1961.97,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Gonzalezmouth",
+    "timestamp": "2026-05-22T23:15:07.091706"
+  },
+  {
+    "transaction_id": "9eb0220f-864d-4585-b0bb-ef385cbbdb05",
+    "user_id": "9c1d09e0-0f90-44e5-abfc-f7b52f7a72f0",
+    "amount": 7356.54,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Guerrerobury",
+    "timestamp": "2026-05-22T23:15:07.593625"
+  },
+  {
+    "transaction_id": "624d3fc1-fdb3-457d-b10d-91e18f900bbd",
+    "user_id": "23b89fee-ee83-49ee-b1ee-95cf5403d209",
+    "amount": 7515.2,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "North Dennis",
+    "timestamp": "2026-05-22T23:15:08.096296"
+  },
+  {
+    "transaction_id": "8295bc1e-711f-4191-8151-49d788980b77",
+    "user_id": "339770ad-eca8-4abf-9234-f3550f963c68",
+    "amount": 8108.58,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Jennifermouth",
+    "timestamp": "2026-05-22T23:15:08.598704"
+  },
+  {
+    "transaction_id": "4b33a0c7-2bf5-476d-b6e9-fd3be3200627",
+    "user_id": "75f6ef5f-5e36-438a-b645-3aca9b38aed7",
+    "amount": 7593.94,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Kevinfurt",
+    "timestamp": "2026-05-22T23:15:09.100576"
+  }
+]

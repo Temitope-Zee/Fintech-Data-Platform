@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "40d525b6-ec0b-4ca8-805b-2b74be209053",
+    "user_id": "20c9458e-5ded-4e51-83d6-ee597534cd14",
+    "amount": 2907.87,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Chaveztown",
+    "timestamp": "2026-05-22T23:04:47.190776"
+  },
+  {
+    "transaction_id": "5de660ec-dd6e-4d5a-b068-8a5796a86dff",
+    "user_id": "6760ffb1-549a-41ee-aeed-ca5f7a0474c2",
+    "amount": 7213.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Lake Jonathanville",
+    "timestamp": "2026-05-22T23:04:47.693327"
+  },
+  {
+    "transaction_id": "774c0ef7-9b63-4347-b58d-cdb1e86fe62e",
+    "user_id": "f6b712cf-bb9a-4a88-957f-4c7872180129",
+    "amount": 5974.42,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Lake George",
+    "timestamp": "2026-05-22T23:04:48.194606"
+  },
+  {
+    "transaction_id": "747a1898-bf52-40fe-8c36-369c2d60d838",
+    "user_id": "e7c58357-1278-4da8-bc18-05f27cdb4d03",
+    "amount": 6487.49,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "South Paul",
+    "timestamp": "2026-05-22T23:04:48.695837"
+  },
+  {
+    "transaction_id": "4173f068-3b63-4e6a-9893-9482f7a14b62",
+    "user_id": "b4358d82-1fcf-45a0-a2b0-421c2f8dd287",
+    "amount": 8888.57,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Alexport",
+    "timestamp": "2026-05-22T23:04:49.197988"
+  },
+  {
+    "transaction_id": "3fd81b81-12fc-49fc-afb3-a8393727bad4",
+    "user_id": "3f0adf5c-4679-44be-87b4-13cd8a7ea84e",
+    "amount": 5780.24,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Durhamview",
+    "timestamp": "2026-05-22T23:04:49.700698"
+  },
+  {
+    "transaction_id": "380c78e8-650b-429a-ab87-202468ba90e1",
+    "user_id": "94084f19-4293-4618-a8ab-ad2aa76fa6a7",
+    "amount": 6190.27,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Johnsonberg",
+    "timestamp": "2026-05-22T23:04:50.202045"
+  },
+  {
+    "transaction_id": "eb9c6329-beb7-466c-9335-5e23d6d1c1fb",
+    "user_id": "9e3a9996-4008-4d08-837a-775cc086cd14",
+    "amount": 9663.98,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "East Brandonberg",
+    "timestamp": "2026-05-22T23:04:50.704863"
+  },
+  {
+    "transaction_id": "fa78272b-9e14-4920-8da7-782895f59764",
+    "user_id": "15252fea-0415-4296-a8e7-293e7644c086",
+    "amount": 5229.06,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Madisonbury",
+    "timestamp": "2026-05-22T23:04:51.207059"
+  },
+  {
+    "transaction_id": "2f10427d-a8b4-490a-a4d2-16f6cf07b939",
+    "user_id": "4961ddde-50de-483c-98c0-b912531a6e4b",
+    "amount": 2297.16,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Floresstad",
+    "timestamp": "2026-05-22T23:04:51.708604"
+  }
+]

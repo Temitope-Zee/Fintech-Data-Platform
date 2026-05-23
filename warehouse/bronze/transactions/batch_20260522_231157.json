@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e8187dc6-4e33-4262-8f4a-01580b90215d",
+    "user_id": "2da5de31-1872-4af6-b6f7-c2e07add788b",
+    "amount": 3626.93,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Crystalview",
+    "timestamp": "2026-05-22T23:11:52.339183"
+  },
+  {
+    "transaction_id": "0fa0e936-a3cb-444a-9f2b-ef29b59ed9fc",
+    "user_id": "60ff4cc3-1d6c-4e2a-8de5-bd9b7cf7342c",
+    "amount": 182.73,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "East Markton",
+    "timestamp": "2026-05-22T23:11:52.842158"
+  },
+  {
+    "transaction_id": "885949a6-25c4-4722-8344-6d5ea4d9e254",
+    "user_id": "f141a594-bcce-4095-ae16-b7bd54115d13",
+    "amount": 9513.26,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "South Michael",
+    "timestamp": "2026-05-22T23:11:53.344648"
+  },
+  {
+    "transaction_id": "bbba4f9e-73ca-4a52-b825-b6a5cc842860",
+    "user_id": "1a5f34fd-ea72-4b10-b3dd-28bd3050af85",
+    "amount": 6732.25,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Lake Nicoleburgh",
+    "timestamp": "2026-05-22T23:11:53.846059"
+  },
+  {
+    "transaction_id": "96e9873f-8167-446b-8440-1c7ecafa7df2",
+    "user_id": "aa70bfaf-3a72-40b8-8b5d-2964676681d8",
+    "amount": 2206.96,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Port Elizabeth",
+    "timestamp": "2026-05-22T23:11:54.348929"
+  },
+  {
+    "transaction_id": "bfc17847-aa82-451e-affe-609980b26cd3",
+    "user_id": "63cdae9d-f696-4796-b663-5926adb91a30",
+    "amount": 7188.48,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Port Mary",
+    "timestamp": "2026-05-22T23:11:55.352044"
+  },
+  {
+    "transaction_id": "168afd7b-cd1b-465e-a014-1a47d5c829a5",
+    "user_id": "b25223b3-eb3c-4b7d-9529-e2c1c2db979e",
+    "amount": 3161.99,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Wendytown",
+    "timestamp": "2026-05-22T23:11:56.355535"
+  },
+  {
+    "transaction_id": "c6c39fbf-b5b7-4aef-b379-2eabf20acb3e",
+    "user_id": "008edfd1-7412-4fc6-a425-348e387bf9c3",
+    "amount": 7484.05,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Harperborough",
+    "timestamp": "2026-05-22T23:11:56.857569"
+  },
+  {
+    "transaction_id": "87988635-56f5-45da-a2d4-780c386bd270",
+    "user_id": "f83b8887-64a2-4f2b-bc10-c5d2978cdbba",
+    "amount": 1217.94,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Douglaston",
+    "timestamp": "2026-05-22T23:11:57.356118"
+  },
+  {
+    "transaction_id": "fefeee77-da48-48ea-84a4-1e5cc24c4565",
+    "user_id": "79db471e-658a-41af-b72d-49bbfd2508cb",
+    "amount": 1417.82,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Morgantown",
+    "timestamp": "2026-05-22T23:11:57.858206"
+  }
+]

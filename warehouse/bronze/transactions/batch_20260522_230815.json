@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "e8c1cd82-76ea-4372-902e-42b14ef62103",
+    "user_id": "7504ef19-1f60-448e-89a8-9d8f4f77d3ce",
+    "amount": 6449.16,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Port Natasha",
+    "timestamp": "2026-05-22T23:08:10.961218"
+  },
+  {
+    "transaction_id": "cf5ab1f7-dc18-48a1-ada7-3f5ba0141029",
+    "user_id": "bc8ee3e4-1f53-4b76-806f-def92f374ca0",
+    "amount": 1073.98,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Barrettville",
+    "timestamp": "2026-05-22T23:08:11.462466"
+  },
+  {
+    "transaction_id": "c948bd4c-07bb-4596-85cc-fa898088e88c",
+    "user_id": "05d4a51a-2b31-4999-908a-48e2cb9b51e4",
+    "amount": 2836.01,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Carlos",
+    "timestamp": "2026-05-22T23:08:11.963502"
+  },
+  {
+    "transaction_id": "08311a06-4ed1-4698-87cc-b303dde63ab2",
+    "user_id": "0d29fc5c-e204-4d45-af9b-3e28d91d75f2",
+    "amount": 8452.72,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Marc",
+    "timestamp": "2026-05-22T23:08:12.464606"
+  },
+  {
+    "transaction_id": "a1e5573d-4226-4c6a-b7b5-abe5ab03c50e",
+    "user_id": "d7382e2a-3a0a-4c19-a15e-d8457aac2808",
+    "amount": 9830.73,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Benjamin",
+    "timestamp": "2026-05-22T23:08:12.965650"
+  },
+  {
+    "transaction_id": "2259af7e-9689-4d6c-9df3-e709b023043a",
+    "user_id": "cfce52a4-fd0e-4436-bfce-7a3af2e6a4ba",
+    "amount": 8842.88,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Tinaport",
+    "timestamp": "2026-05-22T23:08:13.467253"
+  },
+  {
+    "transaction_id": "cbb25c80-65cd-4ea6-a650-bf44fc465130",
+    "user_id": "50a6c7ec-d4d6-4f12-9b81-d09304a1f312",
+    "amount": 9107.56,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Hallside",
+    "timestamp": "2026-05-22T23:08:13.968710"
+  },
+  {
+    "transaction_id": "88148f7f-cc85-4ba0-967f-0126c25b8d26",
+    "user_id": "d98e7e9e-7438-4789-8968-501b81ef2709",
+    "amount": 8507.42,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Bennettville",
+    "timestamp": "2026-05-22T23:08:14.469685"
+  },
+  {
+    "transaction_id": "ad2bebfc-2255-4f6f-a93d-1c6c6b4d6d81",
+    "user_id": "680876f5-f9b0-43c1-9bbb-2f189f85f6fc",
+    "amount": 5099.7,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Robertsborough",
+    "timestamp": "2026-05-22T23:08:14.970891"
+  },
+  {
+    "transaction_id": "275be18b-e7b4-475b-9456-215851291867",
+    "user_id": "9bc8d6db-9493-4e43-bf74-71397fa4363b",
+    "amount": 4609.69,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Caitlinburgh",
+    "timestamp": "2026-05-22T23:08:15.472054"
+  }
+]

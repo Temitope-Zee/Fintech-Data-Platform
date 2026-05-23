@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0f2ba4a4-36f7-473d-b960-759519b5afe1",
+    "user_id": "29bd5fff-9473-48cf-b606-f0f8315e4ee6",
+    "amount": 8043.04,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "New Tammyfurt",
+    "timestamp": "2026-05-23T22:55:04.360356"
+  },
+  {
+    "transaction_id": "23dd93f6-5246-4fa5-badf-b3c4f27c5922",
+    "user_id": "b2476722-a0dd-485e-bb35-225e2d411a61",
+    "amount": 8780.51,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "South Frank",
+    "timestamp": "2026-05-23T22:55:04.862139"
+  },
+  {
+    "transaction_id": "59e90ab2-88b0-401a-bb25-af30c1d38b83",
+    "user_id": "ff8ef21d-288c-4a2f-9c5c-df3d6a483c6e",
+    "amount": 2636.33,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Jenniferburgh",
+    "timestamp": "2026-05-23T22:55:05.364680"
+  },
+  {
+    "transaction_id": "9c31c484-9e63-4cf6-867b-46aecdfb434f",
+    "user_id": "79c02485-55f1-4eaa-9830-c37546534292",
+    "amount": 5677.52,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "South Jeremyport",
+    "timestamp": "2026-05-23T22:55:05.866182"
+  },
+  {
+    "transaction_id": "f2adda03-06b3-481b-a020-3c2e4b8ffea7",
+    "user_id": "9c1d4173-e4a4-4621-9ab0-29a44692985a",
+    "amount": 3810.87,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Hudsonport",
+    "timestamp": "2026-05-23T22:55:06.369293"
+  },
+  {
+    "transaction_id": "05602ed2-da59-4c14-9cb6-2eed07a110af",
+    "user_id": "7026abb1-6099-4952-9743-3ac0bbd5ee03",
+    "amount": 5953.34,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Juan",
+    "timestamp": "2026-05-23T22:55:06.870833"
+  },
+  {
+    "transaction_id": "1a19762c-35c9-4be4-a868-086577d470e5",
+    "user_id": "ec064316-ac19-420d-9665-8f9926ad1e6b",
+    "amount": 9304.24,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Gibsonhaven",
+    "timestamp": "2026-05-23T22:55:07.372381"
+  },
+  {
+    "transaction_id": "6f0d92f6-85fb-4bfc-bb5f-7aa9f66d2c6e",
+    "user_id": "5eab6fc0-10a9-4632-99ea-5b8ec75f6f79",
+    "amount": 9404.49,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Phillipsport",
+    "timestamp": "2026-05-23T22:55:07.875621"
+  },
+  {
+    "transaction_id": "3d8bbc3c-ca46-4d14-a6eb-cbde28292c6c",
+    "user_id": "8f085e04-5478-461f-9e3b-1716d7425bfd",
+    "amount": 996.11,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Abigailside",
+    "timestamp": "2026-05-23T22:55:08.376679"
+  },
+  {
+    "transaction_id": "7e69d22c-ed0e-4e75-991e-6837ad41513e",
+    "user_id": "3e33ddbe-e5c3-48ab-a9eb-eeddcb57100a",
+    "amount": 8885.75,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Dunnfurt",
+    "timestamp": "2026-05-23T22:55:09.380183"
+  }
+]

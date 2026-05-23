@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b9172c45-d58d-4621-b6d1-8e3495cc53ad",
+    "user_id": "a286dfaf-f756-4bc0-9500-291ab2fd13c9",
+    "amount": 9960.15,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Campbellshire",
+    "timestamp": "2026-05-22T23:06:17.532010"
+  },
+  {
+    "transaction_id": "2f44a897-d4e2-4b0f-af30-fc981a39edbc",
+    "user_id": "1c2219c6-5f56-4beb-8027-e93e778f6a5e",
+    "amount": 6079.42,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Washingtonside",
+    "timestamp": "2026-05-22T23:06:18.033386"
+  },
+  {
+    "transaction_id": "41bd2e94-2501-4088-8608-686757ec5b76",
+    "user_id": "36ea7d65-05d9-4265-9299-ef1cbcf4e4ba",
+    "amount": 8771.24,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Grantshire",
+    "timestamp": "2026-05-22T23:06:19.038814"
+  },
+  {
+    "transaction_id": "df842f15-2dc6-4c1b-865d-367fe7b13678",
+    "user_id": "fcbc96d3-e985-4701-b1ab-765ccb54040a",
+    "amount": 9990.25,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "South Charlenefort",
+    "timestamp": "2026-05-22T23:06:19.541805"
+  },
+  {
+    "transaction_id": "8e0d1da8-0483-47e9-8b67-6d8e6f864866",
+    "user_id": "213496c6-7972-44c2-8e4c-d7dae6a6411f",
+    "amount": 5506.59,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Oscarmouth",
+    "timestamp": "2026-05-22T23:06:20.044850"
+  },
+  {
+    "transaction_id": "4c8dc380-ba1e-43d8-b7eb-22b0f9801c49",
+    "user_id": "c23a9f8a-92e6-4a2e-a203-deb6fe0eec4e",
+    "amount": 7364.75,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Terrychester",
+    "timestamp": "2026-05-22T23:06:20.547501"
+  },
+  {
+    "transaction_id": "8ac3c3be-9f37-4840-b1fa-0e152713a7f0",
+    "user_id": "441de557-5f65-49ab-aedc-647c86c32f94",
+    "amount": 3365.56,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Orozcoland",
+    "timestamp": "2026-05-22T23:06:21.049136"
+  },
+  {
+    "transaction_id": "942cf71b-92e6-44c0-9c47-580c9162a526",
+    "user_id": "24a2f239-8d6d-40f0-be1a-ec07b2fa8587",
+    "amount": 9139.94,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Lake Shannonhaven",
+    "timestamp": "2026-05-22T23:06:21.550955"
+  },
+  {
+    "transaction_id": "e87fedef-e288-4635-b100-d7e7d57b115b",
+    "user_id": "28d5c651-f604-4742-aecf-f03051b8d4ff",
+    "amount": 3654.18,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Kevinshire",
+    "timestamp": "2026-05-22T23:06:22.053984"
+  },
+  {
+    "transaction_id": "48488dcc-cad3-4938-9eba-76b9c446d4e8",
+    "user_id": "bb93526e-2f5e-40c6-a28e-6aa76f6de47b",
+    "amount": 751.69,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "West Patricktown",
+    "timestamp": "2026-05-22T23:06:22.555092"
+  }
+]

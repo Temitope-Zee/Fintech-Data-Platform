@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "1732e919-a3dd-4c37-ad79-20e28a56978e",
+    "user_id": "15702b95-c23c-45f1-831f-77a1e61d2e3c",
+    "amount": 3985.28,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "West Darrenport",
+    "timestamp": "2026-05-22T23:12:05.387429"
+  },
+  {
+    "transaction_id": "260cd3d5-cb12-4f68-8080-c05278267a75",
+    "user_id": "5f28fea4-7e89-4aa0-b8f0-a6c84e773296",
+    "amount": 7573.87,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Andrewborough",
+    "timestamp": "2026-05-22T23:12:05.890284"
+  },
+  {
+    "transaction_id": "b79a138a-49fa-41c3-9cf6-e92d1a69a28f",
+    "user_id": "8b70cbdb-5666-4f5f-a1d5-797e41790876",
+    "amount": 6417.17,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Lake Jodifurt",
+    "timestamp": "2026-05-22T23:12:06.391718"
+  },
+  {
+    "transaction_id": "d70939cd-fe9b-46d9-b3a8-f90f5bc7cf69",
+    "user_id": "f932dda4-6f0e-418d-957e-73fc03e4ec31",
+    "amount": 2845.32,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "East Charlene",
+    "timestamp": "2026-05-22T23:12:06.894127"
+  },
+  {
+    "transaction_id": "feea3980-d68a-4365-8b34-c81f5d509673",
+    "user_id": "c8c18d5d-30d4-47c2-a06c-90442b08aa82",
+    "amount": 3286.06,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "East Kevin",
+    "timestamp": "2026-05-22T23:12:07.395449"
+  },
+  {
+    "transaction_id": "055c7927-6f30-4cbc-91c3-915e731f08d6",
+    "user_id": "11629070-6485-4062-8d64-6fa654ac96fb",
+    "amount": 7507.33,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Zacharyhaven",
+    "timestamp": "2026-05-22T23:12:07.898343"
+  },
+  {
+    "transaction_id": "a718d60d-a1d3-4f2c-acb5-db62df910dae",
+    "user_id": "34237f84-d37f-4c24-8343-040afabf849c",
+    "amount": 1388.0,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Lake Adam",
+    "timestamp": "2026-05-22T23:12:08.399884"
+  },
+  {
+    "transaction_id": "b2e50e9c-d28e-4250-a450-0eefcb4cee5c",
+    "user_id": "cdf65dc6-a4f6-4b2b-8cd1-ceb25ab75852",
+    "amount": 6924.08,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Dillonville",
+    "timestamp": "2026-05-22T23:12:08.901560"
+  },
+  {
+    "transaction_id": "873db2dd-b56f-4f0a-b84f-ae935c5a8f58",
+    "user_id": "eb89186f-e6e9-4f68-b12c-f7adece83863",
+    "amount": 9050.01,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Powellport",
+    "timestamp": "2026-05-22T23:12:09.907013"
+  },
+  {
+    "transaction_id": "7428b063-9143-46fe-a780-e59ef6d0dc22",
+    "user_id": "7851637e-4aeb-45c0-b373-0b1d24d5b921",
+    "amount": 8318.98,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Osbornhaven",
+    "timestamp": "2026-05-22T23:12:10.409520"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "092484ed-23e0-4965-a79e-aa1ff95ab149",
+    "user_id": "79a82eb0-90a5-4b1c-a949-d1adb7541215",
+    "amount": 8613.23,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Mayville",
+    "timestamp": "2026-05-22T23:08:38.055212"
+  },
+  {
+    "transaction_id": "f930687a-0132-427e-9eec-30506ce75887",
+    "user_id": "ec5d6b13-8341-41fd-a571-139690889055",
+    "amount": 3894.07,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Mitchellville",
+    "timestamp": "2026-05-22T23:08:38.558119"
+  },
+  {
+    "transaction_id": "ed5b7e2f-a441-45a2-b9b0-31bab9e3e041",
+    "user_id": "51a463af-bdce-4e4e-af7f-1a4f9083960c",
+    "amount": 5504.24,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Nortonfurt",
+    "timestamp": "2026-05-22T23:08:39.059180"
+  },
+  {
+    "transaction_id": "bf5e5875-662c-4b95-9ec8-6730969b22ea",
+    "user_id": "a0222b3c-d3df-4a59-aa35-3834e4fdc642",
+    "amount": 8316.82,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Arielton",
+    "timestamp": "2026-05-22T23:08:40.062841"
+  },
+  {
+    "transaction_id": "2c8b6802-c783-472b-b1ab-54e01600a47e",
+    "user_id": "a3e64dea-fc8f-4d8c-8c84-fd6ae29f9e89",
+    "amount": 3807.6,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Joyce",
+    "timestamp": "2026-05-22T23:08:41.067742"
+  },
+  {
+    "transaction_id": "a41be9f1-4ab7-4150-ae31-97e0302a380f",
+    "user_id": "8e6efd1e-c60b-4987-969f-c205fe3384c5",
+    "amount": 2391.08,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Mitchellport",
+    "timestamp": "2026-05-22T23:08:41.570286"
+  },
+  {
+    "transaction_id": "3acd8fcc-7b01-475b-8fda-bb0feb68eb79",
+    "user_id": "922679c9-11fb-48d7-a879-5f1005c7a51c",
+    "amount": 8905.75,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Victorview",
+    "timestamp": "2026-05-22T23:08:42.071617"
+  },
+  {
+    "transaction_id": "a5faa845-1c6c-40ef-a30b-577f91da1a14",
+    "user_id": "514a63d1-14a3-46de-8b10-7b0182f90da5",
+    "amount": 3170.96,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Lake Allisontown",
+    "timestamp": "2026-05-22T23:08:42.574113"
+  },
+  {
+    "transaction_id": "83f3f458-86af-45f5-891c-950cbc159f50",
+    "user_id": "072ce4ac-8c10-477e-95dc-4b9876443e57",
+    "amount": 3910.37,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Thomashaven",
+    "timestamp": "2026-05-22T23:08:43.077576"
+  },
+  {
+    "transaction_id": "fb794df8-c0d9-42b9-aa0e-17d8fea24352",
+    "user_id": "355869e7-fbad-47cc-8018-8d6432b6a792",
+    "amount": 3075.5,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Hallville",
+    "timestamp": "2026-05-22T23:08:44.082009"
+  }
+]

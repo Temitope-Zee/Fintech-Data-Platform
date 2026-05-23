@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "27d02008-11ac-452b-8dcb-f348b2b6718b",
+    "user_id": "d3b0e4aa-4a82-4d02-92f8-a799e94cf417",
+    "amount": 9617.73,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Port Kristifurt",
+    "timestamp": "2026-05-22T23:07:08.229093"
+  },
+  {
+    "transaction_id": "50b1e693-ed6b-459b-ad03-76a13f6ca3de",
+    "user_id": "2cdffa4d-d25c-4cfc-b8bd-d7b8384703b1",
+    "amount": 5576.03,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Riverstown",
+    "timestamp": "2026-05-22T23:07:08.730082"
+  },
+  {
+    "transaction_id": "39a9cdf3-404d-48c7-8774-1d5b7da6e183",
+    "user_id": "4d0295ff-6d28-4350-83e9-b463675f0a21",
+    "amount": 5857.83,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Aaronhaven",
+    "timestamp": "2026-05-22T23:07:09.732165"
+  },
+  {
+    "transaction_id": "fe6bf560-8cf4-4cf0-8229-8533a196d9ca",
+    "user_id": "210c9ff3-0514-4fd6-b6fb-45465963780e",
+    "amount": 4050.44,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "East Scottview",
+    "timestamp": "2026-05-22T23:07:10.734355"
+  },
+  {
+    "transaction_id": "bc26fa37-4a0d-4225-9088-d03c326db060",
+    "user_id": "a8788791-162f-4430-b52b-bae240aa84de",
+    "amount": 4288.61,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "North Donaldstad",
+    "timestamp": "2026-05-22T23:07:11.236903"
+  },
+  {
+    "transaction_id": "3cc4ac3b-93e6-4b0a-b986-98572f12c552",
+    "user_id": "460e51b6-57d8-43fa-b470-1dd4617150be",
+    "amount": 5677.59,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Calvin",
+    "timestamp": "2026-05-22T23:07:11.739082"
+  },
+  {
+    "transaction_id": "cc4f2e74-83ae-4e4e-9eb2-4b0543c86b6c",
+    "user_id": "fac3e9bc-81c6-49df-9a6f-ab35f95e49ed",
+    "amount": 5572.56,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Lake Jamesborough",
+    "timestamp": "2026-05-22T23:07:12.742450"
+  },
+  {
+    "transaction_id": "f76c473b-b91b-4dc3-ae11-bf289ace4342",
+    "user_id": "bd993a93-4016-4cf4-a8cc-5fa9b4823f84",
+    "amount": 545.21,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Jenna",
+    "timestamp": "2026-05-22T23:07:13.243728"
+  },
+  {
+    "transaction_id": "c19216a3-ff65-4e9b-bcd0-b5a41c79957f",
+    "user_id": "fabc4f7b-29f0-4675-b72f-4d452fa6d3a0",
+    "amount": 904.28,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Mendozafort",
+    "timestamp": "2026-05-22T23:07:13.745764"
+  },
+  {
+    "transaction_id": "e1a6c03e-497b-4c9c-aabe-b54175a42769",
+    "user_id": "ec318707-d5b0-41ac-875a-1cf200498e53",
+    "amount": 9344.14,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "South Mark",
+    "timestamp": "2026-05-22T23:07:14.247172"
+  }
+]

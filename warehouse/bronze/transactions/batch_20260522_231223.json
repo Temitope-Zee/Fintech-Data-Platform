@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "6d837296-5424-4a53-91ba-7965706fd802",
+    "user_id": "44d5a828-2ac3-4b57-bb0e-12ac4b84a291",
+    "amount": 4296.78,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "New Jacob",
+    "timestamp": "2026-05-22T23:12:18.439754"
+  },
+  {
+    "transaction_id": "c1113355-1272-4728-a207-774a248123d2",
+    "user_id": "cce57e94-6906-4902-9a86-2ac1c30eae12",
+    "amount": 4066.3,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Richardhaven",
+    "timestamp": "2026-05-22T23:12:18.940856"
+  },
+  {
+    "transaction_id": "dd8dd8a0-1297-41ad-a382-653e38b355b2",
+    "user_id": "663fc201-5ce0-4d50-a4d5-0703d0c06fb6",
+    "amount": 6473.0,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "New Tiffany",
+    "timestamp": "2026-05-22T23:12:19.945999"
+  },
+  {
+    "transaction_id": "36c66347-632d-4e69-98ae-0f9126ec1cb0",
+    "user_id": "5b203ba2-b415-4629-94a0-fea747fe372c",
+    "amount": 6181.16,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "West Stacy",
+    "timestamp": "2026-05-22T23:12:20.447304"
+  },
+  {
+    "transaction_id": "8427e308-8f26-40ef-95e9-bd566c65a0b6",
+    "user_id": "1d160f1a-0810-4e85-8ccd-63db3c0e07e1",
+    "amount": 8486.6,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Crawfordland",
+    "timestamp": "2026-05-22T23:12:20.949237"
+  },
+  {
+    "transaction_id": "05b37622-67f6-48db-8848-3bcea9877264",
+    "user_id": "7a7124dc-67f3-486c-92f7-414a20bab869",
+    "amount": 7133.1,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "South Andrewberg",
+    "timestamp": "2026-05-22T23:12:21.450298"
+  },
+  {
+    "transaction_id": "17fdf239-4bc6-4bf5-8014-966e581f9956",
+    "user_id": "383f3c26-54a2-4e75-95c5-c363bc4cb9b7",
+    "amount": 522.42,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Jenniferstad",
+    "timestamp": "2026-05-22T23:12:22.452466"
+  },
+  {
+    "transaction_id": "a095fdc6-2936-432c-a88b-9ee17dd97bd4",
+    "user_id": "726fb539-a4fc-4cc7-a85a-45d732da5304",
+    "amount": 5910.29,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Alexander",
+    "timestamp": "2026-05-22T23:12:22.954073"
+  },
+  {
+    "transaction_id": "963283e2-8591-4060-b613-ebcd5c33873a",
+    "user_id": "77c6f941-f92d-4717-85c1-d6d0164be1de",
+    "amount": 4074.18,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Angela",
+    "timestamp": "2026-05-22T23:12:23.456355"
+  },
+  {
+    "transaction_id": "276f0bdf-a206-4881-8cc5-46f8a1de6ce4",
+    "user_id": "483a3fee-63bb-49c5-9e7f-e1ac43f22ebb",
+    "amount": 9447.95,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "East Amberborough",
+    "timestamp": "2026-05-22T23:12:23.957174"
+  }
+]

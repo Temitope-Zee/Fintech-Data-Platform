@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "8a7504e8-5265-4430-ac56-6a18d384af26",
+    "user_id": "19bbf55d-a17f-4fc7-aaef-ca2248eafa4e",
+    "amount": 911.73,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Chadburgh",
+    "timestamp": "2026-05-22T23:06:23.056298"
+  },
+  {
+    "transaction_id": "76518218-8024-43c6-b3e0-bde56735653d",
+    "user_id": "39b81ae0-5f8f-423b-a3ca-af4fda95651a",
+    "amount": 8856.48,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "New Jonathan",
+    "timestamp": "2026-05-22T23:06:23.558209"
+  },
+  {
+    "transaction_id": "90bbd047-70d8-4fe0-b1bc-800870a66a38",
+    "user_id": "03d6d98d-0e9b-4897-b564-99c65e961810",
+    "amount": 4769.12,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Tylermouth",
+    "timestamp": "2026-05-22T23:06:24.060187"
+  },
+  {
+    "transaction_id": "3d6be26c-c6ff-4f5c-8f63-afcaf86da85a",
+    "user_id": "84f029dd-beb4-4ac9-bcf1-15cba48f68a1",
+    "amount": 9123.33,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "West James",
+    "timestamp": "2026-05-22T23:06:24.561232"
+  },
+  {
+    "transaction_id": "bdf83cea-05ac-413c-8bba-9d3ec22f5bdb",
+    "user_id": "c5f5c992-bf00-4240-bcca-ff7f2f51aa8c",
+    "amount": 8195.94,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Perryton",
+    "timestamp": "2026-05-22T23:06:25.565272"
+  },
+  {
+    "transaction_id": "bb9de70a-c00c-4361-ab82-6643b6071eb5",
+    "user_id": "7c9936c8-c9ad-426b-92f6-4cc178ad7f61",
+    "amount": 6710.64,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Port Lynn",
+    "timestamp": "2026-05-22T23:06:26.067253"
+  },
+  {
+    "transaction_id": "50c25b65-7489-4e76-8fc6-1f0bc7b82a8b",
+    "user_id": "292ac3b5-25a8-48e6-9976-32bdb4286614",
+    "amount": 2195.19,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Ortizborough",
+    "timestamp": "2026-05-22T23:06:26.569591"
+  },
+  {
+    "transaction_id": "1998074a-501f-41b3-99cd-d914aff8aab0",
+    "user_id": "c8237544-9fe6-4b65-bc76-10accc6953a9",
+    "amount": 3553.51,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Ericaland",
+    "timestamp": "2026-05-22T23:06:27.071642"
+  },
+  {
+    "transaction_id": "08d4425c-8c07-4461-97ba-9555ee5d40d1",
+    "user_id": "d3fa74c2-1c31-4eb5-98c3-705a003c222a",
+    "amount": 1757.5,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Thompsonton",
+    "timestamp": "2026-05-22T23:06:27.569816"
+  },
+  {
+    "transaction_id": "463dc428-85cc-480a-ac91-84187c278be8",
+    "user_id": "be8fd3c4-fbf4-46fe-be2c-6d2b532fbec0",
+    "amount": 251.99,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Jennifermouth",
+    "timestamp": "2026-05-22T23:06:28.072420"
+  }
+]

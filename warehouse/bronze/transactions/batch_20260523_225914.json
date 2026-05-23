@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "0d3518d2-3c6b-4ca8-85cc-310eee6afeda",
+    "user_id": "44224942-529c-46ad-a6f8-93d824cbf7e1",
+    "amount": 197.66,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Stephanieburgh",
+    "timestamp": "2026-05-23T22:59:07.273049"
+  },
+  {
+    "transaction_id": "b7363c46-affc-499a-87ac-55fb91a506dd",
+    "user_id": "e97ac778-4ac3-4a2e-b732-450022c48af2",
+    "amount": 4321.06,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Castilloton",
+    "timestamp": "2026-05-23T22:59:08.277715"
+  },
+  {
+    "transaction_id": "ed33e9f3-0d18-4e8d-a4a4-cf74be7f6e40",
+    "user_id": "a7dd7686-2519-4b1c-b9e5-a34c6fed6372",
+    "amount": 9635.06,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Terriville",
+    "timestamp": "2026-05-23T22:59:09.283347"
+  },
+  {
+    "transaction_id": "cd0c05b1-ad98-4952-ba8c-328d969d1d5b",
+    "user_id": "76c10b7b-9bc1-4586-bd57-3a73a9d3dc9a",
+    "amount": 9166.43,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Kevinborough",
+    "timestamp": "2026-05-23T22:59:09.784767"
+  },
+  {
+    "transaction_id": "6beefe3a-043a-4054-9345-b9611d228ba6",
+    "user_id": "502ada15-0596-41d1-8242-506d572edc06",
+    "amount": 8185.53,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Linhaven",
+    "timestamp": "2026-05-23T22:59:10.286306"
+  },
+  {
+    "transaction_id": "fc9d34bb-e225-445f-b89f-08a318a9b832",
+    "user_id": "792cec4a-9790-4a40-bbe9-5d191a657b0f",
+    "amount": 4325.18,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake William",
+    "timestamp": "2026-05-23T22:59:11.793281"
+  },
+  {
+    "transaction_id": "bec8bc38-a49c-427c-b522-00203a2f5c7d",
+    "user_id": "f63ba11f-dd11-4b47-b63b-0efeaa1ddee2",
+    "amount": 703.58,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Caseystad",
+    "timestamp": "2026-05-23T22:59:12.295955"
+  },
+  {
+    "transaction_id": "4223d8da-b3f6-439f-b256-96a979208d55",
+    "user_id": "be7832d2-5018-4a83-b1e8-87eb6129b272",
+    "amount": 1714.11,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "Priceborough",
+    "timestamp": "2026-05-23T22:59:12.798518"
+  },
+  {
+    "transaction_id": "65c0cb72-c55b-462d-b8b6-87a2446da9da",
+    "user_id": "e41f56f6-15da-4dff-87fd-dfdf9ab028f7",
+    "amount": 9528.5,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Port Miguelchester",
+    "timestamp": "2026-05-23T22:59:13.796887"
+  },
+  {
+    "transaction_id": "79230cbf-8b1b-4f32-9638-4040c7df2aca",
+    "user_id": "f90b2e9c-cbf3-456b-8caa-9b7ad8ab8874",
+    "amount": 246.44,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Juliaburgh",
+    "timestamp": "2026-05-23T22:59:14.298633"
+  }
+]

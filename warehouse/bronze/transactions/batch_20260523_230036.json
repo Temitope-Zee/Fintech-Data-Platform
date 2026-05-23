@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "649e7b7c-45f6-4099-9fc9-755964c2eda6",
+    "user_id": "7ff1fd0c-33b2-4a94-98c5-cc8dd027c829",
+    "amount": 4514.41,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Johnsonview",
+    "timestamp": "2026-05-23T23:00:30.566522"
+  },
+  {
+    "transaction_id": "e8065eec-6ca2-4aef-b615-48ffe0680101",
+    "user_id": "657947ce-e7fa-413d-ade4-09029a4d7f54",
+    "amount": 4384.6,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Carterside",
+    "timestamp": "2026-05-23T23:00:32.073460"
+  },
+  {
+    "transaction_id": "9f4a1068-f9c8-40a9-951d-6173e72d16c0",
+    "user_id": "738b15a8-ba4b-4999-8bd1-0ee8c0d3ab58",
+    "amount": 702.65,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "South Donaldview",
+    "timestamp": "2026-05-23T23:00:32.574912"
+  },
+  {
+    "transaction_id": "46964a2c-c9c9-43c1-8d6d-aacd1073f92e",
+    "user_id": "3e79291a-73ed-457e-83ab-2e499563ea4d",
+    "amount": 3118.33,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Pettyfort",
+    "timestamp": "2026-05-23T23:00:33.076320"
+  },
+  {
+    "transaction_id": "ce404955-51bf-4259-9ae4-a7a9afca6503",
+    "user_id": "04c30d7c-f31c-4289-b8a1-a1538abd271a",
+    "amount": 1341.26,
+    "currency": "USD",
+    "merchant_category": "groceries",
+    "location": "Teresahaven",
+    "timestamp": "2026-05-23T23:00:33.577486"
+  },
+  {
+    "transaction_id": "ab2903ec-da8b-472f-9181-26b158579e08",
+    "user_id": "63f3368c-1f01-4dca-9336-d50f052c7e06",
+    "amount": 8776.11,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "North Keith",
+    "timestamp": "2026-05-23T23:00:34.080932"
+  },
+  {
+    "transaction_id": "fa79cc13-324e-42ab-b796-94ceb244c107",
+    "user_id": "70254c49-d70a-4f23-bdca-557c2a1ec710",
+    "amount": 8405.07,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "Kevinburgh",
+    "timestamp": "2026-05-23T23:00:34.581979"
+  },
+  {
+    "transaction_id": "7c848999-9878-496f-88d3-ef9e835b03e7",
+    "user_id": "0631596f-7550-4fbd-87ea-b15d3ad210eb",
+    "amount": 6255.19,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Garciaborough",
+    "timestamp": "2026-05-23T23:00:35.082908"
+  },
+  {
+    "transaction_id": "56242781-6b7a-4b18-9153-aebcd67f8e85",
+    "user_id": "d1208d91-892d-41b4-8e05-08d7c30c5983",
+    "amount": 891.25,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "Aguilarshire",
+    "timestamp": "2026-05-23T23:00:35.583974"
+  },
+  {
+    "transaction_id": "ae90243c-3132-4cc7-8d4b-4ba526a9c560",
+    "user_id": "70b327c8-addb-4770-b886-0197eb5889f4",
+    "amount": 141.29,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Normanville",
+    "timestamp": "2026-05-23T23:00:36.086026"
+  }
+]

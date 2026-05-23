@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "067404a3-f595-4ee2-8195-72f6dd51f5c1",
+    "user_id": "0b8c27b6-43d1-4dea-834b-72d76dac1f7d",
+    "amount": 7577.59,
+    "currency": "EUR",
+    "merchant_category": "travel",
+    "location": "Port Melinda",
+    "timestamp": "2026-05-23T22:59:02.253033"
+  },
+  {
+    "transaction_id": "b18ea0be-c424-4afb-b604-0c2277bb434d",
+    "user_id": "14417253-b6b5-4f01-b292-ea0fdc216b24",
+    "amount": 774.81,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Garyshire",
+    "timestamp": "2026-05-23T22:59:02.755060"
+  },
+  {
+    "transaction_id": "5bcf2f27-49fe-49e8-be01-3ad0bfaa9427",
+    "user_id": "c207f658-3a2c-4f80-b5fd-bacca84c38bd",
+    "amount": 5735.33,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Elliottside",
+    "timestamp": "2026-05-23T22:59:03.256043"
+  },
+  {
+    "transaction_id": "ce7a05b9-6733-4269-9eab-fa076fa2fd40",
+    "user_id": "9fda8745-cba6-4232-8950-61feca66c1e6",
+    "amount": 9079.65,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake Joshuamouth",
+    "timestamp": "2026-05-23T22:59:03.757282"
+  },
+  {
+    "transaction_id": "1faf9ece-6f45-4b05-b6b3-8ae03df9a1c1",
+    "user_id": "db2308d5-52ac-45b1-bd53-e8c6c6828837",
+    "amount": 2315.14,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Aliciastad",
+    "timestamp": "2026-05-23T22:59:04.260094"
+  },
+  {
+    "transaction_id": "628dcfe4-7977-4e9b-b5b6-2f957abe5073",
+    "user_id": "7f9cef52-3395-443d-b4ea-a089005b899b",
+    "amount": 4748.48,
+    "currency": "NGN",
+    "merchant_category": "groceries",
+    "location": "New Angelaville",
+    "timestamp": "2026-05-23T22:59:04.763144"
+  },
+  {
+    "transaction_id": "6a0a2589-68b2-4aae-bd39-04080f50b36c",
+    "user_id": "05b956e4-e49b-408c-9006-76b8ba33a795",
+    "amount": 2959.75,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "East Jill",
+    "timestamp": "2026-05-23T22:59:05.264793"
+  },
+  {
+    "transaction_id": "a968c938-bd37-46d8-bd8e-9fa8980c7748",
+    "user_id": "39934449-826e-4829-82f8-fff9892d82cf",
+    "amount": 2386.85,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "North Michelleview",
+    "timestamp": "2026-05-23T22:59:05.766357"
+  },
+  {
+    "transaction_id": "e8f9aad3-ff28-4c37-82b7-a29954bb8e4d",
+    "user_id": "bea59804-abb1-4549-9342-f1656a8945ea",
+    "amount": 2521.05,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Wareborough",
+    "timestamp": "2026-05-23T22:59:06.269100"
+  },
+  {
+    "transaction_id": "3dcd6cbc-b415-4d77-beb5-0d369d7da460",
+    "user_id": "8e64519e-6b59-456b-91ac-748335dcf1d7",
+    "amount": 6161.41,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Paynetown",
+    "timestamp": "2026-05-23T22:59:06.771403"
+  }
+]

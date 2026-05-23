@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a516ab15-c8c2-494e-a59e-9200d7cdf018",
+    "user_id": "feb923f9-6cf7-42bf-bc83-02e75c7dae46",
+    "amount": 3060.64,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "West Jasonport",
+    "timestamp": "2026-05-23T23:00:42.609223"
+  },
+  {
+    "transaction_id": "03c4954c-64b2-4284-adf1-c1641b0beb6e",
+    "user_id": "9fdf25f6-db6f-47a1-a36c-14d0d2cb8e3d",
+    "amount": 6999.0,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Ryanstad",
+    "timestamp": "2026-05-23T23:00:43.110561"
+  },
+  {
+    "transaction_id": "d75dd90e-d2f0-4ba4-8671-073c36183052",
+    "user_id": "ab7afd1b-3bdd-40ad-bd4d-58d9e71be2ac",
+    "amount": 3154.37,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Kendrastad",
+    "timestamp": "2026-05-23T23:00:43.608847"
+  },
+  {
+    "transaction_id": "d1a31bf5-8df5-48a3-b7b8-6a44f8993813",
+    "user_id": "53ed8529-554f-4999-aabe-b7a2bded4500",
+    "amount": 1054.2,
+    "currency": "JPY",
+    "merchant_category": "utilities",
+    "location": "Brownside",
+    "timestamp": "2026-05-23T23:00:44.111764"
+  },
+  {
+    "transaction_id": "869952fe-3b9a-4354-8f35-bddd81c82ff2",
+    "user_id": "809e27eb-24e8-4ab1-b651-e403b3b2c95d",
+    "amount": 7565.17,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "West Frank",
+    "timestamp": "2026-05-23T23:00:44.613143"
+  },
+  {
+    "transaction_id": "d53a6663-9835-4d54-9c5f-afdb282bee7c",
+    "user_id": "b8abd8a1-7e97-4432-bd35-6f4f710f41eb",
+    "amount": 6244.05,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "New Danielport",
+    "timestamp": "2026-05-23T23:00:45.114711"
+  },
+  {
+    "transaction_id": "e8a71dde-62e2-4017-a488-6f5f45a3ac4d",
+    "user_id": "b48fe71f-cbb9-4d8c-bc0b-b7b0353e2a01",
+    "amount": 8676.94,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "North Jon",
+    "timestamp": "2026-05-23T23:00:45.616289"
+  },
+  {
+    "transaction_id": "4e45c247-e69e-4a1d-8ea6-a4ed9aea6180",
+    "user_id": "51012f83-4ee1-4a8d-9eea-0495b269eee8",
+    "amount": 8425.79,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "South Ryanbury",
+    "timestamp": "2026-05-23T23:00:46.117412"
+  },
+  {
+    "transaction_id": "af818b22-baa9-4b43-8bdc-88ec826e54d4",
+    "user_id": "d4cee95c-7b4e-4d85-9d66-81b6736b5be6",
+    "amount": 9682.28,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Skinnershire",
+    "timestamp": "2026-05-23T23:00:46.618734"
+  },
+  {
+    "transaction_id": "104b7271-5118-4f89-9480-6bd0ace66153",
+    "user_id": "1ab1c9ec-bda8-424f-aa6f-9bd5c610cd70",
+    "amount": 8084.82,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "Lake Ryanside",
+    "timestamp": "2026-05-23T23:00:47.120715"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "a8d56d11-cf3e-45ad-a8a2-dd3188feaca3",
+    "user_id": "f99840b8-e60c-488b-8d15-f6e6b75b0465",
+    "amount": 7017.05,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Mooreton",
+    "timestamp": "2026-05-22T23:07:14.750097"
+  },
+  {
+    "transaction_id": "2f8861a7-96b1-48c1-b9f0-5ac6c5f715ed",
+    "user_id": "2dedcb28-cc55-454b-bcce-5201a52c101f",
+    "amount": 1935.21,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Jamesfort",
+    "timestamp": "2026-05-22T23:07:15.252858"
+  },
+  {
+    "transaction_id": "538550f9-a3ba-475b-8ac9-e6ecdb291e4a",
+    "user_id": "3299eabc-7529-4b90-8d2c-67cc8c6a5a2f",
+    "amount": 8748.93,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "South Rhonda",
+    "timestamp": "2026-05-22T23:07:15.755504"
+  },
+  {
+    "transaction_id": "f0f20757-479e-4491-9328-2d4afd95f74d",
+    "user_id": "2603b4cb-2642-4187-a5d5-31e7863659ae",
+    "amount": 4069.24,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Ericfurt",
+    "timestamp": "2026-05-22T23:07:16.256928"
+  },
+  {
+    "transaction_id": "f56b9384-3747-4dce-8384-bf03dfc70be2",
+    "user_id": "85c44b8c-6135-4785-aa90-926127686412",
+    "amount": 8086.61,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Michaelfort",
+    "timestamp": "2026-05-22T23:07:17.260971"
+  },
+  {
+    "transaction_id": "ebef12ac-32d0-4e69-9aaa-2103aa8fbc9f",
+    "user_id": "51428bd3-cf03-4af6-931d-04d853f48b79",
+    "amount": 727.44,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "North Jenniferport",
+    "timestamp": "2026-05-22T23:07:17.762343"
+  },
+  {
+    "transaction_id": "1f16cd47-2cc0-4aed-864e-db01ac1fea6f",
+    "user_id": "eb7f24a4-3c04-4e64-82e9-349854a8415f",
+    "amount": 8213.19,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "Angelahaven",
+    "timestamp": "2026-05-22T23:07:18.264630"
+  },
+  {
+    "transaction_id": "847c92f0-1c34-4d2a-afa9-e27efb6f5d4f",
+    "user_id": "13acf879-5393-4fcc-8878-c41379dc838d",
+    "amount": 6633.78,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Moranborough",
+    "timestamp": "2026-05-22T23:07:19.770252"
+  },
+  {
+    "transaction_id": "1db323de-26cf-4d75-8148-71ead9874326",
+    "user_id": "f651bfdf-1ca4-493d-a680-2ae10be488c2",
+    "amount": 968.13,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Stewartburgh",
+    "timestamp": "2026-05-22T23:07:20.271684"
+  },
+  {
+    "transaction_id": "dbb0cb53-ac00-4960-bb6f-d013e66a85b9",
+    "user_id": "ce86b7db-d67d-41a2-bf70-0af6930e8f0c",
+    "amount": 6336.81,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Mikestad",
+    "timestamp": "2026-05-22T23:07:22.279688"
+  }
+]

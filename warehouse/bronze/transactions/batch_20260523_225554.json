@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "81c76ca5-86df-4037-bd86-34bfca57d5ce",
+    "user_id": "6eb8c662-3fc0-4a52-ae54-8372d38562a0",
+    "amount": 8063.45,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "Baileybury",
+    "timestamp": "2026-05-23T22:55:48.032691"
+  },
+  {
+    "transaction_id": "c0967d91-aa2c-4a9d-b2b3-fe357da3e863",
+    "user_id": "b7755e88-371e-4a58-be20-b5d0488ef7e1",
+    "amount": 6823.2,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Rickeyfort",
+    "timestamp": "2026-05-23T22:55:49.035816"
+  },
+  {
+    "transaction_id": "6ec70b1a-e113-4433-badd-d68912bf32d1",
+    "user_id": "27ef3d7c-90cf-4603-b0b5-ad69163821ec",
+    "amount": 6457.21,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North Matthew",
+    "timestamp": "2026-05-23T22:55:50.039882"
+  },
+  {
+    "transaction_id": "225aee2c-87ca-4ff9-8a4a-ac732984e111",
+    "user_id": "ceebc4e9-ea6b-49b0-88a3-59f27a674b0c",
+    "amount": 5975.43,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Port Samuelhaven",
+    "timestamp": "2026-05-23T22:55:51.043472"
+  },
+  {
+    "transaction_id": "946a6d17-55dc-4d6b-aed9-cdd42d197022",
+    "user_id": "3dd9523c-05c0-4a8f-88f9-23e2a51e2736",
+    "amount": 8805.96,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Stevenmouth",
+    "timestamp": "2026-05-23T22:55:51.545530"
+  },
+  {
+    "transaction_id": "fa8cd14a-4292-4e3b-b758-56c476b3c521",
+    "user_id": "aaa7a8be-460e-45e9-a9b7-d3a5af129dc8",
+    "amount": 8679.06,
+    "currency": "JPY",
+    "merchant_category": "groceries",
+    "location": "North Ethan",
+    "timestamp": "2026-05-23T22:55:52.048198"
+  },
+  {
+    "transaction_id": "36ba5f0c-2a61-48a5-8724-29b7ebe1aaf3",
+    "user_id": "11a5ef7a-bb5e-4494-9c66-902df3f80296",
+    "amount": 4041.23,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Lake Saraberg",
+    "timestamp": "2026-05-23T22:55:52.549747"
+  },
+  {
+    "transaction_id": "a68c9ca7-e93a-4d25-9a80-2a3af2a23a25",
+    "user_id": "1116db00-fc41-461e-8af8-a4c1974a9481",
+    "amount": 1969.5,
+    "currency": "NGN",
+    "merchant_category": "travel",
+    "location": "Lake Anthony",
+    "timestamp": "2026-05-23T22:55:53.052257"
+  },
+  {
+    "transaction_id": "cb26d1e2-7537-444e-a5b1-747ba4fbc4ef",
+    "user_id": "7ab79813-b44b-4a3e-bee8-8e3508f52805",
+    "amount": 5888.57,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "Wyattville",
+    "timestamp": "2026-05-23T22:55:53.553836"
+  },
+  {
+    "transaction_id": "f3316b2a-f649-43d8-a042-f0f0d18ef19c",
+    "user_id": "ba129211-bf13-4eae-bb2d-782d525bfd7c",
+    "amount": 904.64,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Sheilaburgh",
+    "timestamp": "2026-05-23T22:55:54.055262"
+  }
+]

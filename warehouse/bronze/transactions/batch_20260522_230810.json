@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "b6484732-6455-40bb-9235-8d2163815431",
+    "user_id": "0ebbf1d8-24e9-4e87-81bd-7d3089b19fc2",
+    "amount": 4060.61,
+    "currency": "GBP",
+    "merchant_category": "travel",
+    "location": "Joanport",
+    "timestamp": "2026-05-22T23:08:05.941657"
+  },
+  {
+    "transaction_id": "2793733f-1dc2-4b23-bf82-f54c0a7adbf2",
+    "user_id": "969c237b-5e55-428c-9896-3f518268554c",
+    "amount": 4294.18,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "East Julie",
+    "timestamp": "2026-05-22T23:08:06.442719"
+  },
+  {
+    "transaction_id": "75f3e87f-7e75-4893-8d09-6b9cfbadee6c",
+    "user_id": "8ecd5d0e-6f6c-467f-a809-4ab41344b32a",
+    "amount": 6095.63,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "Harriston",
+    "timestamp": "2026-05-22T23:08:06.944521"
+  },
+  {
+    "transaction_id": "ff121730-b7f5-429b-9cd4-0da0c2b61744",
+    "user_id": "7de63141-f28f-4f33-ae74-0407703407a4",
+    "amount": 7377.17,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "Heidiview",
+    "timestamp": "2026-05-22T23:08:07.446771"
+  },
+  {
+    "transaction_id": "02ed7efc-18a8-4959-b28a-b622ca430608",
+    "user_id": "d2533307-9c1c-42bb-98b3-e4d9e292c1a0",
+    "amount": 286.89,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Kennethborough",
+    "timestamp": "2026-05-22T23:08:07.948554"
+  },
+  {
+    "transaction_id": "8344e5a3-38a9-453a-93fe-a8f53a45c0fa",
+    "user_id": "e0884998-25c0-4d53-bea0-f51c7472d6fb",
+    "amount": 485.11,
+    "currency": "GBP",
+    "merchant_category": "utilities",
+    "location": "Stanleyshire",
+    "timestamp": "2026-05-22T23:08:08.449969"
+  },
+  {
+    "transaction_id": "87540dc6-99c4-4574-bf83-c14968da752c",
+    "user_id": "a0ce25c4-0902-4072-8b1f-906f7e5d0a93",
+    "amount": 4649.92,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "North Linda",
+    "timestamp": "2026-05-22T23:08:08.953282"
+  },
+  {
+    "transaction_id": "3dfc26cb-0540-411b-a568-5e1961b0b00c",
+    "user_id": "0900a8b0-3c7f-4d09-a0d7-ac502ead92af",
+    "amount": 9493.98,
+    "currency": "GBP",
+    "merchant_category": "electronics",
+    "location": "Port Catherine",
+    "timestamp": "2026-05-22T23:08:09.454599"
+  },
+  {
+    "transaction_id": "733d0fe2-af15-45ba-9eda-fdc1f4b2a552",
+    "user_id": "69d1549e-dbec-4bc2-8553-6e8af93f7258",
+    "amount": 5363.53,
+    "currency": "NGN",
+    "merchant_category": "electronics",
+    "location": "North James",
+    "timestamp": "2026-05-22T23:08:09.956208"
+  },
+  {
+    "transaction_id": "fe3d03dc-8e56-4bf1-a47c-3c2323896151",
+    "user_id": "9b0bb734-760d-404d-b8f0-9e6333bb7e4c",
+    "amount": 8218.49,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Janeville",
+    "timestamp": "2026-05-22T23:08:10.459178"
+  }
+]

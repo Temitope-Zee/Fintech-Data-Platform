@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "35bb4fa9-c2bd-4a75-b57a-0319187af92d",
+    "user_id": "0bbfa9f7-154e-4aa9-9eb4-df778920ec90",
+    "amount": 8234.39,
+    "currency": "USD",
+    "merchant_category": "travel",
+    "location": "Port Bruce",
+    "timestamp": "2026-05-22T23:16:27.417623"
+  },
+  {
+    "transaction_id": "cd33e824-961e-4ee2-b740-0dfbb84bff08",
+    "user_id": "5019e955-4d58-4ef4-8b9c-3cd513f87684",
+    "amount": 620.09,
+    "currency": "EUR",
+    "merchant_category": "groceries",
+    "location": "New Scott",
+    "timestamp": "2026-05-22T23:16:27.919782"
+  },
+  {
+    "transaction_id": "40d69fc0-4417-495a-8969-59185177c7e1",
+    "user_id": "d31c6c23-510e-49ec-8f93-93a521447657",
+    "amount": 9316.17,
+    "currency": "EUR",
+    "merchant_category": "utilities",
+    "location": "East Austin",
+    "timestamp": "2026-05-22T23:16:28.422180"
+  },
+  {
+    "transaction_id": "45387bfb-7e58-40ec-9cbe-30600f7d268d",
+    "user_id": "ed289f59-68b0-46d9-b30f-3bb958385799",
+    "amount": 8702.38,
+    "currency": "GBP",
+    "merchant_category": "groceries",
+    "location": "North Jenniferside",
+    "timestamp": "2026-05-22T23:16:28.923384"
+  },
+  {
+    "transaction_id": "4059776d-3870-40f8-b045-2d074443ac28",
+    "user_id": "1fbfb00c-8972-4220-a677-55efeaa65e74",
+    "amount": 8463.15,
+    "currency": "USD",
+    "merchant_category": "dining",
+    "location": "Kylemouth",
+    "timestamp": "2026-05-22T23:16:29.425111"
+  },
+  {
+    "transaction_id": "75444c6f-6dc4-4f4d-80f5-ec37cb804f43",
+    "user_id": "39113b6b-f1f5-4d05-a3aa-ce115c5f0a8e",
+    "amount": 2053.41,
+    "currency": "USD",
+    "merchant_category": "electronics",
+    "location": "North Nicholas",
+    "timestamp": "2026-05-22T23:16:29.927875"
+  },
+  {
+    "transaction_id": "5db1032b-4675-4276-a853-9ff3af7a1ed6",
+    "user_id": "cb1d9f0b-86af-4de8-91e3-3f82c89a868f",
+    "amount": 3806.49,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Lake William",
+    "timestamp": "2026-05-22T23:16:30.430738"
+  },
+  {
+    "transaction_id": "470232fe-855c-4d80-9147-a0923bc6f31f",
+    "user_id": "423699c7-afdc-4c19-9ba9-f4af57932ac1",
+    "amount": 4150.91,
+    "currency": "GBP",
+    "merchant_category": "dining",
+    "location": "Hendricksstad",
+    "timestamp": "2026-05-22T23:16:30.932261"
+  },
+  {
+    "transaction_id": "678117b5-d890-4061-af08-c46e055064e7",
+    "user_id": "2d6d82e9-97e1-417b-901b-8b42ced45340",
+    "amount": 4611.15,
+    "currency": "NGN",
+    "merchant_category": "dining",
+    "location": "New Williamborough",
+    "timestamp": "2026-05-22T23:16:31.433869"
+  },
+  {
+    "transaction_id": "88479b43-d392-45a6-aaf7-34d4bc8f4e5d",
+    "user_id": "a0bcb0e4-dbb3-49d1-9a67-04c6df84de80",
+    "amount": 7853.66,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Brownhaven",
+    "timestamp": "2026-05-22T23:16:31.936171"
+  }
+]

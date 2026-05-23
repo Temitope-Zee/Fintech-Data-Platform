@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "14c31d5e-1cec-4359-af4d-2a775862ad4c",
+    "user_id": "1fc122b9-a5cf-4e06-a3f8-64ff62805ad2",
+    "amount": 6824.49,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "North Shelleytown",
+    "timestamp": "2026-05-22T23:18:18.369086"
+  },
+  {
+    "transaction_id": "d47964d8-a50c-4544-a1f4-7738b0632839",
+    "user_id": "746a2c0f-b2fd-44e8-b028-c0596351517c",
+    "amount": 2634.59,
+    "currency": "EUR",
+    "merchant_category": "electronics",
+    "location": "Mckenziefurt",
+    "timestamp": "2026-05-22T23:18:18.870336"
+  },
+  {
+    "transaction_id": "3a2e469f-43fa-45b0-a598-d9f405cc4f5f",
+    "user_id": "101eb8dc-5923-42c6-8f7b-f35196179e88",
+    "amount": 9137.93,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Port Christinetown",
+    "timestamp": "2026-05-22T23:18:19.872931"
+  },
+  {
+    "transaction_id": "b1aee9d5-74dd-4615-8fae-dad17c6332ba",
+    "user_id": "7b4a895a-9971-4771-a27c-d621a6899f3f",
+    "amount": 9125.15,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "North Jefferyhaven",
+    "timestamp": "2026-05-22T23:18:20.876223"
+  },
+  {
+    "transaction_id": "d9fa3368-b2c4-4360-b201-ab02cfc8e62d",
+    "user_id": "625897f0-c3fa-4f2c-92a9-9cdbf19e577f",
+    "amount": 3586.39,
+    "currency": "EUR",
+    "merchant_category": "dining",
+    "location": "Lake Lindsayland",
+    "timestamp": "2026-05-22T23:18:21.880766"
+  },
+  {
+    "transaction_id": "f56b3a78-7be0-4e9b-8ef4-3a979bfbb268",
+    "user_id": "d7d97758-48e2-445d-95e3-4e1ab979dddd",
+    "amount": 3273.85,
+    "currency": "JPY",
+    "merchant_category": "dining",
+    "location": "Mendezland",
+    "timestamp": "2026-05-22T23:18:22.383377"
+  },
+  {
+    "transaction_id": "ec143f92-4a53-4e57-a289-b700bea9dd0f",
+    "user_id": "074c335b-daef-4d25-a27b-1a0366a503fc",
+    "amount": 8363.09,
+    "currency": "NGN",
+    "merchant_category": "utilities",
+    "location": "Fischerberg",
+    "timestamp": "2026-05-22T23:18:22.886485"
+  },
+  {
+    "transaction_id": "a1cb17f5-9564-41ee-8a3c-82c924f737ae",
+    "user_id": "ea961c41-8fd4-4263-be51-700d8619b361",
+    "amount": 4704.87,
+    "currency": "JPY",
+    "merchant_category": "electronics",
+    "location": "Esteston",
+    "timestamp": "2026-05-22T23:18:23.389239"
+  },
+  {
+    "transaction_id": "81c7f29e-7964-4f12-99c6-3785ec7adcbd",
+    "user_id": "149e8512-b36e-4905-8c76-39b80c206ef0",
+    "amount": 6845.84,
+    "currency": "USD",
+    "merchant_category": "utilities",
+    "location": "West Meredith",
+    "timestamp": "2026-05-22T23:18:23.890572"
+  },
+  {
+    "transaction_id": "346b2a53-9360-469f-a875-20e9396c746e",
+    "user_id": "f59599fb-ea96-4fbf-bc77-832b00ca20bd",
+    "amount": 5791.23,
+    "currency": "JPY",
+    "merchant_category": "travel",
+    "location": "Torrestown",
+    "timestamp": "2026-05-22T23:18:24.393779"
+  }
+]
